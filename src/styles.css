@@ -29,7 +29,7 @@ button { cursor: pointer; }
 
 .top { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding: 4px 0 8px; }
 .brand { display: flex; align-items: baseline; gap: 8px; }
-.brand .mark { font-size: 20px; }
+.brand .mark { width: 26px; height: 26px; align-self: center; border-radius: 6px; }
 .brand .name { font-weight: 700; font-size: 17px; }
 select { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; max-width: 100%; }
 .tabs { display: flex; border-bottom: 1px solid var(--line); margin-bottom: 14px; overflow-x: auto; }
@@ -107,3 +107,10 @@ td a { text-decoration: none; font-weight: 600; }
 .match-head .team { display: flex; align-items: center; gap: 6px; }
 .match-head .team.away { justify-content: flex-end; text-align: right; }
 a.with-logo { display: inline-flex; align-items: center; gap: 8px; }
+
+.lineup-list { list-style: none; margin: 8px 0; padding: 0; }
+.lineup-list li { display: flex; align-items: center; gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.lineup-list li:last-child { border-bottom: 0; }
+.lineup-list .pos { flex: none; width: 26px; height: 26px; border-radius: 50%; background: var(--accent); color: var(--on-accent); font-weight: 700; font-size: 13px; display: inline-flex; align-items: center; justify-content: center; }
+.lineup-list .who { font-weight: 600; flex: 1 1 180px; }
+.lineup .row.between { margin: 8px 0 0; }

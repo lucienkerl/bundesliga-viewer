@@ -14,7 +14,7 @@ import { renderTable } from './views/table';
 import { renderTeams } from './views/teams';
 
 const app = document.getElementById('app')!;
-const ui: UiState = { open: new Set(), setlistView: 'cmp', lineupMode: 'auto', picks: new Map() };
+const ui: UiState = { open: new Set(), setlistView: 'cmp', lineupMode: 'auto', lineupSort: 'official', picks: new Map() };
 let index: DataIndex;
 let route: Route = DEFAULT_ROUTE;
 let data: LeagueData | null = null;
@@ -77,7 +77,7 @@ function header(): string {
   const tab = (v: View) =>
     `<a class="tab ${route.view === v ? 'on' : ''}" href="${buildHash({ ...route, view: v, param: null })}">${de.tabs[v]}</a>`;
   return `<header class="top">
-    <div class="brand"><span class="mark" aria-hidden="true">◎</span><span class="name">${de.appName}</span><span class="dim">${de.season}</span></div>
+    <div class="brand"><img class="mark" src="${import.meta.env.BASE_URL}favicon.svg" alt="" width="26" height="26"><span class="name">${de.appName}</span><span class="dim">${de.season}</span></div>
     <label class="league-pick"><span class="sr-only">Liga</span><select data-action="league">${groups}</select></label>
   </header>
   <nav class="tabs">${tab('tage')}${tab('tabelle')}${tab('teams')}</nav>`;
@@ -123,6 +123,8 @@ app.addEventListener('click', (ev) => {
     return;
   } else if (action === 'sv') {
     ui.setlistView = value as UiState['setlistView'];
+  } else if (action === 'ls') {
+    ui.lineupSort = value as UiState['lineupSort'];
   } else if (action === 'lu') {
     ui.lineupMode = value as UiState['lineupMode'];
   } else if (action === 'pick' && key && name && data) {

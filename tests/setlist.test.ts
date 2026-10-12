@@ -90,6 +90,15 @@ describe('lineup', () => {
     expect(check.order.map((e) => e.name)).toEqual(['Goberville, Sandrine', 'Reitz, Florian', 'Miklis, André', 'Schmidt, Florian Daniel', 'Kerl, Lucien']);
   });
 
+  it('can order the same lineup by the calculated average and reports the difference', () => {
+    const chosen = ['Kerl, Lucien', 'Schmidt, Florian Daniel', 'Miklis, André', 'Reitz, Florian', 'Goberville, Sandrine'];
+    const check = checkLineup(setlist, chosen, 'calculated');
+    expect(check.order.map((e) => e.name)).toEqual(['Schmidt, Florian Daniel', 'Kerl, Lucien', 'Reitz, Florian', 'Goberville, Sandrine', 'Miklis, André']);
+    expect(check.differsFromOfficial).toBe(true);
+    expect(checkLineup(setlist, chosen, 'official').differsFromOfficial).toBe(false);
+    expect(check.errors).toEqual([]);
+  });
+
   it('rejects two foreign shooters and wrong team size', () => {
     const check = checkLineup(setlist, ['Goberville, Celine', 'Goberville, Sandrine', 'Reitz, Florian']);
     expect(check.errors).toHaveLength(2);

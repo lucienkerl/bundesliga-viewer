@@ -3,12 +3,15 @@ import type { Route } from '../lib/route';
 
 export type SetlistView = 'cmp' | 'off' | 'calc';
 export type LineupMode = 'auto' | 'pick';
+export type LineupSort = 'official' | 'calculated';
 
 export interface UiState {
   /** Keys ("day-venue-match") of expanded match cards. */
   open: Set<string>;
   setlistView: SetlistView;
   lineupMode: LineupMode;
+  /** Sort order of the chosen lineup. */
+  lineupSort: LineupSort;
   /** Chosen lineup per "<league>|<team>". */
   picks: Map<string, string[]>;
 }

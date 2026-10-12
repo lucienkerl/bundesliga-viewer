@@ -94,29 +94,44 @@ function renderSetlistSection(team: Team, ctx: ViewContext): string {
 function renderLineup(team: Team, rows: SeedingRow[], ctx: ViewContext): string {
   const setlist = team.setlist!;
   const mode = ctx.ui.lineupMode;
+  const sort = ctx.ui.lineupSort;
   const key = `${leagueId(ctx.route)}|${team.name}`;
   const picks = ctx.ui.picks.get(key) ?? lastLineup(ctx.data, team.name);
   const seg = (['auto', 'pick'] as const)
     .map((m) => `<button class="seg ${mode === m ? 'on' : ''}" data-action="lu" data-value="${m}">${de.lineup[m]}</button>`)
     .join('');
-  const chip = (name: string, foreign: string | null, i: number) =>
-    `<span class="chip static">${i} ${esc(name)}${foreign ? ' (A)' : ''}</span>`;
+  const sortSeg = (['official', 'calculated'] as const)
+    .map((o) => `<button class="seg ${sort === o ? 'on' : ''}" data-action="ls" data-value="${o}">${de.lineup.sort[o]}</button>`)
+    .join('');
+  const byName = new Map(rows.map((r) => [r.name, r]));
+
+  /** One line per shooter with the lineup position. */
+  const list = (entries: { name: string; foreign: string | null }[]) =>
+    `<ol class="lineup-list">${entries
+      .map((e, i) => {
+        const r = byName.get(e.name);
+        return `<li><span class="pos">${i + 1}</span><span class="who">${esc(e.name)}${foreignTag(e.foreign)}</span><span class="muted">${r ? esc(de.lineup.rankInfo(r.officialRank, r.calculatedRank)) : ''}${r && !r.noBasis ? ` · Ø ${avg(r.average)}` : ''}</span></li>`;
+      })
+      .join('')}</ol>`;
 
   let content: string;
   if (mode === 'auto') {
-    const best = suggestLineup(rows);
-    content = `<div class="chips">${best.map((r, i) => chip(r.name, r.foreign, i + 1)).join('')}</div><p class="muted">${de.lineup.autoNote}</p>`;
+    content = `${list(suggestLineup(rows))}<p class="muted">${de.lineup.autoNote}</p>`;
   } else {
-    const check = checkLineup(setlist, picks);
+    const check = checkLineup(setlist, picks, sort);
     const choices = setlist.entries
       .map((e) => `<button class="chip pick ${picks.includes(e.name) ? 'on' : ''}" data-action="pick" data-name="${esc(e.name)}" data-key="${esc(key)}">${esc(e.name)}${e.foreign ? ' (A)' : ''}</button>`)
       .join('');
-    const errors = check.errors.length
-      ? check.errors.map((e) => `<span class="tag warn">${esc(e)}</span>`).join(' ')
-      : `<span class="tag ok">${de.lineup.ok}</span>`;
-    content = `<div class="chips">${choices}</div><p class="muted">${de.lineup.pickNote}</p>
-      <div class="chips">${check.order.length ? check.order.map((e, i) => chip(e.name, e.foreign, i + 1)).join('') : `<span class="muted">${de.lineup.nobody}</span>`}</div>
-      <div class="chips">${errors}</div>`;
+    const flags = [
+      ...check.errors.map((e) => `<span class="tag warn">${esc(e)}</span>`),
+      ...(sort === 'calculated' && check.differsFromOfficial ? [`<span class="tag info">${de.lineup.differs}</span>`] : []),
+    ];
+    if (!check.errors.length) flags.unshift(`<span class="tag ok">${de.lineup.ok}</span>`);
+    content = `<p class="muted">${de.lineup.pickNote}</p><div class="chips">${choices}</div>
+      <div class="row between"><span class="muted">${de.lineup.sortLabel}</span><div class="segs">${sortSeg}</div></div>
+      <p class="muted">${de.lineup.orderNote[sort]}</p>
+      ${check.order.length ? list(check.order) : `<p class="muted">${de.lineup.nobody}</p>`}
+      <div class="chips">${flags.join(' ')}</div>`;
   }
   return `<section class="card pad lineup"><div class="row between"><h3>${de.lineup.title}</h3><div class="segs">${seg}</div></div>${content}</section>`;
 }
