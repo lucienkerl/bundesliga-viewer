@@ -1,0 +1,5653 @@
+{
+ "league": {
+  "id": "luftgewehr/2-bl-west",
+  "discipline": "luftgewehr",
+  "slug": "2-bl-west",
+  "name": "2. BL West",
+  "url": "https://bundesliga.dsb.de/luftgewehr/2-bl-west"
+ },
+ "table": [
+  {
+   "rank": 1,
+   "team": "SSV St. Hubertus Elsen II",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 2,
+   "team": "BSV Buer-Bülse II",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 3,
+   "team": "SSGem Kevelaer 2005 e.V.",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 4,
+   "team": "SGes Heepen",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 5,
+   "team": "SV Steinbach",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 6,
+   "team": "SV Petersberg",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 7,
+   "team": "SV Stärklos",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 8,
+   "team": "PSS Inden/Altdorf",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  }
+ ],
+ "matchDays": [
+  {
+   "number": 1,
+   "date": "2026-10-18",
+   "venues": [
+    {
+     "host": "BSV Buer-Bülse II",
+     "hall": "MEC Shooting Center",
+     "street": "Hannöversche Str. 20a",
+     "city": "44143 Dortmund",
+     "phone": null,
+     "referee": "Bublitz, Werner",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "BSV Buer-Bülse II",
+       "away": "PSS Inden/Altdorf",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SV Steinbach",
+       "away": "SV Stärklos",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SV Petersberg",
+     "hall": "Schützenhaus Petersberg",
+     "street": "Am Pfaffenpfad 11",
+     "city": "36100 Petersberg",
+     "phone": null,
+     "referee": "Bauscher, Werner",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SV Petersberg",
+       "away": "SGes Heepen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SSGem Kevelaer 2005 e.V.",
+       "away": "SSV St. Hubertus Elsen II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "date": "2026-10-18",
+   "venues": [
+    {
+     "host": "BSV Buer-Bülse II",
+     "hall": "MEC Shooting Center",
+     "street": "Hannöversche Str. 20a",
+     "city": "44143 Dortmund",
+     "phone": null,
+     "referee": "Bublitz, Werner",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "PSS Inden/Altdorf",
+       "away": "SV Stärklos",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "BSV Buer-Bülse II",
+       "away": "SV Steinbach",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SV Petersberg",
+     "hall": "Schützenhaus Petersberg",
+     "street": "Am Pfaffenpfad 11",
+     "city": "36100 Petersberg",
+     "phone": null,
+     "referee": "Bauscher, Werner",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SGes Heepen",
+       "away": "SSV St. Hubertus Elsen II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SV Petersberg",
+       "away": "SSGem Kevelaer 2005 e.V.",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "date": "2026-11-08",
+   "venues": [
+    {
+     "host": "SSGem Kevelaer 2005 e.V.",
+     "hall": "Rudi-Joosten-Schießsportzentrum",
+     "street": "Hüls 11",
+     "city": "47623 Kevelaer",
+     "phone": null,
+     "referee": "Pohl, Hans",
+     "matches": [
+      {
+       "number": 1,
+       "time": "11:00",
+       "home": "BSV Buer-Bülse II",
+       "away": "SV Stärklos",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "13:00",
+       "home": "SSGem Kevelaer 2005 e.V.",
+       "away": "SGes Heepen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SSV St. Hubertus Elsen II",
+     "hall": "Schießsportzentrum Elsen",
+     "street": "Am Mühlenteich 10a",
+     "city": "33106 Paderborn",
+     "phone": null,
+     "referee": "Tacke, Klaus",
+     "matches": [
+      {
+       "number": 1,
+       "time": "11:00",
+       "home": "SV Steinbach",
+       "away": "PSS Inden/Altdorf",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "13:00",
+       "home": "SSV St. Hubertus Elsen II",
+       "away": "SV Petersberg",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "date": "2026-12-06",
+   "venues": [
+    {
+     "host": "SV Stärklos",
+     "hall": "Schützenhaus SV Stärklos",
+     "street": "An der Lieth 11",
+     "city": "36166 Haunetal",
+     "phone": "06673 1792",
+     "referee": "Lenker, Olaf",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SV Stärklos",
+       "away": "SSV St. Hubertus Elsen II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SSGem Kevelaer 2005 e.V.",
+       "away": "SV Steinbach",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SGes Heepen",
+     "hall": "Schützenberg Heepen",
+     "street": "Salzufler Str. 108a",
+     "city": "33719 Bielefeld",
+     "phone": null,
+     "referee": "Kindler, Michael",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SGes Heepen",
+       "away": "PSS Inden/Altdorf",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "BSV Buer-Bülse II",
+       "away": "SV Petersberg",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "date": "2026-12-06",
+   "venues": [
+    {
+     "host": "SV Stärklos",
+     "hall": "Schützenhaus SV Stärklos",
+     "street": "An der Lieth 11",
+     "city": "36166 Haunetal",
+     "phone": "06673 1792",
+     "referee": "Lenker, Olaf",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SV Steinbach",
+       "away": "SSV St. Hubertus Elsen II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SSGem Kevelaer 2005 e.V.",
+       "away": "SV Stärklos",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SGes Heepen",
+     "hall": "Schützenberg Heepen",
+     "street": "Salzufler Str. 108a",
+     "city": "33719 Bielefeld",
+     "phone": null,
+     "referee": "Kindler, Michael",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "PSS Inden/Altdorf",
+       "away": "SV Petersberg",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SGes Heepen",
+       "away": "BSV Buer-Bülse II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "date": "2027-01-17",
+   "venues": [
+    {
+     "host": "PSS Inden/Altdorf",
+     "hall": "Walther Schiesssportcenter",
+     "street": "Merödgener Straße 37",
+     "city": "52459 Inden/Altdorf",
+     "phone": null,
+     "referee": "Pfaffenberger, Wolfgang",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "PSS Inden/Altdorf",
+       "away": "SSV St. Hubertus Elsen II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "BSV Buer-Bülse II",
+       "away": "SSGem Kevelaer 2005 e.V.",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SV Steinbach",
+     "hall": "Schützenverein Hubertus Steinbach e.V.",
+     "street": "Mittelstraße 25",
+     "city": "36151 Burghaun",
+     "phone": null,
+     "referee": "Lenker, Olaf",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SV Steinbach",
+       "away": "SV Petersberg",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SV Stärklos",
+       "away": "SGes Heepen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "date": "2027-01-17",
+   "venues": [
+    {
+     "host": "PSS Inden/Altdorf",
+     "hall": "Walther Schiesssportcenter",
+     "street": "Merödgener Straße 37",
+     "city": "52459 Inden/Altdorf",
+     "phone": null,
+     "referee": "Pfaffenberger, Wolfgang",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SSV St. Hubertus Elsen II",
+       "away": "BSV Buer-Bülse II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "PSS Inden/Altdorf",
+       "away": "SSGem Kevelaer 2005 e.V.",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SV Steinbach",
+     "hall": "Schützenverein Hubertus Steinbach e.V.",
+     "street": "Mittelstraße 25",
+     "city": "36151 Burghaun",
+     "phone": null,
+     "referee": "Lenker, Olaf",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SV Stärklos",
+       "away": "SV Petersberg",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SV Steinbach",
+       "away": "SGes Heepen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "teams": [
+  {
+   "name": "SSV St. Hubertus Elsen II",
+   "setlist": {
+    "updatedAt": "2026-08-12T08:43",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Lammersen, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Pieper, Katharina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Martynova, Maya",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Smit, Sean",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Hochgeschurz, Nadine",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Hummler, Marco",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 384,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Pieper, Theresa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 380.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Nagaraja, Sri Krishna",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/79B38DA3-EC42-4C3C-8794-67C1C3A8BF85/3006",
+   "club": {
+    "name": "SSV St. Hub. Elsen e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Am Mühlenteich 10a",
+    "city": "33106 Paderborn",
+    "website": "https://www.ssv-elsen.de"
+   }
+  },
+  {
+   "name": "BSV Buer-Bülse II",
+   "setlist": {
+    "updatedAt": "2026-08-31T13:12",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Vandevyvere, Emma",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 397.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Ten Dolle, Nynke",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 395.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Vidal, Daniel",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 393,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Weber, Sebastian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Papstein, Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.57,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Röder, Sina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schulz, Fabienne",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 387.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Volkart, Nadine",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386.83,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Stader, Dominik",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Fischer, Anna",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FFBFF3CE-15F1-430F-BEAF-7DA20923E50F/3006",
+   "club": {
+    "name": "BSV Buer-Bülse e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Bülsestraße 65",
+    "city": "45896 Gelsenkirchen",
+    "website": "https://bsv-buer-buelse.de/"
+   }
+  },
+  {
+   "name": "SSGem Kevelaer 2005 e.V.",
+   "setlist": {
+    "updatedAt": "2026-08-25T20:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schepens, Nicolas",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 398.53,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Dhein, Michael",
+      "foreign": null,
+      "status": "",
+      "startAverage": 393.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Schiltauer, Maja",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Denk, Wiktoria",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Przybilla, Julian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Thomas, Denise",
+      "foreign": null,
+      "status": "",
+      "startAverage": 385.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Rühl, Jana",
+      "foreign": null,
+      "status": "",
+      "startAverage": 382,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Bauer, Markus",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/64834CE5-4A8F-4B66-82A3-6ABA580D74B6/3006",
+   "club": {
+    "name": "SSGem Kevelaer 2005 e.V.",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Hüls 11",
+    "city": "47623 Kevelaer",
+    "website": "https://www.ssg-kevelaer.de/"
+   }
+  },
+  {
+   "name": "SGes Heepen",
+   "setlist": {
+    "updatedAt": "2026-07-27T12:57",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Münster, Veronique",
+      "foreign": null,
+      "status": "",
+      "startAverage": 389.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Günzler, Rebecca",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Jockel, Maximilian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Klaiber, Jonas",
+      "foreign": null,
+      "status": "",
+      "startAverage": 386.83,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Büscher, Christian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schmidt, Tim",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Lutter-Schwarz, Manuel",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Haverich, Bjarne",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Voßfänger, Eva-Catharina",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Effertz, Philipp",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/694459B5-48E0-4A7B-A500-0AEFB1BE72BC/3006",
+   "club": {
+    "name": "SGes Heepen e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Salzufler Str. 108a",
+    "city": "33719 Bielefeld",
+    "website": "https://heeper-schützen.de"
+   }
+  },
+  {
+   "name": "SV Steinbach",
+   "setlist": {
+    "updatedAt": "2026-08-29T14:06",
+    "entries": [
+     {
+      "rank": 2,
+      "name": "Lambrechts, Tessa",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 396.87,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Rizea, Andrei",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 396.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Röller, Alexander",
+      "foreign": null,
+      "status": "",
+      "startAverage": 392.27,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Chandela, Apurvi",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 392.25,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Neidhart, Svenja",
+      "foreign": null,
+      "status": "",
+      "startAverage": 392.18,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Jung, Lina",
+      "foreign": null,
+      "status": "",
+      "startAverage": 392.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Dingerdißen, Luc",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.9,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Most, Marlene",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.83,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Waczlawsky, Leopold",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Sippel, Kira-Sophie",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/3E1E8B0B-527F-4A79-81CD-EB2712DA196E/3006",
+   "club": {
+    "name": "SV Steinbach",
+    "federation": "Hessischer Schützenverband",
+    "street": "Mittelstraße 25",
+    "city": "36151 Burghaun-Steinbach",
+    "website": "https://www.svhubertussteinbach.de/"
+   }
+  },
+  {
+   "name": "SV Petersberg",
+   "setlist": {
+    "updatedAt": "2026-09-23T14:40",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Dewangan, Divyanshu",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 399.6,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Bhardwaj, Vinita",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 396.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Tripp, Johanna",
+      "foreign": null,
+      "status": "",
+      "startAverage": 396.57,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Barbe, Tom",
+      "foreign": null,
+      "status": "",
+      "startAverage": 395.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Heck, Jana",
+      "foreign": null,
+      "status": "",
+      "startAverage": 391.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Heck, Mona",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Zeihs, Danilo",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Döllinger, Michael",
+      "foreign": null,
+      "status": "",
+      "startAverage": 385.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/772EA6FD-0F40-4D3C-B72E-25B02A3BCBA8/3006",
+   "club": {
+    "name": "SV Petersberg",
+    "federation": "Hessischer Schützenverband",
+    "street": "Am Pfaffenpfad 11",
+    "city": "36100 Petersberg",
+    "website": "https://www.schuetzenverein-petersberg.de/"
+   }
+  },
+  {
+   "name": "SV Stärklos",
+   "setlist": {
+    "updatedAt": "2026-07-28T07:57",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Beul, Lena Bianca",
+      "foreign": null,
+      "status": "",
+      "startAverage": 395.57,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Becker, Jaqueline",
+      "foreign": null,
+      "status": "",
+      "startAverage": 395,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Klee, Anna",
+      "foreign": null,
+      "status": "",
+      "startAverage": 394,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Götz, Leonie",
+      "foreign": null,
+      "status": "",
+      "startAverage": 392.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Faust, Leah",
+      "foreign": null,
+      "status": "",
+      "startAverage": 392.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Grobek, Louis",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schröder, Frederick",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Götz, Anna-Lena",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1F080882-63F5-46CE-87B8-73FE475617DC/3006",
+   "club": {
+    "name": "SV Stärklos",
+    "federation": "Hessischer Schützenverband",
+    "street": "An der Lieth 11",
+    "city": "36166 Haunetal",
+    "website": "http://www.sv-staerklos.de/"
+   }
+  },
+  {
+   "name": "PSS Inden/Altdorf",
+   "setlist": {
+    "updatedAt": "2026-07-05T10:17",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Fölzer, Verona",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 396.43,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Neuhoff, Julia",
+      "foreign": null,
+      "status": "",
+      "startAverage": 394.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Braun, Laura",
+      "foreign": null,
+      "status": "",
+      "startAverage": 392.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Berning, Verena",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.83,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Giesen, Sven",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Vogelsang, Denny",
+      "foreign": null,
+      "status": "",
+      "startAverage": 389.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Siegmund, Stephan",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Brucherseifer, Lana",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Hack, Julia",
+      "foreign": null,
+      "status": "",
+      "startAverage": 384.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E5416501-B4D1-406E-942A-9DF49C09FBE9/3006",
+   "club": {
+    "name": "PSS Inden/Altdorf e.V.",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Merödgener Str. 37",
+    "city": "52459 Inden/Altdorf",
+    "website": "https://www.pssonline.de"
+   }
+  }
+ ]
+}

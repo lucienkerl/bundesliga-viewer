@@ -1,0 +1,5607 @@
+{
+ "league": {
+  "id": "luftgewehr/2-bl-ost",
+  "discipline": "luftgewehr",
+  "slug": "2-bl-ost",
+  "name": "2. BL Ost",
+  "url": "https://bundesliga.dsb.de/luftgewehr/2-bl-ost"
+ },
+ "table": [
+  {
+   "rank": 1,
+   "team": "SGi Berlin & Charlottenburg",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 2,
+   "team": "SGi Lübben",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 3,
+   "team": "PSSG zu Dresden",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 4,
+   "team": "Giebichensteiner SGi Halle",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 5,
+   "team": "SGI zu Werder (Havel)",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 6,
+   "team": "FV SSZ Suhl",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 7,
+   "team": "PSV Olympia Berlin III",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  },
+  {
+   "rank": 8,
+   "team": "SV Gölzau II",
+   "singlePoints": "0:0",
+   "teamPoints": "0:0"
+  }
+ ],
+ "matchDays": [
+  {
+   "number": 1,
+   "date": "2026-10-18",
+   "venues": [
+    {
+     "host": "PSV Olympia Berlin III",
+     "hall": "Walther Arena Berlin",
+     "street": "Kirschweg 23",
+     "city": "Berlin 12524",
+     "phone": "(030) 63104385",
+     "referee": "Grötzner, Marlies",
+     "matches": [
+      {
+       "number": 1,
+       "time": "11:30",
+       "home": "SGI zu Werder (Havel)",
+       "away": "FV SSZ Suhl",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SGi Lübben",
+       "away": "Giebichensteiner SGi Halle",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 3,
+       "time": "14:00",
+       "home": "PSV Olympia Berlin III",
+       "away": "PSSG zu Dresden",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 4,
+       "time": "14:00",
+       "home": "SGi Berlin & Charlottenburg",
+       "away": "SV Gölzau II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "date": "2026-11-08",
+   "venues": [
+    {
+     "host": "PSV Olympia Berlin III",
+     "hall": "Walther Arena Berlin",
+     "street": "Kirschweg 23",
+     "city": "Berlin 12524",
+     "phone": "(030) 63104385",
+     "referee": "Grötzner, Marlies",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "PSSG zu Dresden",
+       "away": "SV Gölzau II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "10:00",
+       "home": "FV SSZ Suhl",
+       "away": "SGi Lübben",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 3,
+       "time": "11:30",
+       "home": "SGI zu Werder (Havel)",
+       "away": "Giebichensteiner SGi Halle",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 4,
+       "time": "11:30",
+       "home": "SGi Berlin & Charlottenburg",
+       "away": "PSV Olympia Berlin III",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 5,
+       "time": "13:00",
+       "home": "SGi Lübben",
+       "away": "PSSG zu Dresden",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 6,
+       "time": "13:00",
+       "home": "FV SSZ Suhl",
+       "away": "SV Gölzau II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 7,
+       "time": "14:30",
+       "home": "SGI zu Werder (Havel)",
+       "away": "SGi Berlin & Charlottenburg",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 8,
+       "time": "14:30",
+       "home": "Giebichensteiner SGi Halle",
+       "away": "PSV Olympia Berlin III",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "date": "2026-12-06",
+   "venues": [
+    {
+     "host": "FV SSZ Suhl",
+     "hall": "Erich-Krempel Halle",
+     "street": "Schützenstraße 6",
+     "city": "98527 Suhl",
+     "phone": null,
+     "referee": "Harring, Christian",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:30",
+       "home": "SGI zu Werder (Havel)",
+       "away": "SGi Lübben",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "10:30",
+       "home": "SGi Berlin & Charlottenburg",
+       "away": "FV SSZ Suhl",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 3,
+       "time": "10:30",
+       "home": "PSSG zu Dresden",
+       "away": "Giebichensteiner SGi Halle",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 4,
+       "time": "10:30",
+       "home": "PSV Olympia Berlin III",
+       "away": "SV Gölzau II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 5,
+       "time": "13:00",
+       "home": "FV SSZ Suhl",
+       "away": "Giebichensteiner SGi Halle",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 6,
+       "time": "13:00",
+       "home": "PSV Olympia Berlin III",
+       "away": "SGi Lübben",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 7,
+       "time": "13:00",
+       "home": "SV Gölzau II",
+       "away": "SGI zu Werder (Havel)",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 8,
+       "time": "13:00",
+       "home": "SGi Berlin & Charlottenburg",
+       "away": "PSSG zu Dresden",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "date": "2027-01-17",
+   "venues": [
+    {
+     "host": "SGI zu Werder (Havel)",
+     "hall": "Schiesssportzentrum Frankfurt",
+     "street": "Eisenhüttenstädter Chaussee 55",
+     "city": "15236 Frankfurt an der Oder",
+     "phone": null,
+     "referee": "Preihs, Maria K. D.",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:30",
+       "home": "PSV Olympia Berlin III",
+       "away": "SGI zu Werder (Havel)",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "10:30",
+       "home": "PSSG zu Dresden",
+       "away": "FV SSZ Suhl",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 3,
+       "time": "10:30",
+       "home": "SGi Lübben",
+       "away": "SGi Berlin & Charlottenburg",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 4,
+       "time": "10:30",
+       "home": "Giebichensteiner SGi Halle",
+       "away": "SV Gölzau II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 5,
+       "time": "13:00",
+       "home": "SV Gölzau II",
+       "away": "SGi Lübben",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 6,
+       "time": "13:00",
+       "home": "SGI zu Werder (Havel)",
+       "away": "PSSG zu Dresden",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 7,
+       "time": "13:00",
+       "home": "PSV Olympia Berlin III",
+       "away": "FV SSZ Suhl",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 8,
+       "time": "13:00",
+       "home": "SGi Berlin & Charlottenburg",
+       "away": "Giebichensteiner SGi Halle",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "teams": [
+  {
+   "name": "SGi Berlin & Charlottenburg",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Weismann, Jean-Pierre",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Crainicov, Oxana",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 387.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Höftmann, Annica",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 382.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schulz, Philipp",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 381.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Stiebitz, Sofie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Vaorin, Isabel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377.25,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kasperski, Jan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 374.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Bilgen, Alice",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Kiske, Carsten",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 347,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Kiske, Kate",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6E5E544E-BB33-4969-ADBC-0D3126736655/3005",
+   "club": {
+    "name": "Schützengilden Berlin Korp. von 1433 und Charlottenburg von 1903 e.V.",
+    "federation": "Schützenverband Berlin - Brandenburg",
+    "street": "Alte Allee 35",
+    "city": "14055 Berlin",
+    "website": "https://www.schuetzengilde-berlin.de"
+   }
+  },
+  {
+   "name": "SGi Lübben",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Graßmann, Svenja",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 385,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Golze, Leni",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 384.83,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Hebrock, Moritz",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 384.8,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schaff, Sören",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 382,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Lindow, Sophia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 381.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Lorenz, Heiko",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.86,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Höwler, Helen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Michler, Leonard Pascal",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 373,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Timm, Lucas-Leon",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 372,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Meinekat, Carsten",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 367.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Klautzsch, Leon",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Graßmann-Jeschke, Nadine",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8332DA3A-CA49-41AC-A859-A34760B76098/3005",
+   "club": {
+    "name": "SchGi zu Lübben",
+    "federation": "Brandenburgischer Schützenbund",
+    "street": "Schützenplatz 1",
+    "city": "15907 Lübben",
+    "website": null
+   }
+  },
+  {
+   "name": "PSSG zu Dresden",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Rapps, Fabienne",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387.43,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schönsee, Aspasia",
+      "foreign": null,
+      "status": "",
+      "startAverage": 385.29,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Trischberger, Anna Maria",
+      "foreign": null,
+      "status": "",
+      "startAverage": 381,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Gerlich, Eva",
+      "foreign": null,
+      "status": "",
+      "startAverage": 380.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Paul, Felix Peter",
+      "foreign": null,
+      "status": "",
+      "startAverage": 378.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Klahre, Liara",
+      "foreign": null,
+      "status": "",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Röthig, Fredrik",
+      "foreign": null,
+      "status": "",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Baumann, Manuela",
+      "foreign": null,
+      "status": "",
+      "startAverage": 373.75,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Braun, Maximilian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 370.25,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/43A8F686-B5BE-42C0-864F-54463B401A31/3005",
+   "club": {
+    "name": "Priv.SSG zu Dresden e.V.",
+    "federation": "Sächsischer Schützenbund",
+    "street": "Langebrücker Str. 10",
+    "city": "01109 Dresden",
+    "website": null
+   }
+  },
+  {
+   "name": "Giebichensteiner SGi Halle",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Heindorf, Leni",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Beck, Matthias",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.2,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Müller, Lia",
+      "foreign": null,
+      "status": "",
+      "startAverage": 389.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Donath, Luis",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Juhnke, Valentin",
+      "foreign": null,
+      "status": "",
+      "startAverage": 384.67,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Brunngräber, Lisa-Marie",
+      "foreign": null,
+      "status": "",
+      "startAverage": 383.25,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Wilfert, Florian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Böhme, André",
+      "foreign": null,
+      "status": "",
+      "startAverage": 379,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Klimmek, Melina",
+      "foreign": null,
+      "status": "",
+      "startAverage": 295.75,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Schweimler, Lilli",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/32ACE14C-A235-43D2-A0F6-CB811BB3BD84/3005",
+   "club": {
+    "name": "Giebichensteiner SGi 1848 Halle/S. e.V.",
+    "federation": "Landesschützenverband Sachsen-Anhalt",
+    "street": "Karl-Ernst-Weg 44",
+    "city": "6118 Halle",
+    "website": null
+   }
+  },
+  {
+   "name": "SGI zu Werder (Havel)",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kurmann, Johanna",
+      "foreign": null,
+      "status": "",
+      "startAverage": 395.4,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schmarje, Finn Felix",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.83,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Kanzler, Elea Johanna",
+      "foreign": null,
+      "status": "",
+      "startAverage": 389.17,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Kanzler, Maria Antonia",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kienast, Sebastian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387.14,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Unger, Lois",
+      "foreign": null,
+      "status": "",
+      "startAverage": 386.43,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Asmussen, Madeleine",
+      "foreign": null,
+      "status": "",
+      "startAverage": 385.71,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Geitner, Sofia",
+      "foreign": null,
+      "status": "",
+      "startAverage": 378.17,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Kanzler, Mandy",
+      "foreign": null,
+      "status": "",
+      "startAverage": 374.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Marx, Christoph",
+      "foreign": null,
+      "status": "",
+      "startAverage": 365.25,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Kanzler, Frank",
+      "foreign": null,
+      "status": "",
+      "startAverage": 363,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Makutwa, Samantha",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/D4D28CCF-78F9-4E6D-8147-3BA9BCEFF498/3005",
+   "club": {
+    "name": "Schützengilde zu Werder/H.",
+    "federation": "Brandenburgischer Schützenbund",
+    "street": "Adolf-Damaschke-Straße 56-58",
+    "city": "14542 Werder/Havel",
+    "website": "https://www.schuetzengildewerder.de"
+   }
+  },
+  {
+   "name": "FV SSZ Suhl",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Jäger, Leni Colleen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.67,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Macht, Katharina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.43,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Flossmann, Maja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Henninger, Lena",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.57,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Fischer, Dennis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Denysiuk, Hanna",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 387.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Braun, Jette",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383.14,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Köhler, Stella - Sophie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Urban, Pascal",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 380.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Moschinski, Lea",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Köhler, Michelle",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 378,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/7AD185B3-7011-4C1E-B6A9-6BCA3265D857/3005",
+   "club": {
+    "name": "FV SSZ Suhl",
+    "federation": "Thüringer Schützenbund",
+    "street": "Schützenstraße 6",
+    "city": "98527 Suhl",
+    "website": null
+   }
+  },
+  {
+   "name": "PSV Olympia Berlin III",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kummerfeld, Thies Oskar",
+      "foreign": null,
+      "status": "",
+      "startAverage": 393.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Saksena, Shreya",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 391.8,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Heider, Jan",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.6,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Ruthsatz, Frank",
+      "foreign": null,
+      "status": "",
+      "startAverage": 389.86,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Hanke, Maja",
+      "foreign": null,
+      "status": "",
+      "startAverage": 389,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Antonova, Varvara",
+      "foreign": "AS",
+      "status": "",
+      "startAverage": 388.67,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Ralle, Marlon",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Kaufmann, Charlotta",
+      "foreign": null,
+      "status": "",
+      "startAverage": 385.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Graske, Jennifer",
+      "foreign": null,
+      "status": "",
+      "startAverage": 378.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Breidenbach, Neele",
+      "foreign": null,
+      "status": "",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Siegel, Emma",
+      "foreign": null,
+      "status": "",
+      "startAverage": 375.67,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Jahn, Sidney Paul",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/67BFC240-14CB-4184-8ADC-BA900379AF1A/3005",
+   "club": {
+    "name": "Polizeisportverein Olympia Berlin e.V.",
+    "federation": "Schützenverband Berlin - Brandenburg",
+    "street": "Kirschweg 23",
+    "city": "12524 Berlin",
+    "website": "https://psv-olympia.de"
+   }
+  },
+  {
+   "name": "SV Gölzau II",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Lukaszyk, Rafal",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 396.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Tolonitz, Jana",
+      "foreign": null,
+      "status": "",
+      "startAverage": 391.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Pfeiffer, Natalie",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schäfer, Maria",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kube, Elena",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.17,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Walter, Ida",
+      "foreign": null,
+      "status": "",
+      "startAverage": 385.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Eichelberg, Felice",
+      "foreign": null,
+      "status": "",
+      "startAverage": 382,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Wenzel, Florian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 381,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Bennemann, Richard",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Eidam, Alexandra",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Lemme, Lena",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BD595B85-E4BB-4817-8ECD-1435DDEF955D/3005",
+   "club": {
+    "name": "SV Gölzau 1990 e.V.",
+    "federation": "Landesschützenverband Sachsen-Anhalt",
+    "street": "Cösitzer Weg 6",
+    "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
+    "website": null
+   }
+  }
+ ]
+}

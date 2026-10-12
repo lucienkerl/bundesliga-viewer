@@ -1,0 +1,5881 @@
+{
+ "league": {
+  "id": "luftpistole/2-bl-suedwest",
+  "discipline": "luftpistole",
+  "slug": "2-bl-suedwest",
+  "name": "2. BL Südwest",
+  "url": "https://bundesliga.dsb.de/luftpistole/2-bl-suedwest"
+ },
+ "table": [
+  {
+   "rank": 1,
+   "team": "SGi Ebershardt",
+   "singlePoints": "9:1",
+   "teamPoints": "4:0"
+  },
+  {
+   "rank": 2,
+   "team": "SSabt TSV Ötlingen",
+   "singlePoints": "6:4",
+   "teamPoints": "4:0"
+  },
+  {
+   "rank": 3,
+   "team": "SSV St. Peter",
+   "singlePoints": "6:4",
+   "teamPoints": "4:0"
+  },
+  {
+   "rank": 4,
+   "team": "ESV Weil am Rhein II",
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
+  },
+  {
+   "rank": 5,
+   "team": "Sportschützen Püttlingen",
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
+  },
+  {
+   "rank": 6,
+   "team": "SV Altheim-Waldhausen",
+   "singlePoints": "4:6",
+   "teamPoints": "0:4"
+  },
+  {
+   "rank": 7,
+   "team": "SV Walldorf",
+   "singlePoints": "4:6",
+   "teamPoints": "0:4"
+  },
+  {
+   "rank": 8,
+   "team": "SG Pforzheim",
+   "singlePoints": "3:7",
+   "teamPoints": "0:4"
+  }
+ ],
+ "matchDays": [
+  {
+   "number": 1,
+   "date": "2026-10-11",
+   "venues": [
+    {
+     "host": "SSabt TSV Ötlingen",
+     "hall": "TSV Ötlingen 1895 e.V.",
+     "street": "Rübholz 1",
+     "city": "73230 Kirchheim/Teck-Ötlingen",
+     "phone": null,
+     "referee": "Sanwald, Günter",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SSabt TSV Ötlingen",
+       "away": "SV Altheim-Waldhausen",
+       "homeRings": 1841,
+       "awayRings": 1823,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Mauch, Maximilian",
+          "total": 363,
+          "series": [
+           91,
+           89,
+           91,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Junghans, Ralf",
+          "total": 354,
+          "series": [
+           95,
+           90,
+           85,
+           84
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Schaufler, Stefan",
+          "total": 379,
+          "series": [
+           95,
+           93,
+           96,
+           95
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Schwarz, Günther",
+          "total": 369,
+          "series": [
+           92,
+           94,
+           94,
+           89
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Vogler, Amelie",
+          "total": 372,
+          "series": [
+           93,
+           92,
+           93,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Laub, Frank",
+          "total": 375,
+          "series": [
+           94,
+           92,
+           96,
+           93
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Engel, Torben",
+          "total": 362,
+          "series": [
+           89,
+           91,
+           93,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Morar, Christian",
+          "total": 355,
+          "series": [
+           86,
+           93,
+           93,
+           83
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Kobarg, Jörg",
+          "total": 365,
+          "series": [
+           92,
+           92,
+           89,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Wetzel, Philipp",
+          "total": 370,
+          "series": [
+           89,
+           93,
+           91,
+           97
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SV Walldorf",
+       "away": "SSV St. Peter",
+       "homeRings": 1817,
+       "awayRings": 1844,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Günther, Konstantin",
+          "total": 366,
+          "series": [
+           92,
+           89,
+           92,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Denysiuk, Oleksii",
+          "total": 372,
+          "series": [
+           94,
+           94,
+           92,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Friedrich, Stefanie",
+          "total": 354,
+          "series": [
+           93,
+           89,
+           84,
+           88
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Pitschke, Aileen",
+          "total": 372,
+          "series": [
+           91,
+           92,
+           94,
+           95
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Hechler, Jan",
+          "total": 364,
+          "series": [
+           87,
+           93,
+           95,
+           89
+          ],
+          "shootOff": 9
+         },
+         "away": {
+          "name": "Borrmann, Nils",
+          "total": 364,
+          "series": [
+           90,
+           91,
+           88,
+           95
+          ],
+          "shootOff": 8
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Jung, Marcel",
+          "total": 373,
+          "series": [
+           96,
+           92,
+           92,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Franke, Max",
+          "total": 371,
+          "series": [
+           95,
+           94,
+           91,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Quintel, Karsten",
+          "total": 360,
+          "series": [
+           88,
+           90,
+           89,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Mark, Matthias",
+          "total": 365,
+          "series": [
+           91,
+           88,
+           91,
+           95
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "Sportschützen Püttlingen",
+     "hall": "Sportschützen Püttlingen 1904 e.V.",
+     "street": "Bildchenstr. 86, Schild folgen (hinter Sportplatz)",
+     "city": "66346 Püttlingen",
+     "phone": "+49 (6898) 61800",
+     "referee": "Möndel, Franz",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "Sportschützen Püttlingen",
+       "away": "SG Pforzheim",
+       "homeRings": 1826,
+       "awayRings": 1803,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Wey, Anthoni",
+          "total": 370,
+          "series": [
+           93,
+           93,
+           91,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Grabs, Frederick",
+          "total": 358,
+          "series": [
+           89,
+           89,
+           89,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Romang, Claire",
+          "total": 357,
+          "series": [
+           89,
+           88,
+           86,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Barner, Daniel",
+          "total": 358,
+          "series": [
+           92,
+           91,
+           84,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Roth, Sébastien",
+          "total": 375,
+          "series": [
+           94,
+           94,
+           92,
+           95
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Mäken, Alina",
+          "total": 360,
+          "series": [
+           94,
+           86,
+           90,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Mootz, Thomas",
+          "total": 368,
+          "series": [
+           93,
+           92,
+           91,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Stathel, Stephan",
+          "total": 367,
+          "series": [
+           93,
+           87,
+           94,
+           93
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Schaff, Frédéric",
+          "total": 356,
+          "series": [
+           90,
+           83,
+           94,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Iles, Stevan",
+          "total": 360,
+          "series": [
+           91,
+           91,
+           91,
+           87
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "ESV Weil am Rhein II",
+       "away": "SGi Ebershardt",
+       "homeRings": 1833,
+       "awayRings": 1848,
+       "homePoints": 0,
+       "awayPoints": 5,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Garconnot, Sylvain",
+          "total": 367,
+          "series": [
+           90,
+           94,
+           94,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Gäckle, Marius",
+          "total": 372,
+          "series": [
+           92,
+           93,
+           92,
+           95
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Schröder, Luca",
+          "total": 371,
+          "series": [
+           92,
+           93,
+           93,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Würsig, Daniel",
+          "total": 373,
+          "series": [
+           92,
+           95,
+           93,
+           93
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Marini, Chiara",
+          "total": 369,
+          "series": [
+           92,
+           91,
+           92,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Kovacic, Sophia",
+          "total": 370,
+          "series": [
+           94,
+           93,
+           94,
+           89
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Onuseit, Cora",
+          "total": 358,
+          "series": [
+           91,
+           92,
+           85,
+           90
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Strommer, Sarah",
+          "total": 365,
+          "series": [
+           88,
+           92,
+           93,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Frommherz, Andrea",
+          "total": 368,
+          "series": [
+           92,
+           94,
+           91,
+           91
+          ],
+          "shootOff": 8
+         },
+         "away": {
+          "name": "Frey, Dominik",
+          "total": 368,
+          "series": [
+           92,
+           90,
+           97,
+           89
+          ],
+          "shootOff": 10
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "date": "2026-10-11",
+   "venues": [
+    {
+     "host": "SSabt TSV Ötlingen",
+     "hall": "TSV Ötlingen 1895 e.V.",
+     "street": "Rübholz 1",
+     "city": "73230 Kirchheim/Teck-Ötlingen",
+     "phone": null,
+     "referee": "Sanwald, Günter",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:00",
+       "home": "SV Altheim-Waldhausen",
+       "away": "SSV St. Peter",
+       "homeRings": 1829,
+       "awayRings": 1834,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Junghans, Ralf",
+          "total": 366,
+          "series": [
+           88,
+           91,
+           93,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Denysiuk, Oleksii",
+          "total": 373,
+          "series": [
+           94,
+           91,
+           97,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Schwarz, Günther",
+          "total": 372,
+          "series": [
+           91,
+           93,
+           93,
+           95
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Pitschke, Aileen",
+          "total": 371,
+          "series": [
+           94,
+           95,
+           94,
+           88
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Laub, Frank",
+          "total": 360,
+          "series": [
+           88,
+           94,
+           88,
+           90
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Borrmann, Nils",
+          "total": 362,
+          "series": [
+           95,
+           91,
+           87,
+           89
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Morar, Christian",
+          "total": 369,
+          "series": [
+           93,
+           91,
+           95,
+           90
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Franke, Max",
+          "total": 365,
+          "series": [
+           92,
+           95,
+           91,
+           87
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Wetzel, Philipp",
+          "total": 362,
+          "series": [
+           87,
+           95,
+           89,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Mark, Matthias",
+          "total": 363,
+          "series": [
+           92,
+           93,
+           92,
+           86
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:30",
+       "home": "SSabt TSV Ötlingen",
+       "away": "SV Walldorf",
+       "homeRings": 1823,
+       "awayRings": 1807,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Štrbac, Marijana Matea",
+          "total": 368,
+          "series": [
+           91,
+           92,
+           92,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Günther, Konstantin",
+          "total": 362,
+          "series": [
+           92,
+           91,
+           90,
+           89
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Mauch, Maximilian",
+          "total": 360,
+          "series": [
+           90,
+           91,
+           92,
+           87
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Friedrich, Stefanie",
+          "total": 356,
+          "series": [
+           92,
+           90,
+           89,
+           85
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Schaufler, Stefan",
+          "total": 376,
+          "series": [
+           96,
+           94,
+           90,
+           96
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Hechler, Jan",
+          "total": 359,
+          "series": [
+           92,
+           83,
+           92,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Vogler, Amelie",
+          "total": 356,
+          "series": [
+           87,
+           86,
+           90,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Jung, Marcel",
+          "total": 361,
+          "series": [
+           90,
+           89,
+           91,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Engel, Torben",
+          "total": 363,
+          "series": [
+           90,
+           92,
+           88,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Rogge, Ronald",
+          "total": 369,
+          "series": [
+           88,
+           93,
+           94,
+           94
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "Sportschützen Püttlingen",
+     "hall": "Sportschützen Püttlingen 1904 e.V.",
+     "street": "Bildchenstr. 86, Schild folgen (hinter Sportplatz)",
+     "city": "66346 Püttlingen",
+     "phone": "+49 (6898) 61800",
+     "referee": "Möndel, Franz",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:00",
+       "home": "SG Pforzheim",
+       "away": "SGi Ebershardt",
+       "homeRings": 1810,
+       "awayRings": 1851,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Grabs, Frederick",
+          "total": 371,
+          "series": [
+           95,
+           94,
+           90,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Gäckle, Marius",
+          "total": 370,
+          "series": [
+           92,
+           91,
+           94,
+           93
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Barner, Daniel",
+          "total": 363,
+          "series": [
+           88,
+           93,
+           92,
+           90
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Würsig, Daniel",
+          "total": 381,
+          "series": [
+           93,
+           95,
+           96,
+           97
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Mäken, Alina",
+          "total": 362,
+          "series": [
+           90,
+           91,
+           92,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Kovacic, Sophia",
+          "total": 371,
+          "series": [
+           92,
+           94,
+           91,
+           94
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Stathel, Stephan",
+          "total": 364,
+          "series": [
+           91,
+           93,
+           89,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Strommer, Sarah",
+          "total": 369,
+          "series": [
+           94,
+           92,
+           90,
+           93
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Iles, Stevan",
+          "total": 350,
+          "series": [
+           87,
+           90,
+           83,
+           90
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Frey, Dominik",
+          "total": 360,
+          "series": [
+           90,
+           91,
+           87,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:30",
+       "home": "Sportschützen Püttlingen",
+       "away": "ESV Weil am Rhein II",
+       "homeRings": 1830,
+       "awayRings": 1847,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Wey, Anthoni",
+          "total": 380,
+          "series": [
+           94,
+           96,
+           96,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Garconnot, Sylvain",
+          "total": 371,
+          "series": [
+           90,
+           95,
+           94,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Romang, Claire",
+          "total": 371,
+          "series": [
+           92,
+           95,
+           91,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Schröder, Luca",
+          "total": 378,
+          "series": [
+           96,
+           94,
+           96,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Roth, Sébastien",
+          "total": 370,
+          "series": [
+           95,
+           95,
+           87,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Marini, Chiara",
+          "total": 375,
+          "series": [
+           94,
+           94,
+           92,
+           95
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Mootz, Thomas",
+          "total": 357,
+          "series": [
+           89,
+           89,
+           87,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Onuseit, Cora",
+          "total": 363,
+          "series": [
+           92,
+           87,
+           94,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Schaff, Frédéric",
+          "total": 352,
+          "series": [
+           83,
+           96,
+           81,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Frommherz, Andrea",
+          "total": 360,
+          "series": [
+           89,
+           91,
+           89,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "date": "2026-11-14",
+   "venues": [
+    {
+     "host": "ESV Weil am Rhein II",
+     "hall": "Schützenhaus KKSV Heitersheim",
+     "street": "Badhausstrasse 27",
+     "city": "79423 Heitersheim",
+     "phone": "015224643631",
+     "referee": "Schweinlin, Dieter",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:30",
+       "home": "SSabt TSV Ötlingen",
+       "away": "SSV St. Peter",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "13:00",
+       "home": "ESV Weil am Rhein II",
+       "away": "SG Pforzheim",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SGi Ebershardt",
+     "hall": "SGi Ebershardt 1953 e.V.",
+     "street": "Waldstraße 1",
+     "city": "72224 Ebhausen-Ebershardt",
+     "phone": null,
+     "referee": "Möndel, Franz",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:30",
+       "home": "SV Walldorf",
+       "away": "SV Altheim-Waldhausen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "13:00",
+       "home": "SGi Ebershardt",
+       "away": "Sportschützen Püttlingen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "date": "2026-12-13",
+   "venues": [
+    {
+     "host": "SSV St. Peter",
+     "hall": "Schützenhaus / SSV Gundelfingen",
+     "street": "Leimgrubenweg 1",
+     "city": "79194 Gundelfingen",
+     "phone": null,
+     "referee": "Karl, Jürgen",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SSV St. Peter",
+       "away": "SGi Ebershardt",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "ESV Weil am Rhein II",
+       "away": "SV Walldorf",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SG Pforzheim",
+     "hall": "SG Pforzheim",
+     "street": "Kirschenpfad 1",
+     "city": "75181 Pforzheim",
+     "phone": null,
+     "referee": "Möndel, Franz",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SG Pforzheim",
+       "away": "SV Altheim-Waldhausen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SSabt TSV Ötlingen",
+       "away": "Sportschützen Püttlingen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "date": "2026-12-13",
+   "venues": [
+    {
+     "host": "SSV St. Peter",
+     "hall": "Schützenhaus / SSV Gundelfingen",
+     "street": "Leimgrubenweg 1",
+     "city": "79194 Gundelfingen",
+     "phone": null,
+     "referee": "Karl, Jürgen",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:00",
+       "home": "SV Walldorf",
+       "away": "SGi Ebershardt",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:30",
+       "home": "ESV Weil am Rhein II",
+       "away": "SSV St. Peter",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SG Pforzheim",
+     "hall": "SG Pforzheim",
+     "street": "Kirschenpfad 1",
+     "city": "75181 Pforzheim",
+     "phone": null,
+     "referee": "Möndel, Franz",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:00",
+       "home": "SV Altheim-Waldhausen",
+       "away": "Sportschützen Püttlingen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:30",
+       "home": "SG Pforzheim",
+       "away": "SSabt TSV Ötlingen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "date": "2027-01-10",
+   "venues": [
+    {
+     "host": "SV Altheim-Waldhausen",
+     "hall": "Schützenhaus",
+     "street": "Gurgelbergweg",
+     "city": "88499 Altheim",
+     "phone": "07371/13162",
+     "referee": "Möndel, Franz",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SV Altheim-Waldhausen",
+       "away": "SGi Ebershardt",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SSabt TSV Ötlingen",
+       "away": "ESV Weil am Rhein II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SV Walldorf",
+     "hall": "Schützenverein Walldorf",
+     "street": "Rennbahnstraße 69",
+     "city": "69190 Walldorf",
+     "phone": null,
+     "referee": "Merkle, Werner",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SV Walldorf",
+       "away": "Sportschützen Püttlingen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SSV St. Peter",
+       "away": "SG Pforzheim",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "date": "2027-01-10",
+   "venues": [
+    {
+     "host": "SV Altheim-Waldhausen",
+     "hall": "Schützenhaus",
+     "street": "Gurgelbergweg",
+     "city": "88499 Altheim",
+     "phone": "07371/13162",
+     "referee": "Möndel, Franz",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:00",
+       "home": "SGi Ebershardt",
+       "away": "SSabt TSV Ötlingen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:30",
+       "home": "SV Altheim-Waldhausen",
+       "away": "ESV Weil am Rhein II",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SV Walldorf",
+     "hall": "Schützenverein Walldorf",
+     "street": "Rennbahnstraße 69",
+     "city": "69190 Walldorf",
+     "phone": null,
+     "referee": "Merkle, Werner",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:00",
+       "home": "SSV St. Peter",
+       "away": "Sportschützen Püttlingen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:30",
+       "home": "SV Walldorf",
+       "away": "SG Pforzheim",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "teams": [
+  {
+   "name": "SGi Ebershardt",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Würsig, Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377,
+      "results": [
+       373,
+       381,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Gäckle, Marius",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       372,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Kovacic, Sophia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 370.5,
+      "results": [
+       370,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Strommer, Sarah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367,
+      "results": [
+       365,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Frey, Dominik",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       368,
+       360,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Kammerer, Thomas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 348,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Uhlenhaut, Mike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 335,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Frey, Otto",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A166BFF6-ADCE-498A-81D4-A50FCA4E1F18/3042",
+   "club": {
+    "name": "SGi Ebershardt",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Waldstraße 1",
+    "city": "72224 Ebhausen",
+    "website": "https://www.ebershardt.de"
+   }
+  },
+  {
+   "name": "SSabt TSV Ötlingen",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:31",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Dikec, Yusuf",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schaufler, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377.5,
+      "results": [
+       379,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Veccaro, Margherita Brigida",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 373.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Štrbac, Marijana Matea",
+      "foreign": "AS",
+      "status": "S",
+      "startAverage": 368,
+      "results": [
+       0,
+       368,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kobarg, Jörg",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 365,
+      "results": [
+       365,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Vogler, Amelie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       372,
+       356,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Engel, Torben",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.5,
+      "results": [
+       362,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Mauch, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361.5,
+      "results": [
+       363,
+       360,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Scharpf, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Blumenthal, Roland",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Holzner, Philipp",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 346.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1A061130-A24A-4073-86A7-EDF8FABD879C/3042",
+   "club": {
+    "name": "SSAbt Ötlingen",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Rübholz 1",
+    "city": "73230 Kirchheim/Teck",
+    "website": "https://www.tsv-oetlingen.de"
+   }
+  },
+  {
+   "name": "SSV St. Peter",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:33",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Reimann, Theodor",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 376,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Denysiuk, Oleksii",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 372.5,
+      "results": [
+       372,
+       373,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Pitschke, Aileen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371.5,
+      "results": [
+       372,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Franke, Max",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368,
+      "results": [
+       371,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Mark, Matthias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       365,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Borrmann, Nils",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363,
+      "results": [
+       364,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Gissler, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361.17,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Borrmann, Jan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Borrmann, Nele",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/2BA08FAE-FB99-485C-875A-C47699A6E070/3042",
+   "club": {
+    "name": "Sportschützenverein St. Peter e.V.",
+    "federation": "Südbadischer Sportschützenverband",
+    "street": "Glottertalstraße 24",
+    "city": "79271 St. Peter",
+    "website": "https://www.ssv-st-peter.de"
+   }
+  },
+  {
+   "name": "ESV Weil am Rhein II",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schröder, Luca",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 374.5,
+      "results": [
+       371,
+       378,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Marini, Chiara",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 372,
+      "results": [
+       369,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Garconnot, Sylvain",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       367,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Röthlisberger, Daniela",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 368.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Frommherz, Andrea",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       368,
+       360,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Pfeffer, Dirk",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 363.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Onuseit, Cora",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360.5,
+      "results": [
+       358,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Batku, Manuela",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 355,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Weis, Arno",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 354.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Jülle, Swen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1C87AC6D-81CE-4E72-90EA-13A2EBB4DC9B/3042",
+   "club": {
+    "name": "ESV Weil am Rhein 1926 e.V.",
+    "federation": "Südbadischer Sportschützenverband",
+    "street": "Weiherweg 10",
+    "city": "79576 Weil am Rhein",
+    "website": "https://www.esv-sportschuetzen.de"
+   }
+  },
+  {
+   "name": "Sportschützen Püttlingen",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Wey, Anthoni",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       370,
+       380,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Roth, Sébastien",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 372.5,
+      "results": [
+       375,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Romang, Claire",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       357,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Mootz, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.5,
+      "results": [
+       368,
+       357,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Weber, Silvain",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schaff, Frédéric",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 354,
+      "results": [
+       356,
+       352,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Nosbüsch, Armin",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 340,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Wagner, Frank",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Grune, Albert",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Bote, Dennis",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Schneider, Edmund",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8698EFE7-4E07-4760-BB93-99B532A9981B/3042",
+   "club": {
+    "name": "Sportschützen Püttlingen 1904 e.V.",
+    "federation": "Schützenverband Saar",
+    "street": "Hohbergstr. 1",
+    "city": "66346 Püttlingen",
+    "website": null
+   }
+  },
+  {
+   "name": "SV Altheim-Waldhausen",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:32",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Riedener, Andreas",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 374.57,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schwarz, Günther",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 370.5,
+      "results": [
+       369,
+       372,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Laub, Frank",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367.5,
+      "results": [
+       375,
+       360,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Wetzel, Philipp",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366,
+      "results": [
+       370,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Blezu, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 362.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Morar, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362,
+      "results": [
+       355,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Vogel, Klaus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361.8,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Junghans, Ralf",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360,
+      "results": [
+       354,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Sunko, Darko",
+      "foreign": "EU",
+      "status": "E",
+      "startAverage": 359.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Schwarz, Markus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.6,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Brunner, Wolfgang",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/3C9F1906-4C48-4694-91C2-F33E08D160A8/3042",
+   "club": {
+    "name": "SV Altheim/Waldhausen",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Gurgelweg",
+    "city": "88499 Altheim",
+    "website": "http://www.schuetzenverein-altheim-w.de/"
+   }
+  },
+  {
+   "name": "SV Walldorf",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:32",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Rogge, Ronald",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 369,
+      "results": [
+       0,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Jung, Marcel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 367,
+      "results": [
+       373,
+       361,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Besser, Julius",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Günther, Konstantin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       366,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Angelov, Dimitar",
+      "foreign": "EU",
+      "status": "E",
+      "startAverage": 362.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Hechler, Jan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361.5,
+      "results": [
+       364,
+       359,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Quintel, Karsten",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360,
+      "results": [
+       360,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Friedrich, Stefanie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 355,
+      "results": [
+       354,
+       356,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Reimer, Frank",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Enzenauer, Rainer",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Winkler, Meike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/79034F62-0512-4350-98FD-CC53A0036494/3042",
+   "club": {
+    "name": "Schützenverein Walldorf",
+    "federation": "Badischer Sportschützenverband",
+    "street": "Rennbahnstraße 69",
+    "city": "69190 Walldorf",
+    "website": "https://www.svwalldorf.de"
+   }
+  },
+  {
+   "name": "SG Pforzheim",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Stathel, Stephan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.5,
+      "results": [
+       367,
+       364,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Grabs, Frederick",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.5,
+      "results": [
+       358,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Mäken, Alina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361,
+      "results": [
+       360,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Barner, Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360.5,
+      "results": [
+       358,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Weiß, Felix",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Iles, Stevan",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 355,
+      "results": [
+       360,
+       350,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Fritsch, Ralf",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Chadde, Martina",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Pfizenmayer, Dan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/D76955E2-3F4E-46BE-85A4-5F72238BDFEB/3042",
+   "club": {
+    "name": "Schützengesellschaft Pforzheim 1450",
+    "federation": "Badischer Sportschützenverband",
+    "street": "Kirschenpfad 1",
+    "city": "75181 Pforzheim",
+    "website": "https://sgpf.de"
+   }
+  }
+ ]
+}

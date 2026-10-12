@@ -1,0 +1,5685 @@
+{
+ "league": {
+  "id": "luftpistole/2-bl-west",
+  "discipline": "luftpistole",
+  "slug": "2-bl-west",
+  "name": "2. BL West",
+  "url": "https://bundesliga.dsb.de/luftpistole/2-bl-west"
+ },
+ "table": [
+  {
+   "rank": 1,
+   "team": "SSG Teutoburger Wald",
+   "singlePoints": "7:3",
+   "teamPoints": "4:0"
+  },
+  {
+   "rank": 2,
+   "team": "SV Hettenhausen",
+   "singlePoints": "7:3",
+   "teamPoints": "4:0"
+  },
+  {
+   "rank": 3,
+   "team": "SV Blankenheim",
+   "singlePoints": "6:4",
+   "teamPoints": "2:2"
+  },
+  {
+   "rank": 4,
+   "team": "Polizei SC Dinslaken",
+   "singlePoints": "5:5",
+   "teamPoints": "2:2"
+  },
+  {
+   "rank": 5,
+   "team": "SV Tell Rückingen",
+   "singlePoints": "5:5",
+   "teamPoints": "2:2"
+  },
+  {
+   "rank": 6,
+   "team": "SSV Bad Westernkotten",
+   "singlePoints": "5:5",
+   "teamPoints": "2:2"
+  },
+  {
+   "rank": 7,
+   "team": "SV Nieder-Florstadt",
+   "singlePoints": "3:7",
+   "teamPoints": "0:4"
+  },
+  {
+   "rank": 8,
+   "team": "KKV Hunstig",
+   "singlePoints": "2:8",
+   "teamPoints": "0:4"
+  }
+ ],
+ "matchDays": [
+  {
+   "number": 1,
+   "date": "2026-10-11",
+   "venues": [
+    {
+     "host": "SSV Bad Westernkotten",
+     "hall": "Bundesliga Austragungsort",
+     "street": "Am Schottenteich 1",
+     "city": "59597 Erwitte",
+     "phone": null,
+     "referee": "Ahring, Günther",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SSV Bad Westernkotten",
+       "away": "SV Blankenheim",
+       "homeRings": 1847,
+       "awayRings": 1842,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Levkovska, Hanna",
+          "total": 367,
+          "series": [
+           93,
+           93,
+           89,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Bingemann, Christian",
+          "total": 371,
+          "series": [
+           95,
+           89,
+           96,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Müller, Peter",
+          "total": 364,
+          "series": [
+           90,
+           96,
+           87,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Brandau, Daniel",
+          "total": 380,
+          "series": [
+           98,
+           91,
+           99,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Januszek, Tobias",
+          "total": 378,
+          "series": [
+           92,
+           95,
+           97,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Sitte, Jessica",
+          "total": 371,
+          "series": [
+           93,
+           91,
+           95,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Risse, Ralf",
+          "total": 367,
+          "series": [
+           91,
+           93,
+           94,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Konrad, Michael",
+          "total": 357,
+          "series": [
+           87,
+           89,
+           93,
+           88
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Stolzenfels, Ben",
+          "total": 371,
+          "series": [
+           96,
+           94,
+           90,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Kaufmann, Cornelia",
+          "total": 363,
+          "series": [
+           90,
+           91,
+           91,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SSG Teutoburger Wald",
+       "away": "KKV Hunstig",
+       "homeRings": 1824,
+       "awayRings": 1770,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Arrighi, Luca",
+          "total": 363,
+          "series": [
+           88,
+           94,
+           90,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Dörschlen, Wilfried",
+          "total": 365,
+          "series": [
+           88,
+           91,
+           94,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Krause, Stefan",
+          "total": 367,
+          "series": [
+           93,
+           93,
+           89,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Niebel, Julian",
+          "total": 362,
+          "series": [
+           87,
+           91,
+           92,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Kimla, Olga",
+          "total": 367,
+          "series": [
+           91,
+           90,
+           94,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Hunz, Maria",
+          "total": 354,
+          "series": [
+           88,
+           88,
+           91,
+           87
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Münster, Frederik-Niklas",
+          "total": 358,
+          "series": [
+           86,
+           90,
+           88,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Birkner, Andreas",
+          "total": 343,
+          "series": [
+           82,
+           81,
+           90,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Quittschau, Michael",
+          "total": 369,
+          "series": [
+           93,
+           91,
+           90,
+           95
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Spies, Alexander",
+          "total": 346,
+          "series": [
+           85,
+           86,
+           90,
+           85
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "",
+     "hall": "",
+     "street": "",
+     "city": "",
+     "phone": null,
+     "referee": "Bauscher, Werner",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SV Nieder-Florstadt",
+       "away": "SV Hettenhausen",
+       "homeRings": 1809,
+       "awayRings": 1811,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Sonsalla, Maximilian",
+          "total": 374,
+          "series": [
+           92,
+           94,
+           93,
+           95
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Rulischek, Kai",
+          "total": 369,
+          "series": [
+           93,
+           91,
+           93,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Jerke, Matthias",
+          "total": 357,
+          "series": [
+           89,
+           89,
+           93,
+           86
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Trippel, Stephan",
+          "total": 359,
+          "series": [
+           85,
+           90,
+           92,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Lappessen, Leo",
+          "total": 369,
+          "series": [
+           93,
+           94,
+           91,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Grohmann, Stefan",
+          "total": 370,
+          "series": [
+           95,
+           90,
+           93,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Kraft, Wolfgang",
+          "total": 352,
+          "series": [
+           91,
+           83,
+           89,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Bauer, Stefan",
+          "total": 353,
+          "series": [
+           88,
+           84,
+           91,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Sonsalla, Siegfried",
+          "total": 357,
+          "series": [
+           90,
+           90,
+           86,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Vogel, Jochen",
+          "total": 360,
+          "series": [
+           85,
+           94,
+           91,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SV Tell Rückingen",
+       "away": "Polizei SC Dinslaken",
+       "homeRings": 1801,
+       "awayRings": 1794,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Chwalek, Jens",
+          "total": 371,
+          "series": [
+           89,
+           93,
+           96,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Klump, Sascha",
+          "total": 373,
+          "series": [
+           96,
+           97,
+           92,
+           88
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Borgmann, Oliver",
+          "total": 352,
+          "series": [
+           88,
+           85,
+           90,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Koch, Kirstin",
+          "total": 355,
+          "series": [
+           86,
+           89,
+           89,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Harbach, Thomas",
+          "total": 368,
+          "series": [
+           92,
+           94,
+           89,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Beuth, Dirk",
+          "total": 349,
+          "series": [
+           88,
+           89,
+           87,
+           85
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Borgmann, Liv",
+          "total": 373,
+          "series": [
+           91,
+           92,
+           97,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Freise, Stefan",
+          "total": 349,
+          "series": [
+           89,
+           89,
+           87,
+           84
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Borgmann, Leonhard",
+          "total": 337,
+          "series": [
+           79,
+           91,
+           85,
+           82
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Bruns, Eike",
+          "total": 368,
+          "series": [
+           92,
+           94,
+           92,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "date": "2026-10-11",
+   "venues": [
+    {
+     "host": "SSV Bad Westernkotten",
+     "hall": "Bundesliga Austragungsort",
+     "street": "Am Schottenteich 1",
+     "city": "59597 Erwitte",
+     "phone": null,
+     "referee": "Ahring, Günther",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SV Blankenheim",
+       "away": "KKV Hunstig",
+       "homeRings": 1847,
+       "awayRings": 1796,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Bingemann, Christian",
+          "total": 370,
+          "series": [
+           90,
+           91,
+           94,
+           95
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Dörschlen, Wilfried",
+          "total": 371,
+          "series": [
+           92,
+           94,
+           93,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Brandau, Daniel",
+          "total": 376,
+          "series": [
+           90,
+           94,
+           98,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Niebel, Julian",
+          "total": 359,
+          "series": [
+           89,
+           89,
+           90,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Sitte, Jessica",
+          "total": 370,
+          "series": [
+           96,
+           91,
+           95,
+           88
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Hunz, Maria",
+          "total": 364,
+          "series": [
+           86,
+           93,
+           92,
+           93
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Konrad, Michael",
+          "total": 366,
+          "series": [
+           90,
+           88,
+           95,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Birkner, Andreas",
+          "total": 352,
+          "series": [
+           90,
+           82,
+           92,
+           88
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Kaufmann, Cornelia",
+          "total": 365,
+          "series": [
+           91,
+           91,
+           91,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Spies, Alexander",
+          "total": 350,
+          "series": [
+           87,
+           82,
+           92,
+           89
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SSV Bad Westernkotten",
+       "away": "SSG Teutoburger Wald",
+       "homeRings": 1853,
+       "awayRings": 1837,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Levkovska, Hanna",
+          "total": 375,
+          "series": [
+           94,
+           95,
+           94,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Arrighi, Luca",
+          "total": 378,
+          "series": [
+           96,
+           94,
+           94,
+           94
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Müller, Peter",
+          "total": 364,
+          "series": [
+           89,
+           92,
+           90,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Krause, Stefan",
+          "total": 365,
+          "series": [
+           89,
+           92,
+           91,
+           93
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Januszek, Tobias",
+          "total": 368,
+          "series": [
+           92,
+           93,
+           94,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Kimla, Olga",
+          "total": 376,
+          "series": [
+           92,
+           98,
+           92,
+           94
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Risse, Ralf",
+          "total": 377,
+          "series": [
+           92,
+           94,
+           96,
+           95
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Münster, Frederik-Niklas",
+          "total": 367,
+          "series": [
+           92,
+           89,
+           96,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Stolzenfels, Ben",
+          "total": 369,
+          "series": [
+           88,
+           95,
+           93,
+           93
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Meiner, Lucas",
+          "total": 351,
+          "series": [
+           87,
+           89,
+           88,
+           87
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "",
+     "hall": "",
+     "street": "",
+     "city": "",
+     "phone": null,
+     "referee": "Bauscher, Werner",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SV Hettenhausen",
+       "away": "Polizei SC Dinslaken",
+       "homeRings": 1786,
+       "awayRings": 1792,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Rulischek, Kai",
+          "total": 370,
+          "series": [
+           92,
+           91,
+           93,
+           94
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Klump, Sascha",
+          "total": 363,
+          "series": [
+           92,
+           91,
+           90,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Trippel, Stephan",
+          "total": 354,
+          "series": [
+           87,
+           91,
+           84,
+           92
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Koch, Kirstin",
+          "total": 343,
+          "series": [
+           89,
+           89,
+           86,
+           79
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Grohmann, Stefan",
+          "total": 357,
+          "series": [
+           89,
+           92,
+           91,
+           85
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Beuth, Dirk",
+          "total": 363,
+          "series": [
+           87,
+           94,
+           90,
+           92
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Bauer, Stefan",
+          "total": 359,
+          "series": [
+           88,
+           89,
+           93,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Freise, Stefan",
+          "total": 353,
+          "series": [
+           91,
+           87,
+           89,
+           86
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Vogel, Jochen",
+          "total": 346,
+          "series": [
+           84,
+           86,
+           88,
+           88
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Bruns, Eike",
+          "total": 370,
+          "series": [
+           91,
+           95,
+           93,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SV Nieder-Florstadt",
+       "away": "SV Tell Rückingen",
+       "homeRings": 1824,
+       "awayRings": 1796,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": "Sonsalla, Maximilian",
+          "total": 378,
+          "series": [
+           96,
+           92,
+           94,
+           96
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Chwalek, Jens",
+          "total": 365,
+          "series": [
+           90,
+           89,
+           91,
+           95
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": "Jerke, Matthias",
+          "total": 357,
+          "series": [
+           92,
+           86,
+           91,
+           88
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Borgmann, Oliver",
+          "total": 366,
+          "series": [
+           95,
+           93,
+           90,
+           88
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Lappessen, Leo",
+          "total": 362,
+          "series": [
+           86,
+           93,
+           95,
+           88
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Harbach, Thomas",
+          "total": 365,
+          "series": [
+           84,
+           93,
+           94,
+           94
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Kraft, Wolfgang",
+          "total": 366,
+          "series": [
+           92,
+           93,
+           92,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Borgmann, Liv",
+          "total": 372,
+          "series": [
+           93,
+           90,
+           95,
+           94
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Sonsalla, Siegfried",
+          "total": 361,
+          "series": [
+           90,
+           88,
+           92,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Borgmann, Leonhard",
+          "total": 328,
+          "series": [
+           86,
+           81,
+           83,
+           78
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "date": "2026-10-25",
+   "venues": [
+    {
+     "host": "SV Tell Rückingen",
+     "hall": "Schützenhaus",
+     "street": "Hauptstr. 2",
+     "city": "63526 Erlensee",
+     "phone": "06183-6536",
+     "referee": "Schlegel, Lutz Hans",
+     "matches": [
+      {
+       "number": 1,
+       "time": "11:00",
+       "home": "SSV Bad Westernkotten",
+       "away": "KKV Hunstig",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "13:00",
+       "home": "SV Tell Rückingen",
+       "away": "SV Hettenhausen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "Polizei SC Dinslaken",
+     "hall": "Schießstand des SV Drevenack",
+     "street": "Buschweg 6",
+     "city": "46569 Hünxe",
+     "phone": null,
+     "referee": "Jacob, Hans-Gerd",
+     "matches": [
+      {
+       "number": 1,
+       "time": "11:00",
+       "home": "SSG Teutoburger Wald",
+       "away": "SV Blankenheim",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "13:00",
+       "home": "Polizei SC Dinslaken",
+       "away": "SV Nieder-Florstadt",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "date": "2026-11-29",
+   "venues": [
+    {
+     "host": "KKV Hunstig",
+     "hall": "Schießstand",
+     "street": "Zum Schießstand 15",
+     "city": "51645 Gummersbach",
+     "phone": null,
+     "referee": "Bolten, Kai",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "KKV Hunstig",
+       "away": "Polizei SC Dinslaken",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SV Tell Rückingen",
+       "away": "SSG Teutoburger Wald",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "",
+     "hall": "",
+     "street": "",
+     "city": "",
+     "phone": null,
+     "referee": "Unkelbach, Jörg",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SV Hettenhausen",
+       "away": "SV Blankenheim",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "SSV Bad Westernkotten",
+       "away": "SV Nieder-Florstadt",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "date": "2026-11-29",
+   "venues": [
+    {
+     "host": "KKV Hunstig",
+     "hall": "Schießstand",
+     "street": "Zum Schießstand 15",
+     "city": "51645 Gummersbach",
+     "phone": null,
+     "referee": "Bolten, Kai",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SSG Teutoburger Wald",
+       "away": "Polizei SC Dinslaken",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SV Tell Rückingen",
+       "away": "KKV Hunstig",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "",
+     "hall": "",
+     "street": "",
+     "city": "",
+     "phone": null,
+     "referee": "Unkelbach, Jörg",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SV Blankenheim",
+       "away": "SV Nieder-Florstadt",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SV Hettenhausen",
+       "away": "SSV Bad Westernkotten",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "date": "2027-01-10",
+   "venues": [
+    {
+     "host": "SV Blankenheim",
+     "hall": "Schützenhaus Motzfeld",
+     "street": "Am Schützenhaus 2",
+     "city": "36289 Friedewald",
+     "phone": null,
+     "referee": "Unkelbach, Jörg",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SV Blankenheim",
+       "away": "SV Tell Rückingen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "Polizei SC Dinslaken",
+       "away": "SSV Bad Westernkotten",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SSG Teutoburger Wald",
+     "hall": "Zur Fuchskuhle",
+     "street": "Zur Fuchskuhle 18",
+     "city": "49124 Bad Rothenfelde",
+     "phone": "054241320",
+     "referee": "Ahring, Günther",
+     "matches": [
+      {
+       "number": 1,
+       "time": "10:00",
+       "home": "SSG Teutoburger Wald",
+       "away": "SV Nieder-Florstadt",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "11:30",
+       "home": "KKV Hunstig",
+       "away": "SV Hettenhausen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "date": "2027-01-10",
+   "venues": [
+    {
+     "host": "SV Blankenheim",
+     "hall": "Schützenhaus Motzfeld",
+     "street": "Am Schützenhaus 2",
+     "city": "36289 Friedewald",
+     "phone": null,
+     "referee": "Unkelbach, Jörg",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "SV Tell Rückingen",
+       "away": "SSV Bad Westernkotten",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SV Blankenheim",
+       "away": "Polizei SC Dinslaken",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "host": "SSG Teutoburger Wald",
+     "hall": "Zur Fuchskuhle",
+     "street": "Zur Fuchskuhle 18",
+     "city": "49124 Bad Rothenfelde",
+     "phone": "054241320",
+     "referee": "Ahring, Günther",
+     "matches": [
+      {
+       "number": 1,
+       "time": "14:15",
+       "home": "KKV Hunstig",
+       "away": "SV Nieder-Florstadt",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      },
+      {
+       "number": 2,
+       "time": "15:45",
+       "home": "SSG Teutoburger Wald",
+       "away": "SV Hettenhausen",
+       "homeRings": 0,
+       "awayRings": 0,
+       "homePoints": 0,
+       "awayPoints": 0,
+       "played": false,
+       "pairs": [
+        {
+         "position": 1,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 2,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": null,
+          "total": 0,
+          "series": [
+           0,
+           0,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "teams": [
+  {
+   "name": "SSG Teutoburger Wald",
+   "setlist": {
+    "updatedAt": "2026-10-11T09:35",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Waldvogt, Jan - Hendrik",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 378.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Arrighi, Luca",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 376.33,
+      "results": [
+       363,
+       378,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Krause, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.75,
+      "results": [
+       367,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Kimla, Olga",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.17,
+      "results": [
+       367,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Münster, Frederik-Niklas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361.67,
+      "results": [
+       358,
+       367,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Meister, Nathalie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Quittschau, Michael",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 354.5,
+      "results": [
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Meiner, Lucas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 348,
+      "results": [
+       0,
+       351,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Schröder, Nikolas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 346,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/EB45A993-1402-499B-AF6F-D4C2FD1AD848/3041",
+   "club": {
+    "name": "SSG Teutoburger Wald e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Zur Fuchskuhle 18",
+    "city": "49124 Bad Rothenfelde",
+    "website": "https://www.ssg-teuto.de"
+   }
+  },
+  {
+   "name": "SV Hettenhausen",
+   "setlist": {
+    "updatedAt": "2026-07-26T12:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Rulischek, Kai",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 370,
+      "results": [
+       369,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Trippel, Stephan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363,
+      "results": [
+       359,
+       354,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Morawietz, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361.29,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Grohmann, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360.86,
+      "results": [
+       370,
+       357,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Bauer, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358.5,
+      "results": [
+       353,
+       359,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Vogel, Jochen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 354,
+      "results": [
+       360,
+       346,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Reuß, Uwe",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DDA72481-43FA-46F4-A180-D24030F3EC9D/3041",
+   "club": {
+    "name": "SV Hettenhausen",
+    "federation": "Hessischer Schützenverband",
+    "street": "Weyherser Weg 15a",
+    "city": "36129 Gersfeld-Hettenhausen",
+    "website": "https://schuetenverein-hettenhausen.de"
+   }
+  },
+  {
+   "name": "SV Blankenheim",
+   "setlist": {
+    "updatedAt": "2026-09-17T08:46",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Bingemann, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371.29,
+      "results": [
+       371,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Brandau, Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.29,
+      "results": [
+       380,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Hucke, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Sitte, Jessica",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 363.2,
+      "results": [
+       371,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Hucke, Erik",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360.8,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Ziehn, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kaufmann, Cornelia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       363,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Konrad, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       357,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BD8810D1-875A-474F-A0CF-F2DF3DB40021/3041",
+   "club": {
+    "name": "SV Blankenheim",
+    "federation": "Hessischer Schützenverband",
+    "street": "Lämmerbergstraße 2",
+    "city": "36179 Bebra",
+    "website": null
+   }
+  },
+  {
+   "name": "Polizei SC Dinslaken",
+   "setlist": {
+    "updatedAt": "2026-10-10T08:54",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Klump, Sascha",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       373,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Thünemann, Florian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 369.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Sersch, Philipp",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 365,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Koch, Kirstin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.5,
+      "results": [
+       355,
+       343,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Beuth, Dirk",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360.43,
+      "results": [
+       349,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Freise, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 354.8,
+      "results": [
+       349,
+       353,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Rühl, Marion",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 349.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Joachim, Dennis",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Bruns, Eike",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 0,
+      "results": [
+       368,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Korte, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "König, Sascha",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Decker, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/201EF92E-666E-4DA5-B928-8E21E8D04AFE/3041",
+   "club": {
+    "name": "Polizei SC Dinslaken e.V. - SpSch",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Am Stadtbad 1",
+    "city": "46537 Dinslaken",
+    "website": "https://www.pssc-dinslaken.de"
+   }
+  },
+  {
+   "name": "SV Tell Rückingen",
+   "setlist": {
+    "updatedAt": "2026-08-17T12:09",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Chwalek, Jens",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.67,
+      "results": [
+       371,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Borgmann, Oliver",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.43,
+      "results": [
+       352,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Harbach, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.14,
+      "results": [
+       368,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Borgmann, Liv",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.14,
+      "results": [
+       373,
+       372,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Joswig, Yvo",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 351.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Borgmann, Leonhard",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 346.75,
+      "results": [
+       337,
+       328,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Sczeburek, Frank",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Schaaf, Wilhelm",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E284CD1D-C18B-423D-99DB-FAB7DE058F48/3041",
+   "club": {
+    "name": "SV Tell Rückingen",
+    "federation": "Hessischer Schützenverband",
+    "street": "Hauptstraße 2",
+    "city": "63526 Erlensee",
+    "website": "https://tell-rueckingen.de/"
+   }
+  },
+  {
+   "name": "SSV Bad Westernkotten",
+   "setlist": {
+    "updatedAt": "2026-10-11T09:39",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Lütkevedder, Gregor",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 374.29,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Levkovska, Hanna",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 369.86,
+      "results": [
+       367,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Müller, Peter",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369.67,
+      "results": [
+       364,
+       364,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Januszek, Tobias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.86,
+      "results": [
+       378,
+       368,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Risse, Ralf",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.71,
+      "results": [
+       367,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Düsing, Sascha",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Stolzenfels, Ben",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.29,
+      "results": [
+       371,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Rudi, Andrey",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 364.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Busch, Holger",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.6,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Neise, Klaus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.25,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Thiemeyer, Patrick",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 357.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Rath, Florian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/78EB5B4D-65FE-4E1E-9E4C-BB8CDEC96BB9/3041",
+   "club": {
+    "name": "SSV Bad Westernkotten",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Am Schottenteich 1",
+    "city": "59597 Erwitte",
+    "website": "https://www.ssvbwk.de"
+   }
+  },
+  {
+   "name": "SV Nieder-Florstadt",
+   "setlist": {
+    "updatedAt": "2026-07-05T12:53",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Sonsalla, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369.71,
+      "results": [
+       374,
+       378,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Lexa, Roman",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Jerke, Matthias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367,
+      "results": [
+       357,
+       357,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Lappessen, Leo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.4,
+      "results": [
+       369,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kraft, Jessica",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Kraft, Wolfgang",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358.33,
+      "results": [
+       352,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Wisniewski, Patrick",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 352.3,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Kraft, Klaus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 346.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Sonsalla, Siegfried",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 335,
+      "results": [
+       357,
+       361,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/98071824-C1DA-4A9E-B668-B6E2489BE52D/3041",
+   "club": {
+    "name": "SV Nieder-Florstadt",
+    "federation": "Hessischer Schützenverband",
+    "street": "Freiherr vom Stein Straße 7",
+    "city": "61197 Florstadt",
+    "website": "https://www.schuetzenverein-florstadt.info/sv/"
+   }
+  },
+  {
+   "name": "KKV Hunstig",
+   "setlist": {
+    "updatedAt": "2026-07-14T17:59",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Dörschlen, Wilfried",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.67,
+      "results": [
+       365,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Niebel, Julian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366,
+      "results": [
+       362,
+       359,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Blatzheim, Marc",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 364,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Hunz, Maria",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360.6,
+      "results": [
+       354,
+       364,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Birkner, Andreas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 350,
+      "results": [
+       343,
+       352,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Spies, Alexander",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 0,
+      "results": [
+       346,
+       350,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Birkner, Vivienne",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Seeber, Frank",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A4174CC4-89EB-494D-9635-191DCDD805D5/3041",
+   "club": {
+    "name": "KKV Hunstig e.V.",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Zum Schießstand 15",
+    "city": "51645 Gummersbach",
+    "website": "https://kkv-hunstig.de"
+   }
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "generatedAt": "2026-10-12T11:42:28.494Z",
+ "leagues": [
+  {
+   "id": "luftpistole/1-bl-nord",
+   "discipline": "luftpistole",
+   "slug": "1-bl-nord",
+   "name": "1. BL Nord",
+   "url": "https://bundesliga.dsb.de/luftpistole/1-bl-nord",
+   "file": "luftpistole-1-bl-nord.json"
+  },
+  {
+   "id": "luftpistole/1-bl-sued",
+   "discipline": "luftpistole",
+   "slug": "1-bl-sued",
+   "name": "1. BL Süd",
+   "url": "https://bundesliga.dsb.de/luftpistole/1-bl-sued",
+   "file": "luftpistole-1-bl-sued.json"
+  },
+  {
+   "id": "luftpistole/2-bl-nord",
+   "discipline": "luftpistole",
+   "slug": "2-bl-nord",
+   "name": "2. BL Nord",
+   "url": "https://bundesliga.dsb.de/luftpistole/2-bl-nord",
+   "file": "luftpistole-2-bl-nord.json"
+  },
+  {
+   "id": "luftpistole/2-bl-ost",
+   "discipline": "luftpistole",
+   "slug": "2-bl-ost",
+   "name": "2. BL Ost",
+   "url": "https://bundesliga.dsb.de/luftpistole/2-bl-ost",
+   "file": "luftpistole-2-bl-ost.json"
+  },
+  {
+   "id": "luftpistole/2-bl-west",
+   "discipline": "luftpistole",
+   "slug": "2-bl-west",
+   "name": "2. BL West",
+   "url": "https://bundesliga.dsb.de/luftpistole/2-bl-west",
+   "file": "luftpistole-2-bl-west.json"
+  },
+  {
+   "id": "luftpistole/2-bl-suedwest",
+   "discipline": "luftpistole",
+   "slug": "2-bl-suedwest",
+   "name": "2. BL Südwest",
+   "url": "https://bundesliga.dsb.de/luftpistole/2-bl-suedwest",
+   "file": "luftpistole-2-bl-suedwest.json"
+  },
+  {
+   "id": "luftpistole/2-bl-sued",
+   "discipline": "luftpistole",
+   "slug": "2-bl-sued",
+   "name": "2. BL Süd",
+   "url": "https://bundesliga.dsb.de/luftpistole/2-bl-sued",
+   "file": "luftpistole-2-bl-sued.json"
+  },
+  {
+   "id": "luftgewehr/1-bl-nord",
+   "discipline": "luftgewehr",
+   "slug": "1-bl-nord",
+   "name": "1. BL Nord",
+   "url": "https://bundesliga.dsb.de/luftgewehr/1-bl-nord",
+   "file": "luftgewehr-1-bl-nord.json"
+  },
+  {
+   "id": "luftgewehr/1-bl-sued",
+   "discipline": "luftgewehr",
+   "slug": "1-bl-sued",
+   "name": "1. BL Süd",
+   "url": "https://bundesliga.dsb.de/luftgewehr/1-bl-sued",
+   "file": "luftgewehr-1-bl-sued.json"
+  },
+  {
+   "id": "luftgewehr/2-bl-nord",
+   "discipline": "luftgewehr",
+   "slug": "2-bl-nord",
+   "name": "2. BL Nord",
+   "url": "https://bundesliga.dsb.de/luftgewehr/2-bl-nord",
+   "file": "luftgewehr-2-bl-nord.json"
+  },
+  {
+   "id": "luftgewehr/2-bl-ost",
+   "discipline": "luftgewehr",
+   "slug": "2-bl-ost",
+   "name": "2. BL Ost",
+   "url": "https://bundesliga.dsb.de/luftgewehr/2-bl-ost",
+   "file": "luftgewehr-2-bl-ost.json"
+  },
+  {
+   "id": "luftgewehr/2-bl-west",
+   "discipline": "luftgewehr",
+   "slug": "2-bl-west",
+   "name": "2. BL West",
+   "url": "https://bundesliga.dsb.de/luftgewehr/2-bl-west",
+   "file": "luftgewehr-2-bl-west.json"
+  },
+  {
+   "id": "luftgewehr/2-bl-suedwest",
+   "discipline": "luftgewehr",
+   "slug": "2-bl-suedwest",
+   "name": "2. BL Südwest",
+   "url": "https://bundesliga.dsb.de/luftgewehr/2-bl-suedwest",
+   "file": "luftgewehr-2-bl-suedwest.json"
+  },
+  {
+   "id": "luftgewehr/2-bl-sued",
+   "discipline": "luftgewehr",
+   "slug": "2-bl-sued",
+   "name": "2. BL Süd",
+   "url": "https://bundesliga.dsb.de/luftgewehr/2-bl-sued",
+   "file": "luftgewehr-2-bl-sued.json"
+  }
+ ]
+}

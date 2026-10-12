@@ -1,0 +1,59 @@
+name: Crawl DSB data
+
+# Browsers cannot read bundesliga.dsb.de directly (CORS), so this job fetches the data
+# and commits it as JSON. Match weekends (Sat/Sun) are crawled every 15 minutes,
+# the rest of the week once per hour.
+on:
+  schedule:
+    - cron: "*/15 * * * 6,0"
+    - cron: "17 * * * 1-5"
+  workflow_dispatch:
+    inputs:
+      refresh_clubs:
+        description: Re-read club pages as well
+        type: boolean
+        default: false
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Crawl
+        run: npm run crawl -- ${{ inputs.refresh_clubs && '--refresh-clubs' || '' }}
+      - name: Commit changed data
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "No changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore(data): update crawled results"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy:
+    needs: crawl
+    if: needs.crawl.outputs.changed == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml

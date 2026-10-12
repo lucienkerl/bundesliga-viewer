@@ -1,0 +1,30 @@
+{
+  "name": "bundesliga-viewer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Public viewer for the DSB Bundesliga (air rifle and air pistol)",
+  "license": "MIT",
+  "scripts": {
+    "crawl": "tsx crawler/index.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "domhandler": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.4"
+  }
+}
