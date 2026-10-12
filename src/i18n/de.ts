@@ -14,7 +14,7 @@ export const de = {
   print: 'Drucken',
   image: 'Bild',
   printTitle: 'Wettkampfbogen drucken oder als PDF speichern',
-  imageTitle: 'Als Bild herunterladen, z. B. für den WhatsApp-Status',
+  imageTitle: 'Bild in neuem Tab öffnen, dort speichern, teilen oder kopieren (z. B. für den WhatsApp-Status)',
   shootOff: 'Stechen',
   teamPoints: 'Mannschaft',
   singlePoints: 'Einzel',
@@ -72,7 +72,7 @@ export const de = {
   dataAsOf: (when: string) => `Daten zuletzt geändert ${when}`,
   source: 'Quelle: bundesliga.dsb.de · inoffiziell',
   sheet: {
-    save: 'Als Bild speichern',
+    save: 'Bild öffnen',
     print: 'Drucken / als PDF speichern',
     popup: 'Pop-up wurde blockiert. Bitte Pop-ups für diese Seite erlauben.',
     printedAt: (when: string) => `Ausdruck vom ${when}, erzeugt aus bundesliga.dsb.de`,

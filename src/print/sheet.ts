@@ -30,7 +30,7 @@ export function renderSheet(ctx: SheetContext, imageUrl: string): string {
   return `<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(m.home)} - ${esc(m.away)} (${esc(fullDate(ctx.date))})</title>
 <style>${CSS}</style></head><body>
-<div class="bar"><a class="dl" download="${esc(m.home)} - ${esc(m.away)} ${esc(fullDate(ctx.date))}.png" href="${imageUrl}">${de.sheet.save}</a><button onclick="window.print()">${de.sheet.print}</button></div>
+<div class="bar"><button id="img" disabled>${de.sheet.save}</button><button onclick="window.print()">${de.sheet.print}</button></div>
 <div class="sheet">
   <div class="league"><div class="l">${esc(ctx.league)}</div><div class="r"><b>${esc(de.matchDay(ctx.day))}</b>${esc(fullDate(ctx.date))}${m.time ? ` · ${esc(m.time)} Uhr` : ''}</div></div>
   <h1>${logoImg(ctx.homeLogo, 'logo')}${esc(m.home)} <span class="vs">–</span> ${esc(m.away)}${logoImg(ctx.awayLogo, 'logo')}</h1>
@@ -46,7 +46,15 @@ export function renderSheet(ctx: SheetContext, imageUrl: string): string {
   </table>
   <div class="space"></div>
   <div class="foot">${esc(de.sheet.printedAt(new Date().toLocaleString('de-DE')))}</div>
-</div></body></html>`;
+</div>
+<script>
+// Prepare the image as a blob first, so opening it in a new tab happens synchronously inside the click.
+fetch(${JSON.stringify(imageUrl)}).then(function (r) { return r.blob(); }).then(function (b) {
+  var url = URL.createObjectURL(b), btn = document.getElementById('img');
+  btn.disabled = false;
+  btn.onclick = function () { window.open(url, '_blank'); };
+});
+</script></body></html>`;
 }
 
 const CSS = `
@@ -57,6 +65,7 @@ body { font: 13px/1.3 "Helvetica Neue", Arial, sans-serif; color: #0f172a; margi
 .bar { position: sticky; top: 0; background: #f1f5f9; border-bottom: 1px solid #cbd5e1; padding: 8px 16px; text-align: right; }
 .bar button, .bar a.dl { font: inherit; padding: 5px 16px; margin-left: 8px; border: 1px solid #767676; border-radius: 3px; background: #efefef; color: #000; text-decoration: none; display: inline-block; cursor: pointer; }
 @media print { .bar { display: none; } }
+.bar button:disabled { opacity: .5; cursor: default; }
 .sheet { padding: 6mm 2mm; }
 .league { background: var(--accent); color: #fff; border-radius: 10px; padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; }
 .league .l { font-size: 34px; font-weight: 800; letter-spacing: -.5px; }

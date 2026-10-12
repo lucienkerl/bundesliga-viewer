@@ -4,7 +4,7 @@ import { de } from './i18n/de';
 import { loadIndex, loadLeague, type DataIndex } from './lib/data';
 import { disciplineLabel, esc, leagueLong, leagueTitle } from './lib/format';
 import { buildHash, DEFAULT_ROUTE, leagueId, parseHash, type Route, type View } from './lib/route';
-import { downloadImage, openSheet } from './print/actions';
+import { openImage, openSheet } from './print/actions';
 import type { SheetContext } from './print/types';
 import { lastLineup } from './lib/days';
 import { teamLogo } from './lib/logo';
@@ -119,7 +119,7 @@ app.addEventListener('click', (ev) => {
     ui.open.has(key) ? ui.open.delete(key) : ui.open.add(key);
   } else if ((action === 'print' || action === 'image') && key) {
     const ctx = sheetContext(key);
-    if (ctx) void (action === 'print' ? openSheet(ctx) : downloadImage(ctx));
+    if (ctx) void (action === 'print' ? openSheet(ctx) : openImage(ctx));
     return;
   } else if (action === 'sv') {
     ui.setlistView = value as UiState['setlistView'];
