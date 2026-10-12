@@ -4,7 +4,8 @@ import type { LeagueData, Team } from '../../shared/types';
 import { de } from '../i18n/de';
 import { lastLineup, remainingMatchDays } from '../lib/days';
 import { avg, dateTime, esc, fullDate } from '../lib/format';
-import { buildHash, leagueId } from '../lib/route';
+import { logoHref, logoImg } from '../lib/logo';
+import { leagueId } from '../lib/route';
 import type { ViewContext } from './state';
 
 export function renderTeams(ctx: ViewContext): string {
@@ -27,7 +28,7 @@ function renderClub(team: Team, data: LeagueData): string {
     c?.website ? `<a href="${esc(c.website)}" rel="noopener" target="_blank">${de.website}</a>` : '',
     homeDays.length ? `<span>${de.homeMatches}: ${esc(homeDays.join(', '))}</span>` : '',
   ].filter(Boolean);
-  return `<section class="card pad club"><h2>${esc(team.name)}</h2><p class="muted club-lines">${lines.join('<br>')}</p></section>`;
+  return `<section class="card pad club">${logoImg(logoHref(c?.logo), 'logo-lg')}<h2>${esc(team.name)}</h2><p class="muted club-lines">${lines.join('<br>')}</p></section>`;
 }
 
 function statusLabel(row: SeedingRow, remaining: number): { text: string; tone: 'ok' | 'info' } {

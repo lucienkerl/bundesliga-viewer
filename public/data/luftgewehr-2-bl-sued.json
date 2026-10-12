@@ -10460,7 +10460,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Sontheimer Straße 7",
     "city": "91438 Bad Windsheim",
-    "website": "https://www.sv1889.de"
+    "website": "https://www.sv1889.de",
+    "logo": "logos/E1DC7768-5C9B-4F45-BEBB-6B4D971650F5.webp"
    }
   },
   {
@@ -10616,7 +10617,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Altöttinger Str. 36",
     "city": "84518 Garching a.d. Alz",
-    "website": "https://www.falkenschuetzen-mauerberg.de"
+    "website": "https://www.falkenschuetzen-mauerberg.de",
+    "logo": "logos/BB52F911-4753-4A5A-B429-304D85665C24.webp"
    }
   },
   {
@@ -10852,7 +10854,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Servetstr. 1",
     "city": "80999 München Ot. Allach",
-    "website": "https://www.derbund.de"
+    "website": "https://www.derbund.de",
+    "logo": "logos/F5F74B8B-2D47-4404-B38D-5B1CA68C68D9.webp"
    }
   },
   {
@@ -11028,7 +11031,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Bettbrunner Strasse 18",
     "city": "93336 Mendorf",
-    "website": "https://www.sv-edelweiss-mendorf.de/"
+    "website": "https://www.sv-edelweiss-mendorf.de/",
+    "logo": "logos/C141B6BD-1B54-4128-A037-FBC9583822FA.webp"
    }
   },
   {
@@ -11264,7 +11268,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Kronacher Str. 63",
     "city": "90765 Fürth",
-    "website": "https://SSG-RWS.de"
+    "website": "https://SSG-RWS.de",
+    "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
    }
   },
   {
@@ -11460,7 +11465,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Axelbachstr. 11",
     "city": "85283 Niederlauterbach",
-    "website": "https://www.sportschuetzen-niederlauterbach.de"
+    "website": "https://www.sportschuetzen-niederlauterbach.de",
+    "logo": "logos/B4A33213-DB17-472A-9B7D-CCA4B9061D6A.webp"
    }
   },
   {
@@ -11696,7 +11702,8 @@
     "federation": "Oberpfälzer Schützenbund",
     "street": "Jahnstraße 6",
     "city": "95506 Kastl",
-    "website": "http://www.sportschuetzen-kastl.de/"
+    "website": "http://www.sportschuetzen-kastl.de/",
+    "logo": "logos/58348C25-323A-47A2-B157-23910F03E24B.webp"
    }
   },
   {
@@ -11892,7 +11899,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Hauptstraße 3",
     "city": "84435 Lengdorf",
-    "website": "https://www.isental-lengdorf.de"
+    "website": "https://www.isental-lengdorf.de",
+    "logo": "logos/69A01603-ED8A-4C49-A805-C0FF967318E8.webp"
    }
   },
   {
@@ -12168,7 +12176,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Am Kreuzberg 27",
     "city": "85135 Titting",
-    "website": "https://fsg-titting.de"
+    "website": "https://fsg-titting.de",
+    "logo": "logos/63416D72-DCCA-45A9-B311-B07C3CE5AED0.webp"
    }
   },
   {
@@ -12364,7 +12373,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Moosstr. 21",
     "city": "85368 Moosburg a.d. Isar/Aich",
-    "website": "https://sgaich.de"
+    "website": "https://sgaich.de",
+    "logo": null
    }
   },
   {
@@ -12540,7 +12550,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Moosburger Str. 8A",
     "city": "84172 Niedererlbach",
-    "website": "https://erlbachtaler-schuetzen.de"
+    "website": "https://erlbachtaler-schuetzen.de",
+    "logo": "logos/FE1F415C-9C75-4C14-BB42-088982CFE20A.webp"
    }
   },
   {
@@ -12776,7 +12787,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Illerstraße 28",
     "city": "89269 Vöhringen",
-    "website": "https://schuetzenverein-voehringen.de/"
+    "website": "https://schuetzenverein-voehringen.de/",
+    "logo": "logos/B4AB2FA3-5364-4F7B-A725-6E10583BEE81.webp"
    }
   }
  ]

@@ -4678,7 +4678,8 @@
     "federation": "Badischer Sportschützenverband",
     "street": "Im Mühlhag",
     "city": "76709 Kronau",
-    "website": "https://www.ssv-kronau.de"
+    "website": "https://www.ssv-kronau.de",
+    "logo": "logos/DB774446-A4FB-423D-9867-463701242382.webp"
    }
   },
   {
@@ -4870,7 +4871,8 @@
     "federation": "Südbadischer Sportschützenverband",
     "street": "Badhausstr. 27",
     "city": "79423 Heitersheim",
-    "website": "https://www.kksv-heitersheim.de"
+    "website": "https://www.kksv-heitersheim.de",
+    "logo": "logos/725CB960-B1CC-4556-B089-2E517AEBCC02.webp"
    }
   },
   {
@@ -5078,7 +5080,8 @@
     "federation": "Württembergischer Schützenverband",
     "street": "Strut 4",
     "city": "73492 Rainau",
-    "website": "https://www.schuetzenverein-buch.de/"
+    "website": "https://www.schuetzenverein-buch.de/",
+    "logo": null
    }
   },
   {
@@ -5286,7 +5289,8 @@
     "federation": "Pfälzischer Sportschützenbund",
     "street": "Am Schützenhaus 1",
     "city": "76831 Billigheim-Ingenheim",
-    "website": "https://www.sv-appenhofen.de/"
+    "website": "https://www.sv-appenhofen.de/",
+    "logo": "logos/7EB506A0-2AAF-46B5-8346-AFEB2FDCF838.webp"
    }
   },
   {
@@ -5478,7 +5482,8 @@
     "federation": "Württembergischer Schützenverband",
     "street": "Lembergweg 60",
     "city": "71563 Affalterbach",
-    "website": "https://www.svaffalterbach.de/"
+    "website": "https://www.svaffalterbach.de/",
+    "logo": "logos/7884AA2C-66CC-4296-8587-BED5C58C13D5.webp"
    }
   },
   {
@@ -5734,7 +5739,8 @@
     "federation": "Südbadischer Sportschützenverband",
     "street": "Außer Ort 6",
     "city": "78086 Brigachtal",
-    "website": "https://sportschuetzen-brigachtal.de/"
+    "website": "https://sportschuetzen-brigachtal.de/",
+    "logo": "logos/43F66D91-329C-4EB0-8D22-B3DDC4A27D4F.webp"
    }
   },
   {
@@ -5878,7 +5884,8 @@
     "federation": "Pfälzischer Sportschützenbund",
     "street": "Fleckensteinweg 2",
     "city": "76751 Jockgrim",
-    "website": null
+    "website": null,
+    "logo": "logos/C236AB22-B033-49BA-B486-5075537157D4.webp"
    }
   },
   {
@@ -6086,7 +6093,8 @@
     "federation": "Pfälzischer Sportschützenbund",
     "street": "Im Kobertal",
     "city": "67706 Schopp",
-    "website": "http://www.ssv-schopp.de/"
+    "website": "http://www.ssv-schopp.de/",
+    "logo": "logos/7E4E3103-FA1E-4466-8A59-B16EA784D72F.webp"
    }
   }
  ]

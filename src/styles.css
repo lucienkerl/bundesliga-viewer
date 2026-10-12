@@ -29,7 +29,7 @@ button { cursor: pointer; }
 
 .top { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding: 4px 0 8px; }
 .brand { display: flex; align-items: baseline; gap: 8px; }
-.brand .logo { font-size: 20px; }
+.brand .mark { font-size: 20px; }
 .brand .name { font-weight: 700; font-size: 17px; }
 select { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; max-width: 100%; }
 .tabs { display: flex; border-bottom: 1px solid var(--line); margin-bottom: 14px; overflow-x: auto; }
@@ -101,3 +101,9 @@ td a { text-decoration: none; font-weight: 600; }
   .match-head { grid-template-columns: 38px 1fr auto 1fr; gap: 6px; padding: 10px 8px; }
   .match-head .team { font-size: 13px; }
 }
+
+.logo { width: 22px; height: 22px; object-fit: contain; flex: none; border-radius: 4px; background: #fff; }
+.logo-lg { float: right; width: 64px; height: 64px; object-fit: contain; border-radius: 8px; background: #fff; margin: 0 0 4px 12px; }
+.match-head .team { display: flex; align-items: center; gap: 6px; }
+.match-head .team.away { justify-content: flex-end; text-align: right; }
+a.with-logo { display: inline-flex; align-items: center; gap: 8px; }

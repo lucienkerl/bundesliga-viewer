@@ -10420,7 +10420,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Obersorfstraße 24",
     "city": "89368 Winterbach Ot. Waldkirch",
-    "website": null
+    "website": null,
+    "logo": "logos/FE3CF56F-0576-4617-A57F-75F95CCDFAC4.webp"
    }
   },
   {
@@ -10596,7 +10597,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Lettenberg 2",
     "city": "83553 Frauenneuharting",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -10732,7 +10734,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Grund 2",
     "city": "94099 Ruhstorf a. d. Rott",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -10948,7 +10951,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Wildbachstrasse 15",
     "city": "84036 Landshut",
-    "website": "https://www.wildbachschuetzen-landshut.de"
+    "website": "https://www.wildbachschuetzen-landshut.de",
+    "logo": "logos/9636897C-DC5C-494F-A092-AA484BF7B787.webp"
    }
   },
   {
@@ -11104,7 +11108,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Servetstr. 1",
     "city": "80999 München Ot. Allach",
-    "website": "https://www.derbund.de"
+    "website": "https://www.derbund.de",
+    "logo": "logos/F5F74B8B-2D47-4404-B38D-5B1CA68C68D9.webp"
    }
   },
   {
@@ -11360,7 +11365,8 @@
     "federation": "Oberpfälzer Schützenbund",
     "street": "Föhrenstraße 13",
     "city": "92449 Steinberg am See",
-    "website": "https://auerhahn-schuetzen-steinberg.jimdofree.com/"
+    "website": "https://auerhahn-schuetzen-steinberg.jimdofree.com/",
+    "logo": "logos/0F4A7FE9-1AC4-4734-9D2E-5ABFFF3AE5EF.webp"
    }
   },
   {
@@ -11576,7 +11582,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Schützenstraße 1",
     "city": "90592 Schwarzenbruck",
-    "website": "https://www.schuetzenverein-pfeifferhuette.de/"
+    "website": "https://www.schuetzenverein-pfeifferhuette.de/",
+    "logo": "logos/8885E8B8-CC8F-4505-9385-954DA57C245C.webp"
    }
   },
   {
@@ -11792,7 +11799,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Kiefersau 138",
     "city": "83646 Bad Tölz OT Wackersberg",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -12008,7 +12016,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Zielstattstr. 6",
     "city": "81379 München",
-    "website": "https://www.hauptschuetzen.de"
+    "website": "https://www.hauptschuetzen.de",
+    "logo": "logos/7AC32355-DE44-4AA1-A690-0169E5CBD39E.webp"
    }
   },
   {
@@ -12224,7 +12233,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Buchenweg 9",
     "city": "86937 Scheuring",
-    "website": "https://www.edelweiss-scheuring.de"
+    "website": "https://www.edelweiss-scheuring.de",
+    "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
    }
   },
   {
@@ -12420,7 +12430,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Schulstraße 17",
     "city": "96237 Ebersdorf",
-    "website": "https://www.sg-ebersdorf.de"
+    "website": "https://www.sg-ebersdorf.de",
+    "logo": "logos/E48EFC7F-C837-4546-8391-E4354C7246F2.webp"
    }
   },
   {
@@ -12656,7 +12667,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Erlengrund 24",
     "city": "94496 Ortenburg",
-    "website": "https://www.adlerschuetzen.de"
+    "website": "https://www.adlerschuetzen.de",
+    "logo": "logos/07AF36CD-C53A-4D38-B804-3F439EECA915.webp"
    }
   }
  ]

@@ -4397,7 +4397,8 @@
     "federation": "Sächsischer Schützenbund",
     "street": "Georgewitzer Straße 46 B",
     "city": "02708 Löbau",
-    "website": "https://www.psgloebau.de"
+    "website": "https://www.psgloebau.de",
+    "logo": null
    }
   },
   {
@@ -4569,7 +4570,8 @@
     "federation": "Brandenburgischer Schützenbund",
     "street": "Eisenhüttenstädter Chaussee 55",
     "city": "15236 Frankfurt (Oder)",
-    "website": "https://www.sgi-ffo.de"
+    "website": "https://www.sgi-ffo.de",
+    "logo": "logos/5A3F1062-08A1-47B8-8949-D66D650E0015.webp"
    }
   },
   {
@@ -4845,7 +4847,8 @@
     "federation": "Schützenverband Berlin - Brandenburg",
     "street": "Kirschweg 23",
     "city": "12524 Berlin",
-    "website": "https://psv-olympia.de"
+    "website": "https://psv-olympia.de",
+    "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
    }
   },
   {
@@ -5004,7 +5007,8 @@
     "federation": "Brandenburgischer Schützenbund",
     "street": "Michendorfer Chaussee 16 a",
     "city": "14473 Potsdam",
-    "website": "https://www.sgpotsdam.de/"
+    "website": "https://www.sgpotsdam.de/",
+    "logo": "logos/15B333FA-02C9-4F56-9DF7-4A174E02D7A6.webp"
    }
   },
   {
@@ -5124,7 +5128,8 @@
     "federation": "Schützenverband Berlin - Brandenburg",
     "street": "Onkel-Tom-Str. 42",
     "city": "14169 Berlin",
-    "website": "https://zehlendorfer-schuetzengilde.de"
+    "website": "https://zehlendorfer-schuetzengilde.de",
+    "logo": "logos/DAC0F735-1618-4519-80DC-7F1251CE45E3.webp"
    }
   },
   {
@@ -5257,7 +5262,8 @@
     "federation": "Landesschützenverband Sachsen-Anhalt",
     "street": "Halberstädter Str.",
     "city": "39397 Gröningen/Bode",
-    "website": "https://g-sv.de/"
+    "website": "https://g-sv.de/",
+    "logo": "logos/08F0C6A8-1CD7-4C6D-A0BF-B5E19FA0C6DA.webp"
    }
   },
   {
@@ -5364,7 +5370,8 @@
     "federation": "Landesschützenverband Mecklenburg-Vorpommern",
     "street": "Blumenthal 7A",
     "city": "17379 Ferdinandshof",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -5536,7 +5543,8 @@
     "federation": "Schützenverband Berlin - Brandenburg",
     "street": "Hermann-Hesse-Straße 82",
     "city": "13156 Berlin",
-    "website": "https://www.svsh.org"
+    "website": "https://www.svsh.org",
+    "logo": "logos/D2B68C4C-A1F9-47BB-BAAB-D9902F2A8855.webp"
    }
   }
  ]

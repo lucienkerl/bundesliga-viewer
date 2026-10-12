@@ -1,6 +1,7 @@
 import { de } from '../i18n/de';
 import { defaultDay, isPlayed } from '../lib/days';
 import { dayMonth, esc, weekdayDate } from '../lib/format';
+import { logoImg, teamLogo } from '../lib/logo';
 import { buildHash } from '../lib/route';
 import type { Match, Pair, Shooter } from '../../shared/types';
 import { matchKey, type ViewContext } from './state';
@@ -53,7 +54,7 @@ function renderMatch(m: Match, key: string, ctx: ViewContext): string {
   return `<article class="card match">
     <button class="match-head" data-action="toggle" data-key="${key}" aria-expanded="${open}">
       <span class="time dim">${esc(m.time)}</span>
-      <span class="team home">${esc(m.home)}</span>${score}<span class="team away">${esc(m.away)}</span>
+      <span class="team home">${logoImg(teamLogo(ctx.data, m.home))}<span>${esc(m.home)}</span></span>${score}<span class="team away"><span>${esc(m.away)}</span>${logoImg(teamLogo(ctx.data, m.away))}</span>
     </button>${body}</article>`;
 }
 

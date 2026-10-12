@@ -7,6 +7,7 @@ import { buildHash, DEFAULT_ROUTE, leagueId, parseHash, type Route, type View } 
 import { downloadImage, openSheet } from './print/actions';
 import type { SheetContext } from './print/types';
 import { lastLineup } from './lib/days';
+import { teamLogo } from './lib/logo';
 import { renderDays } from './views/days';
 import { matchKey, type UiState } from './views/state';
 import { renderTable } from './views/table';
@@ -76,7 +77,7 @@ function header(): string {
   const tab = (v: View) =>
     `<a class="tab ${route.view === v ? 'on' : ''}" href="${buildHash({ ...route, view: v, param: null })}">${de.tabs[v]}</a>`;
   return `<header class="top">
-    <div class="brand"><span class="logo" aria-hidden="true">◎</span><span class="name">${de.appName}</span><span class="dim">${de.season}</span></div>
+    <div class="brand"><span class="mark" aria-hidden="true">◎</span><span class="name">${de.appName}</span><span class="dim">${de.season}</span></div>
     <label class="league-pick"><span class="sr-only">Liga</span><select data-action="league">${groups}</select></label>
   </header>
   <nav class="tabs">${tab('tage')}${tab('tabelle')}${tab('teams')}</nav>`;
@@ -105,7 +106,9 @@ function sheetContext(key: string): SheetContext | null {
   const [d, v, m] = key.split('-').map(Number);
   const day = data.matchDays.find((x) => x.number === d);
   const match = day?.venues[v ?? -1]?.matches[m ?? -1];
-  return day && match ? { league: leagueTitle(data.league), day: day.number, date: day.date, match } : null;
+  return day && match
+    ? { league: leagueTitle(data.league), day: day.number, date: day.date, match, homeLogo: teamLogo(data, match.home), awayLogo: teamLogo(data, match.away) }
+    : null;
 }
 
 app.addEventListener('click', (ev) => {

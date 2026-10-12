@@ -99,6 +99,8 @@ export interface Club {
   street: string | null;
   city: string | null;
   website: string | null;
+  /** Logo file below the data directory (e.g. "logos/ABC.jpg"), or null. Downloaded by the crawler. */
+  logo: string | null;
 }
 
 export interface Team {

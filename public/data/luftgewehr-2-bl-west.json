@@ -4526,7 +4526,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "Am Mühlenteich 10a",
     "city": "33106 Paderborn",
-    "website": "https://www.ssv-elsen.de"
+    "website": "https://www.ssv-elsen.de",
+    "logo": "logos/92E37536-D505-4F28-825D-9DB509844670.webp"
    }
   },
   {
@@ -4702,7 +4703,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "Bülsestraße 65",
     "city": "45896 Gelsenkirchen",
-    "website": "https://bsv-buer-buelse.de/"
+    "website": "https://bsv-buer-buelse.de/",
+    "logo": "logos/27FBB405-C10B-4FA9-B613-93F5BF1C2569.webp"
    }
   },
   {
@@ -4846,7 +4848,8 @@
     "federation": "Rheinischer Schützenbund",
     "street": "Hüls 11",
     "city": "47623 Kevelaer",
-    "website": "https://www.ssg-kevelaer.de/"
+    "website": "https://www.ssg-kevelaer.de/",
+    "logo": null
    }
   },
   {
@@ -5022,7 +5025,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "Salzufler Str. 108a",
     "city": "33719 Bielefeld",
-    "website": "https://heeper-schützen.de"
+    "website": "https://heeper-schützen.de",
+    "logo": null
    }
   },
   {
@@ -5198,7 +5202,8 @@
     "federation": "Hessischer Schützenverband",
     "street": "Mittelstraße 25",
     "city": "36151 Burghaun-Steinbach",
-    "website": "https://www.svhubertussteinbach.de/"
+    "website": "https://www.svhubertussteinbach.de/",
+    "logo": "logos/61033345-F05B-4041-AEA3-E9A4E55B7501.webp"
    }
   },
   {
@@ -5342,7 +5347,8 @@
     "federation": "Hessischer Schützenverband",
     "street": "Am Pfaffenpfad 11",
     "city": "36100 Petersberg",
-    "website": "https://www.schuetzenverein-petersberg.de/"
+    "website": "https://www.schuetzenverein-petersberg.de/",
+    "logo": "logos/413D187B-6898-469E-85CD-D86D9DCDB9CE.webp"
    }
   },
   {
@@ -5486,7 +5492,8 @@
     "federation": "Hessischer Schützenverband",
     "street": "An der Lieth 11",
     "city": "36166 Haunetal",
-    "website": "http://www.sv-staerklos.de/"
+    "website": "http://www.sv-staerklos.de/",
+    "logo": "logos/63C8D32B-452C-4466-B246-6333969DD416.webp"
    }
   },
   {
@@ -5646,7 +5653,8 @@
     "federation": "Rheinischer Schützenbund",
     "street": "Merödgener Str. 37",
     "city": "52459 Inden/Altdorf",
-    "website": "https://www.pssonline.de"
+    "website": "https://www.pssonline.de",
+    "logo": "logos/FE61512D-A01C-4A1B-A477-AAE64E6C41AF.webp"
    }
   }
  ]

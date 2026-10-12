@@ -10370,7 +10370,8 @@
     "federation": "Niedersächsischer Sportschützenverband",
     "street": "Alte Harzstraße 35",
     "city": "37520 Osterode am Harz",
-    "website": "https://www.sbfreiheit.de"
+    "website": "https://www.sbfreiheit.de",
+    "logo": "logos/6416AC83-4339-48BB-8658-264C31E0FD8B.webp"
    }
   },
   {
@@ -10706,7 +10707,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "An der Schützenheide 17",
     "city": "59192 Bergkamen",
-    "website": "https://sv-kamen.eu"
+    "website": "https://sv-kamen.eu",
+    "logo": "logos/FC7CEA54-3A00-4A2B-963B-9561A38DE7B3.webp"
    }
   },
   {
@@ -10922,7 +10924,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "Bülsestraße 65",
     "city": "45896 Gelsenkirchen",
-    "website": "https://bsv-buer-buelse.de/"
+    "website": "https://bsv-buer-buelse.de/",
+    "logo": "logos/27FBB405-C10B-4FA9-B613-93F5BF1C2569.webp"
    }
   },
   {
@@ -11114,7 +11117,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "Friedrichstraße 4",
     "city": "48282 Emsdetten",
-    "website": "https://sf-emsdetten.de/"
+    "website": "https://sf-emsdetten.de/",
+    "logo": "logos/A95E660A-498A-4DCA-9764-5EB0E41E136B.webp"
    }
   },
   {
@@ -11290,7 +11294,8 @@
     "federation": "Rheinischer Schützenbund",
     "street": "Hüls 11",
     "city": "47623 Kevelaer",
-    "website": "https://www.ssg-kevelaer.de/"
+    "website": "https://www.ssg-kevelaer.de/",
+    "logo": null
    }
   },
   {
@@ -11506,7 +11511,8 @@
     "federation": "Niedersächsischer Sportschützenverband",
     "street": "Hamburger Straße 53",
     "city": "38114 Braunschweig",
-    "website": "https://www.schuetzenplatz-bs.de/"
+    "website": "https://www.schuetzenplatz-bs.de/",
+    "logo": "logos/A5F2BA58-68C7-41B2-A43F-1792BD71846C.webp"
    }
   },
   {
@@ -11702,7 +11708,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "Am Mühlenteich 10a",
     "city": "33106 Paderborn",
-    "website": "https://www.ssv-elsen.de"
+    "website": "https://www.ssv-elsen.de",
+    "logo": "logos/92E37536-D505-4F28-825D-9DB509844670.webp"
    }
   },
   {
@@ -11958,7 +11965,8 @@
     "federation": "Rheinischer Schützenbund",
     "street": "Stadionstrasse",
     "city": "Wissen 57537",
-    "website": "https://www.sv-wissen.de"
+    "website": "https://www.sv-wissen.de",
+    "logo": "logos/93D7C60B-5360-4B9F-8C3E-17057CD2A0BC.webp"
    }
   },
   {
@@ -12214,7 +12222,8 @@
     "federation": "Niedersächsischer Sportschützenverband",
     "street": "Am Oberfeld 8",
     "city": "29323 Wietze",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -12430,7 +12439,8 @@
     "federation": "Landesschützenverband Sachsen-Anhalt",
     "street": "Cösitzer Weg 6",
     "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -12706,7 +12716,8 @@
     "federation": "Rheinischer Schützenbund",
     "street": "Zum Schützenhaus",
     "city": "54568 Gerolstein",
-    "website": "https://SuSC-muellenborn.de"
+    "website": "https://SuSC-muellenborn.de",
+    "logo": "logos/3C178CC8-A637-4C2D-BECC-565EEC935522.webp"
    }
   },
   {
@@ -12962,7 +12973,8 @@
     "federation": "Rheinischer Schützenbund",
     "street": "Ohligser Schützenplatz 20",
     "city": "42697 Solingen",
-    "website": "https://www.Ohligser-SG.de"
+    "website": "https://www.Ohligser-SG.de",
+    "logo": null
    }
   }
  ]

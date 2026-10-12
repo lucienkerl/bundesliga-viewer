@@ -4526,7 +4526,8 @@
     "federation": "Württembergischer Schützenverband",
     "street": "Waldstraße 1",
     "city": "72224 Ebhausen",
-    "website": "https://www.ebershardt.de"
+    "website": "https://www.ebershardt.de",
+    "logo": null
    }
   },
   {
@@ -4762,7 +4763,8 @@
     "federation": "Württembergischer Schützenverband",
     "street": "Rübholz 1",
     "city": "73230 Kirchheim/Teck",
-    "website": "https://www.tsv-oetlingen.de"
+    "website": "https://www.tsv-oetlingen.de",
+    "logo": "logos/CB220CAC-B5A2-40DC-99DF-1302217E689E.webp"
    }
   },
   {
@@ -4922,7 +4924,8 @@
     "federation": "Südbadischer Sportschützenverband",
     "street": "Glottertalstraße 24",
     "city": "79271 St. Peter",
-    "website": "https://www.ssv-st-peter.de"
+    "website": "https://www.ssv-st-peter.de",
+    "logo": "logos/7E8332DA-C27F-42A8-8856-AB11BE0B4F21.webp"
    }
   },
   {
@@ -5138,7 +5141,8 @@
     "federation": "Südbadischer Sportschützenverband",
     "street": "Weiherweg 10",
     "city": "79576 Weil am Rhein",
-    "website": "https://www.esv-sportschuetzen.de"
+    "website": "https://www.esv-sportschuetzen.de",
+    "logo": "logos/5BFDEADE-ECEB-4C9F-906B-E34D65DD0174.webp"
    }
   },
   {
@@ -5330,7 +5334,8 @@
     "federation": "Schützenverband Saar",
     "street": "Hohbergstr. 1",
     "city": "66346 Püttlingen",
-    "website": null
+    "website": null,
+    "logo": "logos/0C1E7646-9121-4C25-99BD-711143B62D87.webp"
    }
   },
   {
@@ -5522,7 +5527,8 @@
     "federation": "Württembergischer Schützenverband",
     "street": "Gurgelweg",
     "city": "88499 Altheim",
-    "website": "http://www.schuetzenverein-altheim-w.de/"
+    "website": "http://www.schuetzenverein-altheim-w.de/",
+    "logo": "logos/0B24F101-FF54-42A6-A883-F8002CB05FE6.webp"
    }
   },
   {
@@ -5714,7 +5720,8 @@
     "federation": "Badischer Sportschützenverband",
     "street": "Rennbahnstraße 69",
     "city": "69190 Walldorf",
-    "website": "https://www.svwalldorf.de"
+    "website": "https://www.svwalldorf.de",
+    "logo": "logos/E72DC683-6F02-40DF-AEEB-76C2CD0627F5.webp"
    }
   },
   {
@@ -5874,7 +5881,8 @@
     "federation": "Badischer Sportschützenverband",
     "street": "Kirschenpfad 1",
     "city": "75181 Pforzheim",
-    "website": "https://sgpf.de"
+    "website": "https://sgpf.de",
+    "logo": "logos/C35CFE6D-E81F-43BC-8F82-0148D80064BA.webp"
    }
   }
  ]

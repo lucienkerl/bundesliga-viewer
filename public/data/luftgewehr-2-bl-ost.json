@@ -4410,7 +4410,8 @@
     "federation": "Schützenverband Berlin - Brandenburg",
     "street": "Alte Allee 35",
     "city": "14055 Berlin",
-    "website": "https://www.schuetzengilde-berlin.de"
+    "website": "https://www.schuetzengilde-berlin.de",
+    "logo": null
    }
   },
   {
@@ -4582,7 +4583,8 @@
     "federation": "Brandenburgischer Schützenbund",
     "street": "Schützenplatz 1",
     "city": "15907 Lübben",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -4715,7 +4717,8 @@
     "federation": "Sächsischer Schützenbund",
     "street": "Langebrücker Str. 10",
     "city": "01109 Dresden",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -4861,7 +4864,8 @@
     "federation": "Landesschützenverband Sachsen-Anhalt",
     "street": "Karl-Ernst-Weg 44",
     "city": "6118 Halle",
-    "website": null
+    "website": null,
+    "logo": "logos/8886F43F-0C60-40E8-A6F9-636C1EA6D667.webp"
    }
   },
   {
@@ -5033,7 +5037,8 @@
     "federation": "Brandenburgischer Schützenbund",
     "street": "Adolf-Damaschke-Straße 56-58",
     "city": "14542 Werder/Havel",
-    "website": "https://www.schuetzengildewerder.de"
+    "website": "https://www.schuetzengildewerder.de",
+    "logo": null
    }
   },
   {
@@ -5192,7 +5197,8 @@
     "federation": "Thüringer Schützenbund",
     "street": "Schützenstraße 6",
     "city": "98527 Suhl",
-    "website": null
+    "website": null,
+    "logo": "logos/250C2783-CC10-4CFA-88CE-6D72372486AF.webp"
    }
   },
   {
@@ -5364,7 +5370,8 @@
     "federation": "Schützenverband Berlin - Brandenburg",
     "street": "Kirschweg 23",
     "city": "12524 Berlin",
-    "website": "https://psv-olympia.de"
+    "website": "https://psv-olympia.de",
+    "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
    }
   },
   {
@@ -5600,7 +5607,8 @@
     "federation": "Landesschützenverband Sachsen-Anhalt",
     "street": "Cösitzer Weg 6",
     "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
-    "website": null
+    "website": null,
+    "logo": null
    }
   }
  ]

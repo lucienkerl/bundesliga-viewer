@@ -30,8 +30,10 @@ export function parseSetlist(html: string): Setlist {
   return { updatedAt: toIsoDateTime($('[title="zuletzt aktualisiert"]').text()), entries };
 }
 
-/** Parses a DSB club page. Contact persons and e-mail addresses are deliberately not read. */
-export function parseClub(html: string): Club {
+/** Parses a DSB club page. Contact persons and e-mail addresses are deliberately not read. The logo is only returned as a URL. */
+export type ParsedClub = Omit<Club, 'logo'> & { logoUrl: string | null };
+
+export function parseClub(html: string): ParsedClub {
   const $ = cheerio.load(html);
   const header = $('.verein-header').first();
   const box = $('.verein-detail-content .card-body').first();
@@ -42,7 +44,9 @@ export function parseClub(html: string): Club {
     .get()
     .filter(Boolean);
   const website = box.find('a[target=_blank][href^=http]').first().attr('href') ?? null;
+  const logoSrc = box.find('img').first().attr('src');
   return {
+    logoUrl: logoSrc && /^https?:\/\//.test(logoSrc) ? logoSrc : null,
     name: clean(header.find('h1').text()),
     federation: clean(header.find('h4').text()) || null,
     street: lines[0] ?? null,

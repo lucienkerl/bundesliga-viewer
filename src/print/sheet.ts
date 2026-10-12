@@ -1,5 +1,6 @@
 import { de } from '../i18n/de';
 import { esc, fullDate } from '../lib/format';
+import { logoImg } from '../lib/logo';
 import type { SheetContext } from './types';
 
 /** Standalone HTML page (A4 landscape) with the result sheet. `imageUrl` is a PNG data URL for the download button. */
@@ -32,7 +33,7 @@ export function renderSheet(ctx: SheetContext, imageUrl: string): string {
 <div class="bar"><a class="dl" download="${esc(m.home)} - ${esc(m.away)} ${esc(fullDate(ctx.date))}.png" href="${imageUrl}">${de.sheet.save}</a><button onclick="window.print()">${de.sheet.print}</button></div>
 <div class="sheet">
   <div class="league"><div class="l">${esc(ctx.league)}</div><div class="r"><b>${esc(de.matchDay(ctx.day))}</b>${esc(fullDate(ctx.date))}${m.time ? ` · ${esc(m.time)} Uhr` : ''}</div></div>
-  <h1>${esc(m.home)} <span class="vs">–</span> ${esc(m.away)}</h1>
+  <h1>${logoImg(ctx.homeLogo, 'logo')}${esc(m.home)} <span class="vs">–</span> ${esc(m.away)}${logoImg(ctx.awayLogo, 'logo')}</h1>
   <div class="score">${m.homePoints}<span class="c">:</span>${m.awayPoints}</div>
   <div class="rings">${m.homeRings} : ${m.awayRings} Ringe</div>
   <table class="res">
@@ -62,6 +63,8 @@ body { font: 13px/1.3 "Helvetica Neue", Arial, sans-serif; color: #0f172a; margi
 .league .r { text-align: right; font-size: 14px; }
 .league .r b { display: block; font-size: 24px; }
 h1 { font-size: 30px; margin: 18px 0 2px; letter-spacing: -.5px; text-align: center; }
+h1 { display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap; }
+h1 .logo { height: 54px; width: 54px; object-fit: contain; }
 h1 .vs { color: #94a3b8; font-weight: 400; margin: 0 .4em; }
 .score { text-align: center; font-size: 44px; font-weight: 800; }
 .score .c { color: #94a3b8; margin: 0 .3em; }
@@ -87,7 +90,7 @@ td.pt { text-align: center; width: 3%; font-weight: 700; }
   .sheet { padding: 8px 6px; }
   .league { padding: 10px 12px; flex-direction: column; align-items: flex-start; gap: 4px; }
   .league .l { font-size: 22px; } .league .r { text-align: left; font-size: 12px; } .league .r b { display: inline; font-size: 14px; margin-right: 8px; }
-  h1 { font-size: 17px; margin-top: 12px; } .score { font-size: 34px; } .rings { font-size: 12px; }
+  h1 { font-size: 17px; margin-top: 12px; gap: 8px; } h1 .logo { height: 32px; width: 32px; } .score { font-size: 34px; } .rings { font-size: 12px; }
   table.res { margin-top: 8px; } th.team { font-size: 12px; padding: 5px 4px; }
   th.sub { font-size: 9px; } th.tot { font-size: 11px; } td { padding: 6px 1px; }
   td.s { font-size: 11px; width: 5%; }

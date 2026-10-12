@@ -4542,7 +4542,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "Zur Fuchskuhle 18",
     "city": "49124 Bad Rothenfelde",
-    "website": "https://www.ssg-teuto.de"
+    "website": "https://www.ssg-teuto.de",
+    "logo": "logos/D2D10A76-B33B-4C3D-B590-9824DA5B5564.webp"
    }
   },
   {
@@ -4670,7 +4671,8 @@
     "federation": "Hessischer Schützenverband",
     "street": "Weyherser Weg 15a",
     "city": "36129 Gersfeld-Hettenhausen",
-    "website": "https://schuetenverein-hettenhausen.de"
+    "website": "https://schuetenverein-hettenhausen.de",
+    "logo": "logos/212D0D20-3925-4886-BD1D-45788113F523.webp"
    }
   },
   {
@@ -4814,7 +4816,8 @@
     "federation": "Hessischer Schützenverband",
     "street": "Lämmerbergstraße 2",
     "city": "36179 Bebra",
-    "website": null
+    "website": null,
+    "logo": "logos/CEA800CE-EE9D-4157-B95B-E88FA43A153C.webp"
    }
   },
   {
@@ -5022,7 +5025,8 @@
     "federation": "Rheinischer Schützenbund",
     "street": "Am Stadtbad 1",
     "city": "46537 Dinslaken",
-    "website": "https://www.pssc-dinslaken.de"
+    "website": "https://www.pssc-dinslaken.de",
+    "logo": "logos/F3E078E5-8DF3-42B2-95C3-D9F102F9094B.webp"
    }
   },
   {
@@ -5166,7 +5170,8 @@
     "federation": "Hessischer Schützenverband",
     "street": "Hauptstraße 2",
     "city": "63526 Erlensee",
-    "website": "https://tell-rueckingen.de/"
+    "website": "https://tell-rueckingen.de/",
+    "logo": "logos/0C4322CC-9D7D-4B27-98F8-24E123D3FB80.webp"
    }
   },
   {
@@ -5374,7 +5379,8 @@
     "federation": "Westfälischer Schützenbund",
     "street": "Am Schottenteich 1",
     "city": "59597 Erwitte",
-    "website": "https://www.ssvbwk.de"
+    "website": "https://www.ssvbwk.de",
+    "logo": "logos/C79B905C-D46A-4848-B345-10AC2CCF5B55.webp"
    }
   },
   {
@@ -5534,7 +5540,8 @@
     "federation": "Hessischer Schützenverband",
     "street": "Freiherr vom Stein Straße 7",
     "city": "61197 Florstadt",
-    "website": "https://www.schuetzenverein-florstadt.info/sv/"
+    "website": "https://www.schuetzenverein-florstadt.info/sv/",
+    "logo": "logos/6546BF30-4A58-4077-8527-49D2A2F64836.webp"
    }
   },
   {
@@ -5678,7 +5685,8 @@
     "federation": "Rheinischer Schützenbund",
     "street": "Zum Schießstand 15",
     "city": "51645 Gummersbach",
-    "website": "https://kkv-hunstig.de"
+    "website": "https://kkv-hunstig.de",
+    "logo": "logos/95EC99CC-E4E0-49A1-B211-E4C635D076CF.webp"
    }
   }
  ]

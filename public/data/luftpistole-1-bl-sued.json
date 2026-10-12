@@ -10350,7 +10350,8 @@
     "federation": "Südbadischer Sportschützenverband",
     "street": "Weiherweg 10",
     "city": "79576 Weil am Rhein",
-    "website": "https://www.esv-sportschuetzen.de"
+    "website": "https://www.esv-sportschuetzen.de",
+    "logo": "logos/5BFDEADE-ECEB-4C9F-906B-E34D65DD0174.webp"
    }
   },
   {
@@ -10606,7 +10607,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Rennweg 66",
     "city": "93309 Kelheim",
-    "website": "http://www.kelheim-gmuend.de/"
+    "website": "http://www.kelheim-gmuend.de/",
+    "logo": "logos/ECA67E93-E27B-4AF8-8CC2-F7BEF493CA57.webp"
    }
   },
   {
@@ -10822,7 +10824,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Lindauer Str. 173",
     "city": "87435 Kempten",
-    "website": null
+    "website": null,
+    "logo": "logos/DB03E928-102F-42F3-8D9B-7C5439E4E659.webp"
    }
   },
   {
@@ -11138,7 +11141,8 @@
     "federation": "Württembergischer Schützenverband",
     "street": "Am Neumühlsee 7",
     "city": "74638 Waldenburg",
-    "website": "https://www.schuetzengildewaldenburg.de"
+    "website": "https://www.schuetzengildewaldenburg.de",
+    "logo": "logos/0907D6E8-EE53-4607-BFDD-37394B9AF3B0.webp"
    }
   },
   {
@@ -11394,7 +11398,8 @@
     "federation": "Württembergischer Schützenverband",
     "street": "Kugelberg 28A",
     "city": "71642 Ludwigsburg",
-    "website": "https://www.sgi-lb.de"
+    "website": "https://www.sgi-lb.de",
+    "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
    }
   },
   {
@@ -11670,7 +11675,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Zielstattstr. 6",
     "city": "81379 München",
-    "website": "https://www.hauptschuetzen.de"
+    "website": "https://www.hauptschuetzen.de",
+    "logo": "logos/7AC32355-DE44-4AA1-A690-0169E5CBD39E.webp"
    }
   },
   {
@@ -11886,7 +11892,8 @@
     "federation": "Badischer Sportschützenverband",
     "street": "Industriestr. 20",
     "city": "76707 Hambrücken",
-    "website": "https://www.kks-hambruecken.de"
+    "website": "https://www.kks-hambruecken.de",
+    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
    }
   },
   {
@@ -12082,7 +12089,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Buchenweg 9",
     "city": "86937 Scheuring",
-    "website": "https://www.edelweiss-scheuring.de"
+    "website": "https://www.edelweiss-scheuring.de",
+    "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
    }
   },
   {
@@ -12318,7 +12326,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Florianweg 1",
     "city": "85122 Hitzhofen",
-    "website": "https://hubertus-hitzhofen-oberzell.de"
+    "website": "https://hubertus-hitzhofen-oberzell.de",
+    "logo": "logos/324A6FE2-A275-4C76-9142-078703E1AA3F.webp"
    }
   },
   {
@@ -12574,7 +12583,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Kronacher Str. 63",
     "city": "90765 Fürth",
-    "website": "https://SSG-RWS.de"
+    "website": "https://SSG-RWS.de",
+    "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
    }
   },
   {
@@ -12782,7 +12792,8 @@
     "federation": "Württembergischer Schützenverband",
     "street": "Degentalstr.",
     "city": "72820 Sonnenbühl",
-    "website": "https://www.schuetzenverein-willmandingen.de"
+    "website": "https://www.schuetzenverein-willmandingen.de",
+    "logo": "logos/46CCFFCE-9027-4045-941E-0683585B454E.webp"
    }
   },
   {
@@ -12978,7 +12989,8 @@
     "federation": "Bayerischer Sportschützenbund",
     "street": "Im Erlengrund 25",
     "city": "63864 Glattbach",
-    "website": "https://www.sg-glattbach.com"
+    "website": "https://www.sg-glattbach.com",
+    "logo": "logos/6BBD31A9-031B-4EC1-B5EE-658255FC14E8.webp"
    }
   }
  ]

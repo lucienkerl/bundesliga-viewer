@@ -1,12 +1,18 @@
 name: Crawl DSB data
 
 # Browsers cannot read bundesliga.dsb.de directly (CORS), so this job fetches the data
-# and commits it as JSON. Match weekends (Sat/Sun) are crawled every 15 minutes,
-# the rest of the week once per hour.
+# and commits it as JSON.
+#
+# Cron times are UTC and GitHub may start them a few minutes late.
+# - Saturday/Sunday, every 15 minutes between 07:00 and 19:45 UTC: the job first checks the match
+#   schedule from the last crawl (crawler/should-crawl.ts) and only crawls from 30 minutes before
+#   a match start until 150 minutes after it. Outside that window the run ends after a few seconds.
+# - Every day at 05:30 UTC: an unconditional crawl for schedule changes, corrections and the new
+#   official seeding lists, which the league management publishes after a match weekend.
 on:
   schedule:
-    - cron: "*/15 * * * 6,0"
-    - cron: "17 * * * 1-5"
+    - cron: "*/15 7-19 * * 6,0"
+    - cron: "30 5 * * *"
   workflow_dispatch:
     inputs:
       refresh_clubs:
@@ -32,9 +38,16 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Check match window
+        id: gate
+        env:
+          FORCE: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '30 5 * * *' }}
+        run: npx tsx crawler/should-crawl.ts
       - name: Crawl
+        if: steps.gate.outputs.run == 'true'
         run: npm run crawl -- ${{ inputs.refresh_clubs && '--refresh-clubs' || '' }}
       - name: Commit changed data
+        if: steps.gate.outputs.run == 'true'
         id: commit
         run: |
           git config user.name "github-actions[bot]"

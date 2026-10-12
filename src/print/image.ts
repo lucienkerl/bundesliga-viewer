@@ -1,5 +1,6 @@
 import { fullDate } from '../lib/format';
 import { de } from '../i18n/de';
+import { loadImage } from '../lib/logo';
 import type { SheetContext } from './types';
 
 const W = 1080;
@@ -14,8 +15,9 @@ const SAFE_TOP = 210;
 const SAFE_BOTTOM = H - 310;
 
 /** Renders the 9:16 result card used for a WhatsApp status. */
-export function renderImage(ctx: SheetContext): HTMLCanvasElement {
+export async function renderImage(ctx: SheetContext): Promise<HTMLCanvasElement> {
   const { match: m } = ctx;
+  const [homeLogo, awayLogo] = await Promise.all([loadImage(ctx.homeLogo), loadImage(ctx.awayLogo)]);
   const canvas = document.createElement('canvas');
   canvas.width = W;
   canvas.height = H;
@@ -67,6 +69,14 @@ export function renderImage(ctx: SheetContext): HTMLCanvasElement {
   box(40, cy, W - 80, cardH, 32, '#fff');
   text(m.home, 70 + 235, cy + 60, 38, 800, NAVY, 450);
   text(m.away, W - 70 - 235, cy + 60, 38, 800, NAVY, 450);
+  const logo = (img: HTMLImageElement | null, cx: number) => {
+    if (!img) return;
+    const size = 120;
+    const r = Math.min(size / img.width, size / img.height);
+    g.drawImage(img, cx - (img.width * r) / 2, cy + 90 + (size - img.height * r) / 2, img.width * r, img.height * r);
+  };
+  logo(homeLogo, 70 + 235 - 40);
+  logo(awayLogo, W - 70 - 235 + 40);
   text(String(m.homePoints), W / 2 - 90, cy + 185, 130, 800, NAVY);
   text(':', W / 2, cy + 172, 110, 800, '#94a3b8');
   text(String(m.awayPoints), W / 2 + 90, cy + 185, 130, 800, NAVY);

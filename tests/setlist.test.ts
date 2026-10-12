@@ -102,8 +102,9 @@ describe('lineup', () => {
 });
 
 describe('parseClub', () => {
-  it('reads name, federation, address and website only', () => {
+  it('reads name, federation, address, website and the logo URL only', () => {
     expect(parseClub(fixture('club-ludwigsburg.html'))).toEqual({
+      logoUrl: 'https://dsb.it4sport.de/filerepository/shdv/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.jpg',
       name: 'SGi Ludwigsburg',
       federation: 'Württembergischer Schützenverband',
       street: 'Kugelberg 28A',

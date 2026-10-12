@@ -4548,7 +4548,8 @@
     "federation": "Niedersächsischer Sportschützenverband",
     "street": "Dorfweg 12",
     "city": "29693 Hademstorf",
-    "website": "https://www.sv-hademstorf.de/"
+    "website": "https://www.sv-hademstorf.de/",
+    "logo": null
    }
   },
   {
@@ -4692,7 +4693,8 @@
     "federation": "Nordwestdeutscher Schützenbund",
     "street": "Westerladekoper Minnerweg 5A",
     "city": "21635 Jork",
-    "website": "http://www.sv-ladekop.de/"
+    "website": "http://www.sv-ladekop.de/",
+    "logo": "logos/D9627DCB-BE1B-4D24-8968-B892D2E05F32.webp"
    }
   },
   {
@@ -4836,7 +4838,8 @@
     "federation": "Nordwestdeutscher Schützenbund",
     "street": "Elsflether Straße 55",
     "city": "26125 Oldenburg",
-    "website": "https://xn--schtzenverein-wechloy-bic.de/"
+    "website": "https://xn--schtzenverein-wechloy-bic.de/",
+    "logo": "logos/64BD6B43-1B67-4A7B-BAA4-E3E041296B4B.webp"
    }
   },
   {
@@ -4996,7 +4999,8 @@
     "federation": "Nordwestdeutscher Schützenbund",
     "street": "An der Beeke 8",
     "city": "27211 Bassum",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -5172,7 +5176,8 @@
     "federation": "Niedersächsischer Sportschützenverband",
     "street": "Marienbergstraße 45",
     "city": "31171 Nordstemmen",
-    "website": null
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -5364,7 +5369,8 @@
     "federation": "Schützenverband Hamburg",
     "street": "Arp-Schnitger-Stieg 37 b",
     "city": "21129 Hamburg",
-    "website": null
+    "website": null,
+    "logo": "logos/06EB5BCC-57CA-401A-8109-0E882E0AEBCE.webp"
    }
   },
   {
@@ -5556,7 +5562,8 @@
     "federation": "Niedersächsischer Sportschützenverband",
     "street": "Alte Harzstraße 35",
     "city": "37520 Osterode am Harz",
-    "website": "https://www.sbfreiheit.de"
+    "website": "https://www.sbfreiheit.de",
+    "logo": "logos/6416AC83-4339-48BB-8658-264C31E0FD8B.webp"
    }
   },
   {
@@ -5716,7 +5723,8 @@
     "federation": "Norddeutscher Schützenbund",
     "street": "Plunkauer Weg 10 A",
     "city": "23730 Altenkrempe OT Kassau",
-    "website": "https://www.ssv-kassau.de"
+    "website": "https://www.ssv-kassau.de",
+    "logo": "logos/BC3C8696-F33D-4E72-84B8-97A336DAFCF0.webp"
    }
   }
  ]

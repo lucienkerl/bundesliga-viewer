@@ -9,51 +9,51 @@
  "table": [
   {
    "rank": 1,
+   "team": "BSG Stadtwerke Norderstedt",
+   "singlePoints": "9:1",
+   "teamPoints": "4:0"
+  },
+  {
+   "rank": 2,
+   "team": "Wandsbeker SGi",
+   "singlePoints": "7:3",
+   "teamPoints": "4:0"
+  },
+  {
+   "rank": 3,
    "team": "PC Rendsburg",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 2,
+   "rank": 4,
    "team": "SV Anderlingen",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 3,
-   "team": "BSG Stadtwerke Norderstedt",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
-   "rank": 4,
+   "rank": 5,
    "team": "SB Süpplingen",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 5,
-   "team": "SV Assel",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
    "rank": 6,
-   "team": "Schützengilde Grohnde",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
-   "rank": 7,
    "team": "SV Haendorf",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
+   "rank": 7,
+   "team": "SV Assel",
+   "singlePoints": "3:7",
+   "teamPoints": "0:4"
+  },
+  {
    "rank": 8,
-   "team": "Wandsbeker SGi",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "Schützengilde Grohnde",
+   "singlePoints": "1:9",
+   "teamPoints": "0:4"
   }
  ],
  "matchDays": [
@@ -380,145 +380,145 @@
        "time": "10:00",
        "home": "BSG Stadtwerke Norderstedt",
        "away": "Schützengilde Grohnde",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
+       "homeRings": 1798,
+       "awayRings": 1692,
+       "homePoints": 5,
        "awayPoints": 0,
-       "played": false,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ortiz, Diego",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           90,
+           92,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Nachtigall, Jörn",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           89,
+           91,
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Scharff Rasmussen, Louise",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           90,
+           92,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Mai, Sonja",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           90,
+           84,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kemner, Felix",
+          "total": 354,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           92,
+           87,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ambrosy, Karsten",
+          "total": 353,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           89,
+           90,
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Richert, Janina",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           88,
+           92,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Scholz, Thorsten",
+          "total": 344,
           "series": [
-           0,
-           0,
-           0,
-           0
+           83,
+           86,
+           89,
+           86
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Greutner, Daniel",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           91,
+           93,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hahlbrock, Lothar",
+          "total": 278,
           "series": [
-           0,
-           0,
-           0,
-           0
+           66,
+           75,
+           80,
+           57
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -528,145 +528,145 @@
        "time": "11:35",
        "home": "SV Assel",
        "away": "Wandsbeker SGi",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1803,
+       "awayRings": 1789,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Steffens, Jan",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           84,
+           91,
+           91,
+           91
           ],
-          "shootOff": null
+          "shootOff": 7
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Shvets, Veronika",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           91,
+           85,
+           93
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Maaß, Heiko",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           87,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schonauer, Stefan",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           92,
+           89,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Zwernemann, Marius",
+          "total": 351,
           "series": [
-           0,
-           0,
-           0,
-           0
+           83,
+           85,
+           91,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Mania, Christian",
+          "total": 355,
           "series": [
-           0,
-           0,
-           0,
-           0
+           81,
+           89,
+           94,
+           91
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Stelling, Gabriele",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           91,
+           90,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Küchenbecker, Peter",
+          "total": 354,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           90,
+           88,
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lemmel, Thoralf",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           94,
+           92,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Siemers, Jochen",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           89,
+           89,
+           86
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -998,146 +998,146 @@
        "time": "13:40",
        "home": "Schützengilde Grohnde",
        "away": "Wandsbeker SGi",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1730,
+       "awayRings": 1789,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Nachtigall, Jörn",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           96,
+           87,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Shvets, Veronika",
+          "total": 355,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           87,
+           89,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Mai, Sonja",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           91,
+           88,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schonauer, Stefan",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           90,
+           93,
+           90
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ambrosy, Karsten",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           90,
+           92,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Mania, Christian",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           93,
+           92,
+           87
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Scholz, Thorsten",
+          "total": 353,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           88,
+           85,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Krichevskyi, Valerji",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           88,
+           89,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hahlbrock, Lothar",
+          "total": 285,
           "series": [
-           0,
-           0,
-           0,
-           0
+           68,
+           80,
+           74,
+           63
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Siemers, Jochen",
+          "total": 348,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           87,
+           81,
+           91
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -1146,145 +1146,145 @@
        "time": "15:15",
        "home": "BSG Stadtwerke Norderstedt",
        "away": "SV Assel",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1814,
+       "awayRings": 1776,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ortiz, Diego",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           92,
+           95,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Steffens, Jan",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           92,
+           89,
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kemner, Felix",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           92,
+           91,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Maaß, Heiko",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           83,
+           91,
+           91,
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Richert, Janina",
+          "total": 352,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           85,
+           90,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Zwernemann, Marius",
+          "total": 348,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           85,
+           81,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Greutner, Daniel",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           94,
+           86,
+           88
           ],
-          "shootOff": null
+          "shootOff": 5
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Stelling, Gabriele",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           92,
+           88,
+           88
           ],
-          "shootOff": null
+          "shootOff": 7
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Bergholt Madsen, Heidi",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           93,
+           92,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lemmel, Thoralf",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           94,
+           85,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4376,278 +4376,6 @@
  ],
  "teams": [
   {
-   "name": "PC Rendsburg",
-   "setlist": {
-    "updatedAt": "2026-10-09T11:34",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Deleske, Viktor",
-      "foreign": null,
-      "status": "",
-      "startAverage": 371,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Hofmann, Uwe",
-      "foreign": null,
-      "status": "",
-      "startAverage": 364.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Kannerup, Ian",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 359.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Kühn, Ronny",
-      "foreign": null,
-      "status": "",
-      "startAverage": 358.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Nesemann, Holger",
-      "foreign": null,
-      "status": "",
-      "startAverage": 356,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Feindt, Joris",
-      "foreign": null,
-      "status": "",
-      "startAverage": 354.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schiring, Philip",
-      "foreign": null,
-      "status": "",
-      "startAverage": 353,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A53F1DEF-2144-433C-B51A-02A36616850F/3039",
-   "club": {
-    "name": "Pistolensport-Club-Rendsburg 1966 e.V. -P.C.R.-",
-    "federation": "Norddeutscher Schützenbund",
-    "street": "Neuwerker Gärten / Am Schießstand 14",
-    "city": "24768 Rendsburg",
-    "website": null
-   }
-  },
-  {
-   "name": "SV Anderlingen",
-   "setlist": {
-    "updatedAt": "2026-10-09T11:34",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Brandt, Christian",
-      "foreign": null,
-      "status": "",
-      "startAverage": 369,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Brandt, Ole Mattis",
-      "foreign": null,
-      "status": "",
-      "startAverage": 366.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Tomforde, Jan-Hinrich",
-      "foreign": null,
-      "status": "",
-      "startAverage": 362.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Martin, Laura",
-      "foreign": null,
-      "status": "",
-      "startAverage": 362,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Brandt, Annelie",
-      "foreign": null,
-      "status": "",
-      "startAverage": 358.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Brandt, Paulina",
-      "foreign": null,
-      "status": "",
-      "startAverage": 357.83,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Delventhal, Sven",
-      "foreign": null,
-      "status": "",
-      "startAverage": 348.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Jakobsen, Friedhelm",
-      "foreign": null,
-      "status": "",
-      "startAverage": 338.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DF5D5E21-7B7B-4719-9609-DD84FAB1F96C/3039",
-   "club": {
-    "name": "Schützenverein Anderlingen u. Umgeb. e. V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Hembecker Weg 1",
-    "city": "27446 Anderlingen",
-    "website": null
-   }
-  },
-  {
    "name": "BSG Stadtwerke Norderstedt",
    "setlist": {
     "updatedAt": "2026-10-09T11:34",
@@ -4804,7 +4532,427 @@
     "federation": "Schützenverband Hamburg",
     "street": "Wagnerstr. 57",
     "city": "24568 Kaltenkirchen",
-    "website": "https://www.bsg-stadtwerke-norderstedt.de/index.php"
+    "website": "https://www.bsg-stadtwerke-norderstedt.de/index.php",
+    "logo": null
+   }
+  },
+  {
+   "name": "Wandsbeker SGi",
+   "setlist": {
+    "updatedAt": "2026-10-09T11:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Shvets, Veronika",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 367.11,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Blattner, Charles Lèon",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Schonauer, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Mania, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.13,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Küchenbecker, Peter",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Krichevskyi, Valerji",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359.8,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Siemers, Jochen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359.38,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Opitz, Rainer",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.2,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/B3DC851A-FA80-4348-9423-DA1135F6AE80/3039",
+   "club": {
+    "name": "Wandsbeker Schützengilde von 1637 e.V.",
+    "federation": "Schützenverband Hamburg",
+    "street": "Marienthaler Str. 178",
+    "city": "20535 Hamburg",
+    "website": "https://www.wandsbeker-schuetzengilde.de",
+    "logo": "logos/03889191-A19E-4B8E-B359-CB174FE9ADFC.webp"
+   }
+  },
+  {
+   "name": "PC Rendsburg",
+   "setlist": {
+    "updatedAt": "2026-10-09T11:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Deleske, Viktor",
+      "foreign": null,
+      "status": "",
+      "startAverage": 371,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Hofmann, Uwe",
+      "foreign": null,
+      "status": "",
+      "startAverage": 364.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Kannerup, Ian",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 359.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Kühn, Ronny",
+      "foreign": null,
+      "status": "",
+      "startAverage": 358.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Nesemann, Holger",
+      "foreign": null,
+      "status": "",
+      "startAverage": 356,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Feindt, Joris",
+      "foreign": null,
+      "status": "",
+      "startAverage": 354.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schiring, Philip",
+      "foreign": null,
+      "status": "",
+      "startAverage": 353,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A53F1DEF-2144-433C-B51A-02A36616850F/3039",
+   "club": {
+    "name": "Pistolensport-Club-Rendsburg 1966 e.V. -P.C.R.-",
+    "federation": "Norddeutscher Schützenbund",
+    "street": "Neuwerker Gärten / Am Schießstand 14",
+    "city": "24768 Rendsburg",
+    "website": null,
+    "logo": null
+   }
+  },
+  {
+   "name": "SV Anderlingen",
+   "setlist": {
+    "updatedAt": "2026-10-09T11:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Brandt, Christian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 369,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Brandt, Ole Mattis",
+      "foreign": null,
+      "status": "",
+      "startAverage": 366.25,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Tomforde, Jan-Hinrich",
+      "foreign": null,
+      "status": "",
+      "startAverage": 362.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Martin, Laura",
+      "foreign": null,
+      "status": "",
+      "startAverage": 362,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Brandt, Annelie",
+      "foreign": null,
+      "status": "",
+      "startAverage": 358.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Brandt, Paulina",
+      "foreign": null,
+      "status": "",
+      "startAverage": 357.83,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Delventhal, Sven",
+      "foreign": null,
+      "status": "",
+      "startAverage": 348.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Jakobsen, Friedhelm",
+      "foreign": null,
+      "status": "",
+      "startAverage": 338.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DF5D5E21-7B7B-4719-9609-DD84FAB1F96C/3039",
+   "club": {
+    "name": "Schützenverein Anderlingen u. Umgeb. e. V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Hembecker Weg 1",
+    "city": "27446 Anderlingen",
+    "website": null,
+    "logo": null
    }
   },
   {
@@ -4948,343 +5096,8 @@
     "federation": "Niedersächsischer Sportschützenverband",
     "street": "Helmstedter Str. 4c",
     "city": "38373 Süpplingen",
-    "website": null
-   }
-  },
-  {
-   "name": "SV Assel",
-   "setlist": {
-    "updatedAt": "2026-10-09T11:34",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Wehr, Thilo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Hauschild, Steffen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Steffens, Jan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Maaß, Heiko",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Zwernemann, Marius",
-      "foreign": null,
-      "status": "",
-      "startAverage": 360.2,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Stelling, Gabriele",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 353.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Middeke, Ulf",
-      "foreign": null,
-      "status": "",
-      "startAverage": 348,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Lemmel, Thoralf",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Mählmann, Rolf",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E9B142C3-B7A9-420A-A8B1-F022ADCEA743/3039",
-   "club": {
-    "name": "Schützenverein Assel e.V. von 1901",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Asseler Str. 41",
-    "city": "21706 Drochtersen",
-    "website": "https://sv-assel.de/"
-   }
-  },
-  {
-   "name": "Schützengilde Grohnde",
-   "setlist": {
-    "updatedAt": "2026-10-09T11:34",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Nachtigall, Jörn",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Mai, Sonja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Rostmann, Lennart",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363.6,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Hahlbrock, Aline",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363.29,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Ambrosy, Karsten",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 356.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Scholz, Thorsten",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 351.43,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Hahlbrock, Lothar",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Glinke, Matthias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Hahlbrock, Ulrike",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Hinse, Dennis",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E9A72A23-C4A6-4B3B-B6A3-C83047ECA64B/3039",
-   "club": {
-    "name": "Schützengilde Grohnde",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Gartenweg 3",
-    "city": "31860 Emmerthal",
-    "website": "https://sgi-grohnde.de"
+    "website": null,
+    "logo": "logos/3FF0C892-0436-42E7-9EE7-294A857E5BC1.webp"
    }
   },
   {
@@ -5492,20 +5305,21 @@
     "federation": "Nordwestdeutscher Schützenbund",
     "street": "Affendorf 1",
     "city": "27330 Asendorf",
-    "website": "https://www.SV-Haendorf.de"
+    "website": "https://www.SV-Haendorf.de",
+    "logo": "logos/DB2B5D86-3BB3-4A07-8DA8-88DD19AE8C95.webp"
    }
   },
   {
-   "name": "Wandsbeker SGi",
+   "name": "SV Assel",
    "setlist": {
     "updatedAt": "2026-10-09T11:34",
     "entries": [
      {
       "rank": 1,
-      "name": "Shvets, Veronika",
-      "foreign": "A",
+      "name": "Wehr, Thilo",
+      "foreign": null,
       "status": "S",
-      "startAverage": 367.11,
+      "startAverage": 368.33,
       "results": [
        0,
        0,
@@ -5518,10 +5332,10 @@
      },
      {
       "rank": 2,
-      "name": "Blattner, Charles Lèon",
+      "name": "Hauschild, Steffen",
       "foreign": null,
       "status": "S",
-      "startAverage": 365.67,
+      "startAverage": 362.67,
       "results": [
        0,
        0,
@@ -5534,10 +5348,10 @@
      },
      {
       "rank": 3,
-      "name": "Schonauer, Stefan",
+      "name": "Steffens, Jan",
       "foreign": null,
       "status": "S",
-      "startAverage": 365,
+      "startAverage": 362.57,
       "results": [
        0,
        0,
@@ -5550,10 +5364,10 @@
      },
      {
       "rank": 4,
-      "name": "Mania, Christian",
+      "name": "Maaß, Heiko",
       "foreign": null,
-      "status": "E",
-      "startAverage": 360.13,
+      "status": "S",
+      "startAverage": 362,
       "results": [
        0,
        0,
@@ -5566,10 +5380,10 @@
      },
      {
       "rank": 5,
-      "name": "Küchenbecker, Peter",
+      "name": "Zwernemann, Marius",
       "foreign": null,
-      "status": "S",
-      "startAverage": 360,
+      "status": "",
+      "startAverage": 360.2,
       "results": [
        0,
        0,
@@ -5582,10 +5396,10 @@
      },
      {
       "rank": 6,
-      "name": "Krichevskyi, Valerji",
+      "name": "Stelling, Gabriele",
       "foreign": null,
-      "status": "E",
-      "startAverage": 359.8,
+      "status": "S",
+      "startAverage": 353.71,
       "results": [
        0,
        0,
@@ -5598,10 +5412,10 @@
      },
      {
       "rank": 7,
-      "name": "Siemers, Jochen",
+      "name": "Middeke, Ulf",
       "foreign": null,
-      "status": "S",
-      "startAverage": 359.38,
+      "status": "",
+      "startAverage": 348,
       "results": [
        0,
        0,
@@ -5614,10 +5428,26 @@
      },
      {
       "rank": 8,
-      "name": "Opitz, Rainer",
+      "name": "Lemmel, Thoralf",
       "foreign": null,
-      "status": "E",
-      "startAverage": 355.2,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Mählmann, Rolf",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
       "results": [
        0,
        0,
@@ -5630,13 +5460,191 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/B3DC851A-FA80-4348-9423-DA1135F6AE80/3039",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E9B142C3-B7A9-420A-A8B1-F022ADCEA743/3039",
    "club": {
-    "name": "Wandsbeker Schützengilde von 1637 e.V.",
-    "federation": "Schützenverband Hamburg",
-    "street": "Marienthaler Str. 178",
-    "city": "20535 Hamburg",
-    "website": "https://www.wandsbeker-schuetzengilde.de"
+    "name": "Schützenverein Assel e.V. von 1901",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Asseler Str. 41",
+    "city": "21706 Drochtersen",
+    "website": "https://sv-assel.de/",
+    "logo": "logos/49758D50-153E-489A-B31A-1B8BA1731683.webp"
+   }
+  },
+  {
+   "name": "Schützengilde Grohnde",
+   "setlist": {
+    "updatedAt": "2026-10-09T11:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Nachtigall, Jörn",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Mai, Sonja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Rostmann, Lennart",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363.6,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Hahlbrock, Aline",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363.29,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Ambrosy, Karsten",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 356.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Scholz, Thorsten",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 351.43,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Hahlbrock, Lothar",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Glinke, Matthias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Hahlbrock, Ulrike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Hinse, Dennis",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E9A72A23-C4A6-4B3B-B6A3-C83047ECA64B/3039",
+   "club": {
+    "name": "Schützengilde Grohnde",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Gartenweg 3",
+    "city": "31860 Emmerthal",
+    "website": "https://sgi-grohnde.de",
+    "logo": "logos/41AE6023-2E5E-4A31-8B49-6D0BD03C0DAD.webp"
    }
   }
  ]
