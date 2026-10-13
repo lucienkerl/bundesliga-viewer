@@ -10357,13 +10357,13 @@
   {
    "name": "SV Germania Prittlbach",
    "setlist": {
-    "updatedAt": "2026-10-05T20:48",
+    "updatedAt": "2026-10-12T19:04",
     "entries": [
      {
       "rank": 1,
       "name": "Mane, Shahu Tushar",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 399.17,
       "results": [
        0,
@@ -10383,7 +10383,7 @@
       "rank": 2,
       "name": "Strempfl, Martin",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 399,
       "results": [
        0,
@@ -10403,7 +10403,7 @@
       "rank": 3,
       "name": "Sukhorukova, Viktoriya",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 397,
       "results": [
        0,
@@ -10423,7 +10423,7 @@
       "rank": 4,
       "name": "Zuntz, Hoshen",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 397,
       "results": [
        0,
@@ -10443,7 +10443,7 @@
       "rank": 5,
       "name": "Buchmayer, Iris",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 396.82,
       "results": [
        0,
@@ -10463,7 +10463,7 @@
       "rank": 6,
       "name": "Germond, Etienne",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 396.75,
       "results": [
        0,
@@ -10483,7 +10483,7 @@
       "rank": 7,
       "name": "Schneider, Mariella",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 394.9,
       "results": [
        0,
@@ -10503,7 +10503,7 @@
       "rank": 8,
       "name": "Straub, Isabella",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.8,
       "results": [
        0,
@@ -10523,7 +10523,7 @@
       "rank": 9,
       "name": "Stadler, Lisa",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.45,
       "results": [
        0,
@@ -10563,7 +10563,7 @@
       "rank": 11,
       "name": "Haunsperger, Sarah",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -12727,7 +12727,7 @@
   {
    "name": "Eichenlaub Saltendorf",
    "setlist": {
-    "updatedAt": "2026-10-05T20:48",
+    "updatedAt": "2026-10-13T08:27",
     "entries": [
      {
       "rank": 1,
@@ -12753,7 +12753,7 @@
       "rank": 2,
       "name": "Tucker, Mary",
       "foreign": "A",
-      "status": "E",
+      "status": "S",
       "startAverage": 398.17,
       "results": [
        0,
@@ -12833,7 +12833,7 @@
       "rank": 6,
       "name": "Morgott, Sarah",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 396,
       "results": [
        0,
@@ -12853,7 +12853,7 @@
       "rank": 7,
       "name": "Hößl, Sabrina",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.88,
       "results": [
        0,
