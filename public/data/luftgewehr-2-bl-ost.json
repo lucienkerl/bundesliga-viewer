@@ -5204,7 +5204,7 @@
   {
    "name": "PSV Olympia Berlin III",
    "setlist": {
-    "updatedAt": "2026-10-11T17:21",
+    "updatedAt": "2026-10-13T15:19",
     "entries": [
      {
       "rank": 1,
@@ -5223,7 +5223,7 @@
       "rank": 2,
       "name": "Saksena, Shreya",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 391.8,
       "results": [
        0,
@@ -5236,7 +5236,7 @@
       "rank": 3,
       "name": "Heider, Jan",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.6,
       "results": [
        0,
@@ -5249,7 +5249,7 @@
       "rank": 4,
       "name": "Ruthsatz, Frank",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 389.86,
       "results": [
        0,
@@ -5262,7 +5262,7 @@
       "rank": 5,
       "name": "Hanke, Maja",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 389,
       "results": [
        0,
@@ -5275,7 +5275,7 @@
       "rank": 6,
       "name": "Antonova, Varvara",
       "foreign": "AS",
-      "status": "",
+      "status": "S",
       "startAverage": 388.67,
       "results": [
        0,

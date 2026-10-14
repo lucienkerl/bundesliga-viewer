@@ -5499,13 +5499,13 @@
   {
    "name": "PSS Inden/Altdorf",
    "setlist": {
-    "updatedAt": "2026-07-05T10:17",
+    "updatedAt": "2026-10-13T18:34",
     "entries": [
      {
       "rank": 1,
       "name": "Fölzer, Verona",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 396.43,
       "results": [
        0,
@@ -5521,7 +5521,7 @@
       "rank": 2,
       "name": "Neuhoff, Julia",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.86,
       "results": [
        0,
@@ -5537,7 +5537,7 @@
       "rank": 3,
       "name": "Braun, Laura",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.86,
       "results": [
        0,
@@ -5553,7 +5553,7 @@
       "rank": 4,
       "name": "Berning, Verena",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.83,
       "results": [
        0,
@@ -5617,7 +5617,7 @@
       "rank": 8,
       "name": "Brucherseifer, Lana",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388,
       "results": [
        0,

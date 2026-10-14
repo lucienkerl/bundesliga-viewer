@@ -10140,7 +10140,7 @@
   {
    "name": "SB Freiheit",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-14T04:41",
     "entries": [
      {
       "rank": 1,
@@ -10286,7 +10286,7 @@
       "rank": 8,
       "name": "Rosenthal, Melanie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 395.2,
       "results": [
        0,
@@ -10306,7 +10306,7 @@
       "rank": 9,
       "name": "Faltinat, Moritz",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 395.14,
       "results": [
        0,
@@ -10326,7 +10326,7 @@
       "rank": 10,
       "name": "Rühling, Luisa",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 393.86,
       "results": [
        0,
@@ -10346,7 +10346,7 @@
       "rank": 11,
       "name": "Meinheit, Jana",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391,
       "results": [
        0,

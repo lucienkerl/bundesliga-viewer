@@ -12380,7 +12380,7 @@
   {
    "name": "Erlbachtaler-Schützen Niedererlbach",
    "setlist": {
-    "updatedAt": "2026-10-12T11:12",
+    "updatedAt": "2026-10-14T09:03",
     "entries": [
      {
       "rank": 1,
@@ -12444,6 +12444,26 @@
      },
      {
       "rank": 4,
+      "name": "Schmied, Manuel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 392.21,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
       "name": "Aumann, Thomas",
       "foreign": null,
       "status": "S",
@@ -12463,7 +12483,7 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 6,
       "name": "Huber, Alexander",
       "foreign": null,
       "status": "E",
@@ -12483,31 +12503,11 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 7,
       "name": "Weber, Fabian",
       "foreign": null,
       "status": "S",
       "startAverage": 379.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schmied, Manuel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
       "results": [
        0,
        0,
