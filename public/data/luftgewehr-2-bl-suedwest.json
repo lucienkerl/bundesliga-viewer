@@ -5489,13 +5489,13 @@
   {
    "name": "SSVg Brigachtal",
    "setlist": {
-    "updatedAt": "2026-09-05T07:56",
+    "updatedAt": "2026-10-14T16:10",
     "entries": [
      {
       "rank": 1,
       "name": "Weisz, Alison",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 398.5,
       "results": [
        0,
@@ -5515,7 +5515,7 @@
       "rank": 2,
       "name": "Sidi, Peter",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 397.5,
       "results": [
        0,
@@ -5535,7 +5535,7 @@
       "rank": 3,
       "name": "Sidi, Roxana",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 397.5,
       "results": [
        0,
@@ -5555,7 +5555,7 @@
       "rank": 4,
       "name": "Guignard, Silvia",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 394,
       "results": [
        0,
@@ -5575,7 +5575,7 @@
       "rank": 5,
       "name": "Schneider, Marco",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.27,
       "results": [
        0,
@@ -5595,7 +5595,7 @@
       "rank": 6,
       "name": "Bauer, Saskia",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391.11,
       "results": [
        0,
@@ -5615,7 +5615,7 @@
       "rank": 7,
       "name": "Leicht, Maya",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.82,
       "results": [
        0,
@@ -5635,7 +5635,7 @@
       "rank": 8,
       "name": "Meyer, Isabel",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 388,
       "results": [
        0,
@@ -5655,7 +5655,7 @@
       "rank": 9,
       "name": "Meyer, Moritz",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 387.56,
       "results": [
        0,
@@ -5675,7 +5675,7 @@
       "rank": 10,
       "name": "Klauer, Torsten",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 384,
       "results": [
        0,
@@ -5695,7 +5695,7 @@
       "rank": 11,
       "name": "Klauer, Sabrina",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 377.5,
       "results": [
        0,
@@ -5715,7 +5715,7 @@
       "rank": 12,
       "name": "Wehle, Svenja",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,

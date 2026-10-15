@@ -4710,13 +4710,13 @@
   {
    "name": "SSGem Kevelaer 2005 e.V.",
    "setlist": {
-    "updatedAt": "2026-08-25T20:34",
+    "updatedAt": "2026-10-15T11:12",
     "entries": [
      {
       "rank": 1,
       "name": "Schepens, Nicolas",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 398.53,
       "results": [
        0,
@@ -4730,10 +4730,10 @@
      },
      {
       "rank": 2,
-      "name": "Dhein, Michael",
+      "name": "Thomas, Alexander",
       "foreign": null,
-      "status": "",
-      "startAverage": 393.86,
+      "status": "S",
+      "startAverage": 396.88,
       "results": [
        0,
        0,
@@ -4746,10 +4746,10 @@
      },
      {
       "rank": 3,
-      "name": "Schiltauer, Maja",
+      "name": "Billion, Marie",
       "foreign": null,
-      "status": "",
-      "startAverage": 390.71,
+      "status": "S",
+      "startAverage": 396.27,
       "results": [
        0,
        0,
@@ -4762,10 +4762,10 @@
      },
      {
       "rank": 4,
-      "name": "Denk, Wiktoria",
+      "name": "Dhein, Michael",
       "foreign": null,
-      "status": "",
-      "startAverage": 387.71,
+      "status": "S",
+      "startAverage": 393.86,
       "results": [
        0,
        0,
@@ -4778,6 +4778,38 @@
      },
      {
       "rank": 5,
+      "name": "Schiltauer, Maja",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Denk, Wiktoria",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
       "name": "Przybilla, Julian",
       "foreign": null,
       "status": "",
@@ -4793,7 +4825,7 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 8,
       "name": "Thomas, Denise",
       "foreign": null,
       "status": "",
@@ -4809,7 +4841,7 @@
       ]
      },
      {
-      "rank": 7,
+      "rank": 9,
       "name": "Rühl, Jana",
       "foreign": null,
       "status": "",
@@ -4825,7 +4857,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 10,
       "name": "Bauer, Markus",
       "foreign": null,
       "status": "",

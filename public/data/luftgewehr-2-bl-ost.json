@@ -4590,13 +4590,13 @@
   {
    "name": "PSSG zu Dresden",
    "setlist": {
-    "updatedAt": "2026-10-11T17:21",
+    "updatedAt": "2026-10-14T18:28",
     "entries": [
      {
       "rank": 1,
       "name": "Rapps, Fabienne",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 387.43,
       "results": [
        0,
@@ -4609,7 +4609,7 @@
       "rank": 2,
       "name": "Schönsee, Aspasia",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 385.29,
       "results": [
        0,
@@ -4648,7 +4648,7 @@
       "rank": 5,
       "name": "Paul, Felix Peter",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 378.5,
       "results": [
        0,
@@ -4674,7 +4674,7 @@
       "rank": 7,
       "name": "Röthig, Fredrik",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 377,
       "results": [
        0,
@@ -4700,7 +4700,7 @@
       "rank": 9,
       "name": "Braun, Maximilian",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 370.25,
       "results": [
        0,

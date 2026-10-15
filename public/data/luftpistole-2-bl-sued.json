@@ -10741,10 +10741,30 @@
   {
    "name": "Wildbachschützen Landshut",
    "setlist": {
-    "updatedAt": "2026-10-08T10:45",
+    "updatedAt": "2026-10-14T22:49",
     "entries": [
      {
       "rank": 1,
+      "name": "Kronwitter, Alexander",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       374,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
       "name": "Jost, Celina Kathleen",
       "foreign": null,
       "status": "E",
@@ -10764,7 +10784,7 @@
       ]
      },
      {
-      "rank": 2,
+      "rank": 3,
       "name": "Lück, Christian",
       "foreign": null,
       "status": "E",
@@ -10784,34 +10804,14 @@
       ]
      },
      {
-      "rank": 3,
-      "name": "Ecker, Reinhard",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.11,
-      "results": [
-       365,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "rank": 4,
-      "name": "Unterholzner, Markus",
+      "name": "Wimmer, Monika",
       "foreign": null,
       "status": "S",
-      "startAverage": 365.29,
+      "startAverage": 365.5,
       "results": [
        360,
-       359,
+       371,
        0,
        0,
        0,
@@ -10825,13 +10825,13 @@
      },
      {
       "rank": 5,
-      "name": "Wimmer, Monika",
+      "name": "Ecker, Reinhard",
       "foreign": null,
       "status": "S",
-      "startAverage": 362.57,
+      "startAverage": 365,
       "results": [
-       360,
-       371,
+       365,
+       365,
        0,
        0,
        0,
@@ -10848,7 +10848,7 @@
       "name": "Liedel, Andreas",
       "foreign": null,
       "status": "S",
-      "startAverage": 362.44,
+      "startAverage": 361,
       "results": [
        368,
        354,
@@ -10865,6 +10865,26 @@
      },
      {
       "rank": 7,
+      "name": "Unterholzner, Markus",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359.5,
+      "results": [
+       360,
+       359,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
       "name": "Büchl, Dana",
       "foreign": null,
       "status": "E",
@@ -10884,7 +10904,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 9,
       "name": "Wendl, Harald",
       "foreign": null,
       "status": "E",
@@ -10904,7 +10924,7 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 10,
       "name": "Kronwitter, Walter",
       "foreign": null,
       "status": "E",
@@ -10912,26 +10932,6 @@
       "results": [
        0,
        0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Kronwitter, Alexander",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 0,
-      "results": [
-       374,
-       376,
        0,
        0,
        0,

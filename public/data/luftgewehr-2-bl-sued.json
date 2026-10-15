@@ -11709,7 +11709,7 @@
   {
    "name": "Isental Lengdorf",
    "setlist": {
-    "updatedAt": "2026-10-05T20:48",
+    "updatedAt": "2026-10-14T21:48",
     "entries": [
      {
       "rank": 1,
@@ -11876,6 +11876,26 @@
       "name": "Wurm, Maximilian",
       "foreign": null,
       "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Hoffmann, Matthias",
+      "foreign": null,
+      "status": "",
       "startAverage": 0,
       "results": [
        0,

@@ -11699,13 +11699,13 @@
   {
    "name": "SV Fenken",
    "setlist": {
-    "updatedAt": "2026-10-05T20:48",
+    "updatedAt": "2026-10-15T08:19",
     "entries": [
      {
       "rank": 1,
       "name": "Panwar, Divyansh Singh",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 400,
       "results": [
        0,
@@ -11725,7 +11725,7 @@
       "rank": 2,
       "name": "Abt, Markus",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 398,
       "results": [
        0,
@@ -11745,7 +11745,7 @@
       "rank": 3,
       "name": "Leppa, Aleksi",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 396.67,
       "results": [
        0,
@@ -11765,7 +11765,7 @@
       "rank": 4,
       "name": "Blazickova, Veronika",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 396,
       "results": [
        0,
@@ -11785,7 +11785,7 @@
       "rank": 5,
       "name": "Günther, Luisa",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 395.89,
       "results": [
        0,
@@ -11805,7 +11805,7 @@
       "rank": 6,
       "name": "Wehren, Hannah",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 395.5,
       "results": [
        0,
@@ -11825,7 +11825,7 @@
       "rank": 7,
       "name": "Sauter, Sophie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.88,
       "results": [
        0,
@@ -11845,7 +11845,7 @@
       "rank": 8,
       "name": "Friedmann, Nils",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.5,
       "results": [
        0,
@@ -11865,7 +11865,7 @@
       "rank": 9,
       "name": "Kohler, Kerstin",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 391.5,
       "results": [
        0,
@@ -11885,7 +11885,7 @@
       "rank": 10,
       "name": "Schwendner, Theresa",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 391,
       "results": [
        0,
@@ -11905,7 +11905,7 @@
       "rank": 11,
       "name": "Huzel, Tobias",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 378,
       "results": [
        0,
@@ -11925,7 +11925,7 @@
       "rank": 12,
       "name": "Klein, Jenny",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -12727,7 +12727,7 @@
   {
    "name": "Eichenlaub Saltendorf",
    "setlist": {
-    "updatedAt": "2026-10-13T08:27",
+    "updatedAt": "2026-10-14T22:51",
     "entries": [
      {
       "rank": 1,
@@ -12811,7 +12811,7 @@
      },
      {
       "rank": 5,
-      "name": "Preis, Andreas",
+      "name": "Morgott, Sarah",
       "foreign": null,
       "status": "S",
       "startAverage": 396,
@@ -12831,7 +12831,7 @@
      },
      {
       "rank": 6,
-      "name": "Morgott, Sarah",
+      "name": "Preis, Andreas",
       "foreign": null,
       "status": "S",
       "startAverage": 396,

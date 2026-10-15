@@ -4845,13 +4845,13 @@
   {
    "name": "SV Bramstedt",
    "setlist": {
-    "updatedAt": "2026-09-08T14:47",
+    "updatedAt": "2026-10-15T09:37",
     "entries": [
      {
       "rank": 1,
       "name": "Kölling, Finja",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 396,
       "results": [
        0,
@@ -4883,7 +4883,7 @@
       "rank": 3,
       "name": "Rothe, Vanessa",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.43,
       "results": [
        0,
@@ -4915,7 +4915,7 @@
       "rank": 5,
       "name": "Habekost, Rieke",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391.29,
       "results": [
        0,
@@ -4931,7 +4931,7 @@
       "rank": 6,
       "name": "Kohlwey, Lilly",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391.29,
       "results": [
        0,
@@ -4979,7 +4979,7 @@
       "rank": 9,
       "name": "Strüwing, Melia",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 0,
       "results": [
        0,

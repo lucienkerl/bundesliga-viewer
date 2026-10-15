@@ -6484,10 +6484,10 @@
    "date": "2026-12-19",
    "venues": [
     {
-     "host": "",
-     "hall": "",
-     "street": "",
-     "city": "",
+     "host": "Ohligser SGem 75/03",
+     "hall": "Sporthalle August-Dicke-Schule",
+     "street": "Schützenstraße 44",
+     "city": "42659 Solingen",
      "phone": null,
      "referee": "Schneider, Wilfried",
      "matches": [
@@ -7398,10 +7398,10 @@
    "date": "2026-12-20",
    "venues": [
     {
-     "host": "",
-     "hall": "",
-     "street": "",
-     "city": "",
+     "host": "Ohligser SGem 75/03",
+     "hall": "Sporthalle August-Dicke-Schule",
+     "street": "Schützenstraße 44",
+     "city": "42659 Solingen",
      "phone": null,
      "referee": "Schneider, Wilfried",
      "matches": [
@@ -11124,13 +11124,13 @@
   {
    "name": "SSG Kevelaer",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-15T11:14",
     "entries": [
      {
       "rank": 1,
       "name": "Herbulot, Manon",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 400,
       "results": [
        0,
@@ -11150,7 +11150,7 @@
       "rank": 2,
       "name": "Janßen, Anna",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 399,
       "results": [
        0,
@@ -11170,7 +11170,7 @@
       "rank": 3,
       "name": "Paul, Ayonika",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 399,
       "results": [
        0,
@@ -11190,7 +11190,7 @@
       "rank": 4,
       "name": "Driessen, Franziska",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 397.2,
       "results": [
        0,
@@ -11210,7 +11210,7 @@
       "rank": 5,
       "name": "Rentmeister, Finnja",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 397.14,
       "results": [
        0,
@@ -11230,7 +11230,7 @@
       "rank": 6,
       "name": "Thomas, Alexander",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 396.88,
       "results": [
        0,
@@ -11250,7 +11250,7 @@
       "rank": 7,
       "name": "Janßen, Franka",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 396.44,
       "results": [
        0,
@@ -11270,7 +11270,7 @@
       "rank": 8,
       "name": "Billion, Marie",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 396.27,
       "results": [
        0,
@@ -12229,7 +12229,7 @@
   {
    "name": "SV Gölzau",
    "setlist": {
-    "updatedAt": "2026-10-13T06:56",
+    "updatedAt": "2026-10-14T22:47",
     "entries": [
      {
       "rank": 1,
@@ -12253,6 +12253,26 @@
      },
      {
       "rank": 2,
+      "name": "Lukaszyk, Rafal",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 396.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
       "name": "Neumann, Annika",
       "foreign": null,
       "status": "",
@@ -12272,7 +12292,7 @@
       ]
      },
      {
-      "rank": 3,
+      "rank": 4,
       "name": "Mikolowska, Julia",
       "foreign": "A",
       "status": "",
@@ -12292,7 +12312,7 @@
       ]
      },
      {
-      "rank": 4,
+      "rank": 5,
       "name": "Bartnik, Weronika",
       "foreign": "EU",
       "status": "",
@@ -12312,7 +12332,7 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 6,
       "name": "Thurnwaldova, Sabina",
       "foreign": "A",
       "status": "",
@@ -12332,31 +12352,11 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 7,
       "name": "Gross, Charleen",
       "foreign": null,
       "status": "",
       "startAverage": 393.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Lukaszyk, Rafal",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 393,
       "results": [
        0,
        0,
@@ -12723,13 +12723,13 @@
   {
    "name": "Ohligser SGem 75/03",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-14T14:35",
     "entries": [
      {
       "rank": 1,
       "name": "Raju, Narmada Nithin",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 400,
       "results": [
        0,
@@ -12749,7 +12749,7 @@
       "rank": 2,
       "name": "Destefanis, Bastien",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 400,
       "results": [
        0,
@@ -12769,7 +12769,7 @@
       "rank": 3,
       "name": "Nor-Woll, Pernille",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 398,
       "results": [
        0,
@@ -12789,7 +12789,7 @@
       "rank": 4,
       "name": "Blos, Michelle",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 398,
       "results": [
        0,
@@ -12809,7 +12809,7 @@
       "rank": 5,
       "name": "Ziegler, Antonia Sofie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 396.44,
       "results": [
        0,
@@ -12829,7 +12829,7 @@
       "rank": 6,
       "name": "Toma, Réka",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 395.5,
       "results": [
        0,
@@ -12849,7 +12849,7 @@
       "rank": 7,
       "name": "Püschel, Enya",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 395.2,
       "results": [
        0,
@@ -12869,7 +12869,7 @@
       "rank": 8,
       "name": "Hoffmann, Leila",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 393.89,
       "results": [
        0,
@@ -12889,7 +12889,7 @@
       "rank": 9,
       "name": "Blos, Bastian",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 393.78,
       "results": [
        0,
@@ -12909,7 +12909,7 @@
       "rank": 10,
       "name": "Hülsmann, Marc",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 393.71,
       "results": [
        0,
@@ -12949,7 +12949,7 @@
       "rank": 12,
       "name": "Blos, Katja",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 381.75,
       "results": [
        0,
