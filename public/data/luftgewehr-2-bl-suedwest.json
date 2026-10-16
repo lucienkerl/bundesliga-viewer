@@ -4878,7 +4878,7 @@
   {
    "name": "SV Buch",
    "setlist": {
-    "updatedAt": "2026-09-05T07:56",
+    "updatedAt": "2026-10-15T21:27",
     "entries": [
      {
       "rank": 1,
@@ -4900,7 +4900,7 @@
       "rank": 2,
       "name": "Nagybányai-Nagy, Anna",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 399,
       "results": [
        0,
@@ -4932,7 +4932,7 @@
       "rank": 4,
       "name": "Kleinle, Tamara",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.43,
       "results": [
        0,
@@ -4964,7 +4964,7 @@
       "rank": 6,
       "name": "Köppel, Markus",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388,
       "results": [
        0,
@@ -4980,7 +4980,7 @@
       "rank": 7,
       "name": "Fürst, Louis",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 387.57,
       "results": [
        0,
@@ -5012,7 +5012,7 @@
       "rank": 9,
       "name": "Festerling, Robin",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 387,
       "results": [
        0,

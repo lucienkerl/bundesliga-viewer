@@ -12056,7 +12056,7 @@
   {
    "name": "SV Niedererbach",
    "setlist": {
-    "updatedAt": "2026-10-12T14:32",
+    "updatedAt": "2026-10-16T11:43",
     "entries": [
      {
       "rank": 1,
@@ -12142,7 +12142,7 @@
       "rank": 5,
       "name": "Röller, Dirk",
       "foreign": null,
-      "status": "E",
+      "status": "S",
       "startAverage": 362.4,
       "results": [
        0,
@@ -12242,7 +12242,7 @@
       "rank": 10,
       "name": "Setzer, Lars",
       "foreign": null,
-      "status": "S",
+      "status": "E",
       "startAverage": 352.5,
       "results": [
        358,
