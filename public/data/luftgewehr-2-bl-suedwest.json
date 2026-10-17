@@ -5891,7 +5891,7 @@
   {
    "name": "SV Schopp",
    "setlist": {
-    "updatedAt": "2026-09-05T07:56",
+    "updatedAt": "2026-10-17T17:49",
     "entries": [
      {
       "rank": 1,
@@ -5945,7 +5945,7 @@
       "rank": 4,
       "name": "Morgenstern, Angelina-Marie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391,
       "results": [
        0,
@@ -5961,7 +5961,7 @@
       "rank": 5,
       "name": "Vucenovic, Marija",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 390.86,
       "results": [
        0,
@@ -5977,7 +5977,7 @@
       "rank": 6,
       "name": "Hauck, Julia",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.43,
       "results": [
        0,
@@ -6009,7 +6009,7 @@
       "rank": 8,
       "name": "Ziegler, Liv",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 387.67,
       "results": [
        0,
@@ -6025,7 +6025,7 @@
       "rank": 9,
       "name": "Filbert, Robert",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 386.75,
       "results": [
        0,
