@@ -5064,13 +5064,13 @@
   {
    "name": "SV Steinbach",
    "setlist": {
-    "updatedAt": "2026-08-29T14:06",
+    "updatedAt": "2026-10-16T23:15",
     "entries": [
      {
-      "rank": 2,
+      "rank": 1,
       "name": "Lambrechts, Tessa",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 396.87,
       "results": [
        0,
@@ -5083,10 +5083,10 @@
       ]
      },
      {
-      "rank": 3,
+      "rank": 2,
       "name": "Rizea, Andrei",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 396.67,
       "results": [
        0,
@@ -5099,10 +5099,10 @@
       ]
      },
      {
-      "rank": 4,
+      "rank": 3,
       "name": "Röller, Alexander",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 392.27,
       "results": [
        0,
@@ -5115,10 +5115,10 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 4,
       "name": "Chandela, Apurvi",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 392.25,
       "results": [
        0,
@@ -5131,10 +5131,10 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 5,
       "name": "Neidhart, Svenja",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.18,
       "results": [
        0,
@@ -5147,10 +5147,10 @@
       ]
      },
      {
-      "rank": 7,
+      "rank": 6,
       "name": "Jung, Lina",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 392.14,
       "results": [
        0,
@@ -5163,10 +5163,10 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 7,
       "name": "Dingerdißen, Luc",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.9,
       "results": [
        0,
@@ -5179,10 +5179,10 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 8,
       "name": "Most, Marlene",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.83,
       "results": [
        0,
@@ -5195,10 +5195,10 @@
       ]
      },
      {
-      "rank": 10,
+      "rank": 9,
       "name": "Waczlawsky, Leopold",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5211,10 +5211,10 @@
       ]
      },
      {
-      "rank": 11,
+      "rank": 10,
       "name": "Sippel, Kira-Sophie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 0,
       "results": [
        0,

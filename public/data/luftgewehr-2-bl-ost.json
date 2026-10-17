@@ -4417,13 +4417,13 @@
   {
    "name": "SGi Lübben",
    "setlist": {
-    "updatedAt": "2026-10-11T17:21",
+    "updatedAt": "2026-10-17T11:27",
     "entries": [
      {
       "rank": 1,
       "name": "Graßmann, Svenja",
       "foreign": null,
-      "status": "E",
+      "status": "S",
       "startAverage": 385,
       "results": [
        0,
@@ -4566,7 +4566,7 @@
       "rank": 12,
       "name": "Graßmann-Jeschke, Nadine",
       "foreign": null,
-      "status": "S",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5377,7 +5377,7 @@
   {
    "name": "SV Gölzau II",
    "setlist": {
-    "updatedAt": "2026-10-11T17:21",
+    "updatedAt": "2026-10-17T09:11",
     "entries": [
      {
       "rank": 1,
@@ -5403,7 +5403,7 @@
       "rank": 2,
       "name": "Tolonitz, Jana",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391.5,
       "results": [
        0,
@@ -5423,7 +5423,7 @@
       "rank": 3,
       "name": "Pfeiffer, Natalie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.67,
       "results": [
        0,
@@ -5443,7 +5443,7 @@
       "rank": 4,
       "name": "Schäfer, Maria",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.4,
       "results": [
        0,
@@ -5483,7 +5483,7 @@
       "rank": 6,
       "name": "Walter, Ida",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 385.75,
       "results": [
        0,
@@ -5503,7 +5503,7 @@
       "rank": 7,
       "name": "Eichelberg, Felice",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 382,
       "results": [
        0,

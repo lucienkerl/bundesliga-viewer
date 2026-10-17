@@ -11275,13 +11275,13 @@
   {
    "name": "Sportschützen Niederlauterbach",
    "setlist": {
-    "updatedAt": "2026-10-05T20:48",
+    "updatedAt": "2026-10-16T17:29",
     "entries": [
      {
       "rank": 1,
       "name": "Hofmann, Olivia",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 398,
       "results": [
        0,
@@ -11301,7 +11301,7 @@
       "rank": 2,
       "name": "Lechner, Sara",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 396.36,
       "results": [
        0,
@@ -11341,7 +11341,7 @@
       "rank": 4,
       "name": "Eiglsperger, Simon",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.14,
       "results": [
        0,
@@ -11361,7 +11361,7 @@
       "rank": 5,
       "name": "Plank, Melanie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.55,
       "results": [
        0,
@@ -11381,7 +11381,7 @@
       "rank": 6,
       "name": "Bauer, Jessica",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.67,
       "results": [
        0,

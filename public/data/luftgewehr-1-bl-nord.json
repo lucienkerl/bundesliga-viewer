@@ -10714,13 +10714,13 @@
   {
    "name": "BSV Buer-Bülse",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-17T10:44",
     "entries": [
      {
       "rank": 1,
       "name": "Pradhan, Kashika",
       "foreign": "A",
-      "status": "E",
+      "status": "S",
       "startAverage": 398,
       "results": [
        0,
@@ -10740,7 +10740,7 @@
       "rank": 2,
       "name": "Oviedo, Jesus",
       "foreign": "A",
-      "status": "S",
+      "status": "E",
       "startAverage": 397,
       "results": [
        0,
@@ -10840,7 +10840,7 @@
       "rank": 7,
       "name": "Röhr, Jennifer",
       "foreign": null,
-      "status": "S",
+      "status": "E",
       "startAverage": 392,
       "results": [
        0,
@@ -10880,7 +10880,7 @@
       "rank": 9,
       "name": "Reuter, Maxi",
       "foreign": null,
-      "status": "E",
+      "status": "S",
       "startAverage": 391,
       "results": [
        0,
@@ -12229,13 +12229,13 @@
   {
    "name": "SV Gölzau",
    "setlist": {
-    "updatedAt": "2026-10-14T22:47",
+    "updatedAt": "2026-10-17T09:09",
     "entries": [
      {
       "rank": 1,
       "name": "Bartnik, Tomasz",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 396.78,
       "results": [
        0,
@@ -12275,7 +12275,7 @@
       "rank": 3,
       "name": "Neumann, Annika",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 395.7,
       "results": [
        0,
@@ -12355,7 +12355,7 @@
       "rank": 7,
       "name": "Gross, Charleen",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 393.33,
       "results": [
        0,
@@ -12375,7 +12375,7 @@
       "rank": 8,
       "name": "Goldhorn, Magdalena",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392,
       "results": [
        0,
@@ -12395,7 +12395,7 @@
       "rank": 9,
       "name": "Lipinski, Lina",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.33,
       "results": [
        0,

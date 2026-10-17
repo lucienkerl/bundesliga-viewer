@@ -4685,13 +4685,13 @@
   {
    "name": "KKSV Heitersheim",
    "setlist": {
-    "updatedAt": "2026-09-05T07:57",
+    "updatedAt": "2026-10-16T22:28",
     "entries": [
      {
       "rank": 1,
       "name": "Schmid, Alina",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 398.67,
       "results": [
        0,
@@ -4723,7 +4723,7 @@
       "rank": 3,
       "name": "Beutler, Anna-Marie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 393,
       "results": [
        0,
@@ -4739,7 +4739,7 @@
       "rank": 4,
       "name": "Kürner, Korvin",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.57,
       "results": [
        0,
@@ -4755,7 +4755,7 @@
       "rank": 5,
       "name": "Stach, Lilly Melody",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391.57,
       "results": [
        0,
@@ -4771,7 +4771,7 @@
       "rank": 6,
       "name": "Gräßlin, Larissa",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391.5,
       "results": [
        0,
@@ -5087,7 +5087,7 @@
   {
    "name": "SV Appenhofen 1960 e.V.",
    "setlist": {
-    "updatedAt": "2026-09-05T07:56",
+    "updatedAt": "2026-10-16T16:41",
     "entries": [
      {
       "rank": 1,
@@ -5109,7 +5109,7 @@
       "rank": 2,
       "name": "Herceg, Estera",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 396,
       "results": [
        0,
@@ -5125,7 +5125,7 @@
       "rank": 3,
       "name": "Dörrzapf, Alessa",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394.38,
       "results": [
        0,
@@ -5141,7 +5141,7 @@
       "rank": 4,
       "name": "Linn, Debora",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.57,
       "results": [
        0,
@@ -5157,7 +5157,7 @@
       "rank": 5,
       "name": "Hüttner, Tamara",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 389.43,
       "results": [
        0,
@@ -5189,7 +5189,7 @@
       "rank": 7,
       "name": "Schiff, Carsten",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.86,
       "results": [
        0,
