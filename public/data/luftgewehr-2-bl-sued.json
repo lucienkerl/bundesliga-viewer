@@ -11709,7 +11709,7 @@
   {
    "name": "Isental Lengdorf",
    "setlist": {
-    "updatedAt": "2026-10-14T21:48",
+    "updatedAt": "2026-10-17T13:47",
     "entries": [
      {
       "rank": 1,
@@ -11895,7 +11895,7 @@
       "rank": 10,
       "name": "Hoffmann, Matthias",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -12400,7 +12400,7 @@
   {
    "name": "Erlbachtaler-Schützen Niedererlbach",
    "setlist": {
-    "updatedAt": "2026-10-14T09:03",
+    "updatedAt": "2026-10-17T13:05",
     "entries": [
      {
       "rank": 1,
@@ -12466,7 +12466,7 @@
       "rank": 4,
       "name": "Schmied, Manuel",
       "foreign": null,
-      "status": "E",
+      "status": "S",
       "startAverage": 392.21,
       "results": [
        0,
@@ -12526,7 +12526,7 @@
       "rank": 7,
       "name": "Weber, Fabian",
       "foreign": null,
-      "status": "S",
+      "status": "E",
       "startAverage": 379.67,
       "results": [
        0,

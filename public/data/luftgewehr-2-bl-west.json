@@ -4887,13 +4887,13 @@
   {
    "name": "SGes Heepen",
    "setlist": {
-    "updatedAt": "2026-07-27T12:57",
+    "updatedAt": "2026-10-17T12:43",
     "entries": [
      {
       "rank": 1,
       "name": "Münster, Veronique",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 389.5,
       "results": [
        0,
@@ -4909,7 +4909,7 @@
       "rank": 2,
       "name": "Günzler, Rebecca",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.71,
       "results": [
        0,
@@ -4925,7 +4925,7 @@
       "rank": 3,
       "name": "Jockel, Maximilian",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.71,
       "results": [
        0,
@@ -4941,7 +4941,7 @@
       "rank": 4,
       "name": "Klaiber, Jonas",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 386.83,
       "results": [
        0,
@@ -5021,7 +5021,7 @@
       "rank": 9,
       "name": "Voßfänger, Eva-Catharina",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 0,
       "results": [
        0,

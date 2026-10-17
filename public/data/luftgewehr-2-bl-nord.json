@@ -4700,13 +4700,13 @@
   {
    "name": "Tell Wechloy",
    "setlist": {
-    "updatedAt": "2026-09-08T14:47",
+    "updatedAt": "2026-10-17T15:03",
     "entries": [
      {
       "rank": 1,
       "name": "Andersen, Jonas",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 391.57,
       "results": [
        0,
@@ -4722,7 +4722,7 @@
       "rank": 2,
       "name": "Heuft, Ayleen",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391.43,
       "results": [
        0,
@@ -4738,7 +4738,7 @@
       "rank": 3,
       "name": "Näther, Ann-Katrin",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 387,
       "results": [
        0,
@@ -4754,7 +4754,7 @@
       "rank": 4,
       "name": "Otten, Ann-Katrin",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 384,
       "results": [
        0,
@@ -4770,7 +4770,7 @@
       "rank": 5,
       "name": "Sperveslage, Anneke",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 383.5,
       "results": [
        0,
@@ -4786,7 +4786,7 @@
       "rank": 6,
       "name": "Riedemann, Nadine",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 383,
       "results": [
        0,
@@ -4802,7 +4802,7 @@
       "rank": 7,
       "name": "Dänekas, Kira",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 380.33,
       "results": [
        0,
@@ -4818,7 +4818,7 @@
       "rank": 8,
       "name": "Umbach, Franziska",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 368.5,
       "results": [
        0,
