@@ -9,75 +9,75 @@
  "table": [
   {
    "rank": 1,
-   "team": "Isental Lengdorf",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
+   "team": "SV 1889 Ickelheim",
+   "singlePoints": "7:3",
+   "teamPoints": "4:0"
   },
   {
    "rank": 2,
-   "team": "Falkenschützen Mauerberg",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
+   "team": "Isental Lengdorf",
+   "singlePoints": "7:3",
+   "teamPoints": "4:0"
   },
   {
    "rank": 3,
-   "team": "SV 1889 Ickelheim",
-   "singlePoints": "3:2",
-   "teamPoints": "2:0"
+   "team": "Falkenschützen Mauerberg",
+   "singlePoints": "7:3",
+   "teamPoints": "4:0"
   },
   {
    "rank": 4,
    "team": "FSG Der Bund München II",
-   "singlePoints": "3:2",
-   "teamPoints": "2:0"
+   "singlePoints": "7:3",
+   "teamPoints": "4:0"
   },
   {
    "rank": 5,
-   "team": "SG Aich",
-   "singlePoints": "3:2",
-   "teamPoints": "2:0"
+   "team": "Erlbachtaler-Schützen Niedererlbach",
+   "singlePoints": "5:5",
+   "teamPoints": "2:2"
   },
   {
    "rank": 6,
-   "team": "Erlbachtaler-Schützen Niedererlbach",
-   "singlePoints": "3:2",
-   "teamPoints": "2:0"
+   "team": "Sportschützen Niederlauterbach",
+   "singlePoints": "5:5",
+   "teamPoints": "2:2"
   },
   {
    "rank": 7,
-   "team": "Sportschützen Niederlauterbach",
-   "singlePoints": "2:3",
-   "teamPoints": "0:2"
+   "team": "SV Pfeil Vöhringen II",
+   "singlePoints": "5:5",
+   "teamPoints": "2:2"
   },
   {
    "rank": 8,
-   "team": "SV Pfeil Vöhringen II",
-   "singlePoints": "2:3",
-   "teamPoints": "0:2"
+   "team": "SG Aich",
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
   },
   {
    "rank": 9,
    "team": "kgl. priv. FSG Titting",
-   "singlePoints": "2:3",
-   "teamPoints": "0:2"
+   "singlePoints": "4:6",
+   "teamPoints": "0:4"
   },
   {
    "rank": 10,
    "team": "Hubertus Kastl",
-   "singlePoints": "2:3",
-   "teamPoints": "0:2"
+   "singlePoints": "4:6",
+   "teamPoints": "0:4"
   },
   {
    "rank": 11,
-   "team": "SV Edelweiß Mendorf",
-   "singlePoints": "1:4",
-   "teamPoints": "0:2"
+   "team": "SSG RWS Fürth 2",
+   "singlePoints": "3:7",
+   "teamPoints": "0:4"
   },
   {
    "rank": 12,
-   "team": "SSG RWS Fürth 2",
-   "singlePoints": "1:4",
-   "teamPoints": "0:2"
+   "team": "SV Edelweiß Mendorf",
+   "singlePoints": "2:8",
+   "teamPoints": "0:4"
   }
  ],
  "matchDays": [
@@ -1022,146 +1022,146 @@
        "time": "14:45",
        "home": "SV 1889 Ickelheim",
        "away": "SV Edelweiß Mendorf",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1964,
+       "awayRings": 1950,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Engler, Lara",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           97,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Scheringer, Sophia",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           98,
+           100,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Stubenrauch, Hanna",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           100,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Zieglmeier, Melissa",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           95,
+           96,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Szabo, Eva",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           95,
+           96,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Appelsmayer, Julia",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           96,
+           95,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Engler, Constantin",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Zieglmeier, Vanessa",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           98,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ott, Marvin",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           100,
+           100,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Scheringer, Mia",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           97,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -1170,145 +1170,145 @@
        "time": "16:15",
        "home": "Hubertus Kastl",
        "away": "Falkenschützen Mauerberg",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1965,
+       "awayRings": 1977,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Exenberger, Theresa",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Stelzl, Elias",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           99,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schuller, Christina",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           95,
+           99,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schmidtner, Agnes",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Pöllath, Maria",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           96,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schmidtner, Marie",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           98,
+           100,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kausler, Maria",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           97,
+           98,
+           98
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bauer, Antonia",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           98,
+           96
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Merkl, Eva",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Baur, Fabian",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           99,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -1328,146 +1328,146 @@
        "time": "14:45",
        "home": "SG Aich",
        "away": "FSG Der Bund München II",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1965,
+       "awayRings": 1975,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Eberlberger, Florian",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           98,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Mikuljan, Andrija",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           96,
+           100,
+           100
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Tristl, Martina",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Westermann, Fabian",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           100,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lang, Angelika",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           100,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schwenk, Christina",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schwerer, Marie",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bauer, Simon",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           97,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schwerer, Hannah",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           95,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kemptner, Julian",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -1476,146 +1476,146 @@
        "time": "16:15",
        "home": "SV Pfeil Vöhringen II",
        "away": "kgl. priv. FSG Titting",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1969,
+       "awayRings": 1962,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Krumm, Florian",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Katz, Klaudie",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           100,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Grosch, Mia",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           98,
+           100,
+           98
           ],
-          "shootOff": null
+          "shootOff": 10.3
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Grasberger, Brianna",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           98
           ],
-          "shootOff": null
+          "shootOff": 9.9
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Fischer, Bernd",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           99,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Seybold, Laura",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           95,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Strydom, Adriaan",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           98,
+           96,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Rudingsdorfer, Ferdinand",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           97,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hugon, Nour",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Geiger, Sarah",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           99,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -1634,145 +1634,145 @@
        "time": "14:45",
        "home": "Erlbachtaler-Schützen Niedererlbach",
        "away": "Isental Lengdorf",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1966,
+       "awayRings": 1962,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Prinz, Jolanda",
-          "total": 0,
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           100,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Muxel, Thomas",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           99,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
           "name": "Körndl, Nicole",
-          "total": 0,
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Thurner, Marie-Christin",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           99,
+           100,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
           "name": "Schmied, Manuel",
-          "total": 0,
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           99,
+           100
           ],
-          "shootOff": null
+          "shootOff": 9.8
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lanzinger, Lena",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           98,
+           100
           ],
-          "shootOff": null
+          "shootOff": 10.1
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Huber, Alexander",
-          "total": 0,
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           97,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Obermaier, Alexander",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           100,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Kröner, Linda",
-          "total": 0,
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           99,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hoffmann, Matthias",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           97,
+           97,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -1782,146 +1782,146 @@
        "time": "16:15",
        "home": "Sportschützen Niederlauterbach",
        "away": "SSG RWS Fürth 2",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1969,
+       "awayRings": 1964,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hofmann, Olivia",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lederer, Finja",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           96,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lechner, Sara",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           100,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lindner, Mirjam",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           99,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Eiglsperger, Simon",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           97,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Nieberle, Andrea",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           98,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Plank, Melanie",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           97,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Fichtl, Kilian",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           98,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wagner, Katharina",
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           96,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Scherzer, Paula",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           97,
+           100,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -10248,380 +10248,6 @@
  ],
  "teams": [
   {
-   "name": "Isental Lengdorf",
-   "setlist": {
-    "updatedAt": "2026-10-17T13:47",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Muxel, Thomas",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Thurner, Marie-Christin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.55,
-      "results": [
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Lanzinger, Lena",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.36,
-      "results": [
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Obermaier, Kerstin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Zimmer, Christine",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 391,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Obermaier, Stefan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.1,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Obermaier, Alexander",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 384,
-      "results": [
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Heiß, Sophie",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 383.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Wurm, Maximilian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Hoffmann, Matthias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/9D8D75C8-F5EA-4FAE-8A98-4CCA301A7C47/3008",
-   "club": {
-    "name": "SV Isental Lengdorf",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Hauptstraße 3",
-    "city": "84435 Lengdorf",
-    "website": "https://www.isental-lengdorf.de",
-    "logo": "logos/69A01603-ED8A-4C49-A805-C0FF967318E8.webp"
-   }
-  },
-  {
-   "name": "Falkenschützen Mauerberg",
-   "setlist": {
-    "updatedAt": "2026-10-05T20:48",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Stelzl, Elias",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.79,
-      "results": [
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Schmidtner, Agnes",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.08,
-      "results": [
-       399,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Schmidtner, Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.71,
-      "results": [
-       386,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Bauer, Antonia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390.43,
-      "results": [
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Baur, Fabian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.18,
-      "results": [
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Goldbrunner, Veronika",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 379.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schmidtner, Thomas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/437A06E4-B630-4DC4-A4DC-CACCC31C4871/3008",
-   "club": {
-    "name": "Mörntaler-Falkenschützen Mauerberg",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Altöttinger Str. 36",
-    "city": "84518 Garching a.d. Alz",
-    "website": "https://www.falkenschuetzen-mauerberg.de",
-    "logo": "logos/BB52F911-4753-4A5A-B429-304D85665C24.webp"
-   }
-  },
-  {
    "name": "SV 1889 Ickelheim",
    "setlist": {
     "updatedAt": "2026-10-05T20:48",
@@ -10634,7 +10260,7 @@
       "startAverage": 394.27,
       "results": [
        392,
-       0,
+       396,
        0,
        0,
        0,
@@ -10654,7 +10280,7 @@
       "startAverage": 393.18,
       "results": [
        396,
-       0,
+       395,
        0,
        0,
        0,
@@ -10674,7 +10300,7 @@
       "startAverage": 392.3,
       "results": [
        390,
-       0,
+       388,
        0,
        0,
        0,
@@ -10694,7 +10320,7 @@
       "startAverage": 391.33,
       "results": [
        392,
-       0,
+       394,
        0,
        0,
        0,
@@ -10714,7 +10340,7 @@
       "startAverage": 390.1,
       "results": [
        388,
-       0,
+       391,
        0,
        0,
        0,
@@ -10839,6 +10465,380 @@
    }
   },
   {
+   "name": "Isental Lengdorf",
+   "setlist": {
+    "updatedAt": "2026-10-17T13:47",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Muxel, Thomas",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       393,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Thurner, Marie-Christin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.55,
+      "results": [
+       394,
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Lanzinger, Lena",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.36,
+      "results": [
+       395,
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Obermaier, Kerstin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Zimmer, Christine",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 391,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Obermaier, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.1,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Obermaier, Alexander",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 384,
+      "results": [
+       388,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Heiß, Sophie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383.25,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Wurm, Maximilian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Hoffmann, Matthias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       389,
+       386,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/9D8D75C8-F5EA-4FAE-8A98-4CCA301A7C47/3008",
+   "club": {
+    "name": "SV Isental Lengdorf",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Hauptstraße 3",
+    "city": "84435 Lengdorf",
+    "website": "https://www.isental-lengdorf.de",
+    "logo": "logos/69A01603-ED8A-4C49-A805-C0FF967318E8.webp"
+   }
+  },
+  {
+   "name": "Falkenschützen Mauerberg",
+   "setlist": {
+    "updatedAt": "2026-10-05T20:48",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Stelzl, Elias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.79,
+      "results": [
+       396,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schmidtner, Agnes",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.08,
+      "results": [
+       399,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Schmidtner, Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.71,
+      "results": [
+       386,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Bauer, Antonia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390.43,
+      "results": [
+       391,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Baur, Fabian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.18,
+      "results": [
+       390,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Goldbrunner, Veronika",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schmidtner, Thomas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/437A06E4-B630-4DC4-A4DC-CACCC31C4871/3008",
+   "club": {
+    "name": "Mörntaler-Falkenschützen Mauerberg",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Altöttinger Str. 36",
+    "city": "84518 Garching a.d. Alz",
+    "website": "https://www.falkenschuetzen-mauerberg.de",
+    "logo": "logos/BB52F911-4753-4A5A-B429-304D85665C24.webp"
+   }
+  },
+  {
    "name": "FSG Der Bund München II",
    "setlist": {
     "updatedAt": "2026-10-05T20:48",
@@ -10851,7 +10851,7 @@
       "startAverage": 398,
       "results": [
        392,
-       0,
+       395,
        0,
        0,
        0,
@@ -10871,7 +10871,7 @@
       "startAverage": 395.89,
       "results": [
        394,
-       0,
+       398,
        0,
        0,
        0,
@@ -10931,7 +10931,7 @@
       "startAverage": 391.8,
       "results": [
        398,
-       0,
+       395,
        0,
        0,
        0,
@@ -10971,7 +10971,7 @@
       "startAverage": 391,
       "results": [
        0,
-       0,
+       393,
        0,
        0,
        0,
@@ -11051,7 +11051,7 @@
       "startAverage": 0,
       "results": [
        397,
-       0,
+       394,
        0,
        0,
        0,
@@ -11076,203 +11076,6 @@
    }
   },
   {
-   "name": "SG Aich",
-   "setlist": {
-    "updatedAt": "2026-10-05T20:48",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Eberlberger, Florian",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 397,
-      "results": [
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Tristl, Martina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Lang, Angelika",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.64,
-      "results": [
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Schober, Samuel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.67,
-      "results": [
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Schwerer, Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386.82,
-      "results": [
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Schwerer, Hannah",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 383.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Tristl, Florian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 382.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Wild, Lea",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Schürf, Johann",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/CB4A3C52-6C24-466B-96BB-2033D7FCDAAE/3008",
-   "club": {
-    "name": "SG Aich e.V.",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Moosstr. 21",
-    "city": "85368 Moosburg a.d. Isar/Aich",
-    "website": "https://sgaich.de",
-    "logo": null
-   }
-  },
-  {
    "name": "Erlbachtaler-Schützen Niedererlbach",
    "setlist": {
     "updatedAt": "2026-10-17T13:05",
@@ -11285,7 +11088,7 @@
       "startAverage": 397.64,
       "results": [
        396,
-       0,
+       396,
        0,
        0,
        0,
@@ -11325,7 +11128,7 @@
       "startAverage": 392.91,
       "results": [
        393,
-       0,
+       392,
        0,
        0,
        0,
@@ -11345,7 +11148,7 @@
       "startAverage": 392.21,
       "results": [
        396,
-       0,
+       394,
        0,
        0,
        0,
@@ -11385,7 +11188,7 @@
       "startAverage": 389.5,
       "results": [
        0,
-       0,
+       388,
        0,
        0,
        0,
@@ -11425,7 +11228,7 @@
       "startAverage": 0,
       "results": [
        389,
-       0,
+       396,
        0,
        0,
        0,
@@ -11462,7 +11265,7 @@
       "startAverage": 398,
       "results": [
        400,
-       0,
+       398,
        0,
        0,
        0,
@@ -11482,7 +11285,7 @@
       "startAverage": 396.36,
       "results": [
        392,
-       0,
+       398,
        0,
        0,
        0,
@@ -11522,7 +11325,7 @@
       "startAverage": 394.14,
       "results": [
        394,
-       0,
+       393,
        0,
        0,
        0,
@@ -11542,7 +11345,7 @@
       "startAverage": 392.55,
       "results": [
        395,
-       0,
+       395,
        0,
        0,
        0,
@@ -11602,7 +11405,7 @@
       "startAverage": 387.22,
       "results": [
        0,
-       0,
+       385,
        0,
        0,
        0,
@@ -11659,7 +11462,7 @@
       "startAverage": 396.74,
       "results": [
        396,
-       0,
+       397,
        0,
        0,
        0,
@@ -11699,7 +11502,7 @@
       "startAverage": 393.47,
       "results": [
        392,
-       0,
+       396,
        0,
        0,
        0,
@@ -11739,7 +11542,7 @@
       "startAverage": 392.5,
       "results": [
        392,
-       0,
+       396,
        0,
        0,
        0,
@@ -11759,7 +11562,7 @@
       "startAverage": 388.33,
       "results": [
        388,
-       0,
+       388,
        0,
        0,
        0,
@@ -11859,7 +11662,7 @@
       "startAverage": 0,
       "results": [
        388,
-       0,
+       392,
        0,
        0,
        0,
@@ -11884,6 +11687,203 @@
    }
   },
   {
+   "name": "SG Aich",
+   "setlist": {
+    "updatedAt": "2026-10-05T20:48",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Eberlberger, Florian",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 397,
+      "results": [
+       393,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Tristl, Martina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       397,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Lang, Angelika",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.64,
+      "results": [
+       395,
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schober, Samuel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.67,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Schwerer, Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386.82,
+      "results": [
+       391,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schwerer, Hannah",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383.67,
+      "results": [
+       0,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Tristl, Florian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 382.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Wild, Lea",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Schürf, Johann",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/CB4A3C52-6C24-466B-96BB-2033D7FCDAAE/3008",
+   "club": {
+    "name": "SG Aich e.V.",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Moosstr. 21",
+    "city": "85368 Moosburg a.d. Isar/Aich",
+    "website": "https://sgaich.de",
+    "logo": null
+   }
+  },
+  {
    "name": "kgl. priv. FSG Titting",
    "setlist": {
     "updatedAt": "2026-10-12T10:03",
@@ -11896,7 +11896,7 @@
       "startAverage": 400,
       "results": [
        396,
-       0,
+       398,
        0,
        0,
        0,
@@ -11956,7 +11956,7 @@
       "startAverage": 395,
       "results": [
        392,
-       0,
+       396,
        0,
        0,
        0,
@@ -12036,7 +12036,7 @@
       "startAverage": 391.7,
       "results": [
        391,
-       0,
+       387,
        0,
        0,
        0,
@@ -12096,7 +12096,7 @@
       "startAverage": 386.5,
       "results": [
        0,
-       0,
+       386,
        0,
        0,
        0,
@@ -12116,7 +12116,7 @@
       "startAverage": 0,
       "results": [
        398,
-       0,
+       395,
        0,
        0,
        0,
@@ -12193,7 +12193,7 @@
       "startAverage": 393.73,
       "results": [
        391,
-       0,
+       398,
        0,
        0,
        0,
@@ -12213,7 +12213,7 @@
       "startAverage": 393.6,
       "results": [
        395,
-       0,
+       392,
        0,
        0,
        0,
@@ -12253,7 +12253,7 @@
       "startAverage": 390.4,
       "results": [
        393,
-       0,
+       389,
        0,
        0,
        0,
@@ -12273,7 +12273,7 @@
       "startAverage": 390.33,
       "results": [
        390,
-       0,
+       393,
        0,
        0,
        0,
@@ -12293,7 +12293,7 @@
       "startAverage": 390.11,
       "results": [
        0,
-       0,
+       393,
        0,
        0,
        0,
@@ -12398,183 +12398,6 @@
    }
   },
   {
-   "name": "SV Edelweiß Mendorf",
-   "setlist": {
-    "updatedAt": "2026-10-05T20:48",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Scheringer, Sophia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.27,
-      "results": [
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Zieglmeier, Melissa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.4,
-      "results": [
-       385,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Appelsmayer, Julia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390.91,
-      "results": [
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Zieglmeier, Vanessa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390.9,
-      "results": [
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Scheringer, Carla",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Scheringer, Mia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388,
-      "results": [
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Dichtl, Bernhard",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Appelsmayer, Stefan",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F7A908D8-0833-4568-BE87-55E06EA62A80/3008",
-   "club": {
-    "name": "SV Edelweiß Mendorf e.V.",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Bettbrunner Strasse 18",
-    "city": "93336 Mendorf",
-    "website": "https://www.sv-edelweiss-mendorf.de/",
-    "logo": "logos/C141B6BD-1B54-4128-A037-FBC9583822FA.webp"
-   }
-  },
-  {
    "name": "SSG RWS Fürth 2",
    "setlist": {
     "updatedAt": "2026-10-17T22:50",
@@ -12607,7 +12430,7 @@
       "startAverage": 393,
       "results": [
        389,
-       0,
+       391,
        0,
        0,
        0,
@@ -12627,7 +12450,7 @@
       "startAverage": 391.92,
       "results": [
        394,
-       0,
+       392,
        0,
        0,
        0,
@@ -12667,7 +12490,7 @@
       "startAverage": 390.6,
       "results": [
        397,
-       0,
+       395,
        0,
        0,
        0,
@@ -12727,7 +12550,7 @@
       "startAverage": 388.14,
       "results": [
        0,
-       0,
+       389,
        0,
        0,
        0,
@@ -12747,7 +12570,7 @@
       "startAverage": 387,
       "results": [
        0,
-       0,
+       397,
        0,
        0,
        0,
@@ -12809,6 +12632,183 @@
     "city": "90765 Fürth",
     "website": "https://SSG-RWS.de",
     "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
+   }
+  },
+  {
+   "name": "SV Edelweiß Mendorf",
+   "setlist": {
+    "updatedAt": "2026-10-05T20:48",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Scheringer, Sophia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.27,
+      "results": [
+       393,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Zieglmeier, Melissa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.4,
+      "results": [
+       385,
+       386,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Appelsmayer, Julia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390.91,
+      "results": [
+       389,
+       384,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Zieglmeier, Vanessa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390.9,
+      "results": [
+       390,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Scheringer, Carla",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Scheringer, Mia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388,
+      "results": [
+       389,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Dichtl, Bernhard",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Appelsmayer, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F7A908D8-0833-4568-BE87-55E06EA62A80/3008",
+   "club": {
+    "name": "SV Edelweiß Mendorf e.V.",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Bettbrunner Strasse 18",
+    "city": "93336 Mendorf",
+    "website": "https://www.sv-edelweiss-mendorf.de/",
+    "logo": "logos/C141B6BD-1B54-4128-A037-FBC9583822FA.webp"
    }
   }
  ]

@@ -16,13 +16,13 @@
   {
    "rank": 2,
    "team": "SSV St. Hubertus Elsen",
-   "singlePoints": "7:2",
+   "singlePoints": "8:2",
    "teamPoints": "4:0"
   },
   {
    "rank": 3,
    "team": "SuSC Müllenborn",
-   "singlePoints": "5:4",
+   "singlePoints": "6:4",
    "teamPoints": "4:0"
   },
   {
@@ -34,13 +34,13 @@
   {
    "rank": 5,
    "team": "SF Emsdetten",
-   "singlePoints": "6:3",
+   "singlePoints": "6:4",
    "teamPoints": "2:2"
   },
   {
    "rank": 6,
    "team": "SV Wieckenberg",
-   "singlePoints": "5:4",
+   "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
@@ -249,7 +249,7 @@
        "homeRings": 1973,
        "awayRings": 1972,
        "homePoints": 2,
-       "awayPoints": 2,
+       "awayPoints": 3,
        "played": true,
        "pairs": [
         {
@@ -290,7 +290,7 @@
            99,
            100
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "away": {
           "name": "Röser, Annemarie",
@@ -301,10 +301,10 @@
            98,
            100
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
@@ -1764,7 +1764,7 @@
        "away": "SV Wieckenberg",
        "homeRings": 1991,
        "awayRings": 1984,
-       "homePoints": 3,
+       "homePoints": 4,
        "awayPoints": 1,
        "played": true,
        "pairs": [
@@ -1860,7 +1860,7 @@
            100,
            99
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "away": {
           "name": "Ruschel, Melissa",
@@ -1871,9 +1871,9 @@
            100,
            99
           ],
-          "shootOff": null
+          "shootOff": 9
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {

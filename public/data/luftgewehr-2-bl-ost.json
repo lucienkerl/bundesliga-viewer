@@ -9,50 +9,50 @@
  "table": [
   {
    "rank": 1,
+   "team": "SV Gölzau II",
+   "singlePoints": "5:0",
+   "teamPoints": "2:0"
+  },
+  {
+   "rank": 2,
+   "team": "PSV Olympia Berlin III",
+   "singlePoints": "5:0",
+   "teamPoints": "2:0"
+  },
+  {
+   "rank": 3,
    "team": "Giebichensteiner SGi Halle",
    "singlePoints": "4:1",
    "teamPoints": "2:0"
   },
   {
-   "rank": 2,
+   "rank": 4,
    "team": "FV SSZ Suhl",
    "singlePoints": "4:1",
    "teamPoints": "2:0"
   },
   {
-   "rank": 3,
-   "team": "SGi Berlin & Charlottenburg",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
-   "rank": 4,
-   "team": "PSSG zu Dresden",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
    "rank": 5,
-   "team": "PSV Olympia Berlin III",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
-   "rank": 6,
-   "team": "SV Gölzau II",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
-   "rank": 7,
    "team": "SGI zu Werder (Havel)",
    "singlePoints": "1:4",
    "teamPoints": "0:2"
   },
   {
-   "rank": 8,
+   "rank": 6,
    "team": "SGi Lübben",
    "singlePoints": "1:4",
+   "teamPoints": "0:2"
+  },
+  {
+   "rank": 7,
+   "team": "PSSG zu Dresden",
+   "singlePoints": "0:5",
+   "teamPoints": "0:2"
+  },
+  {
+   "rank": 8,
+   "team": "SGi Berlin & Charlottenburg",
+   "singlePoints": "0:5",
    "teamPoints": "0:2"
   }
  ],
@@ -370,145 +370,145 @@
        "time": "14:00",
        "home": "PSV Olympia Berlin III",
        "away": "PSSG zu Dresden",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
+       "homeRings": 1948,
+       "awayRings": 1872,
+       "homePoints": 5,
        "awayPoints": 0,
-       "played": false,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Saksena, Shreya",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Rapps, Fabienne",
+          "total": 382,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           95,
+           96,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Heider, Jan",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           96,
+           97,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schönsee, Aspasia",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           94,
+           97,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ruthsatz, Frank",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           100,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Paul, Felix Peter",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           93,
+           92,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hanke, Maja",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           99,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Röthig, Fredrik",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           94,
+           97,
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Breidenbach, Neele",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           97,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Braun, Maximilian",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           94,
+           92,
+           85
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -518,70 +518,70 @@
        "time": "14:00",
        "home": "SGi Berlin & Charlottenburg",
        "away": "SV Gölzau II",
-       "homeRings": 0,
-       "awayRings": 0,
+       "homeRings": 1504,
+       "awayRings": 1955,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 5,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Weismann, Jean-Pierre",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           96,
+           95,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Mikolowska, Julia",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           100,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Höftmann, Annica",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           97,
+           94,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Tolonitz, Jana",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           96,
+           96,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Schulz, Philipp",
           "total": 0,
           "series": [
            0,
@@ -592,72 +592,72 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Pfeiffer, Natalie",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           98,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Vaorin, Isabel",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           93,
+           96,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schäfer, Maria",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Bilgen, Alice",
+          "total": 361,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           88,
+           91,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Walter, Ida",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           97,
+           96
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4268,6 +4268,436 @@
  ],
  "teams": [
   {
+   "name": "SV Gölzau II",
+   "setlist": {
+    "updatedAt": "2026-10-18T12:56",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Lukaszyk, Rafal",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 396.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Mikolowska, Julia",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 394.4,
+      "results": [
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Tolonitz, Jana",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.5,
+      "results": [
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Pfeiffer, Natalie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390.67,
+      "results": [
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Schäfer, Maria",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.4,
+      "results": [
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Kube, Elena",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.17,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Walter, Ida",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385.75,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Eichelberg, Felice",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 382,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Wenzel, Florian",
+      "foreign": null,
+      "status": "",
+      "startAverage": 381,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Bennemann, Richard",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Eidam, Alexandra",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Lemme, Lena",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BD595B85-E4BB-4817-8ECD-1435DDEF955D/3005",
+   "club": {
+    "name": "SV Gölzau 1990 e.V.",
+    "federation": "Landesschützenverband Sachsen-Anhalt",
+    "street": "Cösitzer Weg 6",
+    "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
+    "website": null,
+    "logo": null
+   }
+  },
+  {
+   "name": "PSV Olympia Berlin III",
+   "setlist": {
+    "updatedAt": "2026-10-13T15:19",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kummerfeld, Thies Oskar",
+      "foreign": null,
+      "status": "",
+      "startAverage": 393.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Saksena, Shreya",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 391.8,
+      "results": [
+       392,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Heider, Jan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390.6,
+      "results": [
+       389,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Ruthsatz, Frank",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.86,
+      "results": [
+       389,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Hanke, Maja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       394,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Antonova, Varvara",
+      "foreign": "AS",
+      "status": "S",
+      "startAverage": 388.67,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Ralle, Marlon",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Kaufmann, Charlotta",
+      "foreign": null,
+      "status": "",
+      "startAverage": 385.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Graske, Jennifer",
+      "foreign": null,
+      "status": "",
+      "startAverage": 378.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Breidenbach, Neele",
+      "foreign": null,
+      "status": "",
+      "startAverage": 377,
+      "results": [
+       384,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Siegel, Emma",
+      "foreign": null,
+      "status": "",
+      "startAverage": 375.67,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Jahn, Sidney Paul",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/67BFC240-14CB-4184-8ADC-BA900379AF1A/3005",
+   "club": {
+    "name": "Polizeisportverein Olympia Berlin e.V.",
+    "federation": "Schützenverband Berlin - Brandenburg",
+    "street": "Kirschweg 23",
+    "city": "12524 Berlin",
+    "website": "https://psv-olympia.de",
+    "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
+   }
+  },
+  {
    "name": "Giebichensteiner SGi Halle",
    "setlist": {
     "updatedAt": "2026-10-11T17:21",
@@ -4572,717 +5002,6 @@
     "city": "98527 Suhl",
     "website": null,
     "logo": "logos/250C2783-CC10-4CFA-88CE-6D72372486AF.webp"
-   }
-  },
-  {
-   "name": "SGi Berlin & Charlottenburg",
-   "setlist": {
-    "updatedAt": "2026-10-11T17:21",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Weismann, Jean-Pierre",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Crainicov, Oxana",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 387.5,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Höftmann, Annica",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 382.33,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Schulz, Philipp",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 381.5,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Stiebitz, Sofie",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 379.33,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Vaorin, Isabel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377.25,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Kasperski, Jan",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 374.5,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Bilgen, Alice",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 355,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Kiske, Carsten",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 347,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Kiske, Kate",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6E5E544E-BB33-4969-ADBC-0D3126736655/3005",
-   "club": {
-    "name": "Schützengilden Berlin Korp. von 1433 und Charlottenburg von 1903 e.V.",
-    "federation": "Schützenverband Berlin - Brandenburg",
-    "street": "Alte Allee 35",
-    "city": "14055 Berlin",
-    "website": "https://www.schuetzengilde-berlin.de",
-    "logo": null
-   }
-  },
-  {
-   "name": "PSSG zu Dresden",
-   "setlist": {
-    "updatedAt": "2026-10-14T18:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Rapps, Fabienne",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 387.43,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Schönsee, Aspasia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 385.29,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Trischberger, Anna Maria",
-      "foreign": null,
-      "status": "",
-      "startAverage": 381,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Gerlich, Eva",
-      "foreign": null,
-      "status": "",
-      "startAverage": 380.5,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Paul, Felix Peter",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 378.5,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Klahre, Liara",
-      "foreign": null,
-      "status": "",
-      "startAverage": 377,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Röthig, Fredrik",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Baumann, Manuela",
-      "foreign": null,
-      "status": "",
-      "startAverage": 373.75,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Braun, Maximilian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 370.25,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/43A8F686-B5BE-42C0-864F-54463B401A31/3005",
-   "club": {
-    "name": "Priv.SSG zu Dresden e.V.",
-    "federation": "Sächsischer Schützenbund",
-    "street": "Langebrücker Str. 10",
-    "city": "01109 Dresden",
-    "website": null,
-    "logo": null
-   }
-  },
-  {
-   "name": "PSV Olympia Berlin III",
-   "setlist": {
-    "updatedAt": "2026-10-13T15:19",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kummerfeld, Thies Oskar",
-      "foreign": null,
-      "status": "",
-      "startAverage": 393.33,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Saksena, Shreya",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 391.8,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Heider, Jan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390.6,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Ruthsatz, Frank",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.86,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Hanke, Maja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Antonova, Varvara",
-      "foreign": "AS",
-      "status": "S",
-      "startAverage": 388.67,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Ralle, Marlon",
-      "foreign": null,
-      "status": "",
-      "startAverage": 388,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Kaufmann, Charlotta",
-      "foreign": null,
-      "status": "",
-      "startAverage": 385.5,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Graske, Jennifer",
-      "foreign": null,
-      "status": "",
-      "startAverage": 378.33,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Breidenbach, Neele",
-      "foreign": null,
-      "status": "",
-      "startAverage": 377,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Siegel, Emma",
-      "foreign": null,
-      "status": "",
-      "startAverage": 375.67,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Jahn, Sidney Paul",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/67BFC240-14CB-4184-8ADC-BA900379AF1A/3005",
-   "club": {
-    "name": "Polizeisportverein Olympia Berlin e.V.",
-    "federation": "Schützenverband Berlin - Brandenburg",
-    "street": "Kirschweg 23",
-    "city": "12524 Berlin",
-    "website": "https://psv-olympia.de",
-    "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
-   }
-  },
-  {
-   "name": "SV Gölzau II",
-   "setlist": {
-    "updatedAt": "2026-10-18T12:56",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Lukaszyk, Rafal",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 396.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Mikolowska, Julia",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 394.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Tolonitz, Jana",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Pfeiffer, Natalie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Schäfer, Maria",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Kube, Elena",
-      "foreign": null,
-      "status": "",
-      "startAverage": 388.17,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Walter, Ida",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 385.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Eichelberg, Felice",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 382,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Wenzel, Florian",
-      "foreign": null,
-      "status": "",
-      "startAverage": 381,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Bennemann, Richard",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Eidam, Alexandra",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Lemme, Lena",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BD595B85-E4BB-4817-8ECD-1435DDEF955D/3005",
-   "club": {
-    "name": "SV Gölzau 1990 e.V.",
-    "federation": "Landesschützenverband Sachsen-Anhalt",
-    "street": "Cösitzer Weg 6",
-    "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
-    "website": null,
-    "logo": null
    }
   },
   {
@@ -5628,6 +5347,287 @@
     "street": "Schützenplatz 1",
     "city": "15907 Lübben",
     "website": null,
+    "logo": null
+   }
+  },
+  {
+   "name": "PSSG zu Dresden",
+   "setlist": {
+    "updatedAt": "2026-10-14T18:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Rapps, Fabienne",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387.43,
+      "results": [
+       382,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schönsee, Aspasia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385.29,
+      "results": [
+       384,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Trischberger, Anna Maria",
+      "foreign": null,
+      "status": "",
+      "startAverage": 381,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Gerlich, Eva",
+      "foreign": null,
+      "status": "",
+      "startAverage": 380.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Paul, Felix Peter",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 378.5,
+      "results": [
+       369,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Klahre, Liara",
+      "foreign": null,
+      "status": "",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Röthig, Fredrik",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377,
+      "results": [
+       379,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Baumann, Manuela",
+      "foreign": null,
+      "status": "",
+      "startAverage": 373.75,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Braun, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 370.25,
+      "results": [
+       358,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/43A8F686-B5BE-42C0-864F-54463B401A31/3005",
+   "club": {
+    "name": "Priv.SSG zu Dresden e.V.",
+    "federation": "Sächsischer Schützenbund",
+    "street": "Langebrücker Str. 10",
+    "city": "01109 Dresden",
+    "website": null,
+    "logo": null
+   }
+  },
+  {
+   "name": "SGi Berlin & Charlottenburg",
+   "setlist": {
+    "updatedAt": "2026-10-11T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Weismann, Jean-Pierre",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       380,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Crainicov, Oxana",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 387.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Höftmann, Annica",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 382.33,
+      "results": [
+       384,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schulz, Philipp",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 381.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Stiebitz, Sofie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Vaorin, Isabel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377.25,
+      "results": [
+       379,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kasperski, Jan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 374.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Bilgen, Alice",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355,
+      "results": [
+       361,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Kiske, Carsten",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 347,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Kiske, Kate",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6E5E544E-BB33-4969-ADBC-0D3126736655/3005",
+   "club": {
+    "name": "Schützengilden Berlin Korp. von 1433 und Charlottenburg von 1903 e.V.",
+    "federation": "Schützenverband Berlin - Brandenburg",
+    "street": "Alte Allee 35",
+    "city": "14055 Berlin",
+    "website": "https://www.schuetzengilde-berlin.de",
     "logo": null
    }
   }

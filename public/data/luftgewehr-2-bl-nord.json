@@ -10,50 +10,50 @@
   {
    "rank": 1,
    "team": "SV Bramstedt",
-   "singlePoints": "5:0",
-   "teamPoints": "2:0"
+   "singlePoints": "9:1",
+   "teamPoints": "4:0"
   },
   {
    "rank": 2,
    "team": "SV Ladekop",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
+   "singlePoints": "8:2",
+   "teamPoints": "4:0"
   },
   {
    "rank": 3,
-   "team": "SB Freiheit II",
-   "singlePoints": "3:2",
-   "teamPoints": "2:0"
+   "team": "Tell Wechloy",
+   "singlePoints": "6:4",
+   "teamPoints": "2:2"
   },
   {
    "rank": 4,
-   "team": "SV Neuenfelde",
-   "singlePoints": "3:2",
-   "teamPoints": "2:0"
+   "team": "SB Freiheit II",
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
   },
   {
    "rank": 5,
-   "team": "KKS Nordstemmen",
-   "singlePoints": "2:3",
-   "teamPoints": "0:2"
+   "team": "SV Neuenfelde",
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
   },
   {
    "rank": 6,
-   "team": "Tell Wechloy",
-   "singlePoints": "2:3",
-   "teamPoints": "0:2"
+   "team": "SV Hademstorf",
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
   },
   {
    "rank": 7,
-   "team": "SSV Kassau",
-   "singlePoints": "1:4",
-   "teamPoints": "0:2"
+   "team": "KKS Nordstemmen",
+   "singlePoints": "3:7",
+   "teamPoints": "0:4"
   },
   {
    "rank": 8,
-   "team": "SV Hademstorf",
-   "singlePoints": "0:5",
-   "teamPoints": "0:2"
+   "team": "SSV Kassau",
+   "singlePoints": "2:8",
+   "teamPoints": "0:4"
   }
  ],
  "matchDays": [
@@ -692,146 +692,146 @@
        "time": "13:40",
        "home": "KKS Nordstemmen",
        "away": "SV Hademstorf",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1936,
+       "awayRings": 1945,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Nolte, Ronja",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           92,
+           98,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schröder, Wiebke",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Klingebiel, Dana",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schulze, Leoni",
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           96,
+           96,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wichmann, Lea",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           98,
+           98,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Pape, Janine",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           99,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schröter, Simon",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           99,
+           99
           ],
-          "shootOff": null
+          "shootOff": 7.1
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kluth, Lucy Ann",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           98,
+           99
           ],
-          "shootOff": null
+          "shootOff": 9.5
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Gröhlich, Nina",
+          "total": 381,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           96,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Höper, Franziska",
+          "total": 382,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           97,
+           95,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -840,146 +840,146 @@
        "time": "15:15",
        "home": "SV Neuenfelde",
        "away": "SV Bramstedt",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1957,
+       "awayRings": 1974,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Gehrs, Lara-Michelle",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           100,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hartmann, Carmen",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           98,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wolkenhauer, Jule",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           96,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Rothe, Vanessa",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schneider, Rebecca",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           97,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Habekost, Rieke",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           99,
+           97,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Tamke, Hannah",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           98,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kohlwey, Lilly",
+          "total": 399,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Spijkerman, Armin",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           98,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Strüwing, Melia",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -998,146 +998,146 @@
        "time": "13:40",
        "home": "SB Freiheit II",
        "away": "SV Ladekop",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1939,
+       "awayRings": 1963,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Petersen, Betina Ljunggren",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           99,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Breuer, Niklas",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           98,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lomowski, Layla Arabella",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           98,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Meinking, Alexander",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           97,
+           99,
+           96
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Callsen, Emilia",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           95,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kregel, Jessica",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           99,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Völker, Jacqueline",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Meinking, Luise",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           100,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Laukamp, Naja",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           96,
+           94,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Busch, Hanna",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           100,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -1146,146 +1146,146 @@
        "time": "15:15",
        "home": "Tell Wechloy",
        "away": "SSV Kassau",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1930,
+       "awayRings": 1923,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Andersen, Jonas",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           98,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Meier, Lina",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           99,
+           95,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Heuft, Ayleen",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           96,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Jeger, Florian",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           96,
+           98,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Näther, Ann-Katrin",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Zupke, Tanja",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           97,
+           96,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Sperveslage, Anneke",
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           95,
+           96,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Overgaard, Kasper Hornbek",
+          "total": 382,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           95,
+           96,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Dänekas, Kira",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           97,
+           95,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ehlers, Hannah",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           96,
+           96
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4404,7 +4404,7 @@
       "startAverage": 394.86,
       "results": [
        395,
-       0,
+       397,
        0,
        0,
        0,
@@ -4420,7 +4420,7 @@
       "startAverage": 394.43,
       "results": [
        397,
-       0,
+       392,
        0,
        0,
        0,
@@ -4452,7 +4452,7 @@
       "startAverage": 391.29,
       "results": [
        0,
-       0,
+       388,
        0,
        0,
        0,
@@ -4468,7 +4468,7 @@
       "startAverage": 391.29,
       "results": [
        395,
-       0,
+       399,
        0,
        0,
        0,
@@ -4516,7 +4516,7 @@
       "startAverage": 0,
       "results": [
        395,
-       0,
+       398,
        0,
        0,
        0,
@@ -4549,7 +4549,7 @@
       "startAverage": 390.71,
       "results": [
        385,
-       0,
+       389,
        0,
        0,
        0,
@@ -4565,7 +4565,7 @@
       "startAverage": 389.43,
       "results": [
        390,
-       0,
+       392,
        0,
        0,
        0,
@@ -4581,7 +4581,7 @@
       "startAverage": 389.14,
       "results": [
        396,
-       0,
+       394,
        0,
        0,
        0,
@@ -4597,7 +4597,7 @@
       "startAverage": 389.14,
       "results": [
        394,
-       0,
+       394,
        0,
        0,
        0,
@@ -4661,7 +4661,7 @@
       "startAverage": 0,
       "results": [
        397,
-       0,
+       394,
        0,
        0,
        0,
@@ -4682,6 +4682,151 @@
    }
   },
   {
+   "name": "Tell Wechloy",
+   "setlist": {
+    "updatedAt": "2026-10-17T15:03",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Andersen, Jonas",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 391.57,
+      "results": [
+       387,
+       387,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Heuft, Ayleen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.43,
+      "results": [
+       382,
+       387,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Näther, Ann-Katrin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387,
+      "results": [
+       387,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Otten, Ann-Katrin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 384,
+      "results": [
+       381,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Sperveslage, Anneke",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383.5,
+      "results": [
+       388,
+       385,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Riedemann, Nadine",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Dänekas, Kira",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 380.33,
+      "results": [
+       0,
+       380,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Umbach, Franziska",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 368.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/597EE165-801F-4293-B281-586AD872CF95/3004",
+   "club": {
+    "name": "Schützenverein \"Tell\" Wechloy e.V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Elsflether Straße 55",
+    "city": "26125 Oldenburg",
+    "website": "https://xn--schtzenverein-wechloy-bic.de/",
+    "logo": "logos/64BD6B43-1B67-4A7B-BAA4-E3E041296B4B.webp"
+   }
+  },
+  {
    "name": "SB Freiheit II",
    "setlist": {
     "updatedAt": "2026-10-14T04:36",
@@ -4694,7 +4839,7 @@
       "startAverage": 395.14,
       "results": [
        388,
-       0,
+       390,
        0,
        0,
        0,
@@ -4726,7 +4871,7 @@
       "startAverage": 388.6,
       "results": [
        388,
-       0,
+       389,
        0,
        0,
        0,
@@ -4742,7 +4887,7 @@
       "startAverage": 387.6,
       "results": [
        0,
-       0,
+       390,
        0,
        0,
        0,
@@ -4758,7 +4903,7 @@
       "startAverage": 386.43,
       "results": [
        0,
-       0,
+       391,
        0,
        0,
        0,
@@ -4822,7 +4967,7 @@
       "startAverage": 0,
       "results": [
        0,
-       0,
+       379,
        0,
        0,
        0,
@@ -4903,7 +5048,7 @@
       "startAverage": 390.6,
       "results": [
        390,
-       0,
+       393,
        0,
        0,
        0,
@@ -4935,7 +5080,7 @@
       "startAverage": 389,
       "results": [
        387,
-       0,
+       388,
        0,
        0,
        0,
@@ -4951,7 +5096,7 @@
       "startAverage": 386.4,
       "results": [
        0,
-       0,
+       390,
        0,
        0,
        0,
@@ -4983,7 +5128,7 @@
       "startAverage": 381.57,
       "results": [
        0,
-       0,
+       392,
        0,
        0,
        0,
@@ -5047,7 +5192,7 @@
       "startAverage": 374.8,
       "results": [
        389,
-       0,
+       394,
        0,
        0,
        0,
@@ -5068,6 +5213,183 @@
    }
   },
   {
+   "name": "SV Hademstorf",
+   "setlist": {
+    "updatedAt": "2026-09-08T14:47",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schröder, Wiebke",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.6,
+      "results": [
+       386,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schulze, Leoni",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.57,
+      "results": [
+       390,
+       385,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Pape, Janine",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.14,
+      "results": [
+       390,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Anastasiadis, Hannah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kreuzkamp, Ina",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Kluth, Lucy Ann",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385,
+      "results": [
+       387,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Evers, Chantal",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Ehrhardt, Neele",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 382.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Schröder, Karen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 378,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Höper, Franziska",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 377.75,
+      "results": [
+       382,
+       382,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/4EA9C09E-E6CF-4A1F-9D41-470242C22A6F/3004",
+   "club": {
+    "name": "SV Hademstorf",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Dorfweg 12",
+    "city": "29693 Hademstorf",
+    "website": "https://www.sv-hademstorf.de/",
+    "logo": null
+   }
+  },
+  {
    "name": "KKS Nordstemmen",
    "setlist": {
     "updatedAt": "2026-10-18T09:26",
@@ -5080,7 +5402,7 @@
       "startAverage": 390,
       "results": [
        0,
-       0,
+       384,
        0,
        0,
        0,
@@ -5096,7 +5418,7 @@
       "startAverage": 389,
       "results": [
        381,
-       0,
+       391,
        0,
        0,
        0,
@@ -5112,7 +5434,7 @@
       "startAverage": 388.29,
       "results": [
        389,
-       0,
+       387,
        0,
        0,
        0,
@@ -5128,7 +5450,7 @@
       "startAverage": 386.75,
       "results": [
        382,
-       0,
+       393,
        0,
        0,
        0,
@@ -5160,7 +5482,7 @@
       "startAverage": 385.5,
       "results": [
        393,
-       0,
+       381,
        0,
        0,
        0,
@@ -5245,151 +5567,6 @@
    }
   },
   {
-   "name": "Tell Wechloy",
-   "setlist": {
-    "updatedAt": "2026-10-17T15:03",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Andersen, Jonas",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 391.57,
-      "results": [
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Heuft, Ayleen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.43,
-      "results": [
-       382,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Näther, Ann-Katrin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 387,
-      "results": [
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Otten, Ann-Katrin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 384,
-      "results": [
-       381,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Sperveslage, Anneke",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 383.5,
-      "results": [
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Riedemann, Nadine",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 383,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Dänekas, Kira",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 380.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Umbach, Franziska",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 368.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/597EE165-801F-4293-B281-586AD872CF95/3004",
-   "club": {
-    "name": "Schützenverein \"Tell\" Wechloy e.V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Elsflether Straße 55",
-    "city": "26125 Oldenburg",
-    "website": "https://xn--schtzenverein-wechloy-bic.de/",
-    "logo": "logos/64BD6B43-1B67-4A7B-BAA4-E3E041296B4B.webp"
-   }
-  },
-  {
    "name": "SSV Kassau",
    "setlist": {
     "updatedAt": "2026-10-13T15:32",
@@ -5402,7 +5579,7 @@
       "startAverage": 387.25,
       "results": [
        388,
-       0,
+       386,
        0,
        0,
        0,
@@ -5418,7 +5595,7 @@
       "startAverage": 384.33,
       "results": [
        384,
-       0,
+       380,
        0,
        0,
        0,
@@ -5466,7 +5643,7 @@
       "startAverage": 380.25,
       "results": [
        385,
-       0,
+       388,
        0,
        0,
        0,
@@ -5482,7 +5659,7 @@
       "startAverage": 375.33,
       "results": [
        0,
-       0,
+       382,
        0,
        0,
        0,
@@ -5498,7 +5675,7 @@
       "startAverage": 375,
       "results": [
        389,
-       0,
+       387,
        0,
        0,
        0,
@@ -5548,183 +5725,6 @@
     "city": "23730 Altenkrempe OT Kassau",
     "website": "https://www.ssv-kassau.de",
     "logo": "logos/BC3C8696-F33D-4E72-84B8-97A336DAFCF0.webp"
-   }
-  },
-  {
-   "name": "SV Hademstorf",
-   "setlist": {
-    "updatedAt": "2026-09-08T14:47",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Schröder, Wiebke",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.6,
-      "results": [
-       386,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Schulze, Leoni",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.57,
-      "results": [
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Pape, Janine",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.14,
-      "results": [
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Anastasiadis, Hannah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kreuzkamp, Ina",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Kluth, Lucy Ann",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 385,
-      "results": [
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Evers, Chantal",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 383.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Ehrhardt, Neele",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 382.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Schröder, Karen",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 378,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Höper, Franziska",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 377.75,
-      "results": [
-       382,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/4EA9C09E-E6CF-4A1F-9D41-470242C22A6F/3004",
-   "club": {
-    "name": "SV Hademstorf",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Dorfweg 12",
-    "city": "29693 Hademstorf",
-    "website": "https://www.sv-hademstorf.de/",
-    "logo": null
    }
   }
  ]
