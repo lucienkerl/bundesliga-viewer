@@ -10614,7 +10614,7 @@
   {
    "name": "FSG Kempten 1",
    "setlist": {
-    "updatedAt": "2026-10-13T09:28",
+    "updatedAt": "2026-10-17T22:34",
     "entries": [
      {
       "rank": 1,
@@ -10700,7 +10700,7 @@
       "rank": 5,
       "name": "Bechter, Manfred",
       "foreign": "A",
-      "status": "S",
+      "status": "E",
       "startAverage": 374.5,
       "results": [
        376,
@@ -10720,7 +10720,7 @@
       "rank": 6,
       "name": "Behl, Ralf",
       "foreign": null,
-      "status": "E",
+      "status": "S",
       "startAverage": 373,
       "results": [
        0,

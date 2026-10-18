@@ -9,61 +9,61 @@
  "table": [
   {
    "rank": 1,
+   "team": "SG Aich",
+   "singlePoints": "3:1",
+   "teamPoints": "2:0"
+  },
+  {
+   "rank": 2,
    "team": "SV 1889 Ickelheim",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "team": "Falkenschützen Mauerberg",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "team": "FSG Der Bund München II",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "team": "SV Edelweiß Mendorf",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "team": "SSG RWS Fürth 2",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "team": "Sportschützen Niederlauterbach",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "team": "Hubertus Kastl",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "team": "Isental Lengdorf",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 9,
-   "team": "kgl. priv. FSG Titting",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
    "rank": 10,
-   "team": "SG Aich",
+   "team": "kgl. priv. FSG Titting",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
@@ -76,8 +76,8 @@
   {
    "rank": 12,
    "team": "SV Pfeil Vöhringen II",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "singlePoints": "1:3",
+   "teamPoints": "0:2"
   }
  ],
  "matchDays": [
@@ -404,114 +404,114 @@
        "time": "11:00",
        "home": "SV Pfeil Vöhringen II",
        "away": "SG Aich",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1956,
+       "awayRings": 1964,
+       "homePoints": 1,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Krumm, Florian",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Eberlberger, Florian",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           99,
+           100
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Grosch, Mia",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           100,
+           99,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Tristl, Martina",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           98,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Fischer, Bernd",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           97,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lang, Angelika",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           99,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Strydom, Adriaan",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           98,
+           98,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schober, Samuel",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           99,
+           95
           ],
           "shootOff": null
          },
@@ -521,29 +521,29 @@
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hugon, Nour",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           96,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schwerer, Marie",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           96,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -719,7 +719,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Hofmann, Olivia",
           "total": 0,
           "series": [
            0,
@@ -730,7 +730,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Prinz, Jolanda",
           "total": 0,
           "series": [
            0,
@@ -746,7 +746,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Lechner, Sara",
           "total": 0,
           "series": [
            0,
@@ -757,7 +757,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Körndl, Nicole",
           "total": 0,
           "series": [
            0,
@@ -773,7 +773,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Eiglsperger, Simon",
           "total": 0,
           "series": [
            0,
@@ -784,7 +784,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Schmied, Manuel",
           "total": 0,
           "series": [
            0,
@@ -800,7 +800,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Plank, Melanie",
           "total": 0,
           "series": [
            0,
@@ -811,7 +811,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Aumann, Thomas",
           "total": 0,
           "series": [
            0,
@@ -827,7 +827,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Bauer, Jessica",
           "total": 0,
           "series": [
            0,
@@ -838,7 +838,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Kröner, Linda",
           "total": 0,
           "series": [
            0,
@@ -10248,6 +10248,203 @@
  ],
  "teams": [
   {
+   "name": "SG Aich",
+   "setlist": {
+    "updatedAt": "2026-10-05T20:48",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Eberlberger, Florian",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 397,
+      "results": [
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Tristl, Martina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Lang, Angelika",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.64,
+      "results": [
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schober, Samuel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.67,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Schwerer, Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386.82,
+      "results": [
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schwerer, Hannah",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Tristl, Florian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 382.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Wild, Lea",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Schürf, Johann",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/CB4A3C52-6C24-466B-96BB-2033D7FCDAAE/3008",
+   "club": {
+    "name": "SG Aich e.V.",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Moosstr. 21",
+    "city": "85368 Moosburg a.d. Isar/Aich",
+    "website": "https://sgaich.de",
+    "logo": null
+   }
+  },
+  {
    "name": "SV 1889 Ickelheim",
    "setlist": {
     "updatedAt": "2026-10-05T20:48",
@@ -11038,7 +11235,7 @@
   {
    "name": "SSG RWS Fürth 2",
    "setlist": {
-    "updatedAt": "2026-10-05T20:48",
+    "updatedAt": "2026-10-17T22:50",
     "entries": [
      {
       "rank": 1,
@@ -11064,7 +11261,7 @@
       "rank": 2,
       "name": "Lederer, Finja",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 393,
       "results": [
        0,
@@ -11084,7 +11281,7 @@
       "rank": 3,
       "name": "Lindner, Mirjam",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 391.92,
       "results": [
        0,
@@ -11124,7 +11321,7 @@
       "rank": 5,
       "name": "Nieberle, Andrea",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.6,
       "results": [
        0,
@@ -11184,7 +11381,7 @@
       "rank": 8,
       "name": "Fichtl, Kilian",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.14,
       "results": [
        0,
@@ -11244,7 +11441,7 @@
       "rank": 11,
       "name": "Mund, Maleen",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 0,
       "results": [
        0,
@@ -12201,203 +12398,6 @@
    }
   },
   {
-   "name": "SG Aich",
-   "setlist": {
-    "updatedAt": "2026-10-05T20:48",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Eberlberger, Florian",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 397,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Tristl, Martina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Lang, Angelika",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.64,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Schober, Samuel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Schwerer, Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386.82,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Schwerer, Hannah",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 383.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Tristl, Florian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 382.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Wild, Lea",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Schürf, Johann",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/CB4A3C52-6C24-466B-96BB-2033D7FCDAAE/3008",
-   "club": {
-    "name": "SG Aich e.V.",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Moosstr. 21",
-    "city": "85368 Moosburg a.d. Isar/Aich",
-    "website": "https://sgaich.de",
-    "logo": null
-   }
-  },
-  {
    "name": "Erlbachtaler-Schützen Niedererlbach",
    "setlist": {
     "updatedAt": "2026-10-17T13:05",
@@ -12583,10 +12583,10 @@
       "rank": 1,
       "name": "Krumm, Florian",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 396.74,
       "results": [
-       0,
+       396,
        0,
        0,
        0,
@@ -12623,10 +12623,10 @@
       "rank": 3,
       "name": "Grosch, Mia",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 393.47,
       "results": [
-       0,
+       392,
        0,
        0,
        0,
@@ -12663,10 +12663,10 @@
       "rank": 5,
       "name": "Fischer, Bernd",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.5,
       "results": [
-       0,
+       392,
        0,
        0,
        0,
@@ -12683,10 +12683,10 @@
       "rank": 6,
       "name": "Strydom, Adriaan",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 388.33,
       "results": [
-       0,
+       388,
        0,
        0,
        0,
@@ -12783,10 +12783,10 @@
       "rank": 11,
       "name": "Hugon, Nour",
       "foreign": "EU",
-      "status": "",
+      "status": "S",
       "startAverage": 0,
       "results": [
-       0,
+       388,
        0,
        0,
        0,

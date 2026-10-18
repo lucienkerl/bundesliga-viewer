@@ -9,25 +9,25 @@
  "table": [
   {
    "rank": 1,
-   "team": "SSV Kronau II",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "SSVg Brigachtal",
+   "singlePoints": "4:1",
+   "teamPoints": "2:0"
   },
   {
    "rank": 2,
    "team": "KKSV Heitersheim",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "singlePoints": "4:1",
+   "teamPoints": "2:0"
   },
   {
    "rank": 3,
-   "team": "SV Buch",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "SV Appenhofen 1960 e.V.",
+   "singlePoints": "3:2",
+   "teamPoints": "2:0"
   },
   {
    "rank": 4,
-   "team": "SV Appenhofen 1960 e.V.",
+   "team": "SSV Kronau II",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
@@ -39,21 +39,21 @@
   },
   {
    "rank": 6,
-   "team": "SSVg Brigachtal",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "SV Jockgrim",
+   "singlePoints": "2:3",
+   "teamPoints": "0:2"
   },
   {
    "rank": 7,
-   "team": "SV Jockgrim",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "SV Buch",
+   "singlePoints": "1:4",
+   "teamPoints": "0:2"
   },
   {
    "rank": 8,
    "team": "SV Schopp",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "singlePoints": "1:4",
+   "teamPoints": "0:2"
   }
  ],
  "matchDays": [
@@ -74,146 +74,146 @@
        "time": "10:00",
        "home": "SV Jockgrim",
        "away": "SV Appenhofen 1960 e.V.",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1944,
+       "awayRings": 1950,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Petanjek, Borna",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Herceg, Estera",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           100,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Keiber, Simone",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           97,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Dörrzapf, Alessa",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           96,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Gehrlein, Peter",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           98,
+           100,
+           97
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Linn, Debora",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           96,
+           97
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Sigmund, Jonas",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           96,
+           99,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hüttner, Tamara",
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           99,
+           95,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Braun, Gregor",
+          "total": 382,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           96,
+           95,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schiff, Carsten",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           100,
+           96
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -222,19 +222,19 @@
        "time": "11:30",
        "home": "SV Schopp",
        "away": "SSVg Brigachtal",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 382,
+       "awayRings": 482,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Morgenstern, Angelina-Marie",
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -242,10 +242,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Guignard, Silvia",
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -253,15 +253,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Vucenovic, Marija",
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -269,10 +269,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schneider, Marco",
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -280,15 +280,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hauck, Julia",
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -296,10 +296,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bauer, Saskia",
+          "total": 97,
           "series": [
-           0,
+           97,
            0,
            0,
            0
@@ -307,15 +307,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ziegler, Liv",
+          "total": 94,
           "series": [
-           0,
+           94,
            0,
            0,
            0
@@ -323,23 +323,23 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Leicht, Maya",
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Filbert, Robert",
           "total": 0,
           "series": [
            0,
@@ -350,10 +350,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Klauer, Torsten",
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -361,7 +361,7 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -380,145 +380,145 @@
        "time": "10:00",
        "home": "KKSV Heitersheim",
        "away": "SV Buch",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1966,
+       "awayRings": 1955,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Krucker, Fabienne",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           100,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Nagybányai-Nagy, Anna",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           99,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Beutler, Anna-Marie",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           96,
+           99,
+           99
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kleinle, Tamara",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           98,
+           98
           ],
-          "shootOff": null
+          "shootOff": 9
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kürner, Korvin",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           98,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Köppel, Markus",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           99,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Stach, Lilly Melody",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Fürst, Louis",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           95,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Gräßlin, Larissa",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Festerling, Robin",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           97,
+           98,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4386,6 +4386,665 @@
  ],
  "teams": [
   {
+   "name": "SSVg Brigachtal",
+   "setlist": {
+    "updatedAt": "2026-10-14T16:10",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Weisz, Alison",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 398.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Sidi, Peter",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 397.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Sidi, Roxana",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 397.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Guignard, Silvia",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 394,
+      "results": [
+       197,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Schneider, Marco",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.27,
+      "results": [
+       194,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Bauer, Saskia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.11,
+      "results": [
+       194,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Leicht, Maya",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390.82,
+      "results": [
+       190,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Meyer, Isabel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Meyer, Moritz",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 387.56,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Klauer, Torsten",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 384,
+      "results": [
+       96,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Klauer, Sabrina",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 377.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Wehle, Svenja",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/AEF134EE-8FAD-48E7-89DA-9F0DE7AE6D8A/3007",
+   "club": {
+    "name": "Sportschützenvereinigung Brigachtal",
+    "federation": "Südbadischer Sportschützenverband",
+    "street": "Außer Ort 6",
+    "city": "78086 Brigachtal",
+    "website": "https://sportschuetzen-brigachtal.de/",
+    "logo": "logos/43F66D91-329C-4EB0-8D22-B3DDC4A27D4F.webp"
+   }
+  },
+  {
+   "name": "KKSV Heitersheim",
+   "setlist": {
+    "updatedAt": "2026-10-16T22:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schmid, Alina",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 398.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Krucker, Fabienne",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 394.57,
+      "results": [
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Beutler, Anna-Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Kürner, Korvin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.57,
+      "results": [
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Stach, Lilly Melody",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.57,
+      "results": [
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Gräßlin, Larissa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.5,
+      "results": [
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Bibbo, Laura",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.57,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Mischler, Jasmin",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 388.9,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Schladebach, Susanne",
+      "foreign": null,
+      "status": "",
+      "startAverage": 386.29,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Falk, Daniel",
+      "foreign": null,
+      "status": "",
+      "startAverage": 384.9,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Schladebach, Kim",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/4AF05236-E5FA-4DFB-9670-D4F5FC75B5AE/3007",
+   "club": {
+    "name": "KKSV Heitersheim e.V.",
+    "federation": "Südbadischer Sportschützenverband",
+    "street": "Badhausstr. 27",
+    "city": "79423 Heitersheim",
+    "website": "https://www.kksv-heitersheim.de",
+    "logo": "logos/725CB960-B1CC-4556-B089-2E517AEBCC02.webp"
+   }
+  },
+  {
+   "name": "SV Appenhofen 1960 e.V.",
+   "setlist": {
+    "updatedAt": "2026-10-16T16:41",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Dutendas, Dimitri",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 397,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Herceg, Estera",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Dörrzapf, Alessa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394.38,
+      "results": [
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Linn, Debora",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.57,
+      "results": [
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Hüttner, Tamara",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.43,
+      "results": [
+       385,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Christ, Niklas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 389,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schiff, Carsten",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.86,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Dörrzapf, Nicolas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Klein, Yakira Leonie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 387,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Pietruschka, Katharina",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 381.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Wiedemann, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 380,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Herder, Mathias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 374.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6D5F19C4-36FF-4079-AB2C-D4525B8C86B9/3007",
+   "club": {
+    "name": "SV Appenhofen 1960 e.V.",
+    "federation": "Pfälzischer Sportschützenbund",
+    "street": "Am Schützenhaus 1",
+    "city": "76831 Billigheim-Ingenheim",
+    "website": "https://www.sv-appenhofen.de/",
+    "logo": "logos/7EB506A0-2AAF-46B5-8346-AFEB2FDCF838.webp"
+   }
+  },
+  {
    "name": "SSV Kronau II",
    "setlist": {
     "updatedAt": "2026-09-05T07:57",
@@ -4683,617 +5342,6 @@
    }
   },
   {
-   "name": "KKSV Heitersheim",
-   "setlist": {
-    "updatedAt": "2026-10-16T22:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Schmid, Alina",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 398.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Krucker, Fabienne",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 394.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Beutler, Anna-Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Kürner, Korvin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Stach, Lilly Melody",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Gräßlin, Larissa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Bibbo, Laura",
-      "foreign": null,
-      "status": "",
-      "startAverage": 390.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Mischler, Jasmin",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 388.9,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Schladebach, Susanne",
-      "foreign": null,
-      "status": "",
-      "startAverage": 386.29,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Falk, Daniel",
-      "foreign": null,
-      "status": "",
-      "startAverage": 384.9,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Schladebach, Kim",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/4AF05236-E5FA-4DFB-9670-D4F5FC75B5AE/3007",
-   "club": {
-    "name": "KKSV Heitersheim e.V.",
-    "federation": "Südbadischer Sportschützenverband",
-    "street": "Badhausstr. 27",
-    "city": "79423 Heitersheim",
-    "website": "https://www.kksv-heitersheim.de",
-    "logo": "logos/725CB960-B1CC-4556-B089-2E517AEBCC02.webp"
-   }
-  },
-  {
-   "name": "SV Buch",
-   "setlist": {
-    "updatedAt": "2026-10-15T21:27",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Zrustová, Adéla",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 400,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Nagybányai-Nagy, Anna",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 399,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Moen, Andrea Meldal",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 397,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Kleinle, Tamara",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.43,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Vesel, Marianne",
-      "foreign": null,
-      "status": "",
-      "startAverage": 389,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Köppel, Markus",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Fürst, Louis",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 387.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Drmola, Pia",
-      "foreign": null,
-      "status": "",
-      "startAverage": 387.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Festerling, Robin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 387,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Klenk, Chantal",
-      "foreign": null,
-      "status": "",
-      "startAverage": 387,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Hahn, Tobias",
-      "foreign": null,
-      "status": "",
-      "startAverage": 386.43,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Drmola, Lea",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/0CFB32DE-4B68-4995-B5F6-B9B2E8208857/3007",
-   "club": {
-    "name": "SV Buch",
-    "federation": "Württembergischer Schützenverband",
-    "street": "Strut 4",
-    "city": "73492 Rainau",
-    "website": "https://www.schuetzenverein-buch.de/",
-    "logo": null
-   }
-  },
-  {
-   "name": "SV Appenhofen 1960 e.V.",
-   "setlist": {
-    "updatedAt": "2026-10-16T16:41",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Dutendas, Dimitri",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 397,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Herceg, Estera",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Dörrzapf, Alessa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394.38,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Linn, Debora",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Hüttner, Tamara",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.43,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Christ, Niklas",
-      "foreign": null,
-      "status": "",
-      "startAverage": 389,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schiff, Carsten",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Dörrzapf, Nicolas",
-      "foreign": null,
-      "status": "",
-      "startAverage": 388.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Klein, Yakira Leonie",
-      "foreign": null,
-      "status": "",
-      "startAverage": 387,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Pietruschka, Katharina",
-      "foreign": null,
-      "status": "",
-      "startAverage": 381.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Wiedemann, Christian",
-      "foreign": null,
-      "status": "",
-      "startAverage": 380,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Herder, Mathias",
-      "foreign": null,
-      "status": "",
-      "startAverage": 374.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6D5F19C4-36FF-4079-AB2C-D4525B8C86B9/3007",
-   "club": {
-    "name": "SV Appenhofen 1960 e.V.",
-    "federation": "Pfälzischer Sportschützenbund",
-    "street": "Am Schützenhaus 1",
-    "city": "76831 Billigheim-Ingenheim",
-    "website": "https://www.sv-appenhofen.de/",
-    "logo": "logos/7EB506A0-2AAF-46B5-8346-AFEB2FDCF838.webp"
-   }
-  },
-  {
    "name": "SV Affalterbach",
    "setlist": {
     "updatedAt": "2026-09-25T16:27",
@@ -5487,272 +5535,15 @@
    }
   },
   {
-   "name": "SSVg Brigachtal",
-   "setlist": {
-    "updatedAt": "2026-10-14T16:10",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Weisz, Alison",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 398.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Sidi, Peter",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 397.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Sidi, Roxana",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 397.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Guignard, Silvia",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 394,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Schneider, Marco",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.27,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Bauer, Saskia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.11,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Leicht, Maya",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390.82,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Meyer, Isabel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Meyer, Moritz",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 387.56,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Klauer, Torsten",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 384,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Klauer, Sabrina",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 377.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Wehle, Svenja",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/AEF134EE-8FAD-48E7-89DA-9F0DE7AE6D8A/3007",
-   "club": {
-    "name": "Sportschützenvereinigung Brigachtal",
-    "federation": "Südbadischer Sportschützenverband",
-    "street": "Außer Ort 6",
-    "city": "78086 Brigachtal",
-    "website": "https://sportschuetzen-brigachtal.de/",
-    "logo": "logos/43F66D91-329C-4EB0-8D22-B3DDC4A27D4F.webp"
-   }
-  },
-  {
    "name": "SV Jockgrim",
    "setlist": {
-    "updatedAt": "2026-09-05T07:55",
+    "updatedAt": "2026-10-17T20:29",
     "entries": [
      {
       "rank": 1,
       "name": "Muller, Oceanne",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 400,
       "results": [
        0,
@@ -5768,10 +5559,10 @@
       "rank": 2,
       "name": "Petanjek, Borna",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 396.71,
       "results": [
-       0,
+       398,
        0,
        0,
        0,
@@ -5784,10 +5575,10 @@
       "rank": 3,
       "name": "Keiber, Simone",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.67,
       "results": [
-       0,
+       389,
        0,
        0,
        0,
@@ -5800,7 +5591,7 @@
       "rank": 4,
       "name": "Hauck, Michelle",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.5,
       "results": [
        0,
@@ -5816,10 +5607,10 @@
       "rank": 5,
       "name": "Gehrlein, Peter",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.14,
       "results": [
-       0,
+       389,
        0,
        0,
        0,
@@ -5832,10 +5623,10 @@
       "rank": 6,
       "name": "Sigmund, Jonas",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 389.14,
       "results": [
-       0,
+       386,
        0,
        0,
        0,
@@ -5848,10 +5639,10 @@
       "rank": 7,
       "name": "Braun, Gregor",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 383.8,
       "results": [
-       0,
+       382,
        0,
        0,
        0,
@@ -5864,7 +5655,7 @@
       "rank": 8,
       "name": "Benz, Fabienne",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5886,6 +5677,215 @@
     "city": "76751 Jockgrim",
     "website": null,
     "logo": "logos/C236AB22-B033-49BA-B486-5075537157D4.webp"
+   }
+  },
+  {
+   "name": "SV Buch",
+   "setlist": {
+    "updatedAt": "2026-10-15T21:27",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Zrustová, Adéla",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 400,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Nagybányai-Nagy, Anna",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 399,
+      "results": [
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Moen, Andrea Meldal",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 397,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Kleinle, Tamara",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.43,
+      "results": [
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Vesel, Marianne",
+      "foreign": null,
+      "status": "",
+      "startAverage": 389,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Köppel, Markus",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388,
+      "results": [
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Fürst, Louis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387.57,
+      "results": [
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Drmola, Pia",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387.57,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Festerling, Robin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Klenk, Chantal",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Hahn, Tobias",
+      "foreign": null,
+      "status": "",
+      "startAverage": 386.43,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Drmola, Lea",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/0CFB32DE-4B68-4995-B5F6-B9B2E8208857/3007",
+   "club": {
+    "name": "SV Buch",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Strut 4",
+    "city": "73492 Rainau",
+    "website": "https://www.schuetzenverein-buch.de/",
+    "logo": null
    }
   },
   {
@@ -5948,7 +5948,7 @@
       "status": "S",
       "startAverage": 391,
       "results": [
-       0,
+       193,
        0,
        0,
        0,
@@ -5964,7 +5964,7 @@
       "status": "S",
       "startAverage": 390.86,
       "results": [
-       0,
+       195,
        0,
        0,
        0,
@@ -5980,7 +5980,7 @@
       "status": "S",
       "startAverage": 390.43,
       "results": [
-       0,
+       96,
        0,
        0,
        0,
@@ -6012,7 +6012,7 @@
       "status": "S",
       "startAverage": 387.67,
       "results": [
-       0,
+       94,
        0,
        0,
        0,

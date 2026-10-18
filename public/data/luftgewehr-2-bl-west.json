@@ -9,25 +9,25 @@
  "table": [
   {
    "rank": 1,
+   "team": "SV Petersberg",
+   "singlePoints": "5:0",
+   "teamPoints": "2:0"
+  },
+  {
+   "rank": 2,
+   "team": "BSV Buer-Bülse II",
+   "singlePoints": "4:1",
+   "teamPoints": "2:0"
+  },
+  {
+   "rank": 3,
    "team": "SSV St. Hubertus Elsen II",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 2,
-   "team": "BSV Buer-Bülse II",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
-   "rank": 3,
-   "team": "SSGem Kevelaer 2005 e.V.",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
    "rank": 4,
-   "team": "SGes Heepen",
+   "team": "SSGem Kevelaer 2005 e.V.",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
@@ -39,21 +39,21 @@
   },
   {
    "rank": 6,
-   "team": "SV Petersberg",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
-   "rank": 7,
    "team": "SV Stärklos",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "team": "PSS Inden/Altdorf",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "singlePoints": "1:4",
+   "teamPoints": "0:2"
+  },
+  {
+   "rank": 8,
+   "team": "SGes Heepen",
+   "singlePoints": "0:5",
+   "teamPoints": "0:2"
   }
  ],
  "matchDays": [
@@ -74,145 +74,145 @@
        "time": "10:00",
        "home": "BSV Buer-Bülse II",
        "away": "PSS Inden/Altdorf",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1958,
+       "awayRings": 1952,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ten Dolle, Nynke",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           99,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Neuhoff, Julia",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           100,
+           99,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Peter, Mika",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           98,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Braun, Laura",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           98,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Weber, Sebastian",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           95,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Berning, Verena",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           97,
+           96,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Papstein, Marie",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Giesen, Sven",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           99,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Röder, Sina",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           98,
+           100,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Siegmund, Stephan",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           99,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -380,145 +380,145 @@
        "time": "10:00",
        "home": "SV Petersberg",
        "away": "SGes Heepen",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
+       "homeRings": 1959,
+       "awayRings": 1927,
+       "homePoints": 5,
        "awayPoints": 0,
-       "played": false,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Dewangan, Divyanshu",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Günzler, Rebecca",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           96,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Tripp, Johanna",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           99,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Jockel, Maximilian",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           96,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Barbe, Tom",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Klaiber, Jonas",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           97,
+           97,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Heck, Jana",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Büscher, Christian",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           95,
+           92,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Zeihs, Danilo",
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           94,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lutter-Schwarz, Manuel",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           96,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4386,6 +4386,344 @@
  ],
  "teams": [
   {
+   "name": "SV Petersberg",
+   "setlist": {
+    "updatedAt": "2026-09-23T14:40",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Dewangan, Divyanshu",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 399.6,
+      "results": [
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Bhardwaj, Vinita",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 396.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Tripp, Johanna",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396.57,
+      "results": [
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Barbe, Tom",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.14,
+      "results": [
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Heck, Jana",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.14,
+      "results": [
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Heck, Mona",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Zeihs, Danilo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387.5,
+      "results": [
+       385,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Döllinger, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 385.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/772EA6FD-0F40-4D3C-B72E-25B02A3BCBA8/3006",
+   "club": {
+    "name": "SV Petersberg",
+    "federation": "Hessischer Schützenverband",
+    "street": "Am Pfaffenpfad 11",
+    "city": "36100 Petersberg",
+    "website": "https://www.schuetzenverein-petersberg.de/",
+    "logo": "logos/413D187B-6898-469E-85CD-D86D9DCDB9CE.webp"
+   }
+  },
+  {
+   "name": "BSV Buer-Bülse II",
+   "setlist": {
+    "updatedAt": "2026-10-18T09:30",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Vandevyvere, Emma",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 397.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Ten Dolle, Nynke",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 395.75,
+      "results": [
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Peter, Mika",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Vidal, Daniel",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 393,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Weber, Sebastian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.71,
+      "results": [
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Papstein, Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.57,
+      "results": [
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Röder, Sina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.75,
+      "results": [
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Schulz, Fabienne",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 387.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Volkart, Nadine",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386.83,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Stader, Dominik",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Fischer, Anna",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FFBFF3CE-15F1-430F-BEAF-7DA20923E50F/3006",
+   "club": {
+    "name": "BSV Buer-Bülse e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Bülsestraße 65",
+    "city": "45896 Gelsenkirchen",
+    "website": "https://bsv-buer-buelse.de/",
+    "logo": "logos/27FBB405-C10B-4FA9-B613-93F5BF1C2569.webp"
+   }
+  },
+  {
    "name": "SSV St. Hubertus Elsen II",
    "setlist": {
     "updatedAt": "2026-08-12T08:43",
@@ -4528,183 +4866,6 @@
     "city": "33106 Paderborn",
     "website": "https://www.ssv-elsen.de",
     "logo": "logos/92E37536-D505-4F28-825D-9DB509844670.webp"
-   }
-  },
-  {
-   "name": "BSV Buer-Bülse II",
-   "setlist": {
-    "updatedAt": "2026-08-31T13:12",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Vandevyvere, Emma",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 397.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Ten Dolle, Nynke",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 395.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Vidal, Daniel",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 393,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Weber, Sebastian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Papstein, Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Röder, Sina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schulz, Fabienne",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 387.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Volkart, Nadine",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386.83,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Stader, Dominik",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 383,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Fischer, Anna",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 379.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FFBFF3CE-15F1-430F-BEAF-7DA20923E50F/3006",
-   "club": {
-    "name": "BSV Buer-Bülse e.V.",
-    "federation": "Westfälischer Schützenbund",
-    "street": "Bülsestraße 65",
-    "city": "45896 Gelsenkirchen",
-    "website": "https://bsv-buer-buelse.de/",
-    "logo": "logos/27FBB405-C10B-4FA9-B613-93F5BF1C2569.webp"
    }
   },
   {
@@ -4881,183 +5042,6 @@
     "street": "Hüls 11",
     "city": "47623 Kevelaer",
     "website": "https://www.ssg-kevelaer.de/",
-    "logo": null
-   }
-  },
-  {
-   "name": "SGes Heepen",
-   "setlist": {
-    "updatedAt": "2026-10-17T12:43",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Münster, Veronique",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Günzler, Rebecca",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Jockel, Maximilian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Klaiber, Jonas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386.83,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Büscher, Christian",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Schmidt, Tim",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Lutter-Schwarz, Manuel",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Haverich, Bjarne",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Voßfänger, Eva-Catharina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Effertz, Philipp",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/694459B5-48E0-4A7B-A500-0AEFB1BE72BC/3006",
-   "club": {
-    "name": "SGes Heepen e.V.",
-    "federation": "Westfälischer Schützenbund",
-    "street": "Salzufler Str. 108a",
-    "city": "33719 Bielefeld",
-    "website": "https://heeper-schützen.de",
     "logo": null
    }
   },
@@ -5239,151 +5223,6 @@
    }
   },
   {
-   "name": "SV Petersberg",
-   "setlist": {
-    "updatedAt": "2026-09-23T14:40",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Dewangan, Divyanshu",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 399.6,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Bhardwaj, Vinita",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 396.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Tripp, Johanna",
-      "foreign": null,
-      "status": "",
-      "startAverage": 396.57,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Barbe, Tom",
-      "foreign": null,
-      "status": "",
-      "startAverage": 395.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Heck, Jana",
-      "foreign": null,
-      "status": "",
-      "startAverage": 391.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Heck, Mona",
-      "foreign": null,
-      "status": "",
-      "startAverage": 390,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Zeihs, Danilo",
-      "foreign": null,
-      "status": "",
-      "startAverage": 387.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Döllinger, Michael",
-      "foreign": null,
-      "status": "",
-      "startAverage": 385.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/772EA6FD-0F40-4D3C-B72E-25B02A3BCBA8/3006",
-   "club": {
-    "name": "SV Petersberg",
-    "federation": "Hessischer Schützenverband",
-    "street": "Am Pfaffenpfad 11",
-    "city": "36100 Petersberg",
-    "website": "https://www.schuetzenverein-petersberg.de/",
-    "logo": "logos/413D187B-6898-469E-85CD-D86D9DCDB9CE.webp"
-   }
-  },
-  {
    "name": "SV Stärklos",
    "setlist": {
     "updatedAt": "2026-07-28T07:57",
@@ -5556,7 +5395,7 @@
       "status": "S",
       "startAverage": 394.86,
       "results": [
-       0,
+       391,
        0,
        0,
        0,
@@ -5572,7 +5411,7 @@
       "status": "S",
       "startAverage": 392.86,
       "results": [
-       0,
+       394,
        0,
        0,
        0,
@@ -5588,7 +5427,7 @@
       "status": "S",
       "startAverage": 390.83,
       "results": [
-       0,
+       384,
        0,
        0,
        0,
@@ -5604,7 +5443,7 @@
       "status": "",
       "startAverage": 390.33,
       "results": [
-       0,
+       393,
        0,
        0,
        0,
@@ -5636,7 +5475,7 @@
       "status": "",
       "startAverage": 388.5,
       "results": [
-       0,
+       390,
        0,
        0,
        0,
@@ -5687,6 +5526,183 @@
     "city": "52459 Inden/Altdorf",
     "website": "https://www.pssonline.de",
     "logo": "logos/FE61512D-A01C-4A1B-A477-AAE64E6C41AF.webp"
+   }
+  },
+  {
+   "name": "SGes Heepen",
+   "setlist": {
+    "updatedAt": "2026-10-17T12:43",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Münster, Veronique",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Günzler, Rebecca",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.71,
+      "results": [
+       390,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Jockel, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.71,
+      "results": [
+       390,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Klaiber, Jonas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386.83,
+      "results": [
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Büscher, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       376,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schmidt, Tim",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Lutter-Schwarz, Manuel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       384,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Haverich, Bjarne",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Voßfänger, Eva-Catharina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Effertz, Philipp",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/694459B5-48E0-4A7B-A500-0AEFB1BE72BC/3006",
+   "club": {
+    "name": "SGes Heepen e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Salzufler Str. 108a",
+    "city": "33719 Bielefeld",
+    "website": "https://heeper-schützen.de",
+    "logo": null
    }
   }
  ]

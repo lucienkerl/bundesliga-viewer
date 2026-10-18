@@ -4871,7 +4871,7 @@
   {
    "name": "SGI zu Werder (Havel)",
    "setlist": {
-    "updatedAt": "2026-10-11T17:21",
+    "updatedAt": "2026-10-17T22:37",
     "entries": [
      {
       "rank": 1,
@@ -4890,7 +4890,7 @@
       "rank": 2,
       "name": "Schmarje, Finn Felix",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 390.83,
       "results": [
        0,
@@ -4903,7 +4903,7 @@
       "rank": 3,
       "name": "Kanzler, Elea Johanna",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 389.17,
       "results": [
        0,
@@ -4916,7 +4916,7 @@
       "rank": 4,
       "name": "Kanzler, Maria Antonia",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 387.5,
       "results": [
        0,
@@ -4929,7 +4929,7 @@
       "rank": 5,
       "name": "Kienast, Sebastian",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 387.14,
       "results": [
        0,
@@ -4942,7 +4942,7 @@
       "rank": 6,
       "name": "Unger, Lois",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 386.43,
       "results": [
        0,
