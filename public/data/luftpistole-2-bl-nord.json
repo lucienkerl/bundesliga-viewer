@@ -4958,7 +4958,7 @@
   {
    "name": "SB Süpplingen",
    "setlist": {
-    "updatedAt": "2026-10-12T14:28",
+    "updatedAt": "2026-10-18T13:24",
     "entries": [
      {
       "rank": 1,
@@ -4994,6 +4994,22 @@
      },
      {
       "rank": 3,
+      "name": "Keune, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 364.43,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
       "name": "Eib, Lars",
       "foreign": null,
       "status": "S",
@@ -5009,7 +5025,7 @@
       ]
      },
      {
-      "rank": 4,
+      "rank": 5,
       "name": "Stute, Lisa-Frederike",
       "foreign": null,
       "status": "S",
@@ -5025,7 +5041,7 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 6,
       "name": "Stute, Kristina-Meike",
       "foreign": null,
       "status": "E",
@@ -5041,7 +5057,7 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 7,
       "name": "Klein, Christian",
       "foreign": null,
       "status": "S",
@@ -5057,7 +5073,7 @@
       ]
      },
      {
-      "rank": 7,
+      "rank": 8,
       "name": "Müller, Fabian",
       "foreign": null,
       "status": "E",
@@ -5073,7 +5089,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 9,
       "name": "Müller, Sebastian",
       "foreign": null,
       "status": "E",

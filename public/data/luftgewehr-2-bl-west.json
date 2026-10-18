@@ -9,44 +9,44 @@
  "table": [
   {
    "rank": 1,
-   "team": "SV Petersberg",
+   "team": "SSV St. Hubertus Elsen II",
    "singlePoints": "5:0",
    "teamPoints": "2:0"
   },
   {
    "rank": 2,
+   "team": "SV Petersberg",
+   "singlePoints": "5:0",
+   "teamPoints": "2:0"
+  },
+  {
+   "rank": 3,
    "team": "BSV Buer-Bülse II",
    "singlePoints": "4:1",
    "teamPoints": "2:0"
   },
   {
-   "rank": 3,
-   "team": "SSV St. Hubertus Elsen II",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
    "rank": 4,
-   "team": "SSGem Kevelaer 2005 e.V.",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "SV Steinbach",
+   "singlePoints": "3:2",
+   "teamPoints": "2:0"
   },
   {
    "rank": 5,
-   "team": "SV Steinbach",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "SV Stärklos",
+   "singlePoints": "2:3",
+   "teamPoints": "0:2"
   },
   {
    "rank": 6,
-   "team": "SV Stärklos",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "PSS Inden/Altdorf",
+   "singlePoints": "1:4",
+   "teamPoints": "0:2"
   },
   {
    "rank": 7,
-   "team": "PSS Inden/Altdorf",
-   "singlePoints": "1:4",
+   "team": "SSGem Kevelaer 2005 e.V.",
+   "singlePoints": "0:5",
    "teamPoints": "0:2"
   },
   {
@@ -222,146 +222,146 @@
        "time": "11:30",
        "home": "SV Steinbach",
        "away": "SV Stärklos",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1953,
+       "awayRings": 1958,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Rizea, Andrei",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Beul, Lena Bianca",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           99,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Röller, Alexander",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           95,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Becker, Jaqueline",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           96,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Jung, Lina",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           100,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Klee, Anna",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           96,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Dingerdißen, Luc",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           95,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Götz, Leonie",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           98,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Most, Marlene",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           95,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Faust, Leah",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           99,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -528,146 +528,146 @@
        "time": "11:30",
        "home": "SSGem Kevelaer 2005 e.V.",
        "away": "SSV St. Hubertus Elsen II",
-       "homeRings": 0,
-       "awayRings": 0,
+       "homeRings": 1956,
+       "awayRings": 1977,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 5,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schepens, Nicolas",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           100,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lammersen, Maximilian",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           96,
+           100,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Billion, Marie",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Pieper, Katharina",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Dhein, Michael",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           97,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Martynova, Maya",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           99,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schiltauer, Maja",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           99,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hochgeschurz, Nadine",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           100,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Denk, Wiktoria",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           98,
+           97,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Nagaraja, Sri Krishna",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           99,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4386,6 +4386,151 @@
  ],
  "teams": [
   {
+   "name": "SSV St. Hubertus Elsen II",
+   "setlist": {
+    "updatedAt": "2026-08-12T08:43",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Lammersen, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.33,
+      "results": [
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Pieper, Katharina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392,
+      "results": [
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Martynova, Maya",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.14,
+      "results": [
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Smit, Sean",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Hochgeschurz, Nadine",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386,
+      "results": [
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Hummler, Marco",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 384,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Pieper, Theresa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 380.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Nagaraja, Sri Krishna",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/79B38DA3-EC42-4C3C-8794-67C1C3A8BF85/3006",
+   "club": {
+    "name": "SSV St. Hub. Elsen e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Am Mühlenteich 10a",
+    "city": "33106 Paderborn",
+    "website": "https://www.ssv-elsen.de",
+    "logo": "logos/92E37536-D505-4F28-825D-9DB509844670.webp"
+   }
+  },
+  {
    "name": "SV Petersberg",
    "setlist": {
     "updatedAt": "2026-09-23T14:40",
@@ -4724,328 +4869,6 @@
    }
   },
   {
-   "name": "SSV St. Hubertus Elsen II",
-   "setlist": {
-    "updatedAt": "2026-08-12T08:43",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Lammersen, Maximilian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Pieper, Katharina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Martynova, Maya",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Smit, Sean",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Hochgeschurz, Nadine",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Hummler, Marco",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 384,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Pieper, Theresa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 380.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Nagaraja, Sri Krishna",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/79B38DA3-EC42-4C3C-8794-67C1C3A8BF85/3006",
-   "club": {
-    "name": "SSV St. Hub. Elsen e.V.",
-    "federation": "Westfälischer Schützenbund",
-    "street": "Am Mühlenteich 10a",
-    "city": "33106 Paderborn",
-    "website": "https://www.ssv-elsen.de",
-    "logo": "logos/92E37536-D505-4F28-825D-9DB509844670.webp"
-   }
-  },
-  {
-   "name": "SSGem Kevelaer 2005 e.V.",
-   "setlist": {
-    "updatedAt": "2026-10-15T11:12",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Schepens, Nicolas",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 398.53,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Thomas, Alexander",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396.88,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Billion, Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396.27,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Dhein, Michael",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Schiltauer, Maja",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Denk, Wiktoria",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 387.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Przybilla, Julian",
-      "foreign": null,
-      "status": "",
-      "startAverage": 387.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Thomas, Denise",
-      "foreign": null,
-      "status": "",
-      "startAverage": 385.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Rühl, Jana",
-      "foreign": null,
-      "status": "",
-      "startAverage": 382,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Bauer, Markus",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/64834CE5-4A8F-4B66-82A3-6ABA580D74B6/3006",
-   "club": {
-    "name": "SSGem Kevelaer 2005 e.V.",
-    "federation": "Rheinischer Schützenbund",
-    "street": "Hüls 11",
-    "city": "47623 Kevelaer",
-    "website": "https://www.ssg-kevelaer.de/",
-    "logo": null
-   }
-  },
-  {
    "name": "SV Steinbach",
    "setlist": {
     "updatedAt": "2026-10-16T23:15",
@@ -5073,7 +4896,7 @@
       "status": "S",
       "startAverage": 396.67,
       "results": [
-       0,
+       395,
        0,
        0,
        0,
@@ -5089,7 +4912,7 @@
       "status": "E",
       "startAverage": 392.27,
       "results": [
-       0,
+       391,
        0,
        0,
        0,
@@ -5137,7 +4960,7 @@
       "status": "E",
       "startAverage": 392.14,
       "results": [
-       0,
+       391,
        0,
        0,
        0,
@@ -5153,7 +4976,7 @@
       "status": "S",
       "startAverage": 388.9,
       "results": [
-       0,
+       388,
        0,
        0,
        0,
@@ -5169,7 +4992,7 @@
       "status": "S",
       "startAverage": 388.83,
       "results": [
-       0,
+       388,
        0,
        0,
        0,
@@ -5231,10 +5054,10 @@
       "rank": 1,
       "name": "Beul, Lena Bianca",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 395.57,
       "results": [
-       0,
+       394,
        0,
        0,
        0,
@@ -5247,10 +5070,10 @@
       "rank": 2,
       "name": "Becker, Jaqueline",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 395,
       "results": [
-       0,
+       387,
        0,
        0,
        0,
@@ -5263,10 +5086,10 @@
       "rank": 3,
       "name": "Klee, Anna",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 394,
       "results": [
-       0,
+       388,
        0,
        0,
        0,
@@ -5279,10 +5102,10 @@
       "rank": 4,
       "name": "Götz, Leonie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.86,
       "results": [
-       0,
+       394,
        0,
        0,
        0,
@@ -5295,10 +5118,10 @@
       "rank": 5,
       "name": "Faust, Leah",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 392.14,
       "results": [
-       0,
+       395,
        0,
        0,
        0,
@@ -5526,6 +5349,183 @@
     "city": "52459 Inden/Altdorf",
     "website": "https://www.pssonline.de",
     "logo": "logos/FE61512D-A01C-4A1B-A477-AAE64E6C41AF.webp"
+   }
+  },
+  {
+   "name": "SSGem Kevelaer 2005 e.V.",
+   "setlist": {
+    "updatedAt": "2026-10-15T11:12",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schepens, Nicolas",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 398.53,
+      "results": [
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Thomas, Alexander",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396.88,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Billion, Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396.27,
+      "results": [
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Dhein, Michael",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.86,
+      "results": [
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Schiltauer, Maja",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390.71,
+      "results": [
+       390,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Denk, Wiktoria",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387.71,
+      "results": [
+       386,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Przybilla, Julian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 387.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Thomas, Denise",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 385.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Rühl, Jana",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 382,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Bauer, Markus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/64834CE5-4A8F-4B66-82A3-6ABA580D74B6/3006",
+   "club": {
+    "name": "SSGem Kevelaer 2005 e.V.",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Hüls 11",
+    "city": "47623 Kevelaer",
+    "website": "https://www.ssg-kevelaer.de/",
+    "logo": null
    }
   },
   {
