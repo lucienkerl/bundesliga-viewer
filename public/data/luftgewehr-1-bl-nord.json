@@ -10140,14 +10140,14 @@
   {
    "name": "SSG Kevelaer",
    "setlist": {
-    "updatedAt": "2026-10-15T11:14",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
       "name": "Herbulot, Manon",
       "foreign": "A",
       "status": "S",
-      "startAverage": 400,
+      "startAverage": 399,
       "results": [
        399,
        399,
@@ -10164,26 +10164,6 @@
      },
      {
       "rank": 2,
-      "name": "Janßen, Anna",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 399,
-      "results": [
-       399,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
       "name": "Paul, Ayonika",
       "foreign": "A",
       "status": "E",
@@ -10203,11 +10183,31 @@
       ]
      },
      {
+      "rank": 3,
+      "name": "Janßen, Anna",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 398.5,
+      "results": [
+       399,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
       "rank": 4,
       "name": "Driessen, Franziska",
       "foreign": null,
       "status": "S",
-      "startAverage": 397.2,
+      "startAverage": 397.5,
       "results": [
        397,
        398,
@@ -10224,12 +10224,12 @@
      },
      {
       "rank": 5,
-      "name": "Rentmeister, Finnja",
+      "name": "Janßen, Franka",
       "foreign": null,
       "status": "S",
-      "startAverage": 397.14,
+      "startAverage": 397.5,
       "results": [
-       393,
+       397,
        398,
        0,
        0,
@@ -10264,13 +10264,13 @@
      },
      {
       "rank": 7,
-      "name": "Janßen, Franka",
+      "name": "Billion, Marie",
       "foreign": null,
-      "status": "S",
-      "startAverage": 396.44,
+      "status": "E",
+      "startAverage": 396.27,
       "results": [
-       397,
-       398,
+       0,
+       0,
        0,
        0,
        0,
@@ -10284,13 +10284,13 @@
      },
      {
       "rank": 8,
-      "name": "Billion, Marie",
+      "name": "Rentmeister, Finnja",
       "foreign": null,
-      "status": "E",
-      "startAverage": 396.27,
+      "status": "S",
+      "startAverage": 395.5,
       "results": [
-       0,
-       0,
+       393,
+       398,
        0,
        0,
        0,
@@ -10317,10 +10317,30 @@
   {
    "name": "SSV St. Hubertus Elsen",
    "setlist": {
-    "updatedAt": "2026-10-13T09:00",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
+      "name": "Peni, Istvan",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 400,
+      "results": [
+       400,
+       400,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
       "name": "Hammerl, Soma",
       "foreign": "A",
       "status": "E",
@@ -10340,31 +10360,11 @@
       ]
      },
      {
-      "rank": 2,
-      "name": "Peni, Istvan",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 399,
-      "results": [
-       400,
-       400,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "rank": 3,
       "name": "Ruppel, Lea",
       "foreign": null,
       "status": "S",
-      "startAverage": 398.22,
+      "startAverage": 399.5,
       "results": [
        399,
        400,
@@ -10384,7 +10384,7 @@
       "name": "Palberg, Denise",
       "foreign": null,
       "status": "S",
-      "startAverage": 396.73,
+      "startAverage": 397,
       "results": [
        0,
        397,
@@ -10404,7 +10404,7 @@
       "name": "Schnerr, Linnea",
       "foreign": null,
       "status": "S",
-      "startAverage": 396.1,
+      "startAverage": 396.5,
       "results": [
        396,
        397,
@@ -10421,13 +10421,13 @@
      },
      {
       "rank": 6,
-      "name": "Kaps, Jessie",
+      "name": "Hofmann Badea, Nora-Lee",
       "foreign": null,
-      "status": "S",
-      "startAverage": 396,
+      "status": "E",
+      "startAverage": 396.5,
       "results": [
        396,
-       0,
+       397,
        0,
        0,
        0,
@@ -10441,13 +10441,13 @@
      },
      {
       "rank": 7,
-      "name": "Hofmann Badea, Nora-Lee",
+      "name": "Kaps, Jessie",
       "foreign": null,
-      "status": "E",
-      "startAverage": 395,
+      "status": "S",
+      "startAverage": 396,
       "results": [
        396,
-       397,
+       0,
        0,
        0,
        0,
@@ -10514,7 +10514,7 @@
   {
    "name": "SuSC Müllenborn",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
@@ -10621,7 +10621,7 @@
       "name": "Röser, Annemarie",
       "foreign": null,
       "status": "S",
-      "startAverage": 395.4,
+      "startAverage": 396,
       "results": [
        395,
        397,
@@ -10638,13 +10638,13 @@
      },
      {
       "rank": 7,
-      "name": "Heuser, Luca-Marie",
+      "name": "Mentzel, Katharina",
       "foreign": null,
-      "status": "E",
-      "startAverage": 394.36,
+      "status": "S",
+      "startAverage": 394.5,
       "results": [
-       0,
-       392,
+       395,
+       394,
        0,
        0,
        0,
@@ -10661,7 +10661,7 @@
       "name": "Leuschen, Katrin",
       "foreign": null,
       "status": "S",
-      "startAverage": 393.36,
+      "startAverage": 392.5,
       "results": [
        393,
        392,
@@ -10678,13 +10678,13 @@
      },
      {
       "rank": 9,
-      "name": "Mentzel, Katharina",
+      "name": "Heuser, Luca-Marie",
       "foreign": null,
-      "status": "S",
-      "startAverage": 393.27,
+      "status": "E",
+      "startAverage": 392,
       "results": [
-       395,
-       394,
+       0,
+       392,
        0,
        0,
        0,
@@ -10721,7 +10721,7 @@
       "name": "Conrad, Markus",
       "foreign": null,
       "status": "S",
-      "startAverage": 391.14,
+      "startAverage": 391,
       "results": [
        391,
        0,
@@ -10791,17 +10791,17 @@
   {
    "name": "Ohligser SGem 75/03",
    "setlist": {
-    "updatedAt": "2026-10-14T14:35",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
-      "name": "Raju, Narmada Nithin",
+      "name": "Destefanis, Bastien",
       "foreign": "A",
-      "status": "S",
+      "status": "E",
       "startAverage": 400,
       "results": [
-       400,
-       398,
+       0,
+       0,
        0,
        0,
        0,
@@ -10815,13 +10815,13 @@
      },
      {
       "rank": 2,
-      "name": "Destefanis, Bastien",
+      "name": "Raju, Narmada Nithin",
       "foreign": "A",
-      "status": "E",
-      "startAverage": 400,
+      "status": "S",
+      "startAverage": 399,
       "results": [
-       0,
-       0,
+       400,
+       398,
        0,
        0,
        0,
@@ -10855,13 +10855,13 @@
      },
      {
       "rank": 4,
-      "name": "Blos, Michelle",
+      "name": "Püschel, Enya",
       "foreign": null,
-      "status": "E",
-      "startAverage": 398,
+      "status": "S",
+      "startAverage": 397.5,
       "results": [
-       395,
-       395,
+       398,
+       397,
        0,
        0,
        0,
@@ -10875,26 +10875,6 @@
      },
      {
       "rank": 5,
-      "name": "Ziegler, Antonia Sofie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396.44,
-      "results": [
-       396,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
       "name": "Toma, Réka",
       "foreign": "A",
       "status": "E",
@@ -10914,14 +10894,34 @@
       ]
      },
      {
+      "rank": 6,
+      "name": "Blos, Michelle",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 395,
+      "results": [
+       395,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
       "rank": 7,
-      "name": "Püschel, Enya",
+      "name": "Hülsmann, Marc",
       "foreign": null,
       "status": "S",
-      "startAverage": 395.2,
+      "startAverage": 394,
       "results": [
-       398,
-       397,
+       0,
+       394,
        0,
        0,
        0,
@@ -10935,26 +10935,6 @@
      },
      {
       "rank": 8,
-      "name": "Hoffmann, Leila",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.89,
-      "results": [
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
       "name": "Blos, Bastian",
       "foreign": null,
       "status": "E",
@@ -10974,14 +10954,34 @@
       ]
      },
      {
-      "rank": 10,
-      "name": "Hülsmann, Marc",
+      "rank": 9,
+      "name": "Ziegler, Antonia Sofie",
       "foreign": null,
       "status": "S",
-      "startAverage": 393.71,
+      "startAverage": 393.5,
       "results": [
+       396,
+       391,
        0,
-       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Hoffmann, Leila",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392,
+      "results": [
+       392,
+       0,
        0,
        0,
        0,
@@ -11048,14 +11048,14 @@
   {
    "name": "SF Emsdetten",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
       "name": "Fischer, Nike",
       "foreign": null,
       "status": "S",
-      "startAverage": 397.43,
+      "startAverage": 395.5,
       "results": [
        395,
        396,
@@ -11071,7 +11071,7 @@
       "name": "Aleksandrova, Sabine Krista",
       "foreign": "EU",
       "status": "S",
-      "startAverage": 397,
+      "startAverage": 395.5,
       "results": [
        395,
        396,
@@ -11084,13 +11084,13 @@
      },
      {
       "rank": 3,
-      "name": "Valera-Soldan, Cedric",
+      "name": "Glohr, Christina",
       "foreign": null,
       "status": "S",
-      "startAverage": 396.71,
+      "startAverage": 395,
       "results": [
+       396,
        394,
-       393,
        0,
        0,
        0,
@@ -11103,7 +11103,7 @@
       "name": "Strik, Tessa",
       "foreign": "A",
       "status": "S",
-      "startAverage": 392.86,
+      "startAverage": 394.5,
       "results": [
        393,
        396,
@@ -11116,13 +11116,13 @@
      },
      {
       "rank": 5,
-      "name": "Glohr, Christina",
+      "name": "Valera-Soldan, Cedric",
       "foreign": null,
       "status": "S",
-      "startAverage": 392,
+      "startAverage": 393.5,
       "results": [
-       396,
        394,
+       393,
        0,
        0,
        0,
@@ -11241,7 +11241,7 @@
   {
    "name": "SV Wieckenberg",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
@@ -11265,10 +11265,30 @@
      },
      {
       "rank": 2,
+      "name": "Leone, Chiara",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 398.5,
+      "results": [
+       399,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
       "name": "Welsch, Dennis",
       "foreign": null,
       "status": "S",
-      "startAverage": 397.8,
+      "startAverage": 398,
       "results": [
        397,
        399,
@@ -11284,7 +11304,27 @@
       ]
      },
      {
-      "rank": 3,
+      "rank": 4,
+      "name": "Ruschel, Melissa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 397.5,
+      "results": [
+       398,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
       "name": "Larsen, Henrik",
       "foreign": "A",
       "status": "S",
@@ -11304,11 +11344,11 @@
       ]
      },
      {
-      "rank": 4,
+      "rank": 6,
       "name": "Grabowski, Katrin",
       "foreign": null,
       "status": "S",
-      "startAverage": 397.2,
+      "startAverage": 397,
       "results": [
        396,
        398,
@@ -11324,67 +11364,7 @@
       ]
      },
      {
-      "rank": 5,
-      "name": "Leone, Chiara",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 397,
-      "results": [
-       399,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Ruschel, Melissa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 396.75,
-      "results": [
-       398,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "rank": 7,
-      "name": "Zissel, Robin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396.22,
-      "results": [
-       397,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
       "name": "Aufrere, Romain",
       "foreign": "A",
       "status": "E",
@@ -11404,7 +11384,7 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 8,
       "name": "Ruschel, Isabell",
       "foreign": null,
       "status": "S",
@@ -11412,6 +11392,26 @@
       "results": [
        0,
        0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Zissel, Robin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394.5,
+      "results": [
+       397,
+       392,
        0,
        0,
        0,
@@ -11498,14 +11498,14 @@
   {
    "name": "BSV Buer-Bülse",
    "setlist": {
-    "updatedAt": "2026-10-18T09:27",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
       "name": "Pradhan, Kashika",
       "foreign": "A",
       "status": "S",
-      "startAverage": 398,
+      "startAverage": 397.5,
       "results": [
        398,
        397,
@@ -11582,13 +11582,13 @@
      },
      {
       "rank": 5,
-      "name": "Sebastian, Fabienne",
+      "name": "Krebs, Lina",
       "foreign": null,
       "status": "S",
-      "startAverage": 393.44,
+      "startAverage": 393,
       "results": [
-       386,
-       384,
+       393,
+       393,
        0,
        0,
        0,
@@ -11602,13 +11602,13 @@
      },
      {
       "rank": 6,
-      "name": "Krebs, Lina",
+      "name": "Elisee, Elisabeth",
       "foreign": null,
       "status": "S",
-      "startAverage": 393.11,
+      "startAverage": 389,
       "results": [
-       393,
-       393,
+       389,
+       389,
        0,
        0,
        0,
@@ -11625,7 +11625,7 @@
       "name": "Röhr, Jennifer",
       "foreign": null,
       "status": "E",
-      "startAverage": 392,
+      "startAverage": 386,
       "results": [
        386,
        0,
@@ -11642,13 +11642,13 @@
      },
      {
       "rank": 8,
-      "name": "Elisee, Elisabeth",
+      "name": "Reuter, Maxi",
       "foreign": null,
       "status": "S",
-      "startAverage": 392,
+      "startAverage": 386,
       "results": [
-       389,
-       389,
+       0,
+       386,
        0,
        0,
        0,
@@ -11662,13 +11662,13 @@
      },
      {
       "rank": 9,
-      "name": "Reuter, Maxi",
+      "name": "Sebastian, Fabienne",
       "foreign": null,
       "status": "S",
-      "startAverage": 391,
+      "startAverage": 385,
       "results": [
-       0,
        386,
+       384,
        0,
        0,
        0,
@@ -11695,7 +11695,7 @@
   {
    "name": "SV Gölzau",
    "setlist": {
-    "updatedAt": "2026-10-17T09:09",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
@@ -11719,13 +11719,13 @@
      },
      {
       "rank": 2,
-      "name": "Lukaszyk, Rafal",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 396.5,
+      "name": "Goldhorn, Magdalena",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
       "results": [
-       395,
-       392,
+       399,
+       393,
        0,
        0,
        0,
@@ -11739,26 +11739,6 @@
      },
      {
       "rank": 3,
-      "name": "Neumann, Annika",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.7,
-      "results": [
-       392,
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
       "name": "Mikolowska, Julia",
       "foreign": "A",
       "status": "",
@@ -11778,7 +11758,7 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 4,
       "name": "Bartnik, Weronika",
       "foreign": "EU",
       "status": "",
@@ -11798,7 +11778,47 @@
       ]
      },
      {
+      "rank": 5,
+      "name": "Neumann, Annika",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       392,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
       "rank": 6,
+      "name": "Lukaszyk, Rafal",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 393.5,
+      "results": [
+       395,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
       "name": "Thurnwaldova, Sabina",
       "foreign": "A",
       "status": "",
@@ -11818,34 +11838,14 @@
       ]
      },
      {
-      "rank": 7,
-      "name": "Gross, Charleen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.33,
-      "results": [
-       394,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "rank": 8,
-      "name": "Goldhorn, Magdalena",
+      "name": "Gross, Charleen",
       "foreign": null,
       "status": "S",
       "startAverage": 392,
       "results": [
-       399,
-       393,
+       394,
+       390,
        0,
        0,
        0,
@@ -11862,7 +11862,7 @@
       "name": "Lipinski, Lina",
       "foreign": null,
       "status": "S",
-      "startAverage": 390.33,
+      "startAverage": 391,
       "results": [
        0,
        391,
@@ -11882,7 +11882,7 @@
       "name": "Bauer, Linda Sophie",
       "foreign": null,
       "status": "",
-      "startAverage": 384.5,
+      "startAverage": 385,
       "results": [
        385,
        0,
@@ -11912,7 +11912,7 @@
   {
    "name": "SB Freiheit",
    "setlist": {
-    "updatedAt": "2026-10-14T04:41",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
@@ -11976,13 +11976,13 @@
      },
      {
       "rank": 4,
-      "name": "Uljee, Dean",
-      "foreign": "EU",
+      "name": "Rühling, Luisa",
+      "foreign": null,
       "status": "S",
       "startAverage": 398,
       "results": [
-       396,
-       389,
+       398,
+       398,
        0,
        0,
        0,
@@ -12019,7 +12019,7 @@
       "name": "Fuglerud, Celina Borgen",
       "foreign": "A",
       "status": "S",
-      "startAverage": 397.47,
+      "startAverage": 397.5,
       "results": [
        398,
        397,
@@ -12059,7 +12059,7 @@
       "name": "Rosenthal, Melanie",
       "foreign": null,
       "status": "S",
-      "startAverage": 395.2,
+      "startAverage": 394,
       "results": [
        0,
        394,
@@ -12079,7 +12079,7 @@
       "name": "Faltinat, Moritz",
       "foreign": null,
       "status": "S",
-      "startAverage": 395.14,
+      "startAverage": 393.5,
       "results": [
        392,
        395,
@@ -12096,13 +12096,13 @@
      },
      {
       "rank": 10,
-      "name": "Rühling, Luisa",
-      "foreign": null,
+      "name": "Uljee, Dean",
+      "foreign": "EU",
       "status": "S",
-      "startAverage": 393.86,
+      "startAverage": 392.5,
       "results": [
-       398,
-       398,
+       396,
+       389,
        0,
        0,
        0,
@@ -12119,7 +12119,7 @@
       "name": "Meinheit, Jana",
       "foreign": null,
       "status": "S",
-      "startAverage": 391,
+      "startAverage": 387,
       "results": [
        387,
        0,
@@ -12149,7 +12149,7 @@
   {
    "name": "Braunschweiger SG 1545",
    "setlist": {
-    "updatedAt": "2026-10-05T17:36",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
@@ -12216,7 +12216,7 @@
       "name": "Johansson, Isabelle",
       "foreign": "A",
       "status": "S",
-      "startAverage": 396.5,
+      "startAverage": 394.5,
       "results": [
        397,
        392,
@@ -12233,86 +12233,6 @@
      },
      {
       "rank": 5,
-      "name": "Karl, Alexander",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.57,
-      "results": [
-       389,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Bartels, Laura-Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.14,
-      "results": [
-       391,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Dockhorn, Finja",
-      "foreign": null,
-      "status": "",
-      "startAverage": 394.82,
-      "results": [
-       0,
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Wucherpfennig, Angelina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.67,
-      "results": [
-       392,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
       "name": "Zimmermann, Selina",
       "foreign": null,
       "status": "S",
@@ -12332,14 +12252,94 @@
       ]
      },
      {
-      "rank": 10,
+      "rank": 6,
+      "name": "Wucherpfennig, Angelina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.5,
+      "results": [
+       392,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Bartels, Laura-Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.5,
+      "results": [
+       391,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Karl, Alexander",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.5,
+      "results": [
+       389,
+       390,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
       "name": "Marquardt, Tabea",
       "foreign": null,
       "status": "",
-      "startAverage": 392.25,
+      "startAverage": 388,
       "results": [
        388,
        0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Dockhorn, Finja",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387,
+      "results": [
+       0,
+       387,
        0,
        0,
        0,
@@ -12366,7 +12366,7 @@
   {
    "name": "SV Kamen",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
@@ -12513,7 +12513,7 @@
       "name": "Rizzo, Alissa",
       "foreign": null,
       "status": "S",
-      "startAverage": 396.09,
+      "startAverage": 397,
       "results": [
        397,
        397,
@@ -12553,7 +12553,7 @@
       "name": "Flach, Sarah",
       "foreign": null,
       "status": "S",
-      "startAverage": 394.33,
+      "startAverage": 396,
       "results": [
        396,
        396,
@@ -12570,13 +12570,13 @@
      },
      {
       "rank": 11,
-      "name": "Niklasch, Tim",
+      "name": "Mertens, Robin",
       "foreign": null,
-      "status": "S",
-      "startAverage": 392.67,
+      "status": "E",
+      "startAverage": 394,
       "results": [
-       386,
        0,
+       394,
        0,
        0,
        0,
@@ -12590,13 +12590,13 @@
      },
      {
       "rank": 12,
-      "name": "Möller, Lenja Charlene",
+      "name": "Hönge, Marie-Christin",
       "foreign": null,
-      "status": "E",
-      "startAverage": 390.78,
+      "status": "S",
+      "startAverage": 390,
       "results": [
+       390,
        0,
-       388,
        0,
        0,
        0,
@@ -12630,13 +12630,13 @@
      },
      {
       "rank": 14,
-      "name": "Hönge, Marie-Christin",
+      "name": "Möller, Lenja Charlene",
       "foreign": null,
-      "status": "S",
-      "startAverage": 386,
+      "status": "E",
+      "startAverage": 388,
       "results": [
-       390,
        0,
+       388,
        0,
        0,
        0,
@@ -12650,12 +12650,12 @@
      },
      {
       "rank": 15,
-      "name": "Pohlmann, Emma",
+      "name": "Niklasch, Tim",
       "foreign": null,
-      "status": "E",
-      "startAverage": 0,
+      "status": "S",
+      "startAverage": 386,
       "results": [
-       0,
+       386,
        0,
        0,
        0,
@@ -12670,13 +12670,13 @@
      },
      {
       "rank": 16,
-      "name": "Mertens, Robin",
+      "name": "Pohlmann, Emma",
       "foreign": null,
       "status": "E",
       "startAverage": 0,
       "results": [
        0,
-       394,
+       0,
        0,
        0,
        0,
@@ -12703,7 +12703,7 @@
   {
    "name": "Wissener SV",
    "setlist": {
-    "updatedAt": "2026-09-09T19:38",
+    "updatedAt": "2026-10-18T20:39",
     "entries": [
      {
       "rank": 1,
@@ -12727,13 +12727,13 @@
      },
      {
       "rank": 2,
-      "name": "Johansson, Jesper",
+      "name": "Nielsen, Anna",
       "foreign": "A",
-      "status": "S",
+      "status": "E",
       "startAverage": 399,
       "results": [
-       398,
-       398,
+       0,
+       0,
        0,
        0,
        0,
@@ -12747,13 +12747,13 @@
      },
      {
       "rank": 3,
-      "name": "Nielsen, Anna",
+      "name": "Johansson, Jesper",
       "foreign": "A",
-      "status": "E",
-      "startAverage": 399,
+      "status": "S",
+      "startAverage": 398,
       "results": [
-       0,
-       0,
+       398,
+       398,
        0,
        0,
        0,
@@ -12830,7 +12830,7 @@
       "name": "Stahl, Franziska",
       "foreign": null,
       "status": "S",
-      "startAverage": 396.36,
+      "startAverage": 396,
       "results": [
        395,
        397,
@@ -12847,30 +12847,10 @@
      },
      {
       "rank": 8,
-      "name": "Giegling, Marvin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394.14,
-      "results": [
-       392,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
       "name": "Scholz, Sophie",
       "foreign": null,
       "status": "S",
-      "startAverage": 393.25,
+      "startAverage": 394,
       "results": [
        394,
        0,
@@ -12886,11 +12866,11 @@
       ]
      },
      {
-      "rank": 10,
+      "rank": 9,
       "name": "Mockenhaupt, Benedikt",
       "foreign": null,
       "status": "S",
-      "startAverage": 392.88,
+      "startAverage": 394,
       "results": [
        395,
        393,
@@ -12906,14 +12886,34 @@
       ]
      },
      {
+      "rank": 10,
+      "name": "Giegling, Marvin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.5,
+      "results": [
+       392,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
       "rank": 11,
-      "name": "Wendler, Melina",
+      "name": "Schmitt, Tamara",
       "foreign": null,
       "status": "E",
-      "startAverage": 389.86,
+      "startAverage": 389,
       "results": [
        0,
-       388,
+       0,
        0,
        0,
        0,
@@ -12927,13 +12927,13 @@
      },
      {
       "rank": 12,
-      "name": "Schmitt, Tamara",
+      "name": "Wendler, Melina",
       "foreign": null,
       "status": "E",
-      "startAverage": 389,
+      "startAverage": 388,
       "results": [
        0,
-       0,
+       388,
        0,
        0,
        0,
