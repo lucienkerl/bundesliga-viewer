@@ -10140,7 +10140,7 @@
   {
    "name": "SSG Kevelaer",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -10317,7 +10317,7 @@
   {
    "name": "SSV St. Hubertus Elsen",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -10514,7 +10514,7 @@
   {
    "name": "SuSC Müllenborn",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -10791,7 +10791,7 @@
   {
    "name": "Ohligser SGem 75/03",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -11048,7 +11048,7 @@
   {
    "name": "SF Emsdetten",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -11241,7 +11241,7 @@
   {
    "name": "SV Wieckenberg",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -11498,7 +11498,7 @@
   {
    "name": "BSV Buer-Bülse",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -11695,7 +11695,7 @@
   {
    "name": "SV Gölzau",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -11912,7 +11912,7 @@
   {
    "name": "SB Freiheit",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -12149,7 +12149,7 @@
   {
    "name": "Braunschweiger SG 1545",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -12366,7 +12366,7 @@
   {
    "name": "SV Kamen",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -12703,7 +12703,7 @@
   {
    "name": "Wissener SV",
    "setlist": {
-    "updatedAt": "2026-10-19T22:22",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
@@ -12789,7 +12789,7 @@
       "rank": 5,
       "name": "Ohlenburger, Max",
       "foreign": null,
-      "status": "E",
+      "status": "S",
       "startAverage": 397.67,
       "results": [
        0,
@@ -12869,7 +12869,7 @@
       "rank": 9,
       "name": "Mockenhaupt, Benedikt",
       "foreign": null,
-      "status": "S",
+      "status": "E",
       "startAverage": 394,
       "results": [
        395,
