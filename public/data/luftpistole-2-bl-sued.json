@@ -11806,7 +11806,7 @@
   {
    "name": "HSG München 2",
    "setlist": {
-    "updatedAt": "2026-10-12T22:30",
+    "updatedAt": "2026-10-21T22:54",
     "entries": [
      {
       "rank": 1,
@@ -11872,7 +11872,7 @@
       "rank": 4,
       "name": "Bavuudorj, Ariunzul",
       "foreign": "AS",
-      "status": "E",
+      "status": "S",
       "startAverage": 365,
       "results": [
        0,
@@ -11912,7 +11912,7 @@
       "rank": 6,
       "name": "Kutzer, Barbara",
       "foreign": null,
-      "status": "E",
+      "status": "S",
       "startAverage": 363.57,
       "results": [
        0,
@@ -11932,7 +11932,7 @@
       "rank": 7,
       "name": "Kucher, Liliia",
       "foreign": "A",
-      "status": "S",
+      "status": "E",
       "startAverage": 359,
       "results": [
        365,
@@ -11952,7 +11952,7 @@
       "rank": 8,
       "name": "Hofele, Michaela",
       "foreign": null,
-      "status": "S",
+      "status": "E",
       "startAverage": 358,
       "results": [
        361,
@@ -11972,7 +11972,7 @@
       "rank": 9,
       "name": "Grabovac, Adrian",
       "foreign": null,
-      "status": "S",
+      "status": "E",
       "startAverage": 349,
       "results": [
        350,
@@ -11992,7 +11992,7 @@
       "rank": 10,
       "name": "Hoefener, Henryk",
       "foreign": null,
-      "status": "E",
+      "status": "S",
       "startAverage": 0,
       "results": [
        0,
