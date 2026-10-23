@@ -11859,7 +11859,7 @@
   {
    "name": "SV Bassum von 1848",
    "setlist": {
-    "updatedAt": "2026-10-12T14:32",
+    "updatedAt": "2026-10-22T13:18",
     "entries": [
      {
       "rank": 1,
@@ -11983,6 +11983,26 @@
      },
      {
       "rank": 7,
+      "name": "Samojlenko, Valerij",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
       "name": "Michel, Pierre",
       "foreign": null,
       "status": "E",
@@ -12002,7 +12022,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 9,
       "name": "Pohl, Claas-Cervin",
       "foreign": null,
       "status": "S",
@@ -12022,7 +12042,7 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 10,
       "name": "Käseberg-Böschen, Tim",
       "foreign": null,
       "status": "E",
