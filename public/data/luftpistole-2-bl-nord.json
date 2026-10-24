@@ -4684,13 +4684,13 @@
   {
    "name": "PC Rendsburg",
    "setlist": {
-    "updatedAt": "2026-10-12T14:28",
+    "updatedAt": "2026-10-24T19:03",
     "entries": [
      {
       "rank": 1,
       "name": "Deleske, Viktor",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 371,
       "results": [
        0,
@@ -4706,7 +4706,7 @@
       "rank": 2,
       "name": "Hofmann, Uwe",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 364.14,
       "results": [
        0,
@@ -4722,7 +4722,7 @@
       "rank": 3,
       "name": "Kannerup, Ian",
       "foreign": "A",
-      "status": "",
+      "status": "S",
       "startAverage": 359.5,
       "results": [
        0,
@@ -4738,7 +4738,7 @@
       "rank": 4,
       "name": "Kühn, Ronny",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 358.14,
       "results": [
        0,
@@ -4754,7 +4754,7 @@
       "rank": 5,
       "name": "Nesemann, Holger",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 356,
       "results": [
        0,
@@ -4770,7 +4770,7 @@
       "rank": 6,
       "name": "Feindt, Joris",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 354.75,
       "results": [
        0,
@@ -4786,7 +4786,7 @@
       "rank": 7,
       "name": "Schiring, Philip",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 353,
       "results": [
        0,
