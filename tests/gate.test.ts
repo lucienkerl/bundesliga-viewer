@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { berlinNow, crawlWindowOpen } from '../crawler/gate';
+import { berlinNow, crawlWindowOpen, decideCrawl } from '../crawler/gate';
 
 // 2026-10-24 is a match day with starts at 15:00, 16:30 and 18:00 (CEST, UTC+2).
 const slots = [
@@ -41,5 +41,18 @@ describe('crawlWindowOpen', () => {
     // Daylight saving time ends on 2026-10-25, so Berlin is UTC+1 that day.
     expect(crawlWindowOpen(two, at('2026-10-25T08:45:00Z'))).toBe(true); // 09:45
     expect(crawlWindowOpen(two, at('2026-10-25T06:00:00Z'))).toBe(false); // 07:00
+  });
+});
+
+describe('decideCrawl', () => {
+  it('does a light crawl inside the window', () => {
+    expect(decideCrawl(slots, at('2026-10-24T13:30:00Z'), false)).toEqual({ run: true, full: false, windowOpen: true });
+  });
+  it('skips outside the window unless forced', () => {
+    expect(decideCrawl(slots, at('2026-10-24T05:00:00Z'), false)).toEqual({ run: false, full: false, windowOpen: false });
+    expect(decideCrawl(slots, at('2026-10-24T05:00:00Z'), true)).toEqual({ run: true, full: true, windowOpen: false });
+  });
+  it('does a full crawl without any known schedule', () => {
+    expect(decideCrawl([], at('2026-10-24T05:00:00Z'), false)).toMatchObject({ run: true, full: true });
   });
 });

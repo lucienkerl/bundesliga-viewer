@@ -13,6 +13,25 @@ export interface WindowOptions {
 
 export const DEFAULT_WINDOW: WindowOptions = { beforeMin: 30, afterMin: 150 };
 
+export interface Decision {
+  /** Crawl at all. */
+  run: boolean;
+  /** Full crawl (setlists, club pages) instead of the light one (league pages only). */
+  full: boolean;
+  windowOpen: boolean;
+}
+
+/**
+ * Forced runs (manual or daily) are full crawls. Scheduled or externally triggered runs only crawl inside a match
+ * window and then read just the league pages, which carry all results. Without any known schedule (first run)
+ * everything is crawled.
+ */
+export function decideCrawl(slots: Slot[], now: Date, force: boolean, opts: WindowOptions = DEFAULT_WINDOW): Decision {
+  const windowOpen = crawlWindowOpen(slots, now, opts);
+  const full = force || slots.length === 0;
+  return { run: full || windowOpen, full, windowOpen };
+}
+
 /** Current date and minutes since midnight in Germany, independent of the runner time zone. */
 export function berlinNow(now: Date): { date: string; minutes: number } {
   const parts = Object.fromEntries(
