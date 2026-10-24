@@ -10250,7 +10250,7 @@
   {
    "name": "SV Waldkirch",
    "setlist": {
-    "updatedAt": "2026-10-12T22:30",
+    "updatedAt": "2026-10-24T20:15",
     "entries": [
      {
       "rank": 1,
@@ -10398,6 +10398,26 @@
       "foreign": null,
       "status": "S",
       "startAverage": 350,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Schlahsa, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
       "results": [
        0,
        0,
