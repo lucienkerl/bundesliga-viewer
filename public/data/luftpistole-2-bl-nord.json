@@ -4813,13 +4813,13 @@
   {
    "name": "SV Anderlingen",
    "setlist": {
-    "updatedAt": "2026-10-12T14:28",
+    "updatedAt": "2026-10-23T17:21",
     "entries": [
      {
       "rank": 1,
       "name": "Brandt, Christian",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 369,
       "results": [
        0,
@@ -4835,7 +4835,7 @@
       "rank": 2,
       "name": "Brandt, Ole Mattis",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 366.25,
       "results": [
        0,
@@ -4851,7 +4851,7 @@
       "rank": 3,
       "name": "Tomforde, Jan-Hinrich",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 362.86,
       "results": [
        0,
@@ -4883,7 +4883,7 @@
       "rank": 5,
       "name": "Brandt, Annelie",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 358.86,
       "results": [
        0,
@@ -4899,7 +4899,7 @@
       "rank": 6,
       "name": "Brandt, Paulina",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 357.83,
       "results": [
        0,
