@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SV Waldkirch",
-   "singlePoints": "9:5",
+   "singlePoints": "10:5",
    "teamPoints": "6:0"
   },
   {
@@ -64,7 +64,7 @@
   {
    "rank": 10,
    "team": "SG Edelweiß Scheuring 2",
-   "singlePoints": "6:8",
+   "singlePoints": "6:9",
    "teamPoints": "2:4"
   },
   {
@@ -2252,33 +2252,33 @@
        "time": "11:00",
        "home": "Hubertus Rettenbach",
        "away": "Wildbachschützen Landshut",
-       "homeRings": 1102,
-       "awayRings": 1197,
-       "homePoints": 2,
-       "awayPoints": 3,
+       "homeRings": 1745,
+       "awayRings": 1741,
+       "homePoints": 3,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Seitz, Johannes",
-          "total": 279,
+          "total": 372,
           "series": [
            93,
            93,
            93,
-           0
+           93
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kronwitter, Alexander",
-          "total": 282,
+          "total": 376,
           "series": [
            94,
            94,
            94,
-           0
+           94
           ],
           "shootOff": null
          },
@@ -2289,23 +2289,23 @@
          "position": 2,
          "home": {
           "name": "Diepelt, Christian",
-          "total": 182,
+          "total": 366,
           "series": [
            93,
            89,
-           0,
-           0
+           94,
+           90
           ],
           "shootOff": null
          },
          "away": {
           "name": "Wimmer, Monika",
-          "total": 180,
+          "total": 365,
           "series": [
            88,
            92,
-           0,
-           0
+           91,
+           94
           ],
           "shootOff": null
          },
@@ -2316,23 +2316,23 @@
          "position": 3,
          "home": {
           "name": "Holzner, Lena",
-          "total": 188,
+          "total": 279,
           "series": [
            93,
            95,
-           0,
+           91,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ecker, Reinhard",
-          "total": 270,
+          "total": 361,
           "series": [
            89,
            90,
            91,
-           0
+           91
           ],
           "shootOff": null
          },
@@ -2343,50 +2343,50 @@
          "position": 4,
          "home": {
           "name": "Niedermaier, Maria",
-          "total": 182,
+          "total": 366,
           "series": [
            93,
            89,
-           0,
-           0
+           93,
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Liedel, Andreas",
-          "total": 280,
+          "total": 279,
           "series": [
            95,
            94,
-           91,
+           90,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Meisinger, Matthias",
-          "total": 271,
+          "total": 362,
           "series": [
            89,
            91,
            91,
-           0
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Unterholzner, Markus",
-          "total": 185,
+          "total": 360,
           "series": [
            93,
            92,
-           0,
-           0
+           90,
+           85
           ],
           "shootOff": null
          },
@@ -2558,20 +2558,20 @@
        "time": "11:00",
        "home": "SG Edelweiß Scheuring 2",
        "away": "SV Waldkirch",
-       "homeRings": 460,
-       "awayRings": 457,
+       "homeRings": 1016,
+       "awayRings": 1093,
        "homePoints": 2,
-       "awayPoints": 2,
+       "awayPoints": 3,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Maisterl, Fabian",
-          "total": 88,
+          "total": 179,
           "series": [
            88,
-           0,
+           91,
            0,
            0
           ],
@@ -2579,10 +2579,10 @@
          },
          "away": {
           "name": "Rogg, Simon",
-          "total": 96,
+          "total": 190,
           "series": [
            96,
-           0,
+           94,
            0,
            0
           ],
@@ -2595,10 +2595,10 @@
          "position": 2,
          "home": {
           "name": "Bösl, Michaela",
-          "total": 94,
+          "total": 185,
           "series": [
            94,
-           0,
+           91,
            0,
            0
           ],
@@ -2606,26 +2606,26 @@
          },
          "away": {
           "name": "Schulz, Sebastian",
-          "total": 94,
+          "total": 274,
           "series": [
            94,
-           0,
-           0,
+           90,
+           90,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
           "name": "Ranzinger, Thomas",
-          "total": 92,
+          "total": 182,
           "series": [
            92,
-           0,
+           90,
            0,
            0
           ],
@@ -2633,10 +2633,10 @@
          },
          "away": {
           "name": "Schrotter, Marie",
-          "total": 87,
+          "total": 174,
           "series": [
            87,
-           0,
+           87,
            0,
            0
           ],
@@ -2649,10 +2649,10 @@
          "position": 4,
          "home": {
           "name": "Balg, Henrik",
-          "total": 91,
+          "total": 185,
           "series": [
            91,
-           0,
+           94,
            0,
            0
           ],
@@ -2660,10 +2660,10 @@
          },
          "away": {
           "name": "Lück, Sophia",
-          "total": 92,
+          "total": 186,
           "series": [
            92,
-           0,
+           94,
            0,
            0
           ],
@@ -2676,22 +2676,22 @@
          "position": 5,
          "home": {
           "name": "Deroni, Sascha",
-          "total": 95,
+          "total": 285,
           "series": [
            95,
-           0,
-           0,
+           97,
+           93,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schlahsa, Andreas",
-          "total": 88,
+          "total": 269,
           "series": [
            88,
-           0,
-           0,
+           93,
+           88,
            0
           ],
           "shootOff": null
@@ -10458,7 +10458,7 @@
       "results": [
        381,
        58,
-       279,
+       372,
        0,
        0,
        0,
@@ -10478,7 +10478,7 @@
       "results": [
        374,
        364,
-       276,
+       366,
        0,
        0,
        0,
@@ -10538,7 +10538,7 @@
       "results": [
        0,
        0,
-       188,
+       279,
        0,
        0,
        0,
@@ -10558,7 +10558,7 @@
       "results": [
        365,
        364,
-       275,
+       366,
        0,
        0,
        0,
@@ -10578,7 +10578,7 @@
       "results": [
        361,
        367,
-       271,
+       362,
        0,
        0,
        0,
@@ -11837,7 +11837,7 @@
       "results": [
        374,
        376,
-       282,
+       376,
        0,
        0,
        0,
@@ -11897,7 +11897,7 @@
       "results": [
        360,
        371,
-       271,
+       365,
        0,
        0,
        0,
@@ -11917,7 +11917,7 @@
       "results": [
        365,
        365,
-       270,
+       361,
        0,
        0,
        0,
@@ -11937,7 +11937,7 @@
       "results": [
        368,
        354,
-       280,
+       279,
        0,
        0,
        0,
@@ -11957,7 +11957,7 @@
       "results": [
        360,
        359,
-       275,
+       360,
        0,
        0,
        0,
@@ -12254,7 +12254,7 @@
       "results": [
        0,
        0,
-       192,
+       285,
        0,
        0,
        0,
