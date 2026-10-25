@@ -222,146 +222,146 @@
        "time": "11:45",
        "home": "PC Rendsburg",
        "away": "SV Haendorf",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1777,
+       "awayRings": 1817,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Deleske, Viktor",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           87,
+           95,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Cordes, Timon",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           94,
+           93,
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hofmann, Uwe",
+          "total": 354,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           87,
+           92,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Varnhorn, Christoph",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           91,
+           96,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kühn, Ronny",
+          "total": 335,
           "series": [
-           0,
-           0,
-           0,
-           0
+           85,
+           84,
+           83,
+           83
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wingert, Marina",
+          "total": 348,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           84,
+           83,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Nesemann, Holger",
+          "total": 363,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           90,
+           91,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "von Döllen, Timo",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           91,
+           94,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schiring, Philip",
+          "total": 355,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           91,
+           88,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wingert, Jennifer",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           92,
+           89,
+           87
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4838,7 +4838,7 @@
       "status": "S",
       "startAverage": 371,
       "results": [
-       0,
+       370,
        0,
        0,
        0,
@@ -4854,7 +4854,7 @@
       "status": "S",
       "startAverage": 364.14,
       "results": [
-       0,
+       354,
        0,
        0,
        0,
@@ -4886,7 +4886,7 @@
       "status": "S",
       "startAverage": 358.14,
       "results": [
-       0,
+       335,
        0,
        0,
        0,
@@ -4902,7 +4902,7 @@
       "status": "S",
       "startAverage": 356,
       "results": [
-       0,
+       363,
        0,
        0,
        0,
@@ -4934,7 +4934,7 @@
       "status": "S",
       "startAverage": 353,
       "results": [
-       0,
+       355,
        0,
        0,
        0,
@@ -4964,10 +4964,10 @@
       "rank": 1,
       "name": "Cordes, Timon",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 366.14,
       "results": [
-       0,
+       368,
        0,
        0,
        0,
@@ -4980,10 +4980,10 @@
       "rank": 2,
       "name": "Varnhorn, Christoph",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 365.12,
       "results": [
-       0,
+       372,
        0,
        0,
        0,
@@ -4996,10 +4996,10 @@
       "rank": 3,
       "name": "Wingert, Marina",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 364.43,
       "results": [
-       0,
+       348,
        0,
        0,
        0,
@@ -5012,10 +5012,10 @@
       "rank": 4,
       "name": "von Döllen, Timo",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 364.29,
       "results": [
-       0,
+       365,
        0,
        0,
        0,
@@ -5028,10 +5028,10 @@
       "rank": 5,
       "name": "Wingert, Jennifer",
       "foreign": null,
-      "status": "",
+      "status": "S",
       "startAverage": 364,
       "results": [
-       0,
+       364,
        0,
        0,
        0,
@@ -5044,7 +5044,7 @@
       "rank": 6,
       "name": "Teichert, Elisa",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 357.86,
       "results": [
        0,
@@ -5060,7 +5060,7 @@
       "rank": 7,
       "name": "Bonne, Marc",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5076,7 +5076,7 @@
       "rank": 8,
       "name": "Mertens, Julian",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5092,7 +5092,7 @@
       "rank": 9,
       "name": "Walther, Ashley",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5108,7 +5108,7 @@
       "rank": 10,
       "name": "Walther, Lucia",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5124,7 +5124,7 @@
       "rank": 11,
       "name": "Simon, Kira",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5140,7 +5140,7 @@
       "rank": 12,
       "name": "Cordes, Bernd",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
