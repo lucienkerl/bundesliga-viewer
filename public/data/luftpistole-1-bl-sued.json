@@ -27,44 +27,44 @@
   },
   {
    "rank": 4,
+   "team": "Sgi Waldenburg",
+   "singlePoints": "11:8",
+   "teamPoints": "6:2"
+  },
+  {
+   "rank": 5,
    "team": "KKS Hambrücken",
    "singlePoints": "10:5",
    "teamPoints": "4:2"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "team": "SGi Ludwigsburg",
    "singlePoints": "9:6",
    "teamPoints": "4:2"
   },
   {
-   "rank": 6,
-   "team": "Sgi Waldenburg",
-   "singlePoints": "8:7",
-   "teamPoints": "4:2"
-  },
-  {
    "rank": 7,
-   "team": "Edelweiß Scheuring",
-   "singlePoints": "7:8",
-   "teamPoints": "2:4"
-  },
-  {
-   "rank": 8,
    "team": "HSG München",
    "singlePoints": "6:8",
    "teamPoints": "2:4"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "team": "SG 1928 Glattbach",
    "singlePoints": "3:12",
    "teamPoints": "2:4"
   },
   {
+   "rank": 9,
+   "team": "Edelweiß Scheuring",
+   "singlePoints": "8:11",
+   "teamPoints": "2:6"
+  },
+  {
    "rank": 10,
    "team": "SSG RWS Fürth",
-   "singlePoints": "5:13",
+   "singlePoints": "6:13",
    "teamPoints": "2:6"
   },
   {
@@ -76,7 +76,7 @@
   {
    "rank": 12,
    "team": "SV Willmandingen",
-   "singlePoints": "2:16",
+   "singlePoints": "2:17",
    "teamPoints": "0:8"
   }
  ],
@@ -2840,9 +2840,9 @@
        "time": "10:00",
        "home": "SSG RWS Fürth",
        "away": "SV Willmandingen",
-       "homeRings": 458,
-       "awayRings": 452,
-       "homePoints": 2,
+       "homeRings": 921,
+       "awayRings": 903,
+       "homePoints": 3,
        "awayPoints": 1,
        "played": true,
        "pairs": [
@@ -2850,10 +2850,10 @@
          "position": 1,
          "home": {
           "name": "Korn, Sören",
-          "total": 94,
+          "total": 187,
           "series": [
            94,
-           0,
+           93,
            0,
            0
           ],
@@ -2861,10 +2861,10 @@
          },
          "away": {
           "name": "Haas, Gabriele",
-          "total": 92,
+          "total": 179,
           "series": [
            92,
-           0,
+           87,
            0,
            0
           ],
@@ -2877,10 +2877,10 @@
          "position": 2,
          "home": {
           "name": "Demierre, Steve",
-          "total": 91,
+          "total": 185,
           "series": [
            91,
-           0,
+           94,
            0,
            0
           ],
@@ -2888,10 +2888,10 @@
          },
          "away": {
           "name": "Singvogel, Thomas",
-          "total": 91,
+          "total": 185,
           "series": [
            91,
-           0,
+           94,
            0,
            0
           ],
@@ -2904,10 +2904,10 @@
          "position": 3,
          "home": {
           "name": "Heyer, Philip",
-          "total": 93,
+          "total": 189,
           "series": [
            93,
-           0,
+           96,
            0,
            0
           ],
@@ -2915,10 +2915,10 @@
          },
          "away": {
           "name": "Deh, Marco",
-          "total": 84,
+          "total": 173,
           "series": [
            84,
-           0,
+           89,
            0,
            0
           ],
@@ -2931,10 +2931,10 @@
          "position": 4,
          "home": {
           "name": "Reitz, Sandra",
-          "total": 93,
+          "total": 182,
           "series": [
            93,
-           0,
+           89,
            0,
            0
           ],
@@ -2942,26 +2942,26 @@
          },
          "away": {
           "name": "Zipperer, Robert",
-          "total": 93,
+          "total": 180,
           "series": [
            93,
-           0,
+           87,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Gmeinder, Ronja",
-          "total": 87,
+          "total": 178,
           "series": [
            87,
-           0,
+           91,
            0,
            0
           ],
@@ -2969,10 +2969,10 @@
          },
          "away": {
           "name": "Erking, Tobias",
-          "total": 92,
+          "total": 186,
           "series": [
            92,
-           0,
+           94,
            0,
            0
           ],
@@ -3294,20 +3294,20 @@
        "time": "10:00",
        "home": "Edelweiß Scheuring",
        "away": "Sgi Waldenburg",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 835,
+       "awayRings": 846,
+       "homePoints": 1,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Probst, David",
-          "total": 0,
+          "total": 185,
           "series": [
-           0,
-           0,
+           91,
+           94,
            0,
            0
           ],
@@ -3315,26 +3315,26 @@
          },
          "away": {
           "name": "Vennekamp, Doreen",
-          "total": 0,
+          "total": 191,
           "series": [
-           0,
-           0,
+           97,
+           94,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Ranzinger, Philipp",
-          "total": 0,
+          "total": 185,
           "series": [
-           0,
-           0,
+           90,
+           95,
            0,
            0
           ],
@@ -3342,26 +3342,26 @@
          },
          "away": {
           "name": "Backes, Tobias",
-          "total": 0,
+          "total": 94,
           "series": [
-           0,
+           94,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Petrov, Dusko",
-          "total": 0,
+          "total": 189,
           "series": [
-           0,
-           0,
+           95,
+           94,
            0,
            0
           ],
@@ -3369,10 +3369,10 @@
          },
          "away": {
           "name": "Peter, Florian",
-          "total": 0,
+          "total": 189,
           "series": [
-           0,
-           0,
+           94,
+           95,
            0,
            0
           ],
@@ -3385,9 +3385,9 @@
          "position": 4,
          "home": {
           "name": "Offer, Adrian",
-          "total": 0,
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -3396,26 +3396,26 @@
          },
          "away": {
           "name": "Hollfoth, Felix Luca",
-          "total": 0,
+          "total": 185,
           "series": [
-           0,
-           0,
+           91,
+           94,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Baamann, Theresia",
-          "total": 0,
+          "total": 184,
           "series": [
-           0,
-           0,
+           93,
+           91,
            0,
            0
           ],
@@ -3423,17 +3423,17 @@
          },
          "away": {
           "name": "Mauler, Noah",
-          "total": 0,
+          "total": 187,
           "series": [
-           0,
-           0,
+           96,
+           91,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -10829,6 +10829,323 @@
    }
   },
   {
+   "name": "Sgi Waldenburg",
+   "setlist": {
+    "updatedAt": "2026-10-13T09:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Freije, Martin",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 386,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Fábián, Sára Rahel",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 382,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Jedrzejewski, Camille",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 381.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Fouquet, Florian",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 380,
+      "results": [
+       382,
+       378,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Tarhan, Sevval Ilayda",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 378.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Vennekamp, Doreen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 378.13,
+      "results": [
+       0,
+       0,
+       374,
+       289,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Backes, Tobias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377,
+      "results": [
+       381,
+       373,
+       0,
+       184,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Peter, Florian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       378,
+       189,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Hollfoth, Felix Luca",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 375.86,
+      "results": [
+       0,
+       0,
+       368,
+       185,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Köppl, Andreas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       372,
+       378,
+       379,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Mauler, Noah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       375,
+       375,
+       368,
+       279,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Berge, Svenja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373,
+      "results": [
+       370,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 13,
+      "name": "Ustaoglu, Abdullah",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 370,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 14,
+      "name": "Borek, Julita",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 367.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 15,
+      "name": "Freckmann, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 367.29,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6CCF2AF7-8CA4-4F7C-AD9E-647B5DFF0109/3038",
+   "club": {
+    "name": "SGi Waldenburg",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Am Neumühlsee 7",
+    "city": "74638 Waldenburg",
+    "website": "https://www.schuetzengildewaldenburg.de",
+    "logo": "logos/0907D6E8-EE53-4607-BFDD-37394B9AF3B0.webp"
+   }
+  },
+  {
    "name": "KKS Hambrücken",
    "setlist": {
     "updatedAt": "2026-10-13T09:28",
@@ -11300,520 +11617,6 @@
     "city": "71642 Ludwigsburg",
     "website": "https://www.sgi-lb.de",
     "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
-   }
-  },
-  {
-   "name": "Sgi Waldenburg",
-   "setlist": {
-    "updatedAt": "2026-10-13T09:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Freije, Martin",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 386,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Fábián, Sára Rahel",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 382,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Jedrzejewski, Camille",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 381.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Fouquet, Florian",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 380,
-      "results": [
-       382,
-       378,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Tarhan, Sevval Ilayda",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 378.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Vennekamp, Doreen",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 378.13,
-      "results": [
-       0,
-       0,
-       374,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Backes, Tobias",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377,
-      "results": [
-       381,
-       373,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Peter, Florian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 377,
-      "results": [
-       0,
-       0,
-       378,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Hollfoth, Felix Luca",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 375.86,
-      "results": [
-       0,
-       0,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Köppl, Andreas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375,
-      "results": [
-       372,
-       378,
-       379,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Mauler, Noah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375,
-      "results": [
-       375,
-       375,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Berge, Svenja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373,
-      "results": [
-       370,
-       376,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 13,
-      "name": "Ustaoglu, Abdullah",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 370,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 14,
-      "name": "Borek, Julita",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 367.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 15,
-      "name": "Freckmann, Christian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 367.29,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6CCF2AF7-8CA4-4F7C-AD9E-647B5DFF0109/3038",
-   "club": {
-    "name": "SGi Waldenburg",
-    "federation": "Württembergischer Schützenverband",
-    "street": "Am Neumühlsee 7",
-    "city": "74638 Waldenburg",
-    "website": "https://www.schuetzengildewaldenburg.de",
-    "logo": "logos/0907D6E8-EE53-4607-BFDD-37394B9AF3B0.webp"
-   }
-  },
-  {
-   "name": "Edelweiß Scheuring",
-   "setlist": {
-    "updatedAt": "2026-10-13T09:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Probst, David",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379,
-      "results": [
-       0,
-       379,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Ranzinger, Philipp",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 376.5,
-      "results": [
-       375,
-       378,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Petrov, Dusko",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 375.44,
-      "results": [
-       0,
-       0,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Offer, Adrian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373.5,
-      "results": [
-       372,
-       375,
-       376,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Balg, Oliver",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 373,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Johansson, Morgan",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 371.5,
-      "results": [
-       373,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Baamann, Theresia",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 370,
-      "results": [
-       371,
-       369,
-       378,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Hirmer, Stefan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364,
-      "results": [
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Deroni, Sascha",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/44120221-655F-4674-9AF8-108FC3944BBE/3038",
-   "club": {
-    "name": "Edelweiß Scheuring",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Buchenweg 9",
-    "city": "86937 Scheuring",
-    "website": "https://www.edelweiss-scheuring.de",
-    "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
    }
   },
   {
@@ -12291,6 +12094,203 @@
    }
   },
   {
+   "name": "Edelweiß Scheuring",
+   "setlist": {
+    "updatedAt": "2026-10-13T09:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Probst, David",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379,
+      "results": [
+       0,
+       379,
+       375,
+       282,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Ranzinger, Philipp",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.5,
+      "results": [
+       375,
+       378,
+       377,
+       185,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Petrov, Dusko",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 375.44,
+      "results": [
+       0,
+       0,
+       375,
+       189,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Offer, Adrian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373.5,
+      "results": [
+       372,
+       375,
+       376,
+       182,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Balg, Oliver",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 373,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Johansson, Morgan",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 371.5,
+      "results": [
+       373,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Baamann, Theresia",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 370,
+      "results": [
+       371,
+       369,
+       378,
+       184,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Hirmer, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       364,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Deroni, Sascha",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/44120221-655F-4674-9AF8-108FC3944BBE/3038",
+   "club": {
+    "name": "Edelweiß Scheuring",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Buchenweg 9",
+    "city": "86937 Scheuring",
+    "website": "https://www.edelweiss-scheuring.de",
+    "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
+   }
+  },
+  {
    "name": "SSG RWS Fürth",
    "setlist": {
     "updatedAt": "2026-10-13T09:28",
@@ -12345,7 +12345,7 @@
        375,
        381,
        378,
-       94,
+       187,
        0,
        0,
        0,
@@ -12365,7 +12365,7 @@
        0,
        0,
        381,
-       91,
+       185,
        0,
        0,
        0,
@@ -12385,7 +12385,7 @@
        374,
        374,
        374,
-       93,
+       189,
        0,
        0,
        0,
@@ -12405,7 +12405,7 @@
        0,
        0,
        372,
-       93,
+       182,
        0,
        0,
        0,
@@ -12465,7 +12465,7 @@
        0,
        0,
        0,
-       87,
+       178,
        0,
        0,
        0,
@@ -12815,7 +12815,7 @@
        0,
        371,
        348,
-       0,
+       179,
        0,
        0,
        0
@@ -12927,7 +12927,7 @@
        0,
        0,
        0,
-       84,
+       173,
        0,
        0,
        0
@@ -12959,7 +12959,7 @@
        0,
        0,
        354,
-       0,
+       180,
        0,
        0,
        0
@@ -12975,7 +12975,7 @@
        0,
        0,
        366,
-       0,
+       186,
        0,
        0,
        0

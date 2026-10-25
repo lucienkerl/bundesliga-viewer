@@ -2567,7 +2567,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Maisterl, Fabian",
           "total": 0,
           "series": [
            0,
@@ -2578,7 +2578,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Rogg, Simon",
           "total": 0,
           "series": [
            0,
@@ -2594,7 +2594,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Bösl, Michaela",
           "total": 0,
           "series": [
            0,
@@ -2605,7 +2605,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Schulz, Sebastian",
           "total": 0,
           "series": [
            0,
@@ -2621,7 +2621,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Ranzinger, Thomas",
           "total": 0,
           "series": [
            0,
@@ -2632,7 +2632,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Schrotter, Marie",
           "total": 0,
           "series": [
            0,
@@ -2648,7 +2648,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Balg, Henrik",
           "total": 0,
           "series": [
            0,
@@ -2659,7 +2659,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Lück, Sophia",
           "total": 0,
           "series": [
            0,
@@ -2675,7 +2675,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Deroni, Sascha",
           "total": 0,
           "series": [
            0,
@@ -2686,7 +2686,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Schlahsa, Andreas",
           "total": 0,
           "series": [
            0,
@@ -12043,7 +12043,7 @@
   {
    "name": "SG Edelweiß Scheuring 2",
    "setlist": {
-    "updatedAt": "2026-10-12T22:30",
+    "updatedAt": "2026-10-25T10:17",
     "entries": [
      {
       "rank": 1,
@@ -12230,6 +12230,26 @@
       "name": "Metrangolo, Carmen",
       "foreign": null,
       "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Deroni, Sascha",
+      "foreign": null,
+      "status": "",
       "startAverage": 0,
       "results": [
        0,
