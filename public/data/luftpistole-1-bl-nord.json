@@ -63,21 +63,21 @@
   },
   {
    "rank": 10,
+   "team": "Freischütz Wathlingen",
+   "singlePoints": "5:15",
+   "teamPoints": "2:6"
+  },
+  {
+   "rank": 11,
    "team": "SV Bassum von 1848",
    "singlePoints": "4:11",
    "teamPoints": "0:6"
   },
   {
-   "rank": 11,
-   "team": "SV Lindwedel",
-   "singlePoints": "4:11",
-   "teamPoints": "0:6"
-  },
-  {
    "rank": 12,
-   "team": "Freischütz Wathlingen",
-   "singlePoints": "2:13",
-   "teamPoints": "0:6"
+   "team": "SV Lindwedel",
+   "singlePoints": "6:14",
+   "teamPoints": "0:8"
   }
  ],
  "matchDays": [
@@ -3442,20 +3442,20 @@
        "time": "11:30",
        "home": "Freischütz Wathlingen",
        "away": "SV Lindwedel",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 739,
+       "awayRings": 635,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Aranowski, Philip",
-          "total": 0,
+          "total": 183,
           "series": [
-           0,
-           0,
+           93,
+           90,
            0,
            0
           ],
@@ -3463,25 +3463,25 @@
          },
          "away": {
           "name": "Wilkens, Boris",
-          "total": 0,
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
           "name": "Rohbani, Cedric",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -3490,25 +3490,25 @@
          },
          "away": {
           "name": "Bittner, Michael",
-          "total": 0,
+          "total": 181,
           "series": [
-           0,
-           0,
+           89,
+           92,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
           "name": "Oehns, Sarah",
-          "total": 0,
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
@@ -3517,26 +3517,26 @@
          },
          "away": {
           "name": "Schulz, Jascha",
-          "total": 0,
+          "total": 183,
           "series": [
-           0,
-           0,
+           91,
+           92,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Oehns, Christian",
-          "total": 0,
+          "total": 185,
           "series": [
-           0,
-           0,
+           94,
+           91,
            0,
            0
           ],
@@ -3544,26 +3544,26 @@
          },
          "away": {
           "name": "Kenklies, Christian",
-          "total": 0,
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Brabender, Christian",
-          "total": 0,
+          "total": 184,
           "series": [
-           0,
-           0,
+           93,
+           91,
            0,
            0
           ],
@@ -3571,16 +3571,16 @@
          },
          "away": {
           "name": "Hartje, René",
-          "total": 0,
+          "total": 89,
           "series": [
-           0,
+           89,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -12331,6 +12331,223 @@
    }
   },
   {
+   "name": "Freischütz Wathlingen",
+   "setlist": {
+    "updatedAt": "2026-10-12T14:32",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Callaghan, Kristian",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 377.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Evans, Lucy",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 373,
+      "results": [
+       371,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Aranowski, Philip",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373,
+      "results": [
+       383,
+       363,
+       365,
+       183,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Rohbani, Cedric",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 371,
+      "results": [
+       0,
+       0,
+       357,
+       96,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Oehns, Sarah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 370,
+      "results": [
+       369,
+       371,
+       372,
+       91,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schrader, Jessica",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Tauermann, Sarah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366,
+      "results": [
+       370,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Oehns, Christian",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 366,
+      "results": [
+       0,
+       366,
+       370,
+       185,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Brabender, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363,
+      "results": [
+       363,
+       0,
+       364,
+       184,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Freier, Sven",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/012C5DB4-63FE-47F3-80A8-39826101A8C4/3036",
+   "club": {
+    "name": "Schützenverein Freischütz e.V. Wathlingen von 1922",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "An d. Worth 11",
+    "city": "29339 Wathlingen",
+    "website": null,
+    "logo": "logos/3B2D6EB7-670F-44BC-BE47-08890BF98B4D.webp"
+   }
+  },
+  {
    "name": "SV Bassum von 1848",
    "setlist": {
     "updatedAt": "2026-10-22T13:18",
@@ -12562,7 +12779,7 @@
        368,
        378,
        375,
-       0,
+       182,
        0,
        0,
        0,
@@ -12582,7 +12799,7 @@
        371,
        371,
        364,
-       0,
+       272,
        0,
        0,
        0,
@@ -12602,7 +12819,7 @@
        369,
        370,
        369,
-       0,
+       183,
        0,
        0,
        0,
@@ -12622,7 +12839,7 @@
        0,
        0,
        362,
-       0,
+       177,
        0,
        0,
        0,
@@ -12682,7 +12899,7 @@
        0,
        0,
        0,
-       0,
+       181,
        0,
        0,
        0,
@@ -12782,223 +12999,6 @@
     "city": "29690 Lindwedel",
     "website": null,
     "logo": "logos/75A6AD3C-F23A-4DB0-84B1-A244C2F7F398.webp"
-   }
-  },
-  {
-   "name": "Freischütz Wathlingen",
-   "setlist": {
-    "updatedAt": "2026-10-12T14:32",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Callaghan, Kristian",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 377.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Evans, Lucy",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 373,
-      "results": [
-       371,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Aranowski, Philip",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373,
-      "results": [
-       383,
-       363,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Rohbani, Cedric",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 371,
-      "results": [
-       0,
-       0,
-       357,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Oehns, Sarah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 370,
-      "results": [
-       369,
-       371,
-       372,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Schrader, Jessica",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Tauermann, Sarah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366,
-      "results": [
-       370,
-       362,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Oehns, Christian",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 366,
-      "results": [
-       0,
-       366,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Brabender, Christian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363,
-      "results": [
-       363,
-       0,
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Freier, Sven",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/012C5DB4-63FE-47F3-80A8-39826101A8C4/3036",
-   "club": {
-    "name": "Schützenverein Freischütz e.V. Wathlingen von 1922",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "An d. Worth 11",
-    "city": "29339 Wathlingen",
-    "website": null,
-    "logo": "logos/3B2D6EB7-670F-44BC-BE47-08890BF98B4D.webp"
    }
   }
  ]
