@@ -3590,8 +3590,8 @@
        "time": "13:00",
        "home": "SV Schirumer Leegmoor",
        "away": "Spsch Raesfeld",
-       "homeRings": 738,
-       "awayRings": 713,
+       "homeRings": 1292,
+       "awayRings": 1260,
        "homePoints": 4,
        "awayPoints": 1,
        "played": true,
@@ -3600,22 +3600,22 @@
          "position": 1,
          "home": {
           "name": "Nooij, Sander",
-          "total": 191,
+          "total": 285,
           "series": [
            94,
            97,
-           0,
+           94,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Reichelt, Nadine",
-          "total": 181,
+          "total": 275,
           "series": [
            92,
            89,
-           0,
+           94,
            0
           ],
           "shootOff": null
@@ -3627,49 +3627,22 @@
          "position": 2,
          "home": {
           "name": "Stürken, Marcel",
-          "total": 95,
+          "total": 280,
           "series": [
            95,
-           0,
-           0,
+           91,
+           94,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Terboven, Jona",
-          "total": 179,
+          "total": 273,
           "series": [
            88,
            91,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 1
-        },
-        {
-         "position": 3,
-         "home": {
-          "name": "Grünhoff, Dennis",
-          "total": 93,
-          "series": [
-           93,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Ley, Manfred",
-          "total": 87,
-          "series": [
-           87,
-           0,
-           0,
+           94,
            0
           ],
           "shootOff": null
@@ -3678,14 +3651,41 @@
          "awayPoint": 0
         },
         {
+         "position": 3,
+         "home": {
+          "name": "Grünhoff, Dennis",
+          "total": 188,
+          "series": [
+           93,
+           95,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Ley, Manfred",
+          "total": 269,
+          "series": [
+           87,
+           94,
+           88,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
          "position": 4,
          "home": {
           "name": "Lüken, Thomas",
-          "total": 180,
+          "total": 270,
           "series": [
            86,
            94,
-           0,
+           90,
            0
           ],
           "shootOff": null
@@ -3708,22 +3708,22 @@
          "position": 5,
          "home": {
           "name": "Ritter, Maik",
-          "total": 179,
+          "total": 269,
           "series": [
            92,
            87,
-           0,
+           90,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ermes, Andrè",
-          "total": 90,
+          "total": 267,
           "series": [
            90,
-           0,
-           0,
+           88,
+           89,
            0
           ],
           "shootOff": null
@@ -11160,7 +11160,7 @@
        374,
        360,
        368,
-       181,
+       275,
        0,
        0,
        0,
@@ -11200,7 +11200,7 @@
        365,
        0,
        372,
-       179,
+       273,
        0,
        0,
        0,
@@ -11220,7 +11220,7 @@
        0,
        0,
        374,
-       87,
+       269,
        0,
        0,
        0,
@@ -11320,7 +11320,7 @@
        0,
        350,
        0,
-       90,
+       267,
        0,
        0,
        0,
@@ -11654,7 +11654,7 @@
        376,
        379,
        377,
-       191,
+       285,
        0,
        0,
        0,
@@ -11674,7 +11674,7 @@
        377,
        373,
        363,
-       95,
+       280,
        0,
        0,
        0,
@@ -11694,7 +11694,7 @@
        370,
        370,
        370,
-       93,
+       188,
        0,
        0,
        0,
@@ -11714,7 +11714,7 @@
        370,
        367,
        357,
-       180,
+       270,
        0,
        0,
        0,
@@ -11754,7 +11754,7 @@
        0,
        363,
        373,
-       179,
+       269,
        0,
        0,
        0,
