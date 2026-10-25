@@ -22,13 +22,13 @@
   {
    "rank": 3,
    "team": "PSV Olympia Berlin",
-   "singlePoints": "14:6",
+   "singlePoints": "13:7",
    "teamPoints": "6:2"
   },
   {
    "rank": 4,
    "team": "Sgi Oelsnitz/Vogtland",
-   "singlePoints": "11:9",
+   "singlePoints": "12:8",
    "teamPoints": "6:2"
   },
   {
@@ -3294,22 +3294,22 @@
        "time": "10:00",
        "home": "Sgi Oelsnitz/Vogtland",
        "away": "PSV Olympia Berlin",
-       "homeRings": 1576,
+       "homeRings": 1852,
        "awayRings": 1868,
-       "homePoints": 1,
-       "awayPoints": 4,
+       "homePoints": 2,
+       "awayPoints": 3,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Grießbach, Yannic",
-          "total": 286,
+          "total": 377,
           "series": [
            95,
            96,
            95,
-           0
+           91
           ],
           "shootOff": null
          },
@@ -3324,19 +3324,19 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
           "name": "Eichel, Enrico",
-          "total": 273,
+          "total": 366,
           "series": [
            90,
            93,
            90,
-           0
+           93
           ],
           "shootOff": null
          },
@@ -3412,12 +3412,12 @@
          "position": 5,
          "home": {
           "name": "Stephan, Ronny",
-          "total": 272,
+          "total": 364,
           "series": [
            92,
            88,
            92,
-           0
+           92
           ],
           "shootOff": null
          },
@@ -10863,7 +10863,7 @@
        373,
        381,
        373,
-       273,
+       366,
        0,
        0,
        0,
