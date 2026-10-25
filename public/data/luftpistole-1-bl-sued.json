@@ -28,7 +28,7 @@
   {
    "rank": 4,
    "team": "KKS Hambrücken",
-   "singlePoints": "14:6",
+   "singlePoints": "13:7",
    "teamPoints": "6:2"
   },
   {
@@ -45,14 +45,14 @@
   },
   {
    "rank": 7,
-   "team": "Edelweiß Scheuring",
-   "singlePoints": "8:12",
+   "team": "HSG München",
+   "singlePoints": "8:11",
    "teamPoints": "2:6"
   },
   {
    "rank": 8,
-   "team": "HSG München",
-   "singlePoints": "7:12",
+   "team": "Edelweiß Scheuring",
+   "singlePoints": "8:12",
    "teamPoints": "2:6"
   },
   {
@@ -2988,10 +2988,10 @@
        "time": "11:30",
        "home": "KKS Hambrücken",
        "away": "HSG München",
-       "homeRings": 1690,
-       "awayRings": 1592,
-       "homePoints": 4,
-       "awayPoints": 1,
+       "homeRings": 1873,
+       "awayRings": 1866,
+       "homePoints": 3,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
@@ -3052,23 +3052,23 @@
          "position": 3,
          "home": {
           "name": "Kudrya, Serhiy",
-          "total": 282,
+          "total": 373,
           "series": [
            93,
            95,
            94,
-           0
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Polischuk, Maria",
-          "total": 274,
+          "total": 368,
           "series": [
            89,
            95,
            90,
-           0
+           94
           ],
           "shootOff": null
          },
@@ -3090,39 +3090,39 @@
          },
          "away": {
           "name": "Martin, Andreas",
-          "total": 285,
+          "total": 377,
           "series": [
            94,
            95,
            96,
-           0
+           92
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Wußler, Marco",
-          "total": 278,
+          "total": 370,
           "series": [
            91,
            92,
            95,
-           0
+           92
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schütt, Carsten",
-          "total": 274,
+          "total": 362,
           "series": [
            94,
            88,
            92,
-           0
+           88
           ],
           "shootOff": null
          },
@@ -3145,7 +3145,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Sauter, Aaron",
           "total": 0,
           "series": [
            0,
@@ -3156,7 +3156,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Gampierakis, Georgios",
           "total": 0,
           "series": [
            0,
@@ -3172,7 +3172,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Schwald, Michael",
           "total": 0,
           "series": [
            0,
@@ -3183,7 +3183,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Heise, Michael",
           "total": 0,
           "series": [
            0,
@@ -3199,7 +3199,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Meyer, Patrick",
           "total": 0,
           "series": [
            0,
@@ -3210,7 +3210,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Heise, Andreas",
           "total": 0,
           "series": [
            0,
@@ -3226,7 +3226,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Grisoni, Cédric",
           "total": 0,
           "series": [
            0,
@@ -3237,7 +3237,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Veser, Adrian",
           "total": 0,
           "series": [
            0,
@@ -3253,7 +3253,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Schaich, Enrico",
           "total": 0,
           "series": [
            0,
@@ -3264,7 +3264,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Rinn, Marcel",
           "total": 0,
           "series": [
            0,
@@ -3442,8 +3442,8 @@
        "time": "11:30",
        "home": "SG 1928 Glattbach",
        "away": "SV Kelheim-Gmünd",
-       "homeRings": 1192,
-       "awayRings": 1508,
+       "homeRings": 1821,
+       "awayRings": 1885,
        "homePoints": 1,
        "awayPoints": 4,
        "played": true,
@@ -3452,12 +3452,12 @@
          "position": 1,
          "home": {
           "name": "Meister, Martin",
-          "total": 96,
+          "total": 365,
           "series": [
            96,
-           0,
-           0,
-           0
+           90,
+           89,
+           90
           ],
           "shootOff": null
          },
@@ -3490,39 +3490,39 @@
          },
          "away": {
           "name": "Karsch, Monika",
-          "total": 282,
+          "total": 379,
           "series": [
            96,
            94,
            92,
-           0
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
           "name": "Kunkel, Leon",
-          "total": 184,
+          "total": 368,
           "series": [
            93,
            91,
-           0,
-           0
+           93,
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Weiß, Simon",
-          "total": 279,
+          "total": 373,
           "series": [
            92,
            95,
            92,
-           0
+           94
           ],
           "shootOff": null
          },
@@ -3533,50 +3533,50 @@
          "position": 4,
          "home": {
           "name": "Ruckerbauer, Mathias",
-          "total": 278,
+          "total": 371,
           "series": [
            90,
            95,
            93,
-           0
+           93
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "away": {
           "name": "Koder, Patrick",
-          "total": 279,
+          "total": 371,
           "series": [
            93,
            95,
            91,
-           0
+           92
           ],
-          "shootOff": null
+          "shootOff": 7
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Hartig, Sebastian",
-          "total": 263,
+          "total": 346,
           "series": [
            91,
            83,
            89,
-           0
+           83
           ],
           "shootOff": null
          },
          "away": {
           "name": "Wimmer, Carina",
-          "total": 279,
+          "total": 373,
           "series": [
            88,
            96,
            95,
-           0
+           94
           ],
           "shootOff": null
          },
@@ -10192,7 +10192,7 @@
        384,
        0,
        373,
-       282,
+       379,
        0,
        0,
        0,
@@ -10292,7 +10292,7 @@
        373,
        378,
        368,
-       279,
+       371,
        0,
        0,
        0,
@@ -10332,7 +10332,7 @@
        0,
        373,
        0,
-       279,
+       373,
        0,
        0,
        0,
@@ -11620,203 +11620,6 @@
    }
   },
   {
-   "name": "Edelweiß Scheuring",
-   "setlist": {
-    "updatedAt": "2026-10-13T09:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Probst, David",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379,
-      "results": [
-       0,
-       379,
-       375,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Ranzinger, Philipp",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 376.5,
-      "results": [
-       375,
-       378,
-       377,
-       374,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Petrov, Dusko",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 375.44,
-      "results": [
-       0,
-       0,
-       375,
-       378,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Offer, Adrian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373.5,
-      "results": [
-       372,
-       375,
-       376,
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Balg, Oliver",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 373,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Johansson, Morgan",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 371.5,
-      "results": [
-       373,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Baamann, Theresia",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 370,
-      "results": [
-       371,
-       369,
-       378,
-       373,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Hirmer, Stefan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364,
-      "results": [
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Deroni, Sascha",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/44120221-655F-4674-9AF8-108FC3944BBE/3038",
-   "club": {
-    "name": "Edelweiß Scheuring",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Buchenweg 9",
-    "city": "86937 Scheuring",
-    "website": "https://www.edelweiss-scheuring.de",
-    "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
-   }
-  },
-  {
    "name": "HSG München",
    "setlist": {
     "updatedAt": "2026-10-13T09:28",
@@ -12091,6 +11894,203 @@
     "city": "81379 München",
     "website": "https://www.hauptschuetzen.de",
     "logo": "logos/7AC32355-DE44-4AA1-A690-0169E5CBD39E.webp"
+   }
+  },
+  {
+   "name": "Edelweiß Scheuring",
+   "setlist": {
+    "updatedAt": "2026-10-13T09:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Probst, David",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379,
+      "results": [
+       0,
+       379,
+       375,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Ranzinger, Philipp",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.5,
+      "results": [
+       375,
+       378,
+       377,
+       374,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Petrov, Dusko",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 375.44,
+      "results": [
+       0,
+       0,
+       375,
+       378,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Offer, Adrian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373.5,
+      "results": [
+       372,
+       375,
+       376,
+       364,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Balg, Oliver",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 373,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Johansson, Morgan",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 371.5,
+      "results": [
+       373,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Baamann, Theresia",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 370,
+      "results": [
+       371,
+       369,
+       378,
+       373,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Hirmer, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       364,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Deroni, Sascha",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/44120221-655F-4674-9AF8-108FC3944BBE/3038",
+   "club": {
+    "name": "Edelweiß Scheuring",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Buchenweg 9",
+    "city": "86937 Scheuring",
+    "website": "https://www.edelweiss-scheuring.de",
+    "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
    }
   },
   {
@@ -12405,7 +12405,7 @@
        370,
        369,
        368,
-       277,
+       368,
        0,
        0,
        0,
@@ -12445,7 +12445,7 @@
        369,
        364,
        369,
-       278,
+       371,
        0,
        0,
        0,
@@ -12485,7 +12485,7 @@
        359,
        0,
        0,
-       263,
+       346,
        0,
        0,
        0,
