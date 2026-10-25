@@ -57,27 +57,27 @@
   },
   {
    "rank": 9,
-   "team": "SV Pfeifferhütte",
+   "team": "SG 1883 Ebersdorf",
    "singlePoints": "7:8",
    "teamPoints": "2:4"
   },
   {
    "rank": 10,
+   "team": "SV Pfeifferhütte",
+   "singlePoints": "7:8",
+   "teamPoints": "2:4"
+  },
+  {
+   "rank": 11,
    "team": "HSG München 2",
    "singlePoints": "5:10",
    "teamPoints": "2:4"
   },
   {
-   "rank": 11,
-   "team": "SG 1883 Ebersdorf",
-   "singlePoints": "4:6",
-   "teamPoints": "0:4"
-  },
-  {
    "rank": 12,
    "team": "Adlerschützen Unteriglbach",
-   "singlePoints": "2:8",
-   "teamPoints": "0:4"
+   "singlePoints": "4:11",
+   "teamPoints": "0:6"
   }
  ],
  "matchDays": [
@@ -2094,146 +2094,146 @@
        "time": "12:30",
        "home": "Adlerschützen Unteriglbach",
        "away": "SG 1883 Ebersdorf",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1816,
+       "awayRings": 1853,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Mayer, Sophie",
-          "total": 0,
+          "total": 363,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           94,
+           88,
+           94
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kunstmann, Max",
-          "total": 0,
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           92,
+           91,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Popelka, Christian",
-          "total": 0,
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           99,
+           95,
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Gräf, Benjamin",
-          "total": 0,
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           94,
+           93,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Schauer, Johannes",
-          "total": 0,
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           94,
+           90,
+           90
           ],
           "shootOff": null
          },
          "away": {
           "name": "Wagner, Jan",
-          "total": 0,
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           91,
+           91,
+           92
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Meyer, Roland",
-          "total": 0,
+          "total": 349,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           86,
+           88,
+           88
           ],
           "shootOff": null
          },
          "away": {
           "name": "Spickmann, Torsten",
-          "total": 0,
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           90,
+           95,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Degenhart, Tobias",
-          "total": 0,
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           91,
+           91,
+           86
           ],
           "shootOff": null
          },
          "away": {
           "name": "Penner, Waldemar",
-          "total": 0,
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           95,
+           92,
+           90
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -2707,7 +2707,7 @@
        "home": "Bogenschützen Grund",
        "away": "SV Pfeifferhütte",
        "homeRings": 1787,
-       "awayRings": 1639,
+       "awayRings": 1809,
        "homePoints": 3,
        "awayPoints": 2,
        "played": true,
@@ -2808,12 +2808,12 @@
          },
          "away": {
           "name": "Kreußel, Peter",
-          "total": 259,
+          "total": 344,
           "series": [
            91,
            84,
            84,
-           0
+           85
           ],
           "shootOff": null
          },
@@ -2835,12 +2835,12 @@
          },
          "away": {
           "name": "Backmeroff, Matthias",
-          "total": 277,
+          "total": 362,
           "series": [
            92,
            95,
            90,
-           0
+           85
           ],
           "shootOff": null
          },
@@ -11844,6 +11844,203 @@
    }
   },
   {
+   "name": "SG 1883 Ebersdorf",
+   "setlist": {
+    "updatedAt": "2026-10-12T22:29",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kunstmann, Max",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379.5,
+      "results": [
+       377,
+       382,
+       372,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Gräf, Benjamin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       378,
+       372,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Wagner, Jan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365,
+      "results": [
+       365,
+       365,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Spickmann, Torsten",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358.5,
+      "results": [
+       352,
+       365,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Penner, Waldemar",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 355,
+      "results": [
+       359,
+       351,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Kastner, Rüdiger",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 350,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schulghin, Karl-Heinz",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 336.22,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Wagner, Thomas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 330,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Kaiser, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 321,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/AF839538-F409-43A4-9806-0A7A6520F9BA/3037",
+   "club": {
+    "name": "SG 1883 Ebersdorf",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Schulstraße 17",
+    "city": "96237 Ebersdorf",
+    "website": "https://www.sg-ebersdorf.de",
+    "logo": "logos/E48EFC7F-C837-4546-8391-E4354C7246F2.webp"
+   }
+  },
+  {
    "name": "SV Pfeifferhütte",
    "setlist": {
     "updatedAt": "2026-10-12T22:29",
@@ -12037,7 +12234,7 @@
       "results": [
        351,
        356,
-       277,
+       362,
        0,
        0,
        0,
@@ -12278,203 +12475,6 @@
    }
   },
   {
-   "name": "SG 1883 Ebersdorf",
-   "setlist": {
-    "updatedAt": "2026-10-12T22:29",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kunstmann, Max",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379.5,
-      "results": [
-       377,
-       382,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Gräf, Benjamin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375,
-      "results": [
-       378,
-       372,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Wagner, Jan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365,
-      "results": [
-       365,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Spickmann, Torsten",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358.5,
-      "results": [
-       352,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Penner, Waldemar",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 355,
-      "results": [
-       359,
-       351,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Kastner, Rüdiger",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 350,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schulghin, Karl-Heinz",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 336.22,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Wagner, Thomas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 330,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Kaiser, Michael",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 321,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/AF839538-F409-43A4-9806-0A7A6520F9BA/3037",
-   "club": {
-    "name": "SG 1883 Ebersdorf",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Schulstraße 17",
-    "city": "96237 Ebersdorf",
-    "website": "https://www.sg-ebersdorf.de",
-    "logo": "logos/E48EFC7F-C837-4546-8391-E4354C7246F2.webp"
-   }
-  },
-  {
    "name": "Adlerschützen Unteriglbach",
    "setlist": {
     "updatedAt": "2026-10-12T22:30",
@@ -12488,7 +12488,7 @@
       "results": [
        374,
        369,
-       0,
+       363,
        0,
        0,
        0,
@@ -12508,7 +12508,7 @@
       "results": [
        0,
        0,
-       0,
+       380,
        0,
        0,
        0,
@@ -12528,7 +12528,7 @@
       "results": [
        369,
        362,
-       0,
+       368,
        0,
        0,
        0,
@@ -12608,7 +12608,7 @@
       "results": [
        353,
        352,
-       0,
+       349,
        0,
        0,
        0,
@@ -12648,7 +12648,7 @@
       "results": [
        341,
        359,
-       0,
+       356,
        0,
        0,
        0,
