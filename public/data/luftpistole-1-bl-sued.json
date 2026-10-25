@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SV Kelheim-Gmünd",
-   "singlePoints": "15:5",
+   "singlePoints": "16:4",
    "teamPoints": "8:0"
   },
   {
@@ -27,32 +27,32 @@
   },
   {
    "rank": 4,
+   "team": "KKS Hambrücken",
+   "singlePoints": "14:6",
+   "teamPoints": "6:2"
+  },
+  {
+   "rank": 5,
    "team": "Sgi Waldenburg",
    "singlePoints": "12:8",
    "teamPoints": "6:2"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "team": "SGi Ludwigsburg",
    "singlePoints": "9:6",
    "teamPoints": "4:2"
   },
   {
-   "rank": 6,
-   "team": "KKS Hambrücken",
-   "singlePoints": "12:8",
-   "teamPoints": "4:4"
-  },
-  {
    "rank": 7,
-   "team": "HSG München",
-   "singlePoints": "9:10",
-   "teamPoints": "4:4"
+   "team": "Edelweiß Scheuring",
+   "singlePoints": "8:12",
+   "teamPoints": "2:6"
   },
   {
    "rank": 8,
-   "team": "Edelweiß Scheuring",
-   "singlePoints": "8:12",
+   "team": "HSG München",
+   "singlePoints": "7:12",
    "teamPoints": "2:6"
   },
   {
@@ -64,7 +64,7 @@
   {
    "rank": 10,
    "team": "SG 1928 Glattbach",
-   "singlePoints": "5:15",
+   "singlePoints": "4:16",
    "teamPoints": "2:6"
   },
   {
@@ -2988,33 +2988,33 @@
        "time": "11:30",
        "home": "KKS Hambrücken",
        "away": "HSG München",
-       "homeRings": 1025,
-       "awayRings": 1122,
-       "homePoints": 2,
-       "awayPoints": 3,
+       "homeRings": 1690,
+       "awayRings": 1592,
+       "homePoints": 4,
+       "awayPoints": 1,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Baumeister, Eduard",
-          "total": 286,
+          "total": 384,
           "series": [
            98,
            95,
            93,
-           0
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Maldini, Federico Nilo",
-          "total": 294,
+          "total": 393,
           "series": [
            97,
            99,
            98,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -3025,49 +3025,49 @@
          "position": 2,
          "home": {
           "name": "Walther, Teresa",
-          "total": 185,
+          "total": 377,
           "series": [
            95,
            90,
-           0,
-           0
+           95,
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Adels, Nina",
-          "total": 273,
+          "total": 366,
           "series": [
            96,
            86,
            91,
-           0
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Kudrya, Serhiy",
-          "total": 188,
+          "total": 282,
           "series": [
            93,
            95,
-           0,
+           94,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Polischuk, Maria",
-          "total": 184,
+          "total": 274,
           "series": [
            89,
            95,
-           0,
+           90,
            0
           ],
           "shootOff": null
@@ -3079,49 +3079,49 @@
          "position": 4,
          "home": {
           "name": "Fuchs, Mia",
-          "total": 183,
+          "total": 369,
           "series": [
            87,
            96,
-           0,
-           0
+           91,
+           95
           ],
           "shootOff": null
          },
          "away": {
           "name": "Martin, Andreas",
-          "total": 189,
+          "total": 285,
           "series": [
            94,
            95,
-           0,
+           96,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Wußler, Marco",
-          "total": 183,
+          "total": 278,
           "series": [
            91,
            92,
-           0,
+           95,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schütt, Carsten",
-          "total": 182,
+          "total": 274,
           "series": [
            94,
            88,
-           0,
+           92,
            0
           ],
           "shootOff": null
@@ -3442,10 +3442,10 @@
        "time": "11:30",
        "home": "SG 1928 Glattbach",
        "away": "SV Kelheim-Gmünd",
-       "homeRings": 556,
-       "awayRings": 658,
-       "homePoints": 2,
-       "awayPoints": 3,
+       "homeRings": 1192,
+       "awayRings": 1508,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
@@ -3463,12 +3463,12 @@
          },
          "away": {
           "name": "Solari, Jason",
-          "total": 194,
+          "total": 389,
           "series": [
            98,
            96,
-           0,
-           0
+           97,
+           98
           ],
           "shootOff": null
          },
@@ -3479,22 +3479,22 @@
          "position": 2,
          "home": {
           "name": "Drawert, Carolin",
-          "total": 186,
+          "total": 371,
           "series": [
            94,
            92,
-           0,
-           0
+           94,
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Karsch, Monika",
-          "total": 96,
+          "total": 282,
           "series": [
            96,
-           0,
-           0,
+           94,
+           92,
            0
           ],
           "shootOff": null
@@ -3506,10 +3506,10 @@
          "position": 3,
          "home": {
           "name": "Kunkel, Leon",
-          "total": 93,
+          "total": 184,
           "series": [
            93,
-           0,
+           91,
            0,
            0
           ],
@@ -3517,11 +3517,11 @@
          },
          "away": {
           "name": "Weiß, Simon",
-          "total": 187,
+          "total": 279,
           "series": [
            92,
            95,
-           0,
+           92,
            0
           ],
           "shootOff": null
@@ -3533,22 +3533,22 @@
          "position": 4,
          "home": {
           "name": "Ruckerbauer, Mathias",
-          "total": 90,
+          "total": 278,
           "series": [
            90,
-           0,
-           0,
+           95,
+           93,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Koder, Patrick",
-          "total": 93,
+          "total": 279,
           "series": [
            93,
-           0,
-           0,
+           95,
+           91,
            0
           ],
           "shootOff": null
@@ -3560,28 +3560,28 @@
          "position": 5,
          "home": {
           "name": "Hartig, Sebastian",
-          "total": 91,
+          "total": 263,
           "series": [
            91,
-           0,
-           0,
+           83,
+           89,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Wimmer, Carina",
-          "total": 88,
+          "total": 279,
           "series": [
            88,
-           0,
-           0,
+           96,
+           95,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       },
@@ -10172,7 +10172,7 @@
        0,
        0,
        385,
-       194,
+       389,
        0,
        0,
        0,
@@ -10192,7 +10192,7 @@
        384,
        0,
        373,
-       96,
+       282,
        0,
        0,
        0,
@@ -10272,7 +10272,7 @@
        375,
        381,
        381,
-       187,
+       373,
        0,
        0,
        0,
@@ -10292,7 +10292,7 @@
        373,
        378,
        368,
-       188,
+       279,
        0,
        0,
        0,
@@ -10332,7 +10332,7 @@
        0,
        373,
        0,
-       88,
+       279,
        0,
        0,
        0,
@@ -10826,6 +10826,223 @@
     "city": "87435 Kempten",
     "website": null,
     "logo": "logos/DB03E928-102F-42F3-8D9B-7C5439E4E659.webp"
+   }
+  },
+  {
+   "name": "KKS Hambrücken",
+   "setlist": {
+    "updatedAt": "2026-10-13T09:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Walter, Robin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Baumeister, Eduard",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 378,
+      "results": [
+       378,
+       0,
+       382,
+       384,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Fries, Hugo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.5,
+      "results": [
+       374,
+       379,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Becker, Celina Maria Paula",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       375,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Köhler, Axel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 371,
+      "results": [
+       0,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Walther, Teresa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 370,
+      "results": [
+       0,
+       0,
+       370,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kudrya, Serhiy",
+      "foreign": "A",
+      "status": "F",
+      "startAverage": 369.5,
+      "results": [
+       373,
+       366,
+       383,
+       373,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Fuchs, Mia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361.33,
+      "results": [
+       0,
+       0,
+       368,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Keck, Denise",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Wußler, Marco",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358,
+      "results": [
+       366,
+       350,
+       373,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FE2729CA-84D0-43A8-8A5E-68D4CCD40145/3038",
+   "club": {
+    "name": "KK-Schützenverein Hambrücken",
+    "federation": "Badischer Sportschützenverband",
+    "street": "Industriestr. 20",
+    "city": "76707 Hambrücken",
+    "website": "https://www.kks-hambruecken.de",
+    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
    }
   },
   {
@@ -11403,500 +11620,6 @@
    }
   },
   {
-   "name": "KKS Hambrücken",
-   "setlist": {
-    "updatedAt": "2026-10-13T09:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Walter, Robin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 385,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Baumeister, Eduard",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 378,
-      "results": [
-       378,
-       0,
-       382,
-       286,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Fries, Hugo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 376.5,
-      "results": [
-       374,
-       379,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Becker, Celina Maria Paula",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375,
-      "results": [
-       375,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Köhler, Axel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 371,
-      "results": [
-       0,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Walther, Teresa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 370,
-      "results": [
-       0,
-       0,
-       370,
-       280,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Kudrya, Serhiy",
-      "foreign": "A",
-      "status": "F",
-      "startAverage": 369.5,
-      "results": [
-       373,
-       366,
-       383,
-       282,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Fuchs, Mia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 361.33,
-      "results": [
-       0,
-       0,
-       368,
-       274,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Keck, Denise",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 360.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Wußler, Marco",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358,
-      "results": [
-       366,
-       350,
-       373,
-       183,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FE2729CA-84D0-43A8-8A5E-68D4CCD40145/3038",
-   "club": {
-    "name": "KK-Schützenverein Hambrücken",
-    "federation": "Badischer Sportschützenverband",
-    "street": "Industriestr. 20",
-    "city": "76707 Hambrücken",
-    "website": "https://www.kks-hambruecken.de",
-    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
-   }
-  },
-  {
-   "name": "HSG München",
-   "setlist": {
-    "updatedAt": "2026-10-13T09:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Keles, Ismail",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 391,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Maldini, Federico Nilo",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 387.6,
-      "results": [
-       0,
-       0,
-       383,
-       294,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Kostadinova, Antoaneta",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 382,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Kostevych, Olena",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 380,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Duneva, Adiel",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 375.5,
-      "results": [
-       376,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Adels, Nina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373,
-      "results": [
-       374,
-       372,
-       375,
-       273,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Polischuk, Maria",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373,
-      "results": [
-       374,
-       372,
-       369,
-       184,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Todorov, Aleksandar",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 370,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Martin, Andreas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369,
-      "results": [
-       364,
-       374,
-       375,
-       285,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Lindner, Dominikus",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367,
-      "results": [
-       367,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Dann, Darius",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Schütt, Carsten",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 360.4,
-      "results": [
-       0,
-       0,
-       359,
-       182,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 13,
-      "name": "Hoefener, Henryk",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 351,
-      "results": [
-       0,
-       351,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/3A8DF49E-ECB4-4A11-B016-247198B91C4A/3038",
-   "club": {
-    "name": "Kgl.priv. Hauptschützenges. München 1406",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Zielstattstr. 6",
-    "city": "81379 München",
-    "website": "https://www.hauptschuetzen.de",
-    "logo": "logos/7AC32355-DE44-4AA1-A690-0169E5CBD39E.webp"
-   }
-  },
-  {
    "name": "Edelweiß Scheuring",
    "setlist": {
     "updatedAt": "2026-10-13T09:28",
@@ -12091,6 +11814,283 @@
     "city": "86937 Scheuring",
     "website": "https://www.edelweiss-scheuring.de",
     "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
+   }
+  },
+  {
+   "name": "HSG München",
+   "setlist": {
+    "updatedAt": "2026-10-13T09:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Keles, Ismail",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 391,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Maldini, Federico Nilo",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 387.6,
+      "results": [
+       0,
+       0,
+       383,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Kostadinova, Antoaneta",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 382,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Kostevych, Olena",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 380,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Duneva, Adiel",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 375.5,
+      "results": [
+       376,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Adels, Nina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373,
+      "results": [
+       374,
+       372,
+       375,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Polischuk, Maria",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373,
+      "results": [
+       374,
+       372,
+       369,
+       368,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Todorov, Aleksandar",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 370,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Martin, Andreas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       364,
+       374,
+       375,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Lindner, Dominikus",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367,
+      "results": [
+       367,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Dann, Darius",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Schütt, Carsten",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.4,
+      "results": [
+       0,
+       0,
+       359,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 13,
+      "name": "Hoefener, Henryk",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 351,
+      "results": [
+       0,
+       351,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/3A8DF49E-ECB4-4A11-B016-247198B91C4A/3038",
+   "club": {
+    "name": "Kgl.priv. Hauptschützenges. München 1406",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Zielstattstr. 6",
+    "city": "81379 München",
+    "website": "https://www.hauptschuetzen.de",
+    "logo": "logos/7AC32355-DE44-4AA1-A690-0169E5CBD39E.webp"
    }
   },
   {
@@ -12365,7 +12365,7 @@
        371,
        369,
        362,
-       96,
+       365,
        0,
        0,
        0,
@@ -12385,7 +12385,7 @@
        370,
        0,
        375,
-       280,
+       371,
        0,
        0,
        0,
@@ -12405,7 +12405,7 @@
        370,
        369,
        368,
-       93,
+       277,
        0,
        0,
        0,
@@ -12445,7 +12445,7 @@
        369,
        364,
        369,
-       185,
+       278,
        0,
        0,
        0,
@@ -12485,7 +12485,7 @@
        359,
        0,
        0,
-       91,
+       263,
        0,
        0,
        0,

@@ -9,15 +9,15 @@
  "table": [
   {
    "rank": 1,
-   "team": "SV 1935 Kriftel",
-   "singlePoints": "17:3",
+   "team": "Sp.Sch.St.Seb.Pier2000",
+   "singlePoints": "19:1",
    "teamPoints": "8:0"
   },
   {
    "rank": 2,
-   "team": "Sp.Sch.St.Seb.Pier2000",
-   "singlePoints": "14:1",
-   "teamPoints": "6:0"
+   "team": "SV 1935 Kriftel",
+   "singlePoints": "17:3",
+   "teamPoints": "8:0"
   },
   {
    "rank": 3,
@@ -64,19 +64,19 @@
   {
    "rank": 10,
    "team": "Freischütz Wathlingen",
-   "singlePoints": "6:14",
+   "singlePoints": "7:13",
    "teamPoints": "2:6"
   },
   {
    "rank": 11,
    "team": "SV Bassum von 1848",
-   "singlePoints": "4:11",
-   "teamPoints": "0:6"
+   "singlePoints": "4:16",
+   "teamPoints": "0:8"
   },
   {
    "rank": 12,
    "team": "SV Lindwedel",
-   "singlePoints": "5:15",
+   "singlePoints": "4:16",
    "teamPoints": "0:8"
   }
  ],
@@ -2988,145 +2988,145 @@
        "time": "11:30",
        "home": "Sp.Sch.St.Seb.Pier2000",
        "away": "SV Bassum von 1848",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
+       "homeRings": 1872,
+       "awayRings": 1838,
+       "homePoints": 5,
        "awayPoints": 0,
-       "played": false,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Miller, James",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           95,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hoppe, Thomas",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           95,
+           94,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kremser, Markus",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           95,
+           95,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Rother, Denis",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           92,
+           92,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Januszek, Robin",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           93,
+           91,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Sandmann, Sascha",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           95,
+           92,
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kögler, Andreas",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           91,
+           93,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Samojlenko, Valerij",
+          "total": 353,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           87,
+           88,
+           86
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kaulen, Tobias",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           94,
+           90,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Michel, Pierre",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           94,
+           89,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -3442,33 +3442,33 @@
        "time": "11:30",
        "home": "Freischütz Wathlingen",
        "away": "SV Lindwedel",
-       "homeRings": 1391,
-       "awayRings": 1451,
-       "homePoints": 4,
-       "awayPoints": 1,
+       "homeRings": 1853,
+       "awayRings": 1821,
+       "homePoints": 5,
+       "awayPoints": 0,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Aranowski, Philip",
-          "total": 278,
+          "total": 375,
           "series": [
            93,
            90,
            95,
-           0
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Wilkens, Boris",
-          "total": 275,
+          "total": 371,
           "series": [
            91,
            91,
            93,
-           0
+           96
           ],
           "shootOff": null
          },
@@ -3479,12 +3479,12 @@
          "position": 2,
          "home": {
           "name": "Rohbani, Cedric",
-          "total": 281,
+          "total": 377,
           "series": [
            96,
            92,
            93,
-           0
+           96
           ],
           "shootOff": null
          },
@@ -3499,30 +3499,30 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Oehns, Sarah",
-          "total": 281,
+          "total": 368,
           "series": [
            91,
            94,
            96,
-           0
+           87
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schulz, Jascha",
-          "total": 275,
+          "total": 367,
           "series": [
            91,
            92,
            92,
-           0
+           92
           ],
           "shootOff": null
          },
@@ -3533,23 +3533,23 @@
          "position": 4,
          "home": {
           "name": "Oehns, Christian",
-          "total": 275,
+          "total": 365,
           "series": [
            94,
            91,
            90,
-           0
+           90
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kenklies, Christian",
-          "total": 268,
+          "total": 360,
           "series": [
            91,
            86,
            91,
-           0
+           92
           ],
           "shootOff": null
          },
@@ -3560,23 +3560,23 @@
          "position": 5,
          "home": {
           "name": "Brabender, Christian",
-          "total": 276,
+          "total": 368,
           "series": [
            93,
            91,
            92,
-           0
+           92
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hartje, René",
-          "total": 272,
+          "total": 362,
           "series": [
            89,
            92,
            91,
-           0
+           90
           ],
           "shootOff": null
          },
@@ -10138,6 +10138,223 @@
  ],
  "teams": [
   {
+   "name": "Sp.Sch.St.Seb.Pier2000",
+   "setlist": {
+    "updatedAt": "2026-10-12T14:32",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Rostamiyan, Haniyeh",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 387,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Jako, Miriam",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 385,
+      "results": [
+       381,
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Miller, James",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 384.25,
+      "results": [
+       0,
+       0,
+       385,
+       386,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Kremser, Markus",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 380.5,
+      "results": [
+       381,
+       380,
+       378,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Januszek, Robin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377.5,
+      "results": [
+       379,
+       376,
+       377,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Kögler, Andreas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       0,
+       375,
+       375,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kaulen, Tobias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371.5,
+      "results": [
+       371,
+       372,
+       0,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Verbist, Shane",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       369,
+       0,
+       367,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Au, Astrid",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Engelbrecht, Kai",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/896F57B0-8981-4046-AD05-0FD0249D0828/3036",
+   "club": {
+    "name": "SpSch St.Seb. Pier 2000 e.V.",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Grüntalstraße 17",
+    "city": "52379 Langerwehe",
+    "website": "https://www.schuetzenpier.de",
+    "logo": "logos/6AEC4695-EACB-4D34-8F3B-7C74598860AB.webp"
+   }
+  },
+  {
    "name": "SV 1935 Kriftel",
    "setlist": {
     "updatedAt": "2026-10-12T14:32",
@@ -10372,223 +10589,6 @@
     "city": "65830 Kriftel",
     "website": null,
     "logo": "logos/0AFA2624-D17B-4A88-844E-5BA4F3E3C436.webp"
-   }
-  },
-  {
-   "name": "Sp.Sch.St.Seb.Pier2000",
-   "setlist": {
-    "updatedAt": "2026-10-12T14:32",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Rostamiyan, Haniyeh",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 387,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Jako, Miriam",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 385,
-      "results": [
-       381,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Miller, James",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 384.25,
-      "results": [
-       0,
-       0,
-       385,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Kremser, Markus",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 380.5,
-      "results": [
-       381,
-       380,
-       378,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Januszek, Robin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377.5,
-      "results": [
-       379,
-       376,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Kögler, Andreas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375,
-      "results": [
-       0,
-       375,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Kaulen, Tobias",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371.5,
-      "results": [
-       371,
-       372,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Verbist, Shane",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 369,
-      "results": [
-       369,
-       0,
-       367,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Au, Astrid",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 359.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Engelbrecht, Kai",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 359,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/896F57B0-8981-4046-AD05-0FD0249D0828/3036",
-   "club": {
-    "name": "SpSch St.Seb. Pier 2000 e.V.",
-    "federation": "Rheinischer Schützenbund",
-    "street": "Grüntalstraße 17",
-    "city": "52379 Langerwehe",
-    "website": "https://www.schuetzenpier.de",
-    "logo": "logos/6AEC4695-EACB-4D34-8F3B-7C74598860AB.webp"
    }
   },
   {
@@ -12385,7 +12385,7 @@
        383,
        363,
        365,
-       278,
+       375,
        0,
        0,
        0,
@@ -12405,7 +12405,7 @@
        0,
        0,
        357,
-       281,
+       377,
        0,
        0,
        0,
@@ -12425,7 +12425,7 @@
        369,
        371,
        372,
-       281,
+       368,
        0,
        0,
        0,
@@ -12485,7 +12485,7 @@
        0,
        366,
        370,
-       275,
+       365,
        0,
        0,
        0,
@@ -12505,7 +12505,7 @@
        363,
        0,
        364,
-       276,
+       368,
        0,
        0,
        0,
@@ -12582,7 +12582,7 @@
        377,
        370,
        375,
-       0,
+       379,
        0,
        0,
        0,
@@ -12602,7 +12602,7 @@
        372,
        374,
        368,
-       0,
+       370,
        0,
        0,
        0,
@@ -12642,7 +12642,7 @@
        365,
        362,
        365,
-       0,
+       368,
        0,
        0,
        0,
@@ -12682,7 +12682,7 @@
        0,
        0,
        362,
-       0,
+       353,
        0,
        0,
        0,
@@ -12696,13 +12696,13 @@
       "rank": 8,
       "name": "Michel, Pierre",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 360,
       "results": [
        0,
        360,
        372,
-       0,
+       368,
        0,
        0,
        0,
@@ -12779,7 +12779,7 @@
        368,
        378,
        375,
-       275,
+       371,
        0,
        0,
        0,
@@ -12839,7 +12839,7 @@
        0,
        0,
        362,
-       268,
+       360,
        0,
        0,
        0,
@@ -12899,7 +12899,7 @@
        0,
        0,
        0,
-       272,
+       362,
        0,
        0,
        0,
