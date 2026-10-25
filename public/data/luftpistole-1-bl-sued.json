@@ -21,27 +21,27 @@
   },
   {
    "rank": 3,
-   "team": "KKS Hambrücken",
+   "team": "SGi Ludwigsburg",
    "singlePoints": "13:7",
    "teamPoints": "6:2"
   },
   {
    "rank": 4,
+   "team": "KKS Hambrücken",
+   "singlePoints": "13:7",
+   "teamPoints": "6:2"
+  },
+  {
+   "rank": 5,
    "team": "FSG Kempten 1",
    "singlePoints": "12:8",
    "teamPoints": "6:2"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "team": "Sgi Waldenburg",
    "singlePoints": "12:8",
    "teamPoints": "6:2"
-  },
-  {
-   "rank": 6,
-   "team": "SGi Ludwigsburg",
-   "singlePoints": "11:9",
-   "teamPoints": "4:4"
   },
   {
    "rank": 7,
@@ -51,27 +51,27 @@
   },
   {
    "rank": 8,
-   "team": "SV Hubertus Hitzhofen-Oberzell",
-   "singlePoints": "9:11",
-   "teamPoints": "2:6"
-  },
-  {
-   "rank": 9,
    "team": "Edelweiß Scheuring",
    "singlePoints": "8:12",
    "teamPoints": "2:6"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "team": "SSG RWS Fürth",
    "singlePoints": "7:13",
    "teamPoints": "2:6"
   },
   {
-   "rank": 11,
+   "rank": 10,
    "team": "SG 1928 Glattbach",
    "singlePoints": "4:16",
    "teamPoints": "2:6"
+  },
+  {
+   "rank": 11,
+   "team": "SV Hubertus Hitzhofen-Oberzell",
+   "singlePoints": "7:13",
+   "teamPoints": "0:8"
   },
   {
    "rank": 12,
@@ -3590,60 +3590,60 @@
        "time": "13:00",
        "home": "SV Hubertus Hitzhofen-Oberzell",
        "away": "SGi Ludwigsburg",
-       "homeRings": 1393,
-       "awayRings": 1122,
-       "homePoints": 3,
-       "awayPoints": 2,
+       "homeRings": 1863,
+       "awayRings": 1864,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Mastrovalerio, Matteo",
-          "total": 286,
+          "total": 381,
           "series": [
            96,
            98,
            92,
-           0
+           95
           ],
           "shootOff": null
          },
          "away": {
           "name": "Voutilainen, Sampo",
-          "total": 195,
+          "total": 388,
           "series": [
            97,
            98,
-           0,
-           0
+           97,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Fröhlich, Paul",
-          "total": 283,
+          "total": 378,
           "series": [
            93,
            94,
            96,
-           0
+           95
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schmidt, Florian Daniel",
-          "total": 181,
+          "total": 364,
           "series": [
            91,
            90,
-           0,
-           0
+           91,
+           92
           ],
           "shootOff": null
          },
@@ -3654,23 +3654,23 @@
          "position": 3,
          "home": {
           "name": "Gruber, Kilian",
-          "total": 274,
+          "total": 367,
           "series": [
            90,
            94,
            90,
-           0
+           93
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kerl, Lucien",
-          "total": 280,
+          "total": 370,
           "series": [
            92,
            96,
            92,
-           0
+           90
           ],
           "shootOff": null
          },
@@ -3692,39 +3692,39 @@
          },
          "away": {
           "name": "Reitz, Florian",
-          "total": 279,
+          "total": 368,
           "series": [
            91,
            96,
            92,
-           0
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Negler, Stefan",
-          "total": 183,
+          "total": 370,
           "series": [
            94,
            89,
-           0,
-           0
+           92,
+           95
           ],
           "shootOff": null
          },
          "away": {
           "name": "Miklis, André",
-          "total": 187,
+          "total": 374,
           "series": [
            94,
            93,
-           0,
-           0
+           93,
+           94
           ],
           "shootOff": null
          },
@@ -10612,6 +10612,263 @@
    }
   },
   {
+   "name": "SGi Ludwigsburg",
+   "setlist": {
+    "updatedAt": "2026-10-13T09:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Goberville, Celine",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 385.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Voutilainen, Sampo",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 381.5,
+      "results": [
+       0,
+       0,
+       383,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Zechmeister, Richard",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 378.88,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schmidt, Florian Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377.5,
+      "results": [
+       380,
+       375,
+       381,
+       364,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kerl, Lucien",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 375,
+      "results": [
+       376,
+       374,
+       369,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Reitz, Florian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 374.5,
+      "results": [
+       376,
+       373,
+       369,
+       368,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Goberville, Sandrine",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       373,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Hlousek, Julia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 369.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Spinella, Massimo",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 369.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Miklis, André",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.5,
+      "results": [
+       379,
+       358,
+       375,
+       374,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Müller, Emanuel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 367,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Potteck, René",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.25,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8AC99A6C-1544-436B-BA8D-54AB8EF27BBE/3038",
+   "club": {
+    "name": "SGi Ludwigsburg",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Kugelberg 28A",
+    "city": "71642 Ludwigsburg",
+    "website": "https://www.sgi-lb.de",
+    "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
+   }
+  },
+  {
    "name": "KKS Hambrücken",
    "setlist": {
     "updatedAt": "2026-10-13T09:28",
@@ -11363,263 +11620,6 @@
    }
   },
   {
-   "name": "SGi Ludwigsburg",
-   "setlist": {
-    "updatedAt": "2026-10-13T09:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Goberville, Celine",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 385.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Voutilainen, Sampo",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 381.5,
-      "results": [
-       0,
-       0,
-       383,
-       195,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Zechmeister, Richard",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 378.88,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Schmidt, Florian Daniel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377.5,
-      "results": [
-       380,
-       375,
-       381,
-       181,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kerl, Lucien",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 375,
-      "results": [
-       376,
-       374,
-       369,
-       280,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Reitz, Florian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 374.5,
-      "results": [
-       376,
-       373,
-       369,
-       279,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Goberville, Sandrine",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 371,
-      "results": [
-       373,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Hlousek, Julia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 369.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Spinella, Massimo",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 369.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Miklis, André",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.5,
-      "results": [
-       379,
-       358,
-       375,
-       187,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Müller, Emanuel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 367,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Potteck, René",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8AC99A6C-1544-436B-BA8D-54AB8EF27BBE/3038",
-   "club": {
-    "name": "SGi Ludwigsburg",
-    "federation": "Württembergischer Schützenverband",
-    "street": "Kugelberg 28A",
-    "city": "71642 Ludwigsburg",
-    "website": "https://www.sgi-lb.de",
-    "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
-   }
-  },
-  {
    "name": "HSG München",
    "setlist": {
     "updatedAt": "2026-10-13T09:28",
@@ -11894,243 +11894,6 @@
     "city": "81379 München",
     "website": "https://www.hauptschuetzen.de",
     "logo": "logos/7AC32355-DE44-4AA1-A690-0169E5CBD39E.webp"
-   }
-  },
-  {
-   "name": "SV Hubertus Hitzhofen-Oberzell",
-   "setlist": {
-    "updatedAt": "2026-10-13T09:28",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Bres, Klaudia",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 383,
-      "results": [
-       380,
-       386,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Mastrovalerio, Matteo",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 381.86,
-      "results": [
-       0,
-       0,
-       385,
-       286,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Fröhlich, Paul",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 376.71,
-      "results": [
-       0,
-       0,
-       377,
-       283,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Gruber, Kilian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 374,
-      "results": [
-       0,
-       374,
-       0,
-       274,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kral, Daniel",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 373.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Strubel, Nils",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 372.5,
-      "results": [
-       374,
-       371,
-       366,
-       367,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Paul, Sarah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367.71,
-      "results": [
-       0,
-       0,
-       355,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Negler, Stefan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367.5,
-      "results": [
-       366,
-       369,
-       361,
-       183,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Ocker, Tabea",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Pirkl, Johannes",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366,
-      "results": [
-       366,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Klingler, Stephan",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 364,
-      "results": [
-       365,
-       363,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8A0D4865-E2D0-4908-A29C-C2DDF86F1E82/3038",
-   "club": {
-    "name": "SV Hubertus Hitzhofen/Oberzell",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Florianweg 1",
-    "city": "85122 Hitzhofen",
-    "website": "https://hubertus-hitzhofen-oberzell.de",
-    "logo": "logos/324A6FE2-A275-4C76-9142-078703E1AA3F.webp"
    }
   },
   {
@@ -12782,6 +12545,243 @@
     "city": "63864 Glattbach",
     "website": "https://www.sg-glattbach.com",
     "logo": "logos/6BBD31A9-031B-4EC1-B5EE-658255FC14E8.webp"
+   }
+  },
+  {
+   "name": "SV Hubertus Hitzhofen-Oberzell",
+   "setlist": {
+    "updatedAt": "2026-10-13T09:28",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Bres, Klaudia",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 383,
+      "results": [
+       380,
+       386,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Mastrovalerio, Matteo",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 381.86,
+      "results": [
+       0,
+       0,
+       385,
+       381,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Fröhlich, Paul",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.71,
+      "results": [
+       0,
+       0,
+       377,
+       378,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Gruber, Kilian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 374,
+      "results": [
+       0,
+       374,
+       0,
+       367,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kral, Daniel",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 373.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Strubel, Nils",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 372.5,
+      "results": [
+       374,
+       371,
+       366,
+       367,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Paul, Sarah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367.71,
+      "results": [
+       0,
+       0,
+       355,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Negler, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367.5,
+      "results": [
+       366,
+       369,
+       361,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Ocker, Tabea",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Pirkl, Johannes",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366,
+      "results": [
+       366,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Klingler, Stephan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 364,
+      "results": [
+       365,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8A0D4865-E2D0-4908-A29C-C2DDF86F1E82/3038",
+   "club": {
+    "name": "SV Hubertus Hitzhofen/Oberzell",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Florianweg 1",
+    "city": "85122 Hitzhofen",
+    "website": "https://hubertus-hitzhofen-oberzell.de",
+    "logo": "logos/324A6FE2-A275-4C76-9142-078703E1AA3F.webp"
    }
   },
   {

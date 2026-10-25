@@ -22,8 +22,8 @@
   {
    "rank": 3,
    "team": "SV Haendorf",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
+   "singlePoints": "5:1",
+   "teamPoints": "4:0"
   },
   {
    "rank": 4,
@@ -33,20 +33,20 @@
   },
   {
    "rank": 5,
-   "team": "SB Süpplingen",
-   "singlePoints": "2:3",
-   "teamPoints": "0:2"
-  },
-  {
-   "rank": 6,
    "team": "PC Rendsburg",
    "singlePoints": "1:4",
    "teamPoints": "0:2"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "team": "SV Assel",
    "singlePoints": "3:7",
+   "teamPoints": "0:4"
+  },
+  {
+   "rank": 7,
+   "team": "SB Süpplingen",
+   "singlePoints": "2:4",
    "teamPoints": "0:4"
   },
   {
@@ -693,15 +693,15 @@
        "home": "SB Süpplingen",
        "away": "SV Haendorf",
        "homeRings": 0,
-       "awayRings": 0,
+       "awayRings": 91,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Tomicki, Martin",
           "total": 0,
           "series": [
            0,
@@ -712,7 +712,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Cordes, Timon",
           "total": 0,
           "series": [
            0,
@@ -728,7 +728,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Kirchmer, Kristof",
           "total": 0,
           "series": [
            0,
@@ -739,7 +739,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Varnhorn, Christoph",
           "total": 0,
           "series": [
            0,
@@ -755,7 +755,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Keune, Andreas",
           "total": 0,
           "series": [
            0,
@@ -766,7 +766,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Wingert, Marina",
           "total": 0,
           "series": [
            0,
@@ -782,7 +782,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Eib, Lars",
           "total": 0,
           "series": [
            0,
@@ -793,10 +793,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "von Döllen, Timo",
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
@@ -804,12 +804,12 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Stute, Kristina-Meike",
           "total": 0,
           "series": [
            0,
@@ -820,7 +820,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Wingert, Jennifer",
           "total": 0,
           "series": [
            0,
@@ -4742,7 +4742,7 @@
       "startAverage": 364.29,
       "results": [
        365,
-       0,
+       91,
        0,
        0,
        0,
@@ -5036,167 +5036,6 @@
    }
   },
   {
-   "name": "SB Süpplingen",
-   "setlist": {
-    "updatedAt": "2026-10-18T13:24",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Tomicki, Martin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.86,
-      "results": [
-       356,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Kirchmer, Kristof",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365.86,
-      "results": [
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Keune, Andreas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 364.43,
-      "results": [
-       356,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Eib, Lars",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 360,
-      "results": [
-       361,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Stute, Lisa-Frederike",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 349.14,
-      "results": [
-       359,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Stute, Kristina-Meike",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 348,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Klein, Christian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 345,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Müller, Fabian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Müller, Sebastian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DCEA5620-9ACD-4383-BCEE-D0A190A03EE8/3039",
-   "club": {
-    "name": "Schützenbrüderschaft Süpplingen v. 1952 e.V.",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Helmstedter Str. 4c",
-    "city": "38373 Süpplingen",
-    "website": null,
-    "logo": "logos/3FF0C892-0436-42E7-9EE7-294A857E5BC1.webp"
-   }
-  },
-  {
    "name": "PC Rendsburg",
    "setlist": {
     "updatedAt": "2026-10-24T19:03",
@@ -5484,6 +5323,167 @@
     "city": "21706 Drochtersen",
     "website": "https://sv-assel.de/",
     "logo": "logos/49758D50-153E-489A-B31A-1B8BA1731683.webp"
+   }
+  },
+  {
+   "name": "SB Süpplingen",
+   "setlist": {
+    "updatedAt": "2026-10-18T13:24",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Tomicki, Martin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.86,
+      "results": [
+       356,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Kirchmer, Kristof",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.86,
+      "results": [
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Keune, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 364.43,
+      "results": [
+       356,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Eib, Lars",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360,
+      "results": [
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Stute, Lisa-Frederike",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 349.14,
+      "results": [
+       359,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Stute, Kristina-Meike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 348,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Klein, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 345,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Müller, Fabian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Müller, Sebastian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DCEA5620-9ACD-4383-BCEE-D0A190A03EE8/3039",
+   "club": {
+    "name": "Schützenbrüderschaft Süpplingen v. 1952 e.V.",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Helmstedter Str. 4c",
+    "city": "38373 Süpplingen",
+    "website": null,
+    "logo": "logos/3FF0C892-0436-42E7-9EE7-294A857E5BC1.webp"
    }
   },
   {
