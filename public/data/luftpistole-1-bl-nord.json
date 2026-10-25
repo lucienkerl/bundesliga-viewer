@@ -22,14 +22,14 @@
   {
    "rank": 3,
    "team": "Sgi Oelsnitz/Vogtland",
-   "singlePoints": "10:5",
-   "teamPoints": "6:0"
+   "singlePoints": "11:6",
+   "teamPoints": "6:2"
   },
   {
    "rank": 4,
    "team": "PSV Olympia Berlin",
-   "singlePoints": "10:5",
-   "teamPoints": "4:2"
+   "singlePoints": "11:6",
+   "teamPoints": "6:2"
   },
   {
    "rank": 5,
@@ -3294,19 +3294,19 @@
        "time": "10:00",
        "home": "Sgi Oelsnitz/Vogtland",
        "away": "PSV Olympia Berlin",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 95,
+       "awayRings": 187,
+       "homePoints": 1,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Grießbach, Yannic",
-          "total": 0,
+          "total": 95,
           "series": [
-           0,
+           95,
            0,
            0,
            0
@@ -3315,16 +3315,16 @@
          },
          "away": {
           "name": "Obenaus, David",
-          "total": 0,
+          "total": 94,
           "series": [
-           0,
+           94,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
@@ -3396,9 +3396,9 @@
          },
          "away": {
           "name": "Kabisch, Leon",
-          "total": 0,
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
@@ -3406,7 +3406,7 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
@@ -10606,7 +10606,7 @@
        378,
        379,
        384,
-       0,
+       95,
        0,
        0,
        0,
@@ -10646,7 +10646,7 @@
        375,
        375,
        362,
-       0,
+       94,
        0,
        0,
        0,
@@ -10666,7 +10666,7 @@
        0,
        0,
        369,
-       0,
+       93,
        0,
        0,
        0,
@@ -10766,7 +10766,7 @@
        0,
        0,
        351,
-       0,
+       92,
        0,
        0,
        0,
@@ -10883,7 +10883,7 @@
        0,
        0,
        376,
-       0,
+       94,
        0,
        0,
        0,
@@ -10983,7 +10983,7 @@
        368,
        367,
        374,
-       0,
+       93,
        0,
        0,
        0,
@@ -11023,7 +11023,7 @@
        363,
        369,
        365,
-       0,
+       96,
        0,
        0,
        0,
