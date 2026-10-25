@@ -1966,7 +1966,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Hofele, Julia",
           "total": 0,
           "series": [
            0,
@@ -1993,7 +1993,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Rosteck, Charlotte",
           "total": 0,
           "series": [
            0,
@@ -2020,7 +2020,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Kutzer, Barbara",
           "total": 0,
           "series": [
            0,
@@ -2047,7 +2047,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Grabovac, Adrian",
           "total": 0,
           "series": [
            0,
@@ -2074,7 +2074,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Hoefener, Henryk",
           "total": 0,
           "series": [
            0,
@@ -11992,7 +11992,7 @@
       "rank": 9,
       "name": "Grabovac, Adrian",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 349,
       "results": [
        350,
