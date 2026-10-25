@@ -15,39 +15,39 @@
   },
   {
    "rank": 2,
-   "team": "SV Tell Rückingen",
-   "singlePoints": "10:5",
-   "teamPoints": "4:2"
-  },
-  {
-   "rank": 3,
    "team": "SSV Bad Westernkotten",
    "singlePoints": "10:5",
    "teamPoints": "4:2"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "team": "SV Hettenhausen",
-   "singlePoints": "7:8",
+   "singlePoints": "9:6",
+   "teamPoints": "4:2"
+  },
+  {
+   "rank": 4,
+   "team": "SV Tell Rückingen",
+   "singlePoints": "8:7",
    "teamPoints": "4:2"
   },
   {
    "rank": 5,
-   "team": "Polizei SC Dinslaken",
-   "singlePoints": "5:5",
-   "teamPoints": "2:2"
-  },
-  {
-   "rank": 6,
    "team": "SV Blankenheim",
    "singlePoints": "8:7",
    "teamPoints": "2:4"
   },
   {
+   "rank": 6,
+   "team": "Polizei SC Dinslaken",
+   "singlePoints": "7:8",
+   "teamPoints": "2:4"
+  },
+  {
    "rank": 7,
    "team": "SV Nieder-Florstadt",
-   "singlePoints": "3:7",
-   "teamPoints": "0:4"
+   "singlePoints": "6:9",
+   "teamPoints": "2:4"
   },
   {
    "rank": 8,
@@ -1458,33 +1458,33 @@
        "time": "13:00",
        "home": "SV Tell Rückingen",
        "away": "SV Hettenhausen",
-       "homeRings": 813,
-       "awayRings": 531,
-       "homePoints": 5,
-       "awayPoints": 0,
+       "homeRings": 1812,
+       "awayRings": 1785,
+       "homePoints": 3,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Borgmann, Liv",
-          "total": 93,
+          "total": 373,
           "series": [
            93,
-           0,
-           0,
-           0
+           96,
+           95,
+           89
           ],
           "shootOff": null
          },
          "away": {
           "name": "Rulischek, Kai",
-          "total": 86,
+          "total": 362,
           "series": [
            86,
-           0,
-           0,
-           0
+           96,
+           91,
+           89
           ],
           "shootOff": null
          },
@@ -1495,23 +1495,23 @@
          "position": 2,
          "home": {
           "name": "Chwalek, Jens",
-          "total": 179,
+          "total": 357,
           "series": [
            89,
            90,
-           0,
-           0
+           88,
+           90
           ],
           "shootOff": null
          },
          "away": {
           "name": "Grohmann, Stefan",
-          "total": 83,
+          "total": 345,
           "series": [
            83,
-           0,
-           0,
-           0
+           85,
+           90,
+           87
           ],
           "shootOff": null
          },
@@ -1522,50 +1522,50 @@
          "position": 3,
          "home": {
           "name": "Harbach, Thomas",
-          "total": 180,
+          "total": 359,
           "series": [
            90,
            90,
-           0,
-           0
+           90,
+           89
           ],
           "shootOff": null
          },
          "away": {
           "name": "Trippel, Stephan",
-          "total": 91,
+          "total": 360,
           "series": [
            91,
-           0,
-           0,
-           0
+           89,
+           92,
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Borgmann, Oliver",
-          "total": 94,
+          "total": 370,
           "series": [
            94,
-           0,
-           0,
-           0
+           93,
+           93,
+           90
           ],
           "shootOff": null
          },
          "away": {
           "name": "Bauer, Stefan",
-          "total": 89,
+          "total": 359,
           "series": [
            89,
-           0,
-           0,
-           0
+           92,
+           93,
+           85
           ],
           "shootOff": null
          },
@@ -1576,28 +1576,28 @@
          "position": 5,
          "home": {
           "name": "Joswig, Yvo",
-          "total": 267,
+          "total": 353,
           "series": [
            84,
            92,
            91,
-           0
+           86
           ],
           "shootOff": null
          },
          "away": {
           "name": "Heil, Ulrich",
-          "total": 182,
+          "total": 359,
           "series": [
            94,
            88,
-           0,
-           0
+           87,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       }
@@ -1764,146 +1764,146 @@
        "time": "13:00",
        "home": "Polizei SC Dinslaken",
        "away": "SV Nieder-Florstadt",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1797,
+       "awayRings": 1830,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Thünemann, Florian",
+          "total": 374,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           94,
+           96,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Sonsalla, Maximilian",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           95,
+           92,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Bruns, Eike",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           91,
+           91,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lexa, Roman",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           89,
+           87
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Klump, Sascha",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           89,
+           90,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lappessen, Leo",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           94,
+           93,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Freise, Stefan",
+          "total": 345,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           86,
+           81,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kraft, Wolfgang",
+          "total": 361,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           93,
+           90,
+           88
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Korte, Andreas",
+          "total": 342,
           "series": [
-           0,
-           0,
-           0,
-           0
+           85,
+           89,
+           86,
+           82
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Jerke, Matthias",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           91,
+           87,
+           90
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4547,151 +4547,6 @@
    }
   },
   {
-   "name": "SV Tell Rückingen",
-   "setlist": {
-    "updatedAt": "2026-10-15T10:47",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Borgmann, Liv",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 372.5,
-      "results": [
-       373,
-       372,
-       284,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Chwalek, Jens",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368,
-      "results": [
-       371,
-       365,
-       357,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Harbach, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.5,
-      "results": [
-       368,
-       365,
-       359,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Borgmann, Oliver",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359,
-      "results": [
-       352,
-       366,
-       280,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Joswig, Yvo",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 351.14,
-      "results": [
-       0,
-       0,
-       353,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Borgmann, Leonhard",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 332.5,
-      "results": [
-       337,
-       328,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Sczeburek, Frank",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Schaaf, Wilhelm",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E284CD1D-C18B-423D-99DB-FAB7DE058F48/3041",
-   "club": {
-    "name": "SV Tell Rückingen",
-    "federation": "Hessischer Schützenverband",
-    "street": "Hauptstraße 2",
-    "city": "63526 Erlensee",
-    "website": "https://tell-rueckingen.de/",
-    "logo": "logos/0C4322CC-9D7D-4B27-98F8-24E123D3FB80.webp"
-   }
-  },
-  {
    "name": "SSV Bad Westernkotten",
    "setlist": {
     "updatedAt": "2026-10-15T10:47",
@@ -4962,7 +4817,7 @@
       "results": [
        359,
        354,
-       272,
+       360,
        0,
        0,
        0,
@@ -4978,7 +4833,7 @@
       "results": [
        353,
        359,
-       274,
+       359,
        0,
        0,
        0,
@@ -5021,7 +4876,7 @@
       "rank": 8,
       "name": "Heil, Ulrich",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -5046,20 +4901,20 @@
    }
   },
   {
-   "name": "Polizei SC Dinslaken",
+   "name": "SV Tell Rückingen",
    "setlist": {
-    "updatedAt": "2026-10-15T10:48",
+    "updatedAt": "2026-10-15T10:47",
     "entries": [
      {
       "rank": 1,
-      "name": "Thünemann, Florian",
+      "name": "Borgmann, Liv",
       "foreign": null,
-      "status": "E",
-      "startAverage": 369.4,
+      "status": "S",
+      "startAverage": 372.5,
       "results": [
-       0,
-       0,
-       0,
+       373,
+       372,
+       373,
        0,
        0,
        0,
@@ -5068,14 +4923,14 @@
      },
      {
       "rank": 2,
-      "name": "Bruns, Eike",
+      "name": "Chwalek, Jens",
       "foreign": null,
       "status": "S",
-      "startAverage": 369,
+      "startAverage": 368,
       "results": [
-       368,
-       370,
-       0,
+       371,
+       365,
+       357,
        0,
        0,
        0,
@@ -5084,14 +4939,14 @@
      },
      {
       "rank": 3,
-      "name": "Klump, Sascha",
+      "name": "Harbach, Thomas",
       "foreign": null,
       "status": "S",
-      "startAverage": 368,
+      "startAverage": 366.5,
       "results": [
-       373,
-       363,
-       0,
+       368,
+       365,
+       359,
        0,
        0,
        0,
@@ -5100,14 +4955,14 @@
      },
      {
       "rank": 4,
-      "name": "Sersch, Philipp",
+      "name": "Borgmann, Oliver",
       "foreign": null,
-      "status": "E",
-      "startAverage": 365,
+      "status": "S",
+      "startAverage": 359,
       "results": [
-       0,
-       0,
-       0,
+       352,
+       366,
+       370,
        0,
        0,
        0,
@@ -5116,14 +4971,14 @@
      },
      {
       "rank": 5,
-      "name": "Beuth, Dirk",
+      "name": "Joswig, Yvo",
       "foreign": null,
-      "status": "S",
-      "startAverage": 356,
+      "status": "E",
+      "startAverage": 351.14,
       "results": [
-       349,
-       363,
        0,
+       0,
+       353,
        0,
        0,
        0,
@@ -5132,13 +4987,13 @@
      },
      {
       "rank": 6,
-      "name": "Freise, Stefan",
+      "name": "Borgmann, Leonhard",
       "foreign": null,
       "status": "S",
-      "startAverage": 351,
+      "startAverage": 332.5,
       "results": [
-       349,
-       353,
+       337,
+       328,
        0,
        0,
        0,
@@ -5148,10 +5003,10 @@
      },
      {
       "rank": 7,
-      "name": "Rühl, Marion",
+      "name": "Sczeburek, Frank",
       "foreign": null,
       "status": "E",
-      "startAverage": 349.5,
+      "startAverage": 0,
       "results": [
        0,
        0,
@@ -5164,71 +5019,7 @@
      },
      {
       "rank": 8,
-      "name": "Koch, Kirstin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 349,
-      "results": [
-       355,
-       343,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Joachim, Dennis",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Korte, Andreas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "König, Sascha",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Decker, Stefan",
+      "name": "Schaaf, Wilhelm",
       "foreign": null,
       "status": "E",
       "startAverage": 0,
@@ -5244,14 +5035,14 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/201EF92E-666E-4DA5-B928-8E21E8D04AFE/3041",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E284CD1D-C18B-423D-99DB-FAB7DE058F48/3041",
    "club": {
-    "name": "Polizei SC Dinslaken e.V. - SpSch",
-    "federation": "Rheinischer Schützenbund",
-    "street": "Am Stadtbad 1",
-    "city": "46537 Dinslaken",
-    "website": "https://www.pssc-dinslaken.de",
-    "logo": "logos/F3E078E5-8DF3-42B2-95C3-D9F102F9094B.webp"
+    "name": "SV Tell Rückingen",
+    "federation": "Hessischer Schützenverband",
+    "street": "Hauptstraße 2",
+    "city": "63526 Erlensee",
+    "website": "https://tell-rueckingen.de/",
+    "logo": "logos/0C4322CC-9D7D-4B27-98F8-24E123D3FB80.webp"
    }
   },
   {
@@ -5416,6 +5207,215 @@
    }
   },
   {
+   "name": "Polizei SC Dinslaken",
+   "setlist": {
+    "updatedAt": "2026-10-15T10:48",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Thünemann, Florian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 369.4,
+      "results": [
+       0,
+       0,
+       374,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Bruns, Eike",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       368,
+       370,
+       370,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Klump, Sascha",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368,
+      "results": [
+       373,
+       363,
+       366,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Sersch, Philipp",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 365,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Beuth, Dirk",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 356,
+      "results": [
+       349,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Freise, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 351,
+      "results": [
+       349,
+       353,
+       345,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Rühl, Marion",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 349.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Koch, Kirstin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 349,
+      "results": [
+       355,
+       343,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Joachim, Dennis",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Korte, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       342,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "König, Sascha",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Decker, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/201EF92E-666E-4DA5-B928-8E21E8D04AFE/3041",
+   "club": {
+    "name": "Polizei SC Dinslaken e.V. - SpSch",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Am Stadtbad 1",
+    "city": "46537 Dinslaken",
+    "website": "https://www.pssc-dinslaken.de",
+    "logo": "logos/F3E078E5-8DF3-42B2-95C3-D9F102F9094B.webp"
+   }
+  },
+  {
    "name": "SV Nieder-Florstadt",
    "setlist": {
     "updatedAt": "2026-10-15T10:48",
@@ -5429,7 +5429,7 @@
       "results": [
        374,
        378,
-       0,
+       372,
        0,
        0,
        0,
@@ -5445,7 +5445,7 @@
       "results": [
        0,
        0,
-       0,
+       362,
        0,
        0,
        0,
@@ -5461,7 +5461,7 @@
       "results": [
        369,
        362,
-       0,
+       377,
        0,
        0,
        0,
@@ -5493,7 +5493,7 @@
       "results": [
        352,
        366,
-       0,
+       361,
        0,
        0,
        0,
@@ -5525,7 +5525,7 @@
       "results": [
        357,
        357,
-       0,
+       358,
        0,
        0,
        0,
