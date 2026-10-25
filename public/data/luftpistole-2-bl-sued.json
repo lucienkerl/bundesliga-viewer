@@ -16,7 +16,7 @@
   {
    "rank": 2,
    "team": "Kgl. priv. FSG Bad Tölz",
-   "singlePoints": "11:8",
+   "singlePoints": "10:9",
    "teamPoints": "6:2"
   },
   {
@@ -40,13 +40,13 @@
   {
    "rank": 6,
    "team": "SV Pfeifferhütte",
-   "singlePoints": "10:9",
+   "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
    "rank": 7,
    "team": "SV Waldkirch",
-   "singlePoints": "9:10",
+   "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
@@ -70,7 +70,7 @@
   {
    "rank": 11,
    "team": "Wildbachschützen Landshut",
-   "singlePoints": "9:10",
+   "singlePoints": "10:9",
    "teamPoints": "2:6"
   },
   {
@@ -3176,21 +3176,21 @@
        "time": "14:45",
        "home": "Wildbachschützen Landshut",
        "away": "Kgl. priv. FSG Bad Tölz",
-       "homeRings": 461,
-       "awayRings": 560,
-       "homePoints": 1,
-       "awayPoints": 3,
+       "homeRings": 1025,
+       "awayRings": 922,
+       "homePoints": 2,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Kronwitter, Alexander",
-          "total": 95,
+          "total": 283,
           "series": [
            95,
-           0,
-           0,
+           96,
+           92,
            0
           ],
           "shootOff": null
@@ -3213,10 +3213,10 @@
          "position": 2,
          "home": {
           "name": "Wimmer, Monika",
-          "total": 89,
+          "total": 183,
           "series": [
            89,
-           0,
+           94,
            0,
            0
           ],
@@ -3224,26 +3224,26 @@
          },
          "away": {
           "name": "Müller, Georg",
-          "total": 95,
+          "total": 183,
           "series": [
            95,
-           0,
+           88,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 1
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Ecker, Reinhard",
-          "total": 92,
+          "total": 185,
           "series": [
            92,
-           0,
+           93,
            0,
            0
           ],
@@ -3251,11 +3251,11 @@
          },
          "away": {
           "name": "Schwaiger, Markus",
-          "total": 187,
+          "total": 277,
           "series": [
            96,
            91,
-           0,
+           90,
            0
           ],
           "shootOff": null
@@ -3267,10 +3267,10 @@
          "position": 4,
          "home": {
           "name": "Liedel, Andreas",
-          "total": 93,
+          "total": 185,
           "series": [
            93,
-           0,
+           92,
            0,
            0
           ],
@@ -3278,37 +3278,10 @@
          },
          "away": {
           "name": "Bruckmeier, Barbara",
-          "total": 93,
+          "total": 187,
           "series": [
            93,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 0
-        },
-        {
-         "position": 5,
-         "home": {
-          "name": "Unterholzner, Markus",
-          "total": 92,
-          "series": [
-           92,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Bertl, Michael",
-          "total": 96,
-          "series": [
-           96,
-           0,
+           94,
            0,
            0
           ],
@@ -3316,6 +3289,33 @@
          },
          "homePoint": 0,
          "awayPoint": 1
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Unterholzner, Markus",
+          "total": 189,
+          "series": [
+           92,
+           97,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Bertl, Michael",
+          "total": 186,
+          "series": [
+           96,
+           90,
+           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
         }
        ]
       },
@@ -3482,9 +3482,9 @@
        "time": "14:45",
        "home": "SV Waldkirch",
        "away": "SV Pfeifferhütte",
-       "homeRings": 452,
-       "awayRings": 459,
-       "homePoints": 1,
+       "homeRings": 1081,
+       "awayRings": 1100,
+       "homePoints": 2,
        "awayPoints": 3,
        "played": true,
        "pairs": [
@@ -3492,49 +3492,49 @@
          "position": 1,
          "home": {
           "name": "Rogg, Simon",
-          "total": 90,
+          "total": 269,
           "series": [
            90,
-           0,
-           0,
+           93,
+           86,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Högner, Udo",
-          "total": 92,
+          "total": 184,
           "series": [
            92,
-           0,
+           92,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
           "name": "Schulz, Sebastian",
-          "total": 95,
+          "total": 285,
           "series": [
            95,
-           0,
-           0,
+           95,
+           95,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kärner, Rene",
-          "total": 93,
+          "total": 279,
           "series": [
            93,
-           0,
-           0,
+           91,
+           95,
            0
           ],
           "shootOff": null
@@ -3546,10 +3546,10 @@
          "position": 3,
          "home": {
           "name": "Schrotter, Marie",
-          "total": 89,
+          "total": 178,
           "series": [
            89,
-           0,
+           89,
            0,
            0
           ],
@@ -3557,11 +3557,11 @@
          },
          "away": {
           "name": "Otto, Lukas",
-          "total": 92,
+          "total": 279,
           "series": [
            92,
-           0,
-           0,
+           95,
+           92,
            0
           ],
           "shootOff": null
@@ -3573,10 +3573,10 @@
          "position": 4,
          "home": {
           "name": "Lück, Sophia",
-          "total": 89,
+          "total": 174,
           "series": [
            89,
-           0,
+           85,
            0,
            0
           ],
@@ -3584,26 +3584,26 @@
          },
          "away": {
           "name": "Kreußel, Peter",
-          "total": 89,
+          "total": 177,
           "series": [
            89,
-           0,
+           88,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Schlahsa, Andreas",
-          "total": 89,
+          "total": 175,
           "series": [
            89,
-           0,
+           86,
            0,
            0
           ],
@@ -3611,10 +3611,10 @@
          },
          "away": {
           "name": "Backmeroff, Matthias",
-          "total": 93,
+          "total": 181,
           "series": [
            93,
-           0,
+           88,
            0,
            0
           ],
@@ -10459,7 +10459,7 @@
        373,
        370,
        369,
-       95,
+       183,
        0,
        0,
        0,
@@ -10479,7 +10479,7 @@
        361,
        371,
        375,
-       187,
+       277,
        0,
        0,
        0,
@@ -10499,7 +10499,7 @@
        366,
        354,
        356,
-       93,
+       187,
        0,
        0,
        0,
@@ -10519,7 +10519,7 @@
        358,
        358,
        364,
-       96,
+       186,
        0,
        0,
        0,
@@ -11187,7 +11187,7 @@
        373,
        368,
        371,
-       92,
+       184,
        0,
        0,
        0,
@@ -11207,7 +11207,7 @@
        371,
        370,
        373,
-       93,
+       279,
        0,
        0,
        0,
@@ -11227,7 +11227,7 @@
        367,
        364,
        359,
-       92,
+       279,
        0,
        0,
        0,
@@ -11247,7 +11247,7 @@
        363,
        359,
        344,
-       89,
+       177,
        0,
        0,
        0,
@@ -11367,7 +11367,7 @@
        351,
        356,
        362,
-       93,
+       181,
        0,
        0,
        0,
@@ -11444,7 +11444,7 @@
        370,
        370,
        368,
-       90,
+       269,
        0,
        0,
        0,
@@ -11464,7 +11464,7 @@
        369,
        370,
        366,
-       95,
+       285,
        0,
        0,
        0,
@@ -11484,7 +11484,7 @@
        365,
        363,
        357,
-       89,
+       178,
        0,
        0,
        0,
@@ -11524,7 +11524,7 @@
        361,
        353,
        361,
-       89,
+       174,
        0,
        0,
        0,
@@ -11564,7 +11564,7 @@
        0,
        0,
        362,
-       89,
+       175,
        0,
        0,
        0,
@@ -12272,7 +12272,7 @@
        374,
        376,
        376,
-       191,
+       283,
        0,
        0,
        0,
@@ -12332,7 +12332,7 @@
        360,
        371,
        365,
-       89,
+       278,
        0,
        0,
        0,
@@ -12352,7 +12352,7 @@
        365,
        365,
        361,
-       92,
+       275,
        0,
        0,
        0,
@@ -12372,7 +12372,7 @@
        368,
        354,
        369,
-       93,
+       185,
        0,
        0,
        0,
@@ -12392,7 +12392,7 @@
        360,
        359,
        360,
-       92,
+       282,
        0,
        0,
        0,
