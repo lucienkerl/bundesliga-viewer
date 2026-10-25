@@ -3451,7 +3451,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Aranowski, Philip",
           "total": 0,
           "series": [
            0,
@@ -3478,7 +3478,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Rohbani, Cedric",
           "total": 0,
           "series": [
            0,
@@ -3505,7 +3505,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Oehns, Sarah",
           "total": 0,
           "series": [
            0,
@@ -3532,7 +3532,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Oehns, Christian",
           "total": 0,
           "series": [
            0,
@@ -3559,7 +3559,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Brabender, Christian",
           "total": 0,
           "series": [
            0,
@@ -3599,7 +3599,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Nooij, Sander",
           "total": 0,
           "series": [
            0,
@@ -3626,7 +3626,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Stürken, Marcel",
           "total": 0,
           "series": [
            0,
@@ -3653,7 +3653,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Grünhoff, Dennis",
           "total": 0,
           "series": [
            0,
@@ -3680,7 +3680,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Lüken, Thomas",
           "total": 0,
           "series": [
            0,
@@ -3707,7 +3707,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Ritter, Maik",
           "total": 0,
           "series": [
            0,
@@ -12005,7 +12005,7 @@
       "rank": 6,
       "name": "Ritter, Maik",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 363,
       "results": [
        0,
@@ -12933,7 +12933,7 @@
       "rank": 8,
       "name": "Oehns, Christian",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 366,
       "results": [
        0,

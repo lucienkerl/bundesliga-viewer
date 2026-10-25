@@ -21,27 +21,27 @@
   },
   {
    "rank": 3,
+   "team": "SV Anderlingen",
+   "singlePoints": "3:2",
+   "teamPoints": "2:0"
+  },
+  {
+   "rank": 4,
    "team": "PC Rendsburg",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
-   "rank": 4,
-   "team": "SV Anderlingen",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
    "rank": 5,
-   "team": "SB Süpplingen",
+   "team": "SV Haendorf",
    "singlePoints": "0:0",
    "teamPoints": "0:0"
   },
   {
    "rank": 6,
-   "team": "SV Haendorf",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "SB Süpplingen",
+   "singlePoints": "2:3",
+   "teamPoints": "0:2"
   },
   {
    "rank": 7,
@@ -74,145 +74,145 @@
        "time": "10:00",
        "home": "SV Anderlingen",
        "away": "SB Süpplingen",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1815,
+       "awayRings": 1801,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brandt, Christian",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           96,
+           93,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Tomicki, Martin",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           88,
+           85,
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brandt, Ole Mattis",
+          "total": 361,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           90,
+           89,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kirchmer, Kristof",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           93,
+           94,
+           88
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Tomforde, Jan-Hinrich",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           90,
+           94,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Keune, Andreas",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           87,
+           93,
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brandt, Annelie",
+          "total": 352,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           89,
+           88,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Eib, Lars",
+          "total": 361,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           92,
+           92,
+           89
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brandt, Paulina",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           92,
+           94,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Stute, Lisa-Frederike",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           87,
+           94,
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4682,6 +4682,151 @@
    }
   },
   {
+   "name": "SV Anderlingen",
+   "setlist": {
+    "updatedAt": "2026-10-23T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Brandt, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Brandt, Ole Mattis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.25,
+      "results": [
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Tomforde, Jan-Hinrich",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.86,
+      "results": [
+       364,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Martin, Laura",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 362,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Brandt, Annelie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358.86,
+      "results": [
+       352,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Brandt, Paulina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 357.83,
+      "results": [
+       367,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Delventhal, Sven",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 348.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Jakobsen, Friedhelm",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 338.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DF5D5E21-7B7B-4719-9609-DD84FAB1F96C/3039",
+   "club": {
+    "name": "Schützenverein Anderlingen u. Umgeb. e. V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Hembecker Weg 1",
+    "city": "27446 Anderlingen",
+    "website": null,
+    "logo": null
+   }
+  },
+  {
    "name": "PC Rendsburg",
    "setlist": {
     "updatedAt": "2026-10-24T19:03",
@@ -4808,312 +4953,6 @@
     "city": "24768 Rendsburg",
     "website": null,
     "logo": null
-   }
-  },
-  {
-   "name": "SV Anderlingen",
-   "setlist": {
-    "updatedAt": "2026-10-23T17:21",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Brandt, Christian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Brandt, Ole Mattis",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Tomforde, Jan-Hinrich",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Martin, Laura",
-      "foreign": null,
-      "status": "",
-      "startAverage": 362,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Brandt, Annelie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Brandt, Paulina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 357.83,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Delventhal, Sven",
-      "foreign": null,
-      "status": "",
-      "startAverage": 348.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Jakobsen, Friedhelm",
-      "foreign": null,
-      "status": "",
-      "startAverage": 338.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DF5D5E21-7B7B-4719-9609-DD84FAB1F96C/3039",
-   "club": {
-    "name": "Schützenverein Anderlingen u. Umgeb. e. V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Hembecker Weg 1",
-    "city": "27446 Anderlingen",
-    "website": null,
-    "logo": null
-   }
-  },
-  {
-   "name": "SB Süpplingen",
-   "setlist": {
-    "updatedAt": "2026-10-18T13:24",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Tomicki, Martin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Kirchmer, Kristof",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Keune, Andreas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 364.43,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Eib, Lars",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 360,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Stute, Lisa-Frederike",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 349.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Stute, Kristina-Meike",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 348,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Klein, Christian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 345,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Müller, Fabian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Müller, Sebastian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DCEA5620-9ACD-4383-BCEE-D0A190A03EE8/3039",
-   "club": {
-    "name": "Schützenbrüderschaft Süpplingen v. 1952 e.V.",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Helmstedter Str. 4c",
-    "city": "38373 Süpplingen",
-    "website": null,
-    "logo": "logos/3FF0C892-0436-42E7-9EE7-294A857E5BC1.webp"
    }
   },
   {
@@ -5323,6 +5162,167 @@
     "city": "27330 Asendorf",
     "website": "https://www.SV-Haendorf.de",
     "logo": "logos/DB2B5D86-3BB3-4A07-8DA8-88DD19AE8C95.webp"
+   }
+  },
+  {
+   "name": "SB Süpplingen",
+   "setlist": {
+    "updatedAt": "2026-10-18T13:24",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Tomicki, Martin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.86,
+      "results": [
+       356,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Kirchmer, Kristof",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.86,
+      "results": [
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Keune, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 364.43,
+      "results": [
+       356,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Eib, Lars",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360,
+      "results": [
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Stute, Lisa-Frederike",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 349.14,
+      "results": [
+       359,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Stute, Kristina-Meike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 348,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Klein, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 345,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Müller, Fabian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Müller, Sebastian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DCEA5620-9ACD-4383-BCEE-D0A190A03EE8/3039",
+   "club": {
+    "name": "Schützenbrüderschaft Süpplingen v. 1952 e.V.",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Helmstedter Str. 4c",
+    "city": "38373 Süpplingen",
+    "website": null,
+    "logo": "logos/3FF0C892-0436-42E7-9EE7-294A857E5BC1.webp"
    }
   },
   {

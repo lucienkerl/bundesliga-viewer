@@ -10,61 +10,61 @@
   {
    "rank": 1,
    "team": "SV Waldkirch",
-   "singlePoints": "8:4",
+   "singlePoints": "9:5",
    "teamPoints": "6:0"
   },
   {
    "rank": 2,
-   "team": "Wildbachschützen Landshut",
+   "team": "Hubertus Rettenbach",
    "singlePoints": "9:6",
-   "teamPoints": "4:2"
+   "teamPoints": "6:0"
   },
   {
    "rank": 3,
-   "team": "Hubertus Rettenbach",
-   "singlePoints": "8:7",
-   "teamPoints": "4:2"
-  },
-  {
-   "rank": 4,
    "team": "Bogenschützen Grund",
    "singlePoints": "6:4",
    "teamPoints": "2:2"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "team": "Bund München",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "team": "SG Auerhahn Steinberg",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "team": "SV Pfeifferhütte",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "team": "Kgl. priv. FSG Bad Tölz",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "team": "HSG München 2",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
+   "rank": 9,
+   "team": "Wildbachschützen Landshut",
+   "singlePoints": "8:7",
+   "teamPoints": "2:4"
+  },
+  {
    "rank": 10,
    "team": "SG Edelweiß Scheuring 2",
-   "singlePoints": "5:7",
+   "singlePoints": "6:8",
    "teamPoints": "2:4"
   },
   {
@@ -2252,8 +2252,8 @@
        "time": "11:00",
        "home": "Hubertus Rettenbach",
        "away": "Wildbachschützen Landshut",
-       "homeRings": 461,
-       "awayRings": 459,
+       "homeRings": 1102,
+       "awayRings": 1197,
        "homePoints": 2,
        "awayPoints": 3,
        "played": true,
@@ -2262,22 +2262,22 @@
          "position": 1,
          "home": {
           "name": "Seitz, Johannes",
-          "total": 93,
+          "total": 279,
           "series": [
            93,
-           0,
-           0,
+           93,
+           93,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kronwitter, Alexander",
-          "total": 94,
+          "total": 282,
           "series": [
            94,
-           0,
-           0,
+           94,
+           94,
            0
           ],
           "shootOff": null
@@ -2289,10 +2289,10 @@
          "position": 2,
          "home": {
           "name": "Diepelt, Christian",
-          "total": 93,
+          "total": 182,
           "series": [
            93,
-           0,
+           89,
            0,
            0
           ],
@@ -2300,10 +2300,10 @@
          },
          "away": {
           "name": "Wimmer, Monika",
-          "total": 88,
+          "total": 180,
           "series": [
            88,
-           0,
+           92,
            0,
            0
           ],
@@ -2316,10 +2316,10 @@
          "position": 3,
          "home": {
           "name": "Holzner, Lena",
-          "total": 93,
+          "total": 188,
           "series": [
            93,
-           0,
+           95,
            0,
            0
           ],
@@ -2327,26 +2327,26 @@
          },
          "away": {
           "name": "Ecker, Reinhard",
-          "total": 89,
+          "total": 270,
           "series": [
            89,
-           0,
-           0,
+           90,
+           91,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Niedermaier, Maria",
-          "total": 93,
+          "total": 182,
           "series": [
            93,
-           0,
+           89,
            0,
            0
           ],
@@ -2354,11 +2354,11 @@
          },
          "away": {
           "name": "Liedel, Andreas",
-          "total": 95,
+          "total": 280,
           "series": [
            95,
-           0,
-           0,
+           94,
+           91,
            0
           ],
           "shootOff": null
@@ -2370,28 +2370,28 @@
          "position": 5,
          "home": {
           "name": "Meisinger, Matthias",
-          "total": 89,
+          "total": 271,
           "series": [
            89,
-           0,
-           0,
+           91,
+           91,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Unterholzner, Markus",
-          "total": 93,
+          "total": 185,
           "series": [
            93,
-           0,
+           92,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         }
        ]
       },
@@ -2558,19 +2558,19 @@
        "time": "11:00",
        "home": "SG Edelweiß Scheuring 2",
        "away": "SV Waldkirch",
-       "homeRings": 95,
-       "awayRings": 182,
-       "homePoints": 1,
-       "awayPoints": 1,
+       "homeRings": 460,
+       "awayRings": 457,
+       "homePoints": 2,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Maisterl, Fabian",
-          "total": 0,
+          "total": 88,
           "series": [
-           0,
+           88,
            0,
            0,
            0
@@ -2579,9 +2579,9 @@
          },
          "away": {
           "name": "Rogg, Simon",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -2589,15 +2589,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Bösl, Michaela",
-          "total": 0,
+          "total": 94,
           "series": [
-           0,
+           94,
            0,
            0,
            0
@@ -2616,15 +2616,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 1
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Ranzinger, Thomas",
-          "total": 0,
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -2633,25 +2633,25 @@
          },
          "away": {
           "name": "Schrotter, Marie",
-          "total": 0,
+          "total": 87,
           "series": [
-           0,
+           87,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Balg, Henrik",
-          "total": 0,
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
@@ -2660,9 +2660,9 @@
          },
          "away": {
           "name": "Lück, Sophia",
-          "total": 0,
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -2670,7 +2670,7 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
@@ -10301,7 +10301,7 @@
       "results": [
        370,
        370,
-       96,
+       190,
        0,
        0,
        0,
@@ -10321,7 +10321,7 @@
       "results": [
        369,
        370,
-       94,
+       274,
        0,
        0,
        0,
@@ -10341,7 +10341,7 @@
       "results": [
        365,
        363,
-       87,
+       174,
        0,
        0,
        0,
@@ -10381,7 +10381,7 @@
       "results": [
        361,
        353,
-       92,
+       186,
        0,
        0,
        0,
@@ -10421,7 +10421,7 @@
       "results": [
        0,
        0,
-       88,
+       269,
        0,
        0,
        0,
@@ -10445,223 +10445,6 @@
    }
   },
   {
-   "name": "Wildbachschützen Landshut",
-   "setlist": {
-    "updatedAt": "2026-10-14T22:49",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kronwitter, Alexander",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375,
-      "results": [
-       374,
-       376,
-       94,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Jost, Celina Kathleen",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 371,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Lück, Christian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 368.56,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Wimmer, Monika",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365.5,
-      "results": [
-       360,
-       371,
-       88,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Ecker, Reinhard",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365,
-      "results": [
-       365,
-       365,
-       89,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Liedel, Andreas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 361,
-      "results": [
-       368,
-       354,
-       95,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Unterholzner, Markus",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359.5,
-      "results": [
-       360,
-       359,
-       93,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Büchl, Dana",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 359,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Wendl, Harald",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 344,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Kronwitter, Walter",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F6FCBF39-0F22-49C7-AF02-D64F6567EAB3/3037",
-   "club": {
-    "name": "Wildbachschützen Landshut e.V.",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Wildbachstrasse 15",
-    "city": "84036 Landshut",
-    "website": "https://www.wildbachschuetzen-landshut.de",
-    "logo": "logos/9636897C-DC5C-494F-A092-AA484BF7B787.webp"
-   }
-  },
-  {
    "name": "Hubertus Rettenbach",
    "setlist": {
     "updatedAt": "2026-10-12T22:30",
@@ -10675,7 +10458,7 @@
       "results": [
        381,
        58,
-       186,
+       279,
        0,
        0,
        0,
@@ -10695,7 +10478,7 @@
       "results": [
        374,
        364,
-       93,
+       276,
        0,
        0,
        0,
@@ -10755,7 +10538,7 @@
       "results": [
        0,
        0,
-       93,
+       188,
        0,
        0,
        0,
@@ -10775,7 +10558,7 @@
       "results": [
        365,
        364,
-       93,
+       275,
        0,
        0,
        0,
@@ -10795,7 +10578,7 @@
       "results": [
        361,
        367,
-       89,
+       271,
        0,
        0,
        0,
@@ -12041,6 +11824,223 @@
    }
   },
   {
+   "name": "Wildbachschützen Landshut",
+   "setlist": {
+    "updatedAt": "2026-10-14T22:49",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kronwitter, Alexander",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       374,
+       376,
+       282,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Jost, Celina Kathleen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 371,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Lück, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 368.56,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Wimmer, Monika",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.5,
+      "results": [
+       360,
+       371,
+       271,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Ecker, Reinhard",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365,
+      "results": [
+       365,
+       365,
+       270,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Liedel, Andreas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361,
+      "results": [
+       368,
+       354,
+       280,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Unterholzner, Markus",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359.5,
+      "results": [
+       360,
+       359,
+       275,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Büchl, Dana",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Wendl, Harald",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 344,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Kronwitter, Walter",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F6FCBF39-0F22-49C7-AF02-D64F6567EAB3/3037",
+   "club": {
+    "name": "Wildbachschützen Landshut e.V.",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Wildbachstrasse 15",
+    "city": "84036 Landshut",
+    "website": "https://www.wildbachschuetzen-landshut.de",
+    "logo": "logos/9636897C-DC5C-494F-A092-AA484BF7B787.webp"
+   }
+  },
+  {
    "name": "SG Edelweiß Scheuring 2",
    "setlist": {
     "updatedAt": "2026-10-25T10:17",
@@ -12074,7 +12074,7 @@
       "results": [
        368,
        361,
-       88,
+       179,
        0,
        0,
        0,
@@ -12094,7 +12094,7 @@
       "results": [
        357,
        370,
-       94,
+       185,
        0,
        0,
        0,
@@ -12114,7 +12114,7 @@
       "results": [
        367,
        357,
-       92,
+       182,
        0,
        0,
        0,
@@ -12134,7 +12134,7 @@
       "results": [
        364,
        360,
-       91,
+       185,
        0,
        0,
        0,
@@ -12254,7 +12254,7 @@
       "results": [
        0,
        0,
-       95,
+       192,
        0,
        0,
        0,
