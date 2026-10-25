@@ -40,7 +40,11 @@ jobs:
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:
+      # ref: main matters: without it a queued run checks out the commit from the time it was triggered and
+      # then collides with the data commit of the run before it.
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -60,16 +64,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data
-          if git diff --cached --quiet; then
-            echo "No changes"
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "chore(data): update crawled results"
-            git pull --rebase origin main
-            git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
+          scripts/commit-data.sh ${{ steps.gate.outputs.full != 'true' && '--skip-setlists' || '' }} ${{ inputs.refresh_clubs && '--refresh-clubs' || '' }}
 
   deploy:
     needs: crawl
