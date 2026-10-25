@@ -64,7 +64,7 @@
   {
    "rank": 10,
    "team": "Freischütz Wathlingen",
-   "singlePoints": "5:15",
+   "singlePoints": "6:14",
    "teamPoints": "2:6"
   },
   {
@@ -76,7 +76,7 @@
   {
    "rank": 12,
    "team": "SV Lindwedel",
-   "singlePoints": "6:14",
+   "singlePoints": "5:15",
    "teamPoints": "0:8"
   }
  ],
@@ -3442,32 +3442,32 @@
        "time": "11:30",
        "home": "Freischütz Wathlingen",
        "away": "SV Lindwedel",
-       "homeRings": 739,
-       "awayRings": 635,
-       "homePoints": 3,
-       "awayPoints": 2,
+       "homeRings": 1391,
+       "awayRings": 1451,
+       "homePoints": 4,
+       "awayPoints": 1,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Aranowski, Philip",
-          "total": 183,
+          "total": 278,
           "series": [
            93,
            90,
-           0,
+           95,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Wilkens, Boris",
-          "total": 91,
+          "total": 275,
           "series": [
            91,
-           0,
-           0,
+           91,
+           93,
            0
           ],
           "shootOff": null
@@ -3479,23 +3479,23 @@
          "position": 2,
          "home": {
           "name": "Rohbani, Cedric",
-          "total": 96,
+          "total": 281,
           "series": [
            96,
-           0,
-           0,
+           92,
+           93,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Bittner, Michael",
-          "total": 181,
+          "total": 361,
           "series": [
            89,
            92,
-           0,
-           0
+           91,
+           89
           ],
           "shootOff": null
          },
@@ -3506,49 +3506,49 @@
          "position": 3,
          "home": {
           "name": "Oehns, Sarah",
-          "total": 91,
+          "total": 281,
           "series": [
            91,
-           0,
-           0,
+           94,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schulz, Jascha",
-          "total": 183,
+          "total": 275,
           "series": [
            91,
            92,
-           0,
+           92,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Oehns, Christian",
-          "total": 185,
+          "total": 275,
           "series": [
            94,
            91,
-           0,
+           90,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kenklies, Christian",
-          "total": 91,
+          "total": 268,
           "series": [
            91,
-           0,
-           0,
+           86,
+           91,
            0
           ],
           "shootOff": null
@@ -3560,22 +3560,22 @@
          "position": 5,
          "home": {
           "name": "Brabender, Christian",
-          "total": 184,
+          "total": 276,
           "series": [
            93,
            91,
-           0,
+           92,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hartje, René",
-          "total": 89,
+          "total": 272,
           "series": [
            89,
-           0,
-           0,
+           92,
+           91,
            0
           ],
           "shootOff": null
@@ -12385,7 +12385,7 @@
        383,
        363,
        365,
-       183,
+       278,
        0,
        0,
        0,
@@ -12405,7 +12405,7 @@
        0,
        0,
        357,
-       96,
+       281,
        0,
        0,
        0,
@@ -12425,7 +12425,7 @@
        369,
        371,
        372,
-       91,
+       281,
        0,
        0,
        0,
@@ -12485,7 +12485,7 @@
        0,
        366,
        370,
-       185,
+       275,
        0,
        0,
        0,
@@ -12505,7 +12505,7 @@
        363,
        0,
        364,
-       184,
+       276,
        0,
        0,
        0,
@@ -12779,7 +12779,7 @@
        368,
        378,
        375,
-       182,
+       275,
        0,
        0,
        0,
@@ -12799,7 +12799,7 @@
        371,
        371,
        364,
-       272,
+       361,
        0,
        0,
        0,
@@ -12819,7 +12819,7 @@
        369,
        370,
        369,
-       183,
+       367,
        0,
        0,
        0,
@@ -12839,7 +12839,7 @@
        0,
        0,
        362,
-       177,
+       268,
        0,
        0,
        0,
@@ -12899,7 +12899,7 @@
        0,
        0,
        0,
-       181,
+       272,
        0,
        0,
        0,

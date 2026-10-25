@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SV Kelheim-Gmünd",
-   "singlePoints": "13:3",
+   "singlePoints": "15:5",
    "teamPoints": "8:0"
   },
   {
@@ -64,7 +64,7 @@
   {
    "rank": 10,
    "team": "SG 1928 Glattbach",
-   "singlePoints": "3:13",
+   "singlePoints": "5:15",
    "teamPoints": "2:6"
   },
   {
@@ -2988,8 +2988,8 @@
        "time": "11:30",
        "home": "KKS Hambrücken",
        "away": "HSG München",
-       "homeRings": 373,
-       "awayRings": 470,
+       "homeRings": 1025,
+       "awayRings": 1122,
        "homePoints": 2,
        "awayPoints": 3,
        "played": true,
@@ -2998,37 +2998,37 @@
          "position": 1,
          "home": {
           "name": "Baumeister, Eduard",
-          "total": 98,
+          "total": 286,
           "series": [
            98,
-           0,
-           0,
+           95,
+           93,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Maldini, Federico Nilo",
-          "total": 97,
+          "total": 294,
           "series": [
            97,
-           0,
-           0,
+           99,
+           98,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Walther, Teresa",
-          "total": 95,
+          "total": 185,
           "series": [
            95,
-           0,
+           90,
            0,
            0
           ],
@@ -3036,11 +3036,11 @@
          },
          "away": {
           "name": "Adels, Nina",
-          "total": 96,
+          "total": 273,
           "series": [
            96,
-           0,
-           0,
+           86,
+           91,
            0
           ],
           "shootOff": null
@@ -3052,10 +3052,10 @@
          "position": 3,
          "home": {
           "name": "Kudrya, Serhiy",
-          "total": 93,
+          "total": 188,
           "series": [
            93,
-           0,
+           95,
            0,
            0
           ],
@@ -3063,10 +3063,10 @@
          },
          "away": {
           "name": "Polischuk, Maria",
-          "total": 89,
+          "total": 184,
           "series": [
            89,
-           0,
+           95,
            0,
            0
           ],
@@ -3079,10 +3079,10 @@
          "position": 4,
          "home": {
           "name": "Fuchs, Mia",
-          "total": 87,
+          "total": 183,
           "series": [
            87,
-           0,
+           96,
            0,
            0
           ],
@@ -3090,10 +3090,10 @@
          },
          "away": {
           "name": "Martin, Andreas",
-          "total": 94,
+          "total": 189,
           "series": [
            94,
-           0,
+           95,
            0,
            0
           ],
@@ -3106,10 +3106,10 @@
          "position": 5,
          "home": {
           "name": "Wußler, Marco",
-          "total": 0,
+          "total": 183,
           "series": [
-           0,
-           0,
+           91,
+           92,
            0,
            0
           ],
@@ -3117,17 +3117,17 @@
          },
          "away": {
           "name": "Schütt, Carsten",
-          "total": 94,
+          "total": 182,
           "series": [
            94,
-           0,
+           88,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         }
        ]
       },
@@ -3442,19 +3442,19 @@
        "time": "11:30",
        "home": "SG 1928 Glattbach",
        "away": "SV Kelheim-Gmünd",
-       "homeRings": 0,
-       "awayRings": 98,
-       "homePoints": 0,
-       "awayPoints": 1,
+       "homeRings": 556,
+       "awayRings": 658,
+       "homePoints": 2,
+       "awayPoints": 3,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Meister, Martin",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -3463,10 +3463,10 @@
          },
          "away": {
           "name": "Solari, Jason",
-          "total": 98,
+          "total": 194,
           "series": [
            98,
-           0,
+           96,
            0,
            0
           ],
@@ -3479,10 +3479,10 @@
          "position": 2,
          "home": {
           "name": "Drawert, Carolin",
-          "total": 0,
+          "total": 186,
           "series": [
-           0,
-           0,
+           94,
+           92,
            0,
            0
           ],
@@ -3490,25 +3490,25 @@
          },
          "away": {
           "name": "Karsch, Monika",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Kunkel, Leon",
-          "total": 0,
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
@@ -3517,25 +3517,25 @@
          },
          "away": {
           "name": "Weiß, Simon",
-          "total": 0,
+          "total": 187,
           "series": [
-           0,
-           0,
+           92,
+           95,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Ruckerbauer, Mathias",
-          "total": 0,
+          "total": 90,
           "series": [
-           0,
+           90,
            0,
            0,
            0
@@ -3544,9 +3544,9 @@
          },
          "away": {
           "name": "Koder, Patrick",
-          "total": 0,
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
@@ -3554,15 +3554,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Hartig, Sebastian",
-          "total": 0,
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
@@ -3571,16 +3571,16 @@
          },
          "away": {
           "name": "Wimmer, Carina",
-          "total": 0,
+          "total": 88,
           "series": [
-           0,
+           88,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10172,7 +10172,7 @@
        0,
        0,
        385,
-       98,
+       194,
        0,
        0,
        0,
@@ -10192,7 +10192,7 @@
        384,
        0,
        373,
-       0,
+       96,
        0,
        0,
        0,
@@ -10272,7 +10272,7 @@
        375,
        381,
        381,
-       0,
+       187,
        0,
        0,
        0,
@@ -10292,7 +10292,7 @@
        373,
        378,
        368,
-       0,
+       188,
        0,
        0,
        0,
@@ -10332,7 +10332,7 @@
        0,
        373,
        0,
-       0,
+       88,
        0,
        0,
        0,
@@ -11437,7 +11437,7 @@
        378,
        0,
        382,
-       98,
+       286,
        0,
        0,
        0,
@@ -11517,7 +11517,7 @@
        0,
        0,
        370,
-       95,
+       280,
        0,
        0,
        0,
@@ -11537,7 +11537,7 @@
        373,
        366,
        383,
-       93,
+       282,
        0,
        0,
        0,
@@ -11557,7 +11557,7 @@
        0,
        0,
        368,
-       87,
+       274,
        0,
        0,
        0,
@@ -11597,7 +11597,7 @@
        366,
        350,
        373,
-       0,
+       183,
        0,
        0,
        0,
@@ -11654,7 +11654,7 @@
        0,
        0,
        383,
-       196,
+       294,
        0,
        0,
        0,
@@ -11734,7 +11734,7 @@
        374,
        372,
        375,
-       96,
+       273,
        0,
        0,
        0,
@@ -11754,7 +11754,7 @@
        374,
        372,
        369,
-       89,
+       184,
        0,
        0,
        0,
@@ -11794,7 +11794,7 @@
        364,
        374,
        375,
-       94,
+       285,
        0,
        0,
        0,
@@ -11854,7 +11854,7 @@
        0,
        0,
        359,
-       94,
+       182,
        0,
        0,
        0,
@@ -12365,7 +12365,7 @@
        371,
        369,
        362,
-       0,
+       96,
        0,
        0,
        0,
@@ -12385,7 +12385,7 @@
        370,
        0,
        375,
-       94,
+       280,
        0,
        0,
        0,
@@ -12405,7 +12405,7 @@
        370,
        369,
        368,
-       0,
+       93,
        0,
        0,
        0,
@@ -12445,7 +12445,7 @@
        369,
        364,
        369,
-       90,
+       185,
        0,
        0,
        0,
@@ -12485,7 +12485,7 @@
        359,
        0,
        0,
-       0,
+       91,
        0,
        0,
        0,
