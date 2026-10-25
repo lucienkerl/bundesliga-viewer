@@ -21,26 +21,26 @@
   },
   {
    "rank": 3,
+   "team": "SV Haendorf",
+   "singlePoints": "4:1",
+   "teamPoints": "2:0"
+  },
+  {
+   "rank": 4,
    "team": "SV Anderlingen",
    "singlePoints": "3:2",
    "teamPoints": "2:0"
   },
   {
-   "rank": 4,
-   "team": "PC Rendsburg",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
-  },
-  {
    "rank": 5,
-   "team": "SV Haendorf",
-   "singlePoints": "0:0",
-   "teamPoints": "0:0"
+   "team": "SB Süpplingen",
+   "singlePoints": "2:3",
+   "teamPoints": "0:2"
   },
   {
    "rank": 6,
-   "team": "SB Süpplingen",
-   "singlePoints": "2:3",
+   "team": "PC Rendsburg",
+   "singlePoints": "1:4",
    "teamPoints": "0:2"
   },
   {
@@ -4682,280 +4682,6 @@
    }
   },
   {
-   "name": "SV Anderlingen",
-   "setlist": {
-    "updatedAt": "2026-10-23T17:21",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Brandt, Christian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369,
-      "results": [
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Brandt, Ole Mattis",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.25,
-      "results": [
-       361,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Tomforde, Jan-Hinrich",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.86,
-      "results": [
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Martin, Laura",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 362,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Brandt, Annelie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358.86,
-      "results": [
-       352,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Brandt, Paulina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 357.83,
-      "results": [
-       367,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Delventhal, Sven",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 348.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Jakobsen, Friedhelm",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 338.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DF5D5E21-7B7B-4719-9609-DD84FAB1F96C/3039",
-   "club": {
-    "name": "Schützenverein Anderlingen u. Umgeb. e. V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Hembecker Weg 1",
-    "city": "27446 Anderlingen",
-    "website": null,
-    "logo": null
-   }
-  },
-  {
-   "name": "PC Rendsburg",
-   "setlist": {
-    "updatedAt": "2026-10-24T19:03",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Deleske, Viktor",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371,
-      "results": [
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Hofmann, Uwe",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364.14,
-      "results": [
-       354,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Kannerup, Ian",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 359.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Kühn, Ronny",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358.14,
-      "results": [
-       335,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Nesemann, Holger",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 356,
-      "results": [
-       363,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Feindt, Joris",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 354.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schiring, Philip",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 353,
-      "results": [
-       355,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A53F1DEF-2144-433C-B51A-02A36616850F/3039",
-   "club": {
-    "name": "Pistolensport-Club-Rendsburg 1966 e.V. -P.C.R.-",
-    "federation": "Norddeutscher Schützenbund",
-    "street": "Neuwerker Gärten / Am Schießstand 14",
-    "city": "24768 Rendsburg",
-    "website": null,
-    "logo": null
-   }
-  },
-  {
    "name": "SV Haendorf",
    "setlist": {
     "updatedAt": "2026-10-12T14:28",
@@ -5165,6 +4891,151 @@
    }
   },
   {
+   "name": "SV Anderlingen",
+   "setlist": {
+    "updatedAt": "2026-10-23T17:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Brandt, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Brandt, Ole Mattis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.25,
+      "results": [
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Tomforde, Jan-Hinrich",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.86,
+      "results": [
+       364,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Martin, Laura",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 362,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Brandt, Annelie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358.86,
+      "results": [
+       352,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Brandt, Paulina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 357.83,
+      "results": [
+       367,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Delventhal, Sven",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 348.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Jakobsen, Friedhelm",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 338.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DF5D5E21-7B7B-4719-9609-DD84FAB1F96C/3039",
+   "club": {
+    "name": "Schützenverein Anderlingen u. Umgeb. e. V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Hembecker Weg 1",
+    "city": "27446 Anderlingen",
+    "website": null,
+    "logo": null
+   }
+  },
+  {
    "name": "SB Süpplingen",
    "setlist": {
     "updatedAt": "2026-10-18T13:24",
@@ -5323,6 +5194,135 @@
     "city": "38373 Süpplingen",
     "website": null,
     "logo": "logos/3FF0C892-0436-42E7-9EE7-294A857E5BC1.webp"
+   }
+  },
+  {
+   "name": "PC Rendsburg",
+   "setlist": {
+    "updatedAt": "2026-10-24T19:03",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Deleske, Viktor",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Hofmann, Uwe",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.14,
+      "results": [
+       354,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Kannerup, Ian",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 359.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Kühn, Ronny",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358.14,
+      "results": [
+       335,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Nesemann, Holger",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 356,
+      "results": [
+       363,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Feindt, Joris",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 354.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schiring, Philip",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 353,
+      "results": [
+       355,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A53F1DEF-2144-433C-B51A-02A36616850F/3039",
+   "club": {
+    "name": "Pistolensport-Club-Rendsburg 1966 e.V. -P.C.R.-",
+    "federation": "Norddeutscher Schützenbund",
+    "street": "Neuwerker Gärten / Am Schießstand 14",
+    "city": "24768 Rendsburg",
+    "website": null,
+    "logo": null
    }
   },
   {
