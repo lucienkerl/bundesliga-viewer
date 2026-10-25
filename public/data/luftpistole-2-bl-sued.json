@@ -16,7 +16,7 @@
   {
    "rank": 2,
    "team": "Hubertus Rettenbach",
-   "singlePoints": "10:10",
+   "singlePoints": "11:8",
    "teamPoints": "6:2"
   },
   {
@@ -27,44 +27,44 @@
   },
   {
    "rank": 4,
-   "team": "SG Auerhahn Steinberg",
-   "singlePoints": "11:9",
-   "teamPoints": "4:4"
-  },
-  {
-   "rank": 5,
    "team": "Wildbachschützen Landshut",
    "singlePoints": "11:9",
    "teamPoints": "4:4"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "team": "SV Pfeifferhütte",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "team": "Kgl. priv. FSG Bad Tölz",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "team": "SG Edelweiß Scheuring 2",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "team": "SV Waldkirch",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "team": "SG 1883 Ebersdorf",
    "singlePoints": "10:10",
+   "teamPoints": "4:4"
+  },
+  {
+   "rank": 10,
+   "team": "SG Auerhahn Steinberg",
+   "singlePoints": "9:10",
    "teamPoints": "4:4"
   },
   {
@@ -3324,33 +3324,33 @@
        "time": "16:15",
        "home": "Hubertus Rettenbach",
        "away": "SG Auerhahn Steinberg",
-       "homeRings": 1208,
-       "awayRings": 1439,
-       "homePoints": 1,
-       "awayPoints": 4,
+       "homeRings": 1752,
+       "awayRings": 1804,
+       "homePoints": 2,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Seitz, Johannes",
-          "total": 282,
+          "total": 374,
           "series": [
            92,
            94,
            96,
-           0
+           92
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ruß, Nick",
-          "total": 184,
+          "total": 370,
           "series": [
            91,
            93,
-           0,
-           0
+           91,
+           95
           ],
           "shootOff": null
          },
@@ -3361,12 +3361,12 @@
          "position": 2,
          "home": {
           "name": "Diepelt, Christian",
-          "total": 270,
+          "total": 363,
           "series": [
            87,
            92,
            91,
-           0
+           93
           ],
           "shootOff": null
          },
@@ -3382,29 +3382,29 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 1
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Holzner, Lena",
-          "total": 191,
+          "total": 283,
           "series": [
            94,
            97,
-           0,
+           92,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Haberzeth, Lukas",
-          "total": 270,
+          "total": 360,
           "series": [
            91,
            91,
            88,
-           0
+           90
           ],
           "shootOff": null
          },
@@ -3415,23 +3415,23 @@
          "position": 4,
          "home": {
           "name": "Niedermaier, Maria",
-          "total": 185,
+          "total": 360,
           "series": [
            93,
            92,
-           0,
-           0
+           84,
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kraus, Timo",
-          "total": 272,
+          "total": 361,
           "series": [
            91,
            90,
            91,
-           0
+           89
           ],
           "shootOff": null
          },
@@ -3442,12 +3442,12 @@
          "position": 5,
          "home": {
           "name": "Meisinger, Matthias",
-          "total": 280,
+          "total": 372,
           "series": [
            93,
            93,
            94,
-           0
+           92
           ],
           "shootOff": null
          },
@@ -3462,8 +3462,8 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         }
        ]
       }
@@ -3630,8 +3630,8 @@
        "time": "16:15",
        "home": "SG Edelweiß Scheuring 2",
        "away": "Bogenschützen Grund",
-       "homeRings": 920,
-       "awayRings": 1079,
+       "homeRings": 1551,
+       "awayRings": 1802,
        "homePoints": 2,
        "awayPoints": 3,
        "played": true,
@@ -3640,23 +3640,23 @@
          "position": 1,
          "home": {
           "name": "Maisterl, Fabian",
-          "total": 180,
+          "total": 273,
           "series": [
            89,
            91,
-           0,
+           93,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Lipp, Stefan",
-          "total": 187,
+          "total": 372,
           "series": [
            92,
            95,
-           0,
-           0
+           92,
+           93
           ],
           "shootOff": null
          },
@@ -3667,23 +3667,23 @@
          "position": 2,
          "home": {
           "name": "Bösl, Michaela",
-          "total": 187,
+          "total": 277,
           "series": [
            93,
            94,
-           0,
+           90,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Weber, Andreas",
-          "total": 263,
+          "total": 350,
           "series": [
            89,
            86,
            88,
-           0
+           87
           ],
           "shootOff": null
          },
@@ -3694,50 +3694,23 @@
          "position": 3,
          "home": {
           "name": "Ranzinger, Thomas",
-          "total": 184,
+          "total": 366,
           "series": [
            94,
            90,
-           0,
-           0
+           91,
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schwarzbauer, Hans",
-          "total": 271,
+          "total": 362,
           "series": [
            93,
            93,
            85,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 1
-        },
-        {
-         "position": 4,
-         "home": {
-          "name": "Balg, Henrik",
-          "total": 184,
-          "series": [
-           94,
-           90,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Wingruber, Josef",
-          "total": 174,
-          "series": [
-           85,
-           89,
-           0,
-           0
+           91
           ],
           "shootOff": null
          },
@@ -3745,26 +3718,53 @@
          "awayPoint": 0
         },
         {
-         "position": 5,
+         "position": 4,
          "home": {
-          "name": "Deroni, Sascha",
-          "total": 185,
+          "name": "Balg, Henrik",
+          "total": 269,
           "series": [
-           93,
-           92,
-           0,
+           94,
+           90,
+           85,
            0
           ],
           "shootOff": null
          },
          "away": {
+          "name": "Wingruber, Josef",
+          "total": 353,
+          "series": [
+           85,
+           89,
+           89,
+           90
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Deroni, Sascha",
+          "total": 366,
+          "series": [
+           93,
+           92,
+           92,
+           89
+          ],
+          "shootOff": null
+         },
+         "away": {
           "name": "Höfl, Kai",
-          "total": 184,
+          "total": 365,
           "series": [
            91,
            93,
-           0,
-           0
+           90,
+           91
           ],
           "shootOff": null
          },
@@ -10719,263 +10719,6 @@
    }
   },
   {
-   "name": "SG Auerhahn Steinberg",
-   "setlist": {
-    "updatedAt": "2026-10-12T22:29",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Ruß, Nick",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 372,
-      "results": [
-       374,
-       370,
-       367,
-       91,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Kupillas, Stefan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369,
-      "results": [
-       0,
-       0,
-       368,
-       180,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Bäumler, Andreas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.5,
-      "results": [
-       368,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Schneider, Konrad",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 362,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Schneider, Roman",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 361,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Haberzeth, Lukas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359.5,
-      "results": [
-       355,
-       364,
-       358,
-       91,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Kraus, Timo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358.5,
-      "results": [
-       353,
-       364,
-       359,
-       91,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Ruß, Sven",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 354,
-      "results": [
-       0,
-       0,
-       352,
-       261,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Kaiser, Enrico",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 345.5,
-      "results": [
-       341,
-       350,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Zilch, Michael",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 342.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Schneider, Sandra",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 336,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Hummel, Anna",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/083B7E5A-3CB2-4688-B863-F846FDB0E9AB/3037",
-   "club": {
-    "name": "SG Auerhahn Steinberg e.V.",
-    "federation": "Oberpfälzer Schützenbund",
-    "street": "Föhrenstraße 13",
-    "city": "92449 Steinberg am See",
-    "website": "https://auerhahn-schuetzen-steinberg.jimdofree.com/",
-    "logo": "logos/0F4A7FE9-1AC4-4734-9D2E-5ABFFF3AE5EF.webp"
-   }
-  },
-  {
    "name": "Wildbachschützen Landshut",
    "setlist": {
     "updatedAt": "2026-10-14T22:49",
@@ -12255,6 +11998,263 @@
     "city": "96237 Ebersdorf",
     "website": "https://www.sg-ebersdorf.de",
     "logo": "logos/E48EFC7F-C837-4546-8391-E4354C7246F2.webp"
+   }
+  },
+  {
+   "name": "SG Auerhahn Steinberg",
+   "setlist": {
+    "updatedAt": "2026-10-12T22:29",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Ruß, Nick",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 372,
+      "results": [
+       374,
+       370,
+       367,
+       91,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Kupillas, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       0,
+       0,
+       368,
+       180,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Bäumler, Andreas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.5,
+      "results": [
+       368,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schneider, Konrad",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 362,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Schneider, Roman",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Haberzeth, Lukas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359.5,
+      "results": [
+       355,
+       364,
+       358,
+       91,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kraus, Timo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358.5,
+      "results": [
+       353,
+       364,
+       359,
+       91,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Ruß, Sven",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 354,
+      "results": [
+       0,
+       0,
+       352,
+       261,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Kaiser, Enrico",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 345.5,
+      "results": [
+       341,
+       350,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Zilch, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 342.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Schneider, Sandra",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 336,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Hummel, Anna",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/083B7E5A-3CB2-4688-B863-F846FDB0E9AB/3037",
+   "club": {
+    "name": "SG Auerhahn Steinberg e.V.",
+    "federation": "Oberpfälzer Schützenbund",
+    "street": "Föhrenstraße 13",
+    "city": "92449 Steinberg am See",
+    "website": "https://auerhahn-schuetzen-steinberg.jimdofree.com/",
+    "logo": "logos/0F4A7FE9-1AC4-4734-9D2E-5ABFFF3AE5EF.webp"
    }
   },
   {
