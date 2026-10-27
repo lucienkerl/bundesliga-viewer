@@ -4378,7 +4378,7 @@
   {
    "name": "BSG Stadtwerke Norderstedt",
    "setlist": {
-    "updatedAt": "2026-10-12T14:28",
+    "updatedAt": "2026-10-27T09:40",
     "entries": [
      {
       "rank": 1,
@@ -4539,30 +4539,14 @@
   {
    "name": "SV Haendorf",
    "setlist": {
-    "updatedAt": "2026-10-12T14:28",
+    "updatedAt": "2026-10-27T09:41",
     "entries": [
      {
       "rank": 1,
-      "name": "Cordes, Timon",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.14,
-      "results": [
-       368,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
       "name": "Varnhorn, Christoph",
       "foreign": null,
       "status": "S",
-      "startAverage": 365.12,
+      "startAverage": 373.5,
       "results": [
        372,
        375,
@@ -4574,14 +4558,30 @@
       ]
      },
      {
-      "rank": 3,
-      "name": "Wingert, Marina",
+      "rank": 2,
+      "name": "Cordes, Timon",
       "foreign": null,
       "status": "S",
-      "startAverage": 364.43,
+      "startAverage": 369,
       "results": [
-       348,
-       359,
+       368,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "von Döllen, Timo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365,
+      "results": [
+       365,
+       365,
        0,
        0,
        0,
@@ -4591,26 +4591,10 @@
      },
      {
       "rank": 4,
-      "name": "von Döllen, Timo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364.29,
-      "results": [
-       365,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
       "name": "Wingert, Jennifer",
       "foreign": null,
       "status": "S",
-      "startAverage": 364,
+      "startAverage": 363.5,
       "results": [
        364,
        363,
@@ -4622,7 +4606,7 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 5,
       "name": "Teichert, Elisa",
       "foreign": null,
       "status": "E",
@@ -4630,6 +4614,22 @@
       "results": [
        0,
        0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wingert, Marina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 353.5,
+      "results": [
+       348,
+       359,
        0,
        0,
        0,
@@ -4748,7 +4748,7 @@
   {
    "name": "Wandsbeker SGi",
    "setlist": {
-    "updatedAt": "2026-10-12T14:28",
+    "updatedAt": "2026-10-27T09:40",
     "entries": [
      {
       "rank": 1,
@@ -4893,14 +4893,14 @@
   {
    "name": "SV Anderlingen",
    "setlist": {
-    "updatedAt": "2026-10-23T17:21",
+    "updatedAt": "2026-10-27T09:40",
     "entries": [
      {
       "rank": 1,
       "name": "Brandt, Christian",
       "foreign": null,
       "status": "S",
-      "startAverage": 369,
+      "startAverage": 369.5,
       "results": [
        371,
        368,
@@ -4913,13 +4913,13 @@
      },
      {
       "rank": 2,
-      "name": "Brandt, Ole Mattis",
+      "name": "Brandt, Paulina",
       "foreign": null,
       "status": "S",
-      "startAverage": 366.25,
+      "startAverage": 366.5,
       "results": [
-       361,
-       363,
+       367,
+       366,
        0,
        0,
        0,
@@ -4932,7 +4932,7 @@
       "name": "Tomforde, Jan-Hinrich",
       "foreign": null,
       "status": "S",
-      "startAverage": 362.86,
+      "startAverage": 363.5,
       "results": [
        364,
        363,
@@ -4945,6 +4945,22 @@
      },
      {
       "rank": 4,
+      "name": "Brandt, Ole Mattis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362,
+      "results": [
+       361,
+       363,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
       "name": "Martin, Laura",
       "foreign": null,
       "status": "E",
@@ -4960,30 +4976,14 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 6,
       "name": "Brandt, Annelie",
       "foreign": null,
       "status": "S",
-      "startAverage": 358.86,
+      "startAverage": 352,
       "results": [
        352,
        0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Brandt, Paulina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 357.83,
-      "results": [
-       367,
-       366,
        0,
        0,
        0,
@@ -4996,7 +4996,7 @@
       "name": "Delventhal, Sven",
       "foreign": null,
       "status": "E",
-      "startAverage": 348.33,
+      "startAverage": 352,
       "results": [
        0,
        352,
@@ -5038,14 +5038,14 @@
   {
    "name": "PC Rendsburg",
    "setlist": {
-    "updatedAt": "2026-10-24T19:03",
+    "updatedAt": "2026-10-27T09:41",
     "entries": [
      {
       "rank": 1,
       "name": "Deleske, Viktor",
       "foreign": null,
       "status": "S",
-      "startAverage": 371,
+      "startAverage": 374.5,
       "results": [
        370,
        379,
@@ -5058,13 +5058,13 @@
      },
      {
       "rank": 2,
-      "name": "Hofmann, Uwe",
+      "name": "Nesemann, Holger",
       "foreign": null,
       "status": "S",
-      "startAverage": 364.14,
+      "startAverage": 364,
       "results": [
-       354,
-       358,
+       363,
+       365,
        0,
        0,
        0,
@@ -5090,13 +5090,13 @@
      },
      {
       "rank": 4,
-      "name": "Kühn, Ronny",
+      "name": "Schiring, Philip",
       "foreign": null,
       "status": "S",
-      "startAverage": 358.14,
+      "startAverage": 357.5,
       "results": [
-       335,
        355,
+       360,
        0,
        0,
        0,
@@ -5106,13 +5106,13 @@
      },
      {
       "rank": 5,
-      "name": "Nesemann, Holger",
+      "name": "Hofmann, Uwe",
       "foreign": null,
       "status": "S",
       "startAverage": 356,
       "results": [
-       363,
-       365,
+       354,
+       358,
        0,
        0,
        0,
@@ -5138,13 +5138,13 @@
      },
      {
       "rank": 7,
-      "name": "Schiring, Philip",
+      "name": "Kühn, Ronny",
       "foreign": null,
       "status": "S",
-      "startAverage": 353,
+      "startAverage": 345,
       "results": [
+       335,
        355,
-       360,
        0,
        0,
        0,
@@ -5167,30 +5167,14 @@
   {
    "name": "SB Süpplingen",
    "setlist": {
-    "updatedAt": "2026-10-18T13:24",
+    "updatedAt": "2026-10-27T09:41",
     "entries": [
      {
       "rank": 1,
-      "name": "Tomicki, Martin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.86,
-      "results": [
-       356,
-       355,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
       "name": "Kirchmer, Kristof",
       "foreign": null,
       "status": "S",
-      "startAverage": 365.86,
+      "startAverage": 363.5,
       "results": [
        369,
        358,
@@ -5202,11 +5186,11 @@
       ]
      },
      {
-      "rank": 3,
+      "rank": 2,
       "name": "Keune, Andreas",
       "foreign": null,
       "status": "E",
-      "startAverage": 364.43,
+      "startAverage": 363.5,
       "results": [
        356,
        371,
@@ -5218,11 +5202,11 @@
       ]
      },
      {
-      "rank": 4,
+      "rank": 3,
       "name": "Eib, Lars",
       "foreign": null,
       "status": "S",
-      "startAverage": 360,
+      "startAverage": 362,
       "results": [
        361,
        363,
@@ -5234,11 +5218,11 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 4,
       "name": "Stute, Lisa-Frederike",
       "foreign": null,
       "status": "S",
-      "startAverage": 349.14,
+      "startAverage": 359,
       "results": [
        359,
        0,
@@ -5250,14 +5234,30 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 5,
       "name": "Stute, Kristina-Meike",
       "foreign": null,
       "status": "E",
-      "startAverage": 348,
+      "startAverage": 357,
       "results": [
        0,
        357,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Tomicki, Martin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 355.5,
+      "results": [
+       356,
+       355,
        0,
        0,
        0,
@@ -5328,7 +5328,7 @@
   {
    "name": "SV Assel",
    "setlist": {
-    "updatedAt": "2026-10-12T14:28",
+    "updatedAt": "2026-10-27T09:41",
     "entries": [
      {
       "rank": 1,
@@ -5489,7 +5489,7 @@
   {
    "name": "Schützengilde Grohnde",
    "setlist": {
-    "updatedAt": "2026-10-12T14:28",
+    "updatedAt": "2026-10-27T09:41",
     "entries": [
      {
       "rank": 1,
