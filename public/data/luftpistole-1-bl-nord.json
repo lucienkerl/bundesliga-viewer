@@ -27,7 +27,7 @@
   },
   {
    "rank": 4,
-   "team": "Sgi Oelsnitz/Vogtland",
+   "team": "1. BSGi zu Oelsnitz/Vogtland",
    "singlePoints": "12:8",
    "teamPoints": "6:2"
   },
@@ -97,7 +97,7 @@
        "number": 1,
        "time": "15:00",
        "home": "SV Lindwedel",
-       "away": "Sgi Oelsnitz/Vogtland",
+       "away": "1. BSGi zu Oelsnitz/Vogtland",
        "homeRings": 1838,
        "awayRings": 1853,
        "homePoints": 2,
@@ -1010,7 +1010,7 @@
       {
        "number": 1,
        "time": "10:00",
-       "home": "Sgi Oelsnitz/Vogtland",
+       "home": "1. BSGi zu Oelsnitz/Vogtland",
        "away": "SV Schirumer Leegmoor",
        "homeRings": 1872,
        "awayRings": 1852,
@@ -2379,7 +2379,7 @@
        "number": 1,
        "time": "15:00",
        "home": "Spsch Raesfeld",
-       "away": "Sgi Oelsnitz/Vogtland",
+       "away": "1. BSGi zu Oelsnitz/Vogtland",
        "homeRings": 1825,
        "awayRings": 1839,
        "homePoints": 2,
@@ -3292,7 +3292,7 @@
       {
        "number": 1,
        "time": "10:00",
-       "home": "Sgi Oelsnitz/Vogtland",
+       "home": "1. BSGi zu Oelsnitz/Vogtland",
        "away": "PSV Olympia Berlin",
        "homeRings": 1852,
        "awayRings": 1868,
@@ -4196,7 +4196,7 @@
      ]
     },
     {
-     "host": "Sgi Oelsnitz/Vogtland",
+     "host": "1. BSGi zu Oelsnitz/Vogtland",
      "hall": "Vogtlandsporthalle Oelsnitz",
      "street": "Adolf-Damaschke-Str. 55 A",
      "city": "08606 Oelsnitz/Vogtl.",
@@ -4502,7 +4502,7 @@
       {
        "number": 3,
        "time": "18:00",
-       "home": "Sgi Oelsnitz/Vogtland",
+       "home": "1. BSGi zu Oelsnitz/Vogtland",
        "away": "SV Bassum von 1848",
        "homeRings": 0,
        "awayRings": 0,
@@ -4814,7 +4814,7 @@
       {
        "number": 2,
        "time": "16:30",
-       "home": "Sgi Oelsnitz/Vogtland",
+       "home": "1. BSGi zu Oelsnitz/Vogtland",
        "away": "SSV Fahrdorf",
        "homeRings": 0,
        "awayRings": 0,
@@ -5728,7 +5728,7 @@
       {
        "number": 2,
        "time": "11:30",
-       "home": "Sgi Oelsnitz/Vogtland",
+       "home": "1. BSGi zu Oelsnitz/Vogtland",
        "away": "Freischütz Wathlingen",
        "homeRings": 0,
        "awayRings": 0,
@@ -6495,7 +6495,7 @@
        "number": 1,
        "time": "15:00",
        "home": "Sp.Sch.St.Seb.Pier2000",
-       "away": "Sgi Oelsnitz/Vogtland",
+       "away": "1. BSGi zu Oelsnitz/Vogtland",
        "homeRings": 0,
        "awayRings": 0,
        "homePoints": 0,
@@ -7409,7 +7409,7 @@
        "number": 1,
        "time": "10:00",
        "home": "SV Niedererbach",
-       "away": "Sgi Oelsnitz/Vogtland",
+       "away": "1. BSGi zu Oelsnitz/Vogtland",
        "homeRings": 0,
        "awayRings": 0,
        "homePoints": 0,
@@ -9073,7 +9073,7 @@
        "number": 3,
        "time": "18:00",
        "home": "SV 1935 Kriftel",
-       "away": "Sgi Oelsnitz/Vogtland",
+       "away": "1. BSGi zu Oelsnitz/Vogtland",
        "homeRings": 0,
        "awayRings": 0,
        "homePoints": 0,
@@ -9839,7 +9839,7 @@
        "number": 2,
        "time": "11:30",
        "home": "SV Falke Dasbach",
-       "away": "Sgi Oelsnitz/Vogtland",
+       "away": "1. BSGi zu Oelsnitz/Vogtland",
        "homeRings": 0,
        "awayRings": 0,
        "homePoints": 0,
@@ -10829,7 +10829,7 @@
    }
   },
   {
-   "name": "Sgi Oelsnitz/Vogtland",
+   "name": "1. BSGi zu Oelsnitz/Vogtland",
    "setlist": {
     "updatedAt": "2026-10-12T14:32",
     "entries": [
@@ -11076,14 +11076,7 @@
     ]
    },
    "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F6486147-103D-4EDA-AC63-F43764D56BF6/3036",
-   "club": {
-    "name": "1. Bürgerl. Schützengilde zu Oelsnitz/Vogtland e.V.",
-    "federation": "Sächsischer Schützenbund",
-    "street": "Heppeplatz 9",
-    "city": "08606 Oelsnitz",
-    "website": "https://www.schuetzengilde-oelsnitz.de",
-    "logo": "logos/0DE9C21D-FF7E-48C0-9FF8-DEB4BA82562D.webp"
-   }
+   "club": null
   },
   {
    "name": "SV Schirumer Leegmoor",

@@ -809,7 +809,7 @@
         {
          "position": 5,
          "home": {
-          "name": "Stute, Kristina-Meike",
+          "name": "Stute, Lisa-Frederike",
           "total": 357,
           "series": [
            86,
@@ -5167,7 +5167,7 @@
   {
    "name": "SB Süpplingen",
    "setlist": {
-    "updatedAt": "2026-10-27T09:41",
+    "updatedAt": "2026-10-27T13:27",
     "entries": [
      {
       "rank": 1,
@@ -5225,7 +5225,7 @@
       "startAverage": 359,
       "results": [
        359,
-       0,
+       357,
        0,
        0,
        0,
@@ -5241,7 +5241,7 @@
       "startAverage": 357,
       "results": [
        0,
-       357,
+       0,
        0,
        0,
        0,
