@@ -5167,7 +5167,7 @@
   {
    "name": "SB Süpplingen",
    "setlist": {
-    "updatedAt": "2026-10-27T13:27",
+    "updatedAt": "2026-10-29T10:10",
     "entries": [
      {
       "rank": 1,
@@ -5222,7 +5222,7 @@
       "name": "Stute, Lisa-Frederike",
       "foreign": null,
       "status": "S",
-      "startAverage": 359,
+      "startAverage": 358,
       "results": [
        359,
        357,
@@ -5235,13 +5235,13 @@
      },
      {
       "rank": 5,
-      "name": "Stute, Kristina-Meike",
+      "name": "Tomicki, Martin",
       "foreign": null,
-      "status": "E",
-      "startAverage": 357,
+      "status": "S",
+      "startAverage": 355.5,
       "results": [
-       0,
-       0,
+       356,
+       355,
        0,
        0,
        0,
@@ -5251,13 +5251,13 @@
      },
      {
       "rank": 6,
-      "name": "Tomicki, Martin",
+      "name": "Stute, Kristina-Meike",
       "foreign": null,
-      "status": "S",
-      "startAverage": 355.5,
+      "status": "E",
+      "startAverage": 348,
       "results": [
-       356,
-       355,
+       0,
+       0,
        0,
        0,
        0,
