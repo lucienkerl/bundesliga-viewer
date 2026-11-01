@@ -11048,7 +11048,7 @@
   {
    "name": "SF Emsdetten",
    "setlist": {
-    "updatedAt": "2026-10-20T14:44",
+    "updatedAt": "2026-10-31T16:10",
     "entries": [
      {
       "rank": 1,
@@ -11215,6 +11215,22 @@
       "name": "Elsbecker, Dieter",
       "foreign": null,
       "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Buff, Matthias",
+      "foreign": null,
+      "status": "",
       "startAverage": 0,
       "results": [
        0,
