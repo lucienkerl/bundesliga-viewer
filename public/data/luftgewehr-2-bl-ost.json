@@ -4270,7 +4270,7 @@
   {
    "name": "SV Gölzau II",
    "setlist": {
-    "updatedAt": "2026-11-02T19:04",
+    "updatedAt": "2026-11-04T10:12",
     "entries": [
      {
       "rank": 1,
@@ -4314,6 +4314,26 @@
      },
      {
       "rank": 3,
+      "name": "Thurnwaldova, Sabina",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 393.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
       "name": "Pfeiffer, Natalie",
       "foreign": null,
       "status": "S",
@@ -4333,7 +4353,7 @@
       ]
      },
      {
-      "rank": 4,
+      "rank": 5,
       "name": "Schäfer, Maria",
       "foreign": null,
       "status": "S",
@@ -4353,7 +4373,7 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 6,
       "name": "Kube, Elena",
       "foreign": null,
       "status": "",
@@ -4373,7 +4393,7 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 7,
       "name": "Walter, Ida",
       "foreign": null,
       "status": "S",
@@ -4393,7 +4413,7 @@
       ]
      },
      {
-      "rank": 7,
+      "rank": 8,
       "name": "Tolonitz, Jana",
       "foreign": null,
       "status": "S",
@@ -4413,7 +4433,27 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 9,
+      "name": "Bauer, Linda Sophie",
+      "foreign": null,
+      "status": "",
+      "startAverage": 385,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
       "name": "Eichelberg, Felice",
       "foreign": null,
       "status": "S",
@@ -4433,7 +4473,7 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 11,
       "name": "Wenzel, Florian",
       "foreign": null,
       "status": "",
@@ -4453,7 +4493,7 @@
       ]
      },
      {
-      "rank": 10,
+      "rank": 12,
       "name": "Bennemann, Richard",
       "foreign": null,
       "status": "",
@@ -4473,7 +4513,7 @@
       ]
      },
      {
-      "rank": 11,
+      "rank": 13,
       "name": "Eidam, Alexandra",
       "foreign": null,
       "status": "",
@@ -4493,7 +4533,7 @@
       ]
      },
      {
-      "rank": 12,
+      "rank": 14,
       "name": "Lemme, Lena",
       "foreign": null,
       "status": "",

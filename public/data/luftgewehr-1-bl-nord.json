@@ -11514,7 +11514,7 @@
   {
    "name": "BSV Buer-Bülse",
    "setlist": {
-    "updatedAt": "2026-10-20T14:44",
+    "updatedAt": "2026-11-04T12:02",
     "entries": [
      {
       "rank": 1,
@@ -11618,6 +11618,46 @@
      },
      {
       "rank": 6,
+      "name": "Peter, Mika",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Papstein, Marie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 389.57,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
       "name": "Elisee, Elisabeth",
       "foreign": null,
       "status": "S",
@@ -11637,7 +11677,7 @@
       ]
      },
      {
-      "rank": 7,
+      "rank": 9,
       "name": "Röhr, Jennifer",
       "foreign": null,
       "status": "E",
@@ -11657,7 +11697,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 10,
       "name": "Reuter, Maxi",
       "foreign": null,
       "status": "S",
@@ -11677,7 +11717,7 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 11,
       "name": "Sebastian, Fabienne",
       "foreign": null,
       "status": "S",

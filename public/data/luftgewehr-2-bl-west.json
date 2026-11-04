@@ -4533,7 +4533,7 @@
   {
    "name": "BSV Buer-Bülse II",
    "setlist": {
-    "updatedAt": "2026-10-20T18:58",
+    "updatedAt": "2026-11-04T12:02",
     "entries": [
      {
       "rank": 1,
@@ -4633,6 +4633,22 @@
      },
      {
       "rank": 7,
+      "name": "Röhr, Jennifer",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 392,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
       "name": "Schulz, Fabienne",
       "foreign": null,
       "status": "E",
@@ -4648,7 +4664,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 9,
       "name": "Weber, Sebastian",
       "foreign": null,
       "status": "S",
@@ -4664,7 +4680,7 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 10,
       "name": "Stader, Dominik",
       "foreign": null,
       "status": "E",
@@ -4680,7 +4696,7 @@
       ]
      },
      {
-      "rank": 10,
+      "rank": 11,
       "name": "Volkart, Nadine",
       "foreign": null,
       "status": "S",
@@ -4696,7 +4712,7 @@
       ]
      },
      {
-      "rank": 11,
+      "rank": 12,
       "name": "Fischer, Anna",
       "foreign": null,
       "status": "E",
@@ -5410,7 +5426,7 @@
   {
    "name": "PSS Inden/Altdorf",
    "setlist": {
-    "updatedAt": "2026-10-20T18:57",
+    "updatedAt": "2026-11-04T14:10",
     "entries": [
      {
       "rank": 1,
@@ -5549,6 +5565,22 @@
       "results": [
        0,
        380,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Schmitz, Lisa-Marie",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
        0,
        0,
        0,

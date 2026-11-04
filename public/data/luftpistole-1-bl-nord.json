@@ -11076,7 +11076,14 @@
     ]
    },
    "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F6486147-103D-4EDA-AC63-F43764D56BF6/3036",
-   "club": null
+   "club": {
+    "name": "1. Bürgerl. Schützengilde zu Oelsnitz/Vogtland e.V.",
+    "federation": "Sächsischer Schützenbund",
+    "street": "Heppeplatz 9",
+    "city": "08606 Oelsnitz",
+    "website": "https://www.schuetzengilde-oelsnitz.de",
+    "logo": "logos/0DE9C21D-FF7E-48C0-9FF8-DEB4BA82562D.webp"
+   }
   },
   {
    "name": "SV Schirumer Leegmoor",
