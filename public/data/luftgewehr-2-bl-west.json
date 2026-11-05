@@ -5426,7 +5426,7 @@
   {
    "name": "PSS Inden/Altdorf",
    "setlist": {
-    "updatedAt": "2026-11-04T14:10",
+    "updatedAt": "2026-11-04T14:13",
     "entries": [
      {
       "rank": 1,
@@ -5462,6 +5462,22 @@
      },
      {
       "rank": 3,
+      "name": "Schmitz, Lisa-Marie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 393.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
       "name": "Braun, Laura",
       "foreign": null,
       "status": "S",
@@ -5477,7 +5493,7 @@
       ]
      },
      {
-      "rank": 4,
+      "rank": 5,
       "name": "Neuhoff, Julia",
       "foreign": null,
       "status": "S",
@@ -5493,7 +5509,7 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 6,
       "name": "Siegmund, Stephan",
       "foreign": null,
       "status": "",
@@ -5509,7 +5525,7 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 7,
       "name": "Brucherseifer, Lana",
       "foreign": null,
       "status": "S",
@@ -5525,7 +5541,7 @@
       ]
      },
      {
-      "rank": 7,
+      "rank": 8,
       "name": "Hack, Julia",
       "foreign": null,
       "status": "",
@@ -5541,7 +5557,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 9,
       "name": "Berning, Verena",
       "foreign": null,
       "status": "S",
@@ -5557,7 +5573,7 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 10,
       "name": "Vogelsang, Denny",
       "foreign": null,
       "status": "",
@@ -5565,22 +5581,6 @@
       "results": [
        0,
        380,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Schmitz, Lisa-Marie",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
        0,
        0,
        0,
