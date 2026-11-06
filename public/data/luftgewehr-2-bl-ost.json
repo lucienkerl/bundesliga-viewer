@@ -4567,7 +4567,7 @@
   {
    "name": "PSV Olympia Berlin III",
    "setlist": {
-    "updatedAt": "2026-11-02T19:04",
+    "updatedAt": "2026-11-06T11:23",
     "entries": [
      {
       "rank": 1,
@@ -4586,7 +4586,7 @@
       "rank": 2,
       "name": "Kummerfeld, Thies Oskar",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 393.33,
       "results": [
        0,
@@ -4651,7 +4651,7 @@
       "rank": 7,
       "name": "Ralle, Marlon",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 388,
       "results": [
        0,
@@ -4664,7 +4664,7 @@
       "rank": 8,
       "name": "Kaufmann, Charlotta",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 385.5,
       "results": [
        0,
@@ -4690,7 +4690,7 @@
       "rank": 10,
       "name": "Graske, Jennifer",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 378.33,
       "results": [
        0,
@@ -4703,7 +4703,7 @@
       "rank": 11,
       "name": "Siegel, Emma",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 375.67,
       "results": [
        0,
@@ -4716,7 +4716,7 @@
       "rank": 12,
       "name": "Jahn, Sidney Paul",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -4740,7 +4740,7 @@
   {
    "name": "Giebichensteiner SGi Halle",
    "setlist": {
-    "updatedAt": "2026-11-02T19:04",
+    "updatedAt": "2026-11-06T12:16",
     "entries": [
      {
       "rank": 1,
@@ -4864,7 +4864,7 @@
       "name": "Klimmek, Melina",
       "foreign": null,
       "status": "",
-      "startAverage": 295.75,
+      "startAverage": 376.33,
       "results": [
        0,
        0,
