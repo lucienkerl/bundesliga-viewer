@@ -9,21 +9,21 @@
  "table": [
   {
    "rank": 1,
-   "team": "SSV St. Hubertus Elsen",
-   "singlePoints": "10:3",
-   "teamPoints": "6:0"
-  },
-  {
-   "rank": 2,
    "team": "SSG Kevelaer",
    "singlePoints": "9:1",
    "teamPoints": "4:0"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "team": "SuSC Müllenborn",
    "singlePoints": "6:4",
    "teamPoints": "4:0"
+  },
+  {
+   "rank": 3,
+   "team": "SSV St. Hubertus Elsen",
+   "singlePoints": "10:4",
+   "teamPoints": "4:2"
   },
   {
    "rank": 4,
@@ -69,15 +69,15 @@
   },
   {
    "rank": 11,
-   "team": "Braunschweiger SG 1545",
-   "singlePoints": "4:6",
-   "teamPoints": "0:4"
+   "team": "Wissener SV",
+   "singlePoints": "3:11",
+   "teamPoints": "2:4"
   },
   {
    "rank": 12,
-   "team": "Wissener SV",
-   "singlePoints": "2:11",
-   "teamPoints": "0:6"
+   "team": "Braunschweiger SG 1545",
+   "singlePoints": "4:6",
+   "teamPoints": "0:4"
   }
  ],
  "matchDays": [
@@ -2074,20 +2074,20 @@
        "time": "16:30",
        "home": "SSV St. Hubertus Elsen",
        "away": "Wissener SV",
-       "homeRings": 498,
-       "awayRings": 396,
+       "homeRings": 1287,
+       "awayRings": 1471,
        "homePoints": 2,
-       "awayPoints": 1,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Ruppel, Lea",
-          "total": 100,
+          "total": 200,
           "series": [
            100,
-           0,
+           100,
            0,
            0
           ],
@@ -2095,11 +2095,11 @@
          },
          "away": {
           "name": "Misfjord, Aurora",
-          "total": 199,
+          "total": 299,
           "series": [
            99,
            100,
-           0,
+           100,
            0
           ],
           "shootOff": null
@@ -2111,10 +2111,10 @@
          "position": 2,
          "home": {
           "name": "Palberg, Denise",
-          "total": 0,
+          "total": 195,
           "series": [
-           0,
-           0,
+           96,
+           99,
            0,
            0
           ],
@@ -2122,10 +2122,10 @@
          },
          "away": {
           "name": "Stahl, Franziska",
-          "total": 0,
+          "total": 195,
           "series": [
-           0,
-           0,
+           98,
+           97,
            0,
            0
           ],
@@ -2138,22 +2138,22 @@
          "position": 3,
          "home": {
           "name": "Schnerr, Linnea",
-          "total": 199,
+          "total": 396,
           "series": [
            99,
            100,
-           0,
-           0
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Scholz, Sophie",
-          "total": 98,
+          "total": 296,
           "series": [
            98,
-           0,
-           0,
+           99,
+           99,
            0
           ],
           "shootOff": null
@@ -2165,37 +2165,37 @@
          "position": 4,
          "home": {
           "name": "Hofmann Badea, Nora-Lee",
-          "total": 99,
+          "total": 297,
           "series": [
            99,
-           0,
-           0,
+           99,
+           99,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Giegling, Marvin",
-          "total": 99,
+          "total": 294,
           "series": [
            99,
-           0,
-           0,
+           95,
+           100,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Kaps, Jessie",
-          "total": 100,
+          "total": 199,
           "series": [
            100,
-           0,
+           99,
            0,
            0
           ],
@@ -2203,17 +2203,17 @@
          },
          "away": {
           "name": "Wendler, Melina",
-          "total": 0,
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           95,
+           98,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       },
@@ -10138,223 +10138,6 @@
  ],
  "teams": [
   {
-   "name": "SSV St. Hubertus Elsen",
-   "setlist": {
-    "updatedAt": "2026-11-07T13:26",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Peni, Istvan",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 400,
-      "results": [
-       400,
-       400,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Hammerl, Soma",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Ruppel, Lea",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 399.5,
-      "results": [
-       399,
-       400,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Palberg, Denise",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 397,
-      "results": [
-       0,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Schnerr, Linnea",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396.5,
-      "results": [
-       396,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Hofmann Badea, Nora-Lee",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 396.5,
-      "results": [
-       396,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Kaps, Jessie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Hellenbrand, Peter",
-      "foreign": "EU",
-      "status": "E",
-      "startAverage": 395,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Steinicke, Dirk",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Nagaraja, Sri Krishna",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/79B38DA3-EC42-4C3C-8794-67C1C3A8BF85/3002",
-   "club": {
-    "name": "SSV St. Hub. Elsen e.V.",
-    "federation": "Westfälischer Schützenbund",
-    "street": "Am Mühlenteich 10a",
-    "city": "33106 Paderborn",
-    "website": "https://www.ssv-elsen.de",
-    "logo": "logos/92E37536-D505-4F28-825D-9DB509844670.webp"
-   }
-  },
-  {
    "name": "SSG Kevelaer",
    "setlist": {
     "updatedAt": "2026-10-20T14:44",
@@ -10806,6 +10589,223 @@
     "city": "54568 Gerolstein",
     "website": "https://SuSC-muellenborn.de",
     "logo": "logos/3C178CC8-A637-4C2D-BECC-565EEC935522.webp"
+   }
+  },
+  {
+   "name": "SSV St. Hubertus Elsen",
+   "setlist": {
+    "updatedAt": "2026-11-07T13:26",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Peni, Istvan",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 400,
+      "results": [
+       400,
+       400,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Hammerl, Soma",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Ruppel, Lea",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 399.5,
+      "results": [
+       399,
+       400,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Palberg, Denise",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 397,
+      "results": [
+       0,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Schnerr, Linnea",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396.5,
+      "results": [
+       396,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Hofmann Badea, Nora-Lee",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 396.5,
+      "results": [
+       396,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kaps, Jessie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Hellenbrand, Peter",
+      "foreign": "EU",
+      "status": "E",
+      "startAverage": 395,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Steinicke, Dirk",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Nagaraja, Sri Krishna",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/79B38DA3-EC42-4C3C-8794-67C1C3A8BF85/3002",
+   "club": {
+    "name": "SSV St. Hub. Elsen e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Am Mühlenteich 10a",
+    "city": "33106 Paderborn",
+    "website": "https://www.ssv-elsen.de",
+    "logo": "logos/92E37536-D505-4F28-825D-9DB509844670.webp"
    }
   },
   {
@@ -12560,223 +12560,6 @@
    }
   },
   {
-   "name": "Braunschweiger SG 1545",
-   "setlist": {
-    "updatedAt": "2026-10-20T14:44",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Gurrik, Isak",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 399.8,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Halversen, Ole Martin",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 398.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Ibsen, Rikke",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 397.2,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Johansson, Isabelle",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 394.5,
-      "results": [
-       397,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Zimmermann, Selina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.22,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Wucherpfennig, Angelina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.5,
-      "results": [
-       392,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Bartels, Laura-Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.5,
-      "results": [
-       391,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Karl, Alexander",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.5,
-      "results": [
-       389,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Marquardt, Tabea",
-      "foreign": null,
-      "status": "",
-      "startAverage": 388,
-      "results": [
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Dockhorn, Finja",
-      "foreign": null,
-      "status": "",
-      "startAverage": 387,
-      "results": [
-       0,
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/34A1A365-FF50-4DC0-8ECA-DC5C1D28D43E/3002",
-   "club": {
-    "name": "Braunschweiger Schützengesellschaft 1545",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Hamburger Straße 53",
-    "city": "38114 Braunschweig",
-    "website": "https://www.schuetzenplatz-bs.de/",
-    "logo": "logos/A5F2BA58-68C7-41B2-A43F-1792BD71846C.webp"
-   }
-  },
-  {
    "name": "Wissener SV",
    "setlist": {
     "updatedAt": "2026-10-20T14:44",
@@ -13031,6 +12814,223 @@
     "city": "Wissen 57537",
     "website": "https://www.sv-wissen.de",
     "logo": "logos/93D7C60B-5360-4B9F-8C3E-17057CD2A0BC.webp"
+   }
+  },
+  {
+   "name": "Braunschweiger SG 1545",
+   "setlist": {
+    "updatedAt": "2026-10-20T14:44",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Gurrik, Isak",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 399.8,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Halversen, Ole Martin",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 398.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Ibsen, Rikke",
+      "foreign": "A",
+      "status": "",
+      "startAverage": 397.2,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Johansson, Isabelle",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 394.5,
+      "results": [
+       397,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Zimmermann, Selina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.22,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wucherpfennig, Angelina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.5,
+      "results": [
+       392,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Bartels, Laura-Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.5,
+      "results": [
+       391,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Karl, Alexander",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.5,
+      "results": [
+       389,
+       390,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Marquardt, Tabea",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Dockhorn, Finja",
+      "foreign": null,
+      "status": "",
+      "startAverage": 387,
+      "results": [
+       0,
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/34A1A365-FF50-4DC0-8ECA-DC5C1D28D43E/3002",
+   "club": {
+    "name": "Braunschweiger Schützengesellschaft 1545",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Hamburger Straße 53",
+    "city": "38114 Braunschweig",
+    "website": "https://www.schuetzenplatz-bs.de/",
+    "logo": "logos/A5F2BA58-68C7-41B2-A43F-1792BD71846C.webp"
    }
   }
  ]
