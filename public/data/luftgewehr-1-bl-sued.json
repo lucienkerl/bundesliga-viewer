@@ -45,32 +45,32 @@
   },
   {
    "rank": 7,
+   "team": "SV Fenken",
+   "singlePoints": "8:7",
+   "teamPoints": "2:4"
+  },
+  {
+   "rank": 8,
    "team": "SG Endorf",
    "singlePoints": "7:8",
    "teamPoints": "2:4"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "team": "Gemütlichkeit Mertingen",
    "singlePoints": "7:8",
    "teamPoints": "2:4"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "team": "Eichenlaub Unterstall",
    "singlePoints": "5:10",
    "teamPoints": "2:4"
   },
   {
-   "rank": 10,
-   "team": "Gmütlichkeit Luckenpaint",
-   "singlePoints": "2:10",
-   "teamPoints": "2:4"
-  },
-  {
    "rank": 11,
-   "team": "SV Fenken",
-   "singlePoints": "5:7",
+   "team": "Gmütlichkeit Luckenpaint",
+   "singlePoints": "2:13",
    "teamPoints": "0:6"
   },
   {
@@ -2676,9 +2676,9 @@
        "time": "18:00",
        "home": "SV Fenken",
        "away": "Gmütlichkeit Luckenpaint",
-       "homeRings": 493,
-       "awayRings": 492,
-       "homePoints": 1,
+       "homeRings": 988,
+       "awayRings": 979,
+       "homePoints": 4,
        "awayPoints": 1,
        "played": true,
        "pairs": [
@@ -2686,10 +2686,10 @@
          "position": 1,
          "home": {
           "name": "Abt, Markus",
-          "total": 100,
+          "total": 199,
           "series": [
            100,
-           0,
+           99,
            0,
            0
           ],
@@ -2697,26 +2697,26 @@
          },
          "away": {
           "name": "Entner, Patrick",
-          "total": 100,
+          "total": 200,
           "series": [
            100,
-           0,
+           100,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Sauter, Sophie",
-          "total": 100,
+          "total": 198,
           "series": [
            100,
-           0,
+           98,
            0,
            0
           ],
@@ -2724,10 +2724,10 @@
          },
          "away": {
           "name": "Ruhland, Noah",
-          "total": 97,
+          "total": 194,
           "series": [
            97,
-           0,
+           97,
            0,
            0
           ],
@@ -2740,10 +2740,10 @@
          "position": 3,
          "home": {
           "name": "Panwar, Divyansh Singh",
-          "total": 99,
+          "total": 199,
           "series": [
            99,
-           0,
+           100,
            0,
            0
           ],
@@ -2751,26 +2751,26 @@
          },
          "away": {
           "name": "Karlon, Alexander",
-          "total": 99,
+          "total": 197,
           "series": [
            99,
-           0,
+           98,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Wehren, Hannah",
-          "total": 96,
+          "total": 195,
           "series": [
            96,
-           0,
+           99,
            0,
            0
           ],
@@ -2778,26 +2778,26 @@
          },
          "away": {
           "name": "Pokorny, Isabella",
-          "total": 98,
+          "total": 192,
           "series": [
            98,
-           0,
+           94,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Günther, Luisa",
-          "total": 98,
+          "total": 197,
           "series": [
            98,
-           0,
+           99,
            0,
            0
           ],
@@ -2805,16 +2805,16 @@
          },
          "away": {
           "name": "Hauner, Sara-Marie",
-          "total": 98,
+          "total": 196,
           "series": [
            98,
-           0,
+           98,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -11500,6 +11500,263 @@
    }
   },
   {
+   "name": "SV Fenken",
+   "setlist": {
+    "updatedAt": "2026-10-19T22:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Abt, Markus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 398,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Sauter, Sophie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 398,
+      "results": [
+       397,
+       399,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Leppa, Aleksi",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 396.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Friedmann, Nils",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396.5,
+      "results": [
+       396,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Blazickova, Veronika",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 396,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Panwar, Divyansh Singh",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 395.5,
+      "results": [
+       398,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Wehren, Hannah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.5,
+      "results": [
+       394,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Günther, Luisa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       392,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Kohler, Kerstin",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 391.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Schwendner, Theresa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 391,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Huzel, Tobias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 378,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Klein, Jenny",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/12318527-2C70-465F-827B-BF50C033B8A9/3003",
+   "club": {
+    "name": "SV Fenken",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Waldeckweg 1",
+    "city": "88281 Schlier-Fenken",
+    "website": null,
+    "logo": "logos/AD7752DA-1A8A-468F-9613-8092663C6D8C.webp"
+   }
+  },
+  {
    "name": "SG Endorf",
    "setlist": {
     "updatedAt": "2026-10-19T22:22",
@@ -12445,263 +12702,6 @@
     "city": "93107 Thalmassing",
     "website": "https://www.gmuetlichkeit-luckenpaint.de",
     "logo": "logos/19A1CFC3-5BCE-4B95-9831-6A33AF1E6309.webp"
-   }
-  },
-  {
-   "name": "SV Fenken",
-   "setlist": {
-    "updatedAt": "2026-10-19T22:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Abt, Markus",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 398,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Sauter, Sophie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 398,
-      "results": [
-       397,
-       399,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Leppa, Aleksi",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 396.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Friedmann, Nils",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396.5,
-      "results": [
-       396,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Blazickova, Veronika",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 396,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Panwar, Divyansh Singh",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 395.5,
-      "results": [
-       398,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Wehren, Hannah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.5,
-      "results": [
-       394,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Günther, Luisa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       392,
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Kohler, Kerstin",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 391.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Schwendner, Theresa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 391,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Huzel, Tobias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 378,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Klein, Jenny",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/12318527-2C70-465F-827B-BF50C033B8A9/3003",
-   "club": {
-    "name": "SV Fenken",
-    "federation": "Württembergischer Schützenverband",
-    "street": "Waldeckweg 1",
-    "city": "88281 Schlier-Fenken",
-    "website": null,
-    "logo": "logos/AD7752DA-1A8A-468F-9613-8092663C6D8C.webp"
    }
   },
   {
