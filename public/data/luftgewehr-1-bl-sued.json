@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SSV Kronau",
-   "singlePoints": "13:1",
+   "singlePoints": "14:1",
    "teamPoints": "6:0"
   },
   {
@@ -52,7 +52,7 @@
   {
    "rank": 8,
    "team": "Gemütlichkeit Mertingen",
-   "singlePoints": "7:7",
+   "singlePoints": "7:8",
    "teamPoints": "2:4"
   },
   {
@@ -2380,9 +2380,9 @@
        "time": "15:00",
        "home": "SSV Kronau",
        "away": "Gemütlichkeit Mertingen",
-       "homeRings": 1793,
-       "awayRings": 1772,
-       "homePoints": 4,
+       "homeRings": 1990,
+       "awayRings": 1970,
+       "homePoints": 5,
        "awayPoints": 0,
        "played": true,
        "pairs": [
@@ -2390,27 +2390,27 @@
          "position": 1,
          "home": {
           "name": "Stark, Nele",
-          "total": 300,
+          "total": 399,
           "series": [
            100,
            100,
            100,
-           0
+           99
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "away": {
           "name": "Pribitzer, Marlene",
-          "total": 300,
+          "total": 399,
           "series": [
            100,
            100,
            100,
-           0
+           99
           ],
-          "shootOff": null
+          "shootOff": 9
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
@@ -2444,23 +2444,23 @@
          "position": 3,
          "home": {
           "name": "Wurster, Lana",
-          "total": 297,
+          "total": 395,
           "series": [
            99,
            98,
            100,
-           0
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hafner, Katharina",
-          "total": 294,
+          "total": 393,
           "series": [
            97,
            98,
            99,
-           0
+           99
           ],
           "shootOff": null
          },
