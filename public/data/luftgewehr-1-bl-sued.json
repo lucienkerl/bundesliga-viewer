@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SSV Kronau",
-   "singlePoints": "12:2",
+   "singlePoints": "13:1",
    "teamPoints": "6:0"
   },
   {
@@ -52,7 +52,7 @@
   {
    "rank": 8,
    "team": "Gemütlichkeit Mertingen",
-   "singlePoints": "8:6",
+   "singlePoints": "7:7",
    "teamPoints": "2:4"
   },
   {
@@ -2380,32 +2380,32 @@
        "time": "15:00",
        "home": "SSV Kronau",
        "away": "Gemütlichkeit Mertingen",
-       "homeRings": 1295,
-       "awayRings": 1182,
-       "homePoints": 3,
-       "awayPoints": 1,
+       "homeRings": 1793,
+       "awayRings": 1772,
+       "homePoints": 4,
+       "awayPoints": 0,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Stark, Nele",
-          "total": 200,
+          "total": 300,
           "series": [
            100,
            100,
-           0,
+           100,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Pribitzer, Marlene",
-          "total": 200,
+          "total": 300,
           "series": [
            100,
            100,
-           0,
+           100,
            0
           ],
           "shootOff": null
@@ -2417,23 +2417,23 @@
          "position": 2,
          "home": {
           "name": "Braun, Max",
-          "total": 299,
+          "total": 399,
           "series": [
            100,
            100,
            99,
-           0
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ferner, Florian",
-          "total": 296,
+          "total": 394,
           "series": [
            97,
            99,
            100,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -2444,28 +2444,28 @@
          "position": 3,
          "home": {
           "name": "Wurster, Lana",
-          "total": 99,
+          "total": 297,
           "series": [
            99,
-           0,
-           0,
+           98,
+           100,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hafner, Katharina",
-          "total": 195,
+          "total": 294,
           "series": [
            97,
            98,
-           0,
+           99,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 4,
@@ -2482,12 +2482,12 @@
          },
          "away": {
           "name": "Beer, Florian",
-          "total": 295,
+          "total": 394,
           "series": [
            99,
            96,
            100,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -2498,23 +2498,23 @@
          "position": 5,
          "home": {
           "name": "Fix, Colin",
-          "total": 299,
+          "total": 399,
           "series": [
            99,
            100,
            100,
-           0
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schröttle, Verena",
-          "total": 196,
+          "total": 390,
           "series": [
            100,
            96,
-           0,
-           0
+           94,
+           100
           ],
           "shootOff": null
          },

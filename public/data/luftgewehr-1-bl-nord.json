@@ -1926,8 +1926,8 @@
        "time": "15:00",
        "home": "SF Emsdetten",
        "away": "Ohligser SGem 75/03",
-       "homeRings": 1681,
-       "awayRings": 1583,
+       "homeRings": 1977,
+       "awayRings": 1976,
        "homePoints": 3,
        "awayPoints": 2,
        "played": true,
@@ -1947,12 +1947,12 @@
          },
          "away": {
           "name": "Püschel, Enya",
-          "total": 297,
+          "total": 395,
           "series": [
            99,
            100,
            98,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -1990,23 +1990,23 @@
          "position": 3,
          "home": {
           "name": "Glohr, Christina",
-          "total": 195,
+          "total": 391,
           "series": [
            99,
            96,
-           0,
-           0
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Blos, Michelle",
-          "total": 298,
+          "total": 397,
           "series": [
            99,
            100,
            99,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -2017,23 +2017,23 @@
          "position": 4,
          "home": {
           "name": "Strik, Tessa",
-          "total": 299,
+          "total": 399,
           "series": [
            99,
            100,
            100,
-           0
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hülsmann, Marc",
-          "total": 296,
+          "total": 395,
           "series": [
            98,
            100,
            98,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -2055,12 +2055,12 @@
          },
          "away": {
           "name": "Ziegler, Antonia Sofie",
-          "total": 296,
+          "total": 393,
           "series": [
            99,
            99,
            98,
-           0
+           97
           ],
           "shootOff": null
          },
