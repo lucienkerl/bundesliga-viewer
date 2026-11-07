@@ -2074,8 +2074,8 @@
        "time": "16:30",
        "home": "SSV St. Hubertus Elsen",
        "away": "Wissener SV",
-       "homeRings": 1287,
-       "awayRings": 1471,
+       "homeRings": 1783,
+       "awayRings": 1967,
        "homePoints": 2,
        "awayPoints": 2,
        "played": true,
@@ -2084,23 +2084,23 @@
          "position": 1,
          "home": {
           "name": "Ruppel, Lea",
-          "total": 200,
+          "total": 298,
           "series": [
            100,
            100,
-           0,
+           98,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Misfjord, Aurora",
-          "total": 299,
+          "total": 398,
           "series": [
            99,
            100,
            100,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -2111,23 +2111,23 @@
          "position": 2,
          "home": {
           "name": "Palberg, Denise",
-          "total": 195,
+          "total": 393,
           "series": [
            96,
            99,
-           0,
-           0
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Stahl, Franziska",
-          "total": 195,
+          "total": 393,
           "series": [
            98,
            97,
-           0,
-           0
+           99,
+           99
           ],
           "shootOff": null
          },
@@ -2149,12 +2149,12 @@
          },
          "away": {
           "name": "Scholz, Sophie",
-          "total": 296,
+          "total": 395,
           "series": [
            98,
            99,
            99,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -2165,23 +2165,23 @@
          "position": 4,
          "home": {
           "name": "Hofmann Badea, Nora-Lee",
-          "total": 297,
+          "total": 397,
           "series": [
            99,
            99,
            99,
-           0
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Giegling, Marvin",
-          "total": 294,
+          "total": 394,
           "series": [
            99,
            95,
            100,
-           0
+           100
           ],
           "shootOff": null
          },
@@ -2192,11 +2192,11 @@
          "position": 5,
          "home": {
           "name": "Kaps, Jessie",
-          "total": 199,
+          "total": 299,
           "series": [
            100,
            99,
-           0,
+           100,
            0
           ],
           "shootOff": null
