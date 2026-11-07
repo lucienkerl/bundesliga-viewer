@@ -63,15 +63,15 @@
   },
   {
    "rank": 10,
-   "team": "SV Fenken",
-   "singlePoints": "4:6",
-   "teamPoints": "0:4"
+   "team": "Gmütlichkeit Luckenpaint",
+   "singlePoints": "2:10",
+   "teamPoints": "2:4"
   },
   {
    "rank": 11,
-   "team": "Gmütlichkeit Luckenpaint",
-   "singlePoints": "1:9",
-   "teamPoints": "0:4"
+   "team": "SV Fenken",
+   "singlePoints": "5:7",
+   "teamPoints": "0:6"
   },
   {
    "rank": 12,
@@ -2676,19 +2676,19 @@
        "time": "18:00",
        "home": "SV Fenken",
        "away": "Gmütlichkeit Luckenpaint",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 493,
+       "awayRings": 492,
+       "homePoints": 1,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Abt, Markus",
-          "total": 0,
+          "total": 100,
           "series": [
-           0,
+           100,
            0,
            0,
            0
@@ -2697,9 +2697,9 @@
          },
          "away": {
           "name": "Entner, Patrick",
-          "total": 0,
+          "total": 100,
           "series": [
-           0,
+           100,
            0,
            0,
            0
@@ -2713,9 +2713,9 @@
          "position": 2,
          "home": {
           "name": "Sauter, Sophie",
-          "total": 0,
+          "total": 100,
           "series": [
-           0,
+           100,
            0,
            0,
            0
@@ -2724,25 +2724,25 @@
          },
          "away": {
           "name": "Ruhland, Noah",
-          "total": 0,
+          "total": 97,
           "series": [
-           0,
+           97,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Panwar, Divyansh Singh",
-          "total": 0,
+          "total": 99,
           "series": [
-           0,
+           99,
            0,
            0,
            0
@@ -2751,9 +2751,9 @@
          },
          "away": {
           "name": "Karlon, Alexander",
-          "total": 0,
+          "total": 99,
           "series": [
-           0,
+           99,
            0,
            0,
            0
@@ -2767,9 +2767,9 @@
          "position": 4,
          "home": {
           "name": "Wehren, Hannah",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -2778,9 +2778,9 @@
          },
          "away": {
           "name": "Pokorny, Isabella",
-          "total": 0,
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -2788,15 +2788,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Günther, Luisa",
-          "total": 0,
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -2805,9 +2805,9 @@
          },
          "away": {
           "name": "Hauner, Sara-Marie",
-          "total": 0,
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -12271,6 +12271,183 @@
    }
   },
   {
+   "name": "Gmütlichkeit Luckenpaint",
+   "setlist": {
+    "updatedAt": "2026-10-19T22:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Entner, Patrick",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 398.17,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Züger, Muriel",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 396.5,
+      "results": [
+       397,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Ruhland, Noah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394.5,
+      "results": [
+       396,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Karlon, Alexander",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 391.5,
+      "results": [
+       394,
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Neumeyer, Sybille",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 391.08,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Pokorny, Isabella",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       389,
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Dummer, Marion",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388.89,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Hauner, Sara-Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.5,
+      "results": [
+       391,
+       386,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6497388B-44B6-4ED8-A0D7-D894CAB7DF56/3003",
+   "club": {
+    "name": "G`mütlichkeit Luckenpaint e. V.",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Dünzlinger Straße 6",
+    "city": "93107 Thalmassing",
+    "website": "https://www.gmuetlichkeit-luckenpaint.de",
+    "logo": "logos/19A1CFC3-5BCE-4B95-9831-6A33AF1E6309.webp"
+   }
+  },
+  {
    "name": "SV Fenken",
    "setlist": {
     "updatedAt": "2026-10-19T22:22",
@@ -12525,183 +12702,6 @@
     "city": "88281 Schlier-Fenken",
     "website": null,
     "logo": "logos/AD7752DA-1A8A-468F-9613-8092663C6D8C.webp"
-   }
-  },
-  {
-   "name": "Gmütlichkeit Luckenpaint",
-   "setlist": {
-    "updatedAt": "2026-10-19T22:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Entner, Patrick",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 398.17,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Züger, Muriel",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 396.5,
-      "results": [
-       397,
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Ruhland, Noah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394.5,
-      "results": [
-       396,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Karlon, Alexander",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 391.5,
-      "results": [
-       394,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Neumeyer, Sybille",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 391.08,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Pokorny, Isabella",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389,
-      "results": [
-       389,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Dummer, Marion",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388.89,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Hauner, Sara-Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.5,
-      "results": [
-       391,
-       386,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/6497388B-44B6-4ED8-A0D7-D894CAB7DF56/3003",
-   "club": {
-    "name": "G`mütlichkeit Luckenpaint e. V.",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Dünzlinger Straße 6",
-    "city": "93107 Thalmassing",
-    "website": "https://www.gmuetlichkeit-luckenpaint.de",
-    "logo": "logos/19A1CFC3-5BCE-4B95-9831-6A33AF1E6309.webp"
    }
   },
   {
