@@ -2676,8 +2676,8 @@
        "time": "18:00",
        "home": "SV Fenken",
        "away": "Gmütlichkeit Luckenpaint",
-       "homeRings": 988,
-       "awayRings": 979,
+       "homeRings": 1973,
+       "awayRings": 1960,
        "homePoints": 4,
        "awayPoints": 1,
        "played": true,
@@ -2686,23 +2686,23 @@
          "position": 1,
          "home": {
           "name": "Abt, Markus",
-          "total": 199,
+          "total": 397,
           "series": [
            100,
            99,
-           0,
-           0
+           100,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Entner, Patrick",
-          "total": 200,
+          "total": 400,
           "series": [
            100,
            100,
-           0,
-           0
+           100,
+           100
           ],
           "shootOff": null
          },
@@ -2713,23 +2713,23 @@
          "position": 2,
          "home": {
           "name": "Sauter, Sophie",
-          "total": 198,
+          "total": 395,
           "series": [
            100,
            98,
-           0,
-           0
+           100,
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ruhland, Noah",
-          "total": 194,
+          "total": 391,
           "series": [
            97,
            97,
-           0,
-           0
+           100,
+           97
           ],
           "shootOff": null
          },
@@ -2740,23 +2740,23 @@
          "position": 3,
          "home": {
           "name": "Panwar, Divyansh Singh",
-          "total": 199,
+          "total": 395,
           "series": [
            99,
            100,
-           0,
-           0
+           99,
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Karlon, Alexander",
-          "total": 197,
+          "total": 393,
           "series": [
            99,
            98,
-           0,
-           0
+           96,
+           100
           ],
           "shootOff": null
          },
@@ -2767,23 +2767,23 @@
          "position": 4,
          "home": {
           "name": "Wehren, Hannah",
-          "total": 195,
+          "total": 395,
           "series": [
            96,
            99,
-           0,
-           0
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Pokorny, Isabella",
-          "total": 192,
+          "total": 390,
           "series": [
            98,
            94,
-           0,
-           0
+           100,
+           98
           ],
           "shootOff": null
          },
@@ -2794,23 +2794,23 @@
          "position": 5,
          "home": {
           "name": "Günther, Luisa",
-          "total": 197,
+          "total": 391,
           "series": [
            98,
            99,
-           0,
-           0
+           96,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hauner, Sara-Marie",
-          "total": 196,
+          "total": 386,
           "series": [
            98,
            98,
-           0,
-           0
+           93,
+           97
           ],
           "shootOff": null
          },

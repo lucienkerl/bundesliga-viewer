@@ -21,27 +21,27 @@
   },
   {
    "rank": 3,
-   "team": "SF Emsdetten",
+   "team": "SV Wieckenberg",
    "singlePoints": "9:6",
    "teamPoints": "4:2"
   },
   {
    "rank": 4,
+   "team": "SF Emsdetten",
+   "singlePoints": "9:6",
+   "teamPoints": "4:2"
+  },
+  {
+   "rank": 5,
    "team": "SuSC Müllenborn",
    "singlePoints": "8:7",
    "teamPoints": "4:2"
   },
   {
-   "rank": 5,
-   "team": "SV Gölzau",
+   "rank": 6,
+   "team": "SB Freiheit",
    "singlePoints": "7:8",
    "teamPoints": "4:2"
-  },
-  {
-   "rank": 6,
-   "team": "SV Wieckenberg",
-   "singlePoints": "5:5",
-   "teamPoints": "2:2"
   },
   {
    "rank": 7,
@@ -57,7 +57,7 @@
   },
   {
    "rank": 9,
-   "team": "SB Freiheit",
+   "team": "SV Gölzau",
    "singlePoints": "6:9",
    "teamPoints": "2:4"
   },
@@ -70,8 +70,8 @@
   {
    "rank": 11,
    "team": "Braunschweiger SG 1545",
-   "singlePoints": "4:6",
-   "teamPoints": "0:4"
+   "singlePoints": "5:10",
+   "teamPoints": "0:6"
   },
   {
    "rank": 12,
@@ -2222,10 +2222,10 @@
        "time": "18:00",
        "home": "SV Gölzau",
        "away": "SB Freiheit",
-       "homeRings": 1775,
-       "awayRings": 1387,
-       "homePoints": 3,
-       "awayPoints": 2,
+       "homeRings": 1974,
+       "awayRings": 1981,
+       "homePoints": 2,
+       "awayPoints": 3,
        "played": true,
        "pairs": [
         {
@@ -2243,39 +2243,39 @@
          },
          "away": {
           "name": "Rühling, Luisa",
-          "total": 299,
+          "total": 398,
           "series": [
            100,
            99,
            100,
-           0
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Mikolowska, Julia",
-          "total": 298,
+          "total": 397,
           "series": [
            100,
            100,
            98,
-           0
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Fuglerud, Celina Borgen",
-          "total": 299,
+          "total": 398,
           "series": [
            99,
            100,
            100,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -2286,28 +2286,28 @@
          "position": 3,
          "home": {
           "name": "Bartnik, Weronika",
-          "total": 294,
+          "total": 394,
           "series": [
            97,
            99,
            98,
-           0
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Rosenthal, Melanie",
-          "total": 296,
+          "total": 393,
           "series": [
            98,
            98,
            100,
-           0
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 4,
@@ -2324,12 +2324,12 @@
          },
          "away": {
           "name": "Faltinat, Moritz",
-          "total": 294,
+          "total": 394,
           "series": [
            97,
            98,
            99,
-           0
+           100
           ],
           "shootOff": null
          },
@@ -2351,17 +2351,17 @@
          },
          "away": {
           "name": "Uljee, Dean",
-          "total": 199,
+          "total": 398,
           "series": [
            99,
            100,
-           0,
-           0
+           100,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       }
@@ -2676,145 +2676,145 @@
        "time": "18:00",
        "home": "SV Wieckenberg",
        "away": "Braunschweiger SG 1545",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1980,
+       "awayRings": 1964,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Welsch, Dennis",
+          "total": 400,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Gurrik, Isak",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ruschel, Melissa",
+          "total": 399,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           99,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Zimmermann, Selina",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           98,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Grabowski, Katrin",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           100,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wucherpfennig, Angelina",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           96,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Zissel, Robin",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           98,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Karl, Alexander",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Köhnhak, Tim",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           100,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Dockhorn, Finja",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           100,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10532,6 +10532,263 @@
    }
   },
   {
+   "name": "SV Wieckenberg",
+   "setlist": {
+    "updatedAt": "2026-11-06T17:24",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Carlsson, Amanda",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 400,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Leone, Chiara",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 398.5,
+      "results": [
+       399,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Welsch, Dennis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 398,
+      "results": [
+       397,
+       399,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Ruschel, Melissa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 397.5,
+      "results": [
+       398,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Larsen, Henrik",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 397.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Grabowski, Katrin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 397,
+      "results": [
+       396,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Aufrere, Romain",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 395,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Ruschel, Isabell",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 395,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Zissel, Robin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394.5,
+      "results": [
+       397,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Köhnhak, Tim",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 394.14,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Mildeberger, Annalena",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 392,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Lehrich, Tina",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/03552728-5806-4084-AAA6-8572577DE4F6/3002",
+   "club": {
+    "name": "Schützenverein Wieckenberg von 1906 e.V.",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Am Oberfeld 8",
+    "city": "29323 Wietze",
+    "website": null,
+    "logo": null
+   }
+  },
+  {
    "name": "SF Emsdetten",
    "setlist": {
     "updatedAt": "2026-10-31T16:10",
@@ -11018,16 +11275,16 @@
    }
   },
   {
-   "name": "SV Gölzau",
+   "name": "SB Freiheit",
    "setlist": {
     "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
-      "name": "Bartnik, Tomasz",
+      "name": "Hegg Duestad, Jeanette",
       "foreign": "A",
-      "status": "S",
-      "startAverage": 396.78,
+      "status": "E",
+      "startAverage": 399.5,
       "results": [
        0,
        0,
@@ -11044,13 +11301,13 @@
      },
      {
       "rank": 2,
-      "name": "Goldhorn, Magdalena",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
+      "name": "Lindgren, Victor",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399.5,
       "results": [
-       399,
-       393,
+       0,
+       0,
        0,
        0,
        0,
@@ -11064,10 +11321,10 @@
      },
      {
       "rank": 3,
-      "name": "Mikolowska, Julia",
+      "name": "Pietruk, Aleksandra",
       "foreign": "A",
-      "status": "",
-      "startAverage": 394.4,
+      "status": "E",
+      "startAverage": 399.13,
       "results": [
        0,
        0,
@@ -11084,189 +11341,12 @@
      },
      {
       "rank": 4,
-      "name": "Bartnik, Weronika",
-      "foreign": "EU",
-      "status": "",
-      "startAverage": 394.18,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Neumann, Annika",
+      "name": "Rühling, Luisa",
       "foreign": null,
       "status": "S",
-      "startAverage": 394,
+      "startAverage": 398,
       "results": [
-       392,
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Lukaszyk, Rafal",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 393.5,
-      "results": [
-       395,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Thurnwaldova, Sabina",
-      "foreign": "A",
-      "status": "",
-      "startAverage": 393.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Gross, Charleen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392,
-      "results": [
-       394,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Lipinski, Lina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       0,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Bauer, Linda Sophie",
-      "foreign": null,
-      "status": "",
-      "startAverage": 385,
-      "results": [
-       385,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BD595B85-E4BB-4817-8ECD-1435DDEF955D/3002",
-   "club": {
-    "name": "SV Gölzau 1990 e.V.",
-    "federation": "Landesschützenverband Sachsen-Anhalt",
-    "street": "Cösitzer Weg 6",
-    "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
-    "website": null,
-    "logo": null
-   }
-  },
-  {
-   "name": "SV Wieckenberg",
-   "setlist": {
-    "updatedAt": "2026-11-06T17:24",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Carlsson, Amanda",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 400,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Leone, Chiara",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 398.5,
-      "results": [
-       399,
+       398,
        398,
        0,
        0,
@@ -11280,14 +11360,14 @@
       ]
      },
      {
-      "rank": 3,
-      "name": "Welsch, Dennis",
+      "rank": 5,
+      "name": "Müller-Thöle, Michaela",
       "foreign": null,
-      "status": "S",
-      "startAverage": 398,
+      "status": "E",
+      "startAverage": 397.8,
       "results": [
-       397,
-       399,
+       0,
+       0,
        0,
        0,
        0,
@@ -11300,9 +11380,9 @@
       ]
      },
      {
-      "rank": 4,
-      "name": "Ruschel, Melissa",
-      "foreign": null,
+      "rank": 6,
+      "name": "Fuglerud, Celina Borgen",
+      "foreign": "A",
       "status": "E",
       "startAverage": 397.5,
       "results": [
@@ -11320,51 +11400,11 @@
       ]
      },
      {
-      "rank": 5,
-      "name": "Larsen, Henrik",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 397.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Grabowski, Katrin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 397,
-      "results": [
-       396,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "rank": 7,
-      "name": "Aufrere, Romain",
+      "name": "Bardseng Lovseth, Mari",
       "foreign": "A",
       "status": "E",
-      "startAverage": 395,
+      "startAverage": 397,
       "results": [
        0,
        0,
@@ -11381,13 +11421,13 @@
      },
      {
       "rank": 8,
-      "name": "Ruschel, Isabell",
+      "name": "Rosenthal, Melanie",
       "foreign": null,
-      "status": "E",
-      "startAverage": 395,
+      "status": "S",
+      "startAverage": 394,
       "results": [
        0,
-       0,
+       394,
        0,
        0,
        0,
@@ -11401,13 +11441,13 @@
      },
      {
       "rank": 9,
-      "name": "Zissel, Robin",
+      "name": "Faltinat, Moritz",
       "foreign": null,
       "status": "S",
-      "startAverage": 394.5,
+      "startAverage": 393.5,
       "results": [
-       397,
        392,
+       395,
        0,
        0,
        0,
@@ -11421,13 +11461,13 @@
      },
      {
       "rank": 10,
-      "name": "Köhnhak, Tim",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 394.14,
+      "name": "Uljee, Dean",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 392.5,
       "results": [
-       0,
-       0,
+       396,
+       389,
        0,
        0,
        0,
@@ -11441,32 +11481,12 @@
      },
      {
       "rank": 11,
-      "name": "Mildeberger, Annalena",
+      "name": "Meinheit, Jana",
       "foreign": null,
-      "status": "E",
-      "startAverage": 392,
+      "status": "S",
+      "startAverage": 387,
       "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Lehrich, Tina",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
+       387,
        0,
        0,
        0,
@@ -11481,14 +11501,14 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/03552728-5806-4084-AAA6-8572577DE4F6/3002",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A918C8FE-EE02-4ED4-AFDC-E20F9AC9229E/3002",
    "club": {
-    "name": "Schützenverein Wieckenberg von 1906 e.V.",
+    "name": "Schützenbrüderschaft Freiheit e.V.",
     "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Am Oberfeld 8",
-    "city": "29323 Wietze",
-    "website": null,
-    "logo": null
+    "street": "Alte Harzstraße 35",
+    "city": "37520 Osterode am Harz",
+    "website": "https://www.sbfreiheit.de",
+    "logo": "logos/6416AC83-4339-48BB-8658-264C31E0FD8B.webp"
    }
   },
   {
@@ -12086,16 +12106,16 @@
    }
   },
   {
-   "name": "SB Freiheit",
+   "name": "SV Gölzau",
    "setlist": {
     "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
-      "name": "Hegg Duestad, Jeanette",
+      "name": "Bartnik, Tomasz",
       "foreign": "A",
-      "status": "E",
-      "startAverage": 399.5,
+      "status": "S",
+      "startAverage": 396.78,
       "results": [
        0,
        0,
@@ -12112,13 +12132,13 @@
      },
      {
       "rank": 2,
-      "name": "Lindgren, Victor",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399.5,
+      "name": "Goldhorn, Magdalena",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
       "results": [
-       0,
-       0,
+       399,
+       393,
        0,
        0,
        0,
@@ -12132,10 +12152,10 @@
      },
      {
       "rank": 3,
-      "name": "Pietruk, Aleksandra",
+      "name": "Mikolowska, Julia",
       "foreign": "A",
-      "status": "E",
-      "startAverage": 399.13,
+      "status": "",
+      "startAverage": 394.4,
       "results": [
        0,
        0,
@@ -12152,13 +12172,13 @@
      },
      {
       "rank": 4,
-      "name": "Rühling, Luisa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 398,
+      "name": "Bartnik, Weronika",
+      "foreign": "EU",
+      "status": "",
+      "startAverage": 394.18,
       "results": [
-       398,
-       398,
+       0,
+       0,
        0,
        0,
        0,
@@ -12172,13 +12192,13 @@
      },
      {
       "rank": 5,
-      "name": "Müller-Thöle, Michaela",
+      "name": "Neumann, Annika",
       "foreign": null,
-      "status": "E",
-      "startAverage": 397.8,
+      "status": "S",
+      "startAverage": 394,
       "results": [
-       0,
-       0,
+       392,
+       396,
        0,
        0,
        0,
@@ -12192,13 +12212,13 @@
      },
      {
       "rank": 6,
-      "name": "Fuglerud, Celina Borgen",
+      "name": "Lukaszyk, Rafal",
       "foreign": "A",
-      "status": "E",
-      "startAverage": 397.5,
+      "status": "",
+      "startAverage": 393.5,
       "results": [
-       398,
-       397,
+       395,
+       392,
        0,
        0,
        0,
@@ -12212,10 +12232,10 @@
      },
      {
       "rank": 7,
-      "name": "Bardseng Lovseth, Mari",
+      "name": "Thurnwaldova, Sabina",
       "foreign": "A",
-      "status": "E",
-      "startAverage": 397,
+      "status": "",
+      "startAverage": 393.5,
       "results": [
        0,
        0,
@@ -12232,13 +12252,13 @@
      },
      {
       "rank": 8,
-      "name": "Rosenthal, Melanie",
+      "name": "Gross, Charleen",
       "foreign": null,
       "status": "S",
-      "startAverage": 394,
+      "startAverage": 392,
       "results": [
-       0,
        394,
+       390,
        0,
        0,
        0,
@@ -12252,13 +12272,13 @@
      },
      {
       "rank": 9,
-      "name": "Faltinat, Moritz",
+      "name": "Lipinski, Lina",
       "foreign": null,
       "status": "S",
-      "startAverage": 393.5,
+      "startAverage": 391,
       "results": [
-       392,
-       395,
+       0,
+       391,
        0,
        0,
        0,
@@ -12272,32 +12292,12 @@
      },
      {
       "rank": 10,
-      "name": "Uljee, Dean",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 392.5,
-      "results": [
-       396,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Meinheit, Jana",
+      "name": "Bauer, Linda Sophie",
       "foreign": null,
-      "status": "S",
-      "startAverage": 387,
+      "status": "",
+      "startAverage": 385,
       "results": [
-       387,
+       385,
        0,
        0,
        0,
@@ -12312,14 +12312,14 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A918C8FE-EE02-4ED4-AFDC-E20F9AC9229E/3002",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BD595B85-E4BB-4817-8ECD-1435DDEF955D/3002",
    "club": {
-    "name": "Schützenbrüderschaft Freiheit e.V.",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Alte Harzstraße 35",
-    "city": "37520 Osterode am Harz",
-    "website": "https://www.sbfreiheit.de",
-    "logo": "logos/6416AC83-4339-48BB-8658-264C31E0FD8B.webp"
+    "name": "SV Gölzau 1990 e.V.",
+    "federation": "Landesschützenverband Sachsen-Anhalt",
+    "street": "Cösitzer Weg 6",
+    "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
+    "website": null,
+    "logo": null
    }
   },
   {
