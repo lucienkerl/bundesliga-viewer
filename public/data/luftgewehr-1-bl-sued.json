@@ -16,20 +16,20 @@
   {
    "rank": 2,
    "team": "SV Pfeil Vöhringen",
-   "singlePoints": "9:1",
-   "teamPoints": "4:0"
+   "singlePoints": "13:2",
+   "teamPoints": "6:0"
   },
   {
    "rank": 3,
-   "team": "SV Germania Prittlbach",
+   "team": "Bund München",
    "singlePoints": "6:4",
    "teamPoints": "4:0"
   },
   {
    "rank": 4,
-   "team": "Bund München",
-   "singlePoints": "6:4",
-   "teamPoints": "4:0"
+   "team": "SV Germania Prittlbach",
+   "singlePoints": "7:8",
+   "teamPoints": "4:2"
   },
   {
    "rank": 5,
@@ -1926,145 +1926,145 @@
        "time": "15:00",
        "home": "SV Pfeil Vöhringen",
        "away": "SV Germania Prittlbach",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1987,
+       "awayRings": 1982,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Steffen-Dix, Hannah",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Straub, Isabella",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           98,
+           99,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Vanitha Suresh, Naraen Pranav",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           99,
+           99
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Zuntz, Hoshen",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           99,
+           100
           ],
-          "shootOff": null
+          "shootOff": 9
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kraus, Amelie",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           100,
+           99
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Stadler, Lisa",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           99,
+           100
           ],
-          "shootOff": null
+          "shootOff": 9
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Koenders, David",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Germond, Etienne",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           98,
+           100,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Back, Antonia",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Buchmayer, Iris",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           99,
+           100
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -2537,7 +2537,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Einwaller, Dominic",
           "total": 0,
           "series": [
            0,
@@ -2548,7 +2548,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Kuen, Johannes",
           "total": 0,
           "series": [
            0,
@@ -2564,7 +2564,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Webersberger, Ida",
           "total": 0,
           "series": [
            0,
@@ -2575,7 +2575,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Zellinger, Marc",
           "total": 0,
           "series": [
            0,
@@ -2591,7 +2591,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Beyer, Jan Alexander",
           "total": 0,
           "series": [
            0,
@@ -2602,7 +2602,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Ammler, Laura Marie",
           "total": 0,
           "series": [
            0,
@@ -2618,7 +2618,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Westner, Regina",
           "total": 0,
           "series": [
            0,
@@ -2629,7 +2629,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Knoch, Felix",
           "total": 0,
           "series": [
            0,
@@ -2645,7 +2645,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Fischer, Florian",
           "total": 0,
           "series": [
            0,
@@ -2656,7 +2656,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Bergmann, Dominik",
           "total": 0,
           "series": [
            0,
@@ -10612,6 +10612,223 @@
    }
   },
   {
+   "name": "Bund München",
+   "setlist": {
+    "updatedAt": "2026-10-19T22:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Gorsa, Petar",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 400,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Sollazzo, Danilo Dennis",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 400,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Ravishankar, Sri Karthik Sabari Raj",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Ulbrich, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 399,
+      "results": [
+       398,
+       400,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Bühlmeyer, Hanna",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 399,
+      "results": [
+       399,
+       399,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Entrichel, Ales",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 397.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Bühlmeyer, Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 397,
+      "results": [
+       396,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Mangold, Anita",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 396.36,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Tashtchiev, Olga",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       394,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Bauer, Magdalena",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394.5,
+      "results": [
+       394,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/7BBC39A8-035F-4AA3-AFDB-F9521C2AFD79/3003",
+   "club": {
+    "name": "Kgl. priv. FSG \"Der Bund\" Allach",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Servetstr. 1",
+    "city": "80999 München Ot. Allach",
+    "website": "https://www.derbund.de",
+    "logo": "logos/F5F74B8B-2D47-4404-B38D-5B1CA68C68D9.webp"
+   }
+  },
+  {
    "name": "SV Germania Prittlbach",
    "setlist": {
     "updatedAt": "2026-10-19T22:22",
@@ -10846,223 +11063,6 @@
     "city": "85241 Hebertshausen Ot. Prittlbach",
     "website": null,
     "logo": "logos/CFBCD15C-C506-4481-8E11-A854B418C8AC.webp"
-   }
-  },
-  {
-   "name": "Bund München",
-   "setlist": {
-    "updatedAt": "2026-10-19T22:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Gorsa, Petar",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 400,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Sollazzo, Danilo Dennis",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 400,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Ravishankar, Sri Karthik Sabari Raj",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Ulbrich, Maximilian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 399,
-      "results": [
-       398,
-       400,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Bühlmeyer, Hanna",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 399,
-      "results": [
-       399,
-       399,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Entrichel, Ales",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 397.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Bühlmeyer, Daniel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 397,
-      "results": [
-       396,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Mangold, Anita",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 396.36,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Tashtchiev, Olga",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       394,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Bauer, Magdalena",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394.5,
-      "results": [
-       394,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/7BBC39A8-035F-4AA3-AFDB-F9521C2AFD79/3003",
-   "club": {
-    "name": "Kgl. priv. FSG \"Der Bund\" Allach",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Servetstr. 1",
-    "city": "80999 München Ot. Allach",
-    "website": "https://www.derbund.de",
-    "logo": "logos/F5F74B8B-2D47-4404-B38D-5B1CA68C68D9.webp"
    }
   },
   {
