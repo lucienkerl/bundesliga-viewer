@@ -28,7 +28,7 @@
   {
    "rank": 4,
    "team": "SV Hademstorf",
-   "singlePoints": "6:7",
+   "singlePoints": "7:8",
    "teamPoints": "4:2"
   },
   {
@@ -52,7 +52,7 @@
   {
    "rank": 8,
    "team": "SSV Kassau",
-   "singlePoints": "3:15",
+   "singlePoints": "4:16",
    "teamPoints": "0:8"
   }
  ],
@@ -2382,32 +2382,32 @@
        "time": "15:15",
        "home": "SSV Kassau",
        "away": "SV Hademstorf",
-       "homeRings": 386,
-       "awayRings": 295,
-       "homePoints": 1,
-       "awayPoints": 2,
+       "homeRings": 1255,
+       "awayRings": 1070,
+       "homePoints": 2,
+       "awayPoints": 3,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Ehlers, Hannah",
-          "total": 96,
+          "total": 290,
           "series": [
            96,
-           0,
-           0,
+           97,
+           97,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Pape, Janine",
-          "total": 98,
+          "total": 293,
           "series": [
            98,
-           0,
-           0,
+           98,
+           97,
            0
           ],
           "shootOff": null
@@ -2419,22 +2419,49 @@
          "position": 2,
          "home": {
           "name": "Meier, Lina",
-          "total": 97,
+          "total": 289,
           "series": [
            97,
-           0,
-           0,
+           96,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Anastasiadis, Hannah",
-          "total": 99,
+          "total": 198,
           "series": [
            99,
+           99,
            0,
-           0,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 1,
+         "awayPoint": 0
+        },
+        {
+         "position": 3,
+         "home": {
+          "name": "Zupke, Tanja",
+          "total": 289,
+          "series": [
+           98,
+           95,
+           96,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Kluth, Lucy Ann",
+          "total": 294,
+          "series": [
+           98,
+           97,
+           99,
            0
           ],
           "shootOff": null
@@ -2443,50 +2470,23 @@
          "awayPoint": 1
         },
         {
-         "position": 3,
-         "home": {
-          "name": "Zupke, Tanja",
-          "total": 98,
-          "series": [
-           98,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Kluth, Lucy Ann",
-          "total": 98,
-          "series": [
-           98,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 0
-        },
-        {
          "position": 4,
          "home": {
           "name": "Sevke, Natalie",
-          "total": 95,
+          "total": 290,
           "series": [
            95,
-           0,
-           0,
+           97,
+           98,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schulze, Leoni",
-          "total": 0,
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -2500,10 +2500,10 @@
          "position": 5,
          "home": {
           "name": "Dahm, Celina Sophie",
-          "total": 0,
+          "total": 97,
           "series": [
            0,
-           0,
+           97,
            0,
            0
           ],
@@ -2511,17 +2511,17 @@
          },
          "away": {
           "name": "Evers, Chantal",
-          "total": 0,
+          "total": 187,
           "series": [
-           0,
-           0,
+           93,
+           94,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4889,7 +4889,7 @@
        390,
        392,
        0,
-       98,
+       293,
        0,
        0,
        0
@@ -4905,7 +4905,7 @@
        0,
        0,
        0,
-       99,
+       294,
        0,
        0,
        0
@@ -4937,7 +4937,7 @@
        387,
        393,
        0,
-       98,
+       391,
        0,
        0,
        0
@@ -4969,7 +4969,7 @@
        390,
        385,
        0,
-       0,
+       195,
        0,
        0,
        0
@@ -4985,7 +4985,7 @@
        0,
        0,
        0,
-       0,
+       187,
        0,
        0,
        0
@@ -5581,7 +5581,7 @@
        389,
        387,
        386,
-       96,
+       290,
        0,
        0,
        0
@@ -5597,7 +5597,7 @@
        388,
        386,
        386,
-       97,
+       289,
        0,
        0,
        0
@@ -5613,7 +5613,7 @@
        385,
        388,
        379,
-       98,
+       289,
        0,
        0,
        0
@@ -5629,7 +5629,7 @@
        0,
        0,
        0,
-       95,
+       290,
        0,
        0,
        0
@@ -5709,7 +5709,7 @@
        0,
        0,
        0,
-       0,
+       287,
        0,
        0,
        0

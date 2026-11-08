@@ -33,21 +33,21 @@
   },
   {
    "rank": 5,
+   "team": "Sportschützen Niederlauterbach",
+   "singlePoints": "12:8",
+   "teamPoints": "6:2"
+  },
+  {
+   "rank": 6,
    "team": "Isental Lengdorf",
    "singlePoints": "9:6",
    "teamPoints": "4:2"
   },
   {
-   "rank": 6,
-   "team": "Sportschützen Niederlauterbach",
-   "singlePoints": "8:7",
-   "teamPoints": "4:2"
-  },
-  {
    "rank": 7,
    "team": "SG Aich",
-   "singlePoints": "7:8",
-   "teamPoints": "4:2"
+   "singlePoints": "8:12",
+   "teamPoints": "4:4"
   },
   {
    "rank": 8,
@@ -3482,145 +3482,145 @@
        "time": "14:45",
        "home": "Sportschützen Niederlauterbach",
        "away": "SG Aich",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1967,
+       "awayRings": 1957,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Lechner, Sara",
-          "total": 0,
+          "total": 399,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           99,
+           100
           ],
-          "shootOff": null
+          "shootOff": 10.6
          },
          "away": {
           "name": "Tristl, Martina",
-          "total": 0,
+          "total": 399,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           99
           ],
-          "shootOff": null
+          "shootOff": 9.8
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
           "name": "Plank, Melanie",
-          "total": 0,
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           100,
+           96
           ],
           "shootOff": null
          },
          "away": {
           "name": "Eberlberger, Florian",
-          "total": 0,
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           99,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
           "name": "Weithaler, Simon",
-          "total": 0,
+          "total": 400,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Lang, Angelika",
-          "total": 0,
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           98,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Eiglsperger, Simon",
-          "total": 0,
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schwerer, Marie",
-          "total": 0,
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           96,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Bauer, Jessica",
-          "total": 0,
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           96,
+           97,
+           96
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schober, Samuel",
-          "total": 0,
+          "total": 383,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           95,
+           97,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -3639,7 +3639,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Geiger, Sarah",
           "total": 0,
           "series": [
            0,
@@ -3650,7 +3650,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Lanzinger, Lena",
           "total": 0,
           "series": [
            0,
@@ -3666,7 +3666,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Grasberger, Brianna",
           "total": 0,
           "series": [
            0,
@@ -3677,7 +3677,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Muxel, Thomas",
           "total": 0,
           "series": [
            0,
@@ -3693,7 +3693,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Waibel, Kiano",
           "total": 0,
           "series": [
            0,
@@ -3704,7 +3704,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Thurner, Marie-Christin",
           "total": 0,
           "series": [
            0,
@@ -3720,7 +3720,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Rudingsdorfer, Ferdinand",
           "total": 0,
           "series": [
            0,
@@ -3731,7 +3731,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Obermaier, Kerstin",
           "total": 0,
           "series": [
            0,
@@ -3747,7 +3747,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Bauernfeind, Rupert",
           "total": 0,
           "series": [
            0,
@@ -3758,7 +3758,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Zimmer, Christine",
           "total": 0,
           "series": [
            0,
@@ -11036,6 +11036,203 @@
    }
   },
   {
+   "name": "Sportschützen Niederlauterbach",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Hofmann, Olivia",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 399,
+      "results": [
+       400,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Lechner, Sara",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395,
+      "results": [
+       392,
+       398,
+       394,
+       399,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Plank, Melanie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395,
+      "results": [
+       395,
+       395,
+       395,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Weithaler, Simon",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 394.5,
+      "results": [
+       0,
+       0,
+       398,
+       400,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Eiglsperger, Simon",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.5,
+      "results": [
+       394,
+       393,
+       396,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Niedermeier, Svenja",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388.17,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Wagner, Katharina",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 385,
+      "results": [
+       0,
+       385,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Bauer, Jessica",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 384,
+      "results": [
+       384,
+       0,
+       0,
+       385,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Stöhrmann, Marion",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/D809C711-11A7-40B4-8FEB-B5408E8E7AD7/3008",
+   "club": {
+    "name": "Sportschützen Niederlauterbach",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Axelbachstr. 11",
+    "city": "85283 Niederlauterbach",
+    "website": "https://www.sportschuetzen-niederlauterbach.de",
+    "logo": "logos/B4A33213-DB17-472A-9B7D-CCA4B9061D6A.webp"
+   }
+  },
+  {
    "name": "Isental Lengdorf",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -11250,203 +11447,6 @@
     "city": "84435 Lengdorf",
     "website": "https://www.isental-lengdorf.de",
     "logo": "logos/69A01603-ED8A-4C49-A805-C0FF967318E8.webp"
-   }
-  },
-  {
-   "name": "Sportschützen Niederlauterbach",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Hofmann, Olivia",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 399,
-      "results": [
-       400,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Lechner, Sara",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395,
-      "results": [
-       392,
-       398,
-       394,
-       399,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Plank, Melanie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395,
-      "results": [
-       395,
-       395,
-       395,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Weithaler, Simon",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 394.5,
-      "results": [
-       0,
-       0,
-       398,
-       400,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Eiglsperger, Simon",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.5,
-      "results": [
-       394,
-       393,
-       396,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Niedermeier, Svenja",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388.17,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Wagner, Katharina",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 385,
-      "results": [
-       0,
-       385,
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Bauer, Jessica",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 384,
-      "results": [
-       384,
-       0,
-       0,
-       385,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Stöhrmann, Marion",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/D809C711-11A7-40B4-8FEB-B5408E8E7AD7/3008",
-   "club": {
-    "name": "Sportschützen Niederlauterbach",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Axelbachstr. 11",
-    "city": "85283 Niederlauterbach",
-    "website": "https://www.sportschuetzen-niederlauterbach.de",
-    "logo": "logos/B4A33213-DB17-472A-9B7D-CCA4B9061D6A.webp"
    }
   },
   {

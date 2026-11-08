@@ -40,19 +40,19 @@
   {
    "rank": 6,
    "team": "SGi Lübben",
-   "singlePoints": "3:7",
-   "teamPoints": "0:4"
+   "singlePoints": "7:8",
+   "teamPoints": "2:4"
   },
   {
    "rank": 7,
-   "team": "PSSG zu Dresden",
-   "singlePoints": "0:10",
-   "teamPoints": "0:4"
+   "team": "SGi Berlin & Charlottenburg",
+   "singlePoints": "2:13",
+   "teamPoints": "0:6"
   },
   {
    "rank": 8,
-   "team": "SGi Berlin & Charlottenburg",
-   "singlePoints": "2:13",
+   "team": "PSSG zu Dresden",
+   "singlePoints": "1:14",
    "teamPoints": "0:6"
   }
  ],
@@ -1274,145 +1274,145 @@
        "time": "13:00",
        "home": "SGi Lübben",
        "away": "PSSG zu Dresden",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1920,
+       "awayRings": 1905,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hebrock, Moritz",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           99,
+           94,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schönsee, Aspasia",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           98,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schaff, Sören",
+          "total": 383,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           94,
+           97,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Rapps, Fabienne",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           92,
+           96,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Golze, Leni",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           97,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Gerlich, Eva",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           97,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lindow, Sophia",
+          "total": 382,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           94,
+           96
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Röthig, Fredrik",
+          "total": 382,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           97,
+           97,
+           96
           ],
-          "shootOff": null
+          "shootOff": 8
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Graßmann, Svenja",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           95,
+           96,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Klahre, Liara",
+          "total": 375,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           91,
+           99,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -5391,140 +5391,6 @@
    }
   },
   {
-   "name": "PSSG zu Dresden",
-   "setlist": {
-    "updatedAt": "2026-11-02T19:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Schönsee, Aspasia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 384,
-      "results": [
-       384,
-       384,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Rapps, Fabienne",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 382,
-      "results": [
-       382,
-       372,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Trischberger, Anna Maria",
-      "foreign": null,
-      "status": "",
-      "startAverage": 381,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Gerlich, Eva",
-      "foreign": null,
-      "status": "",
-      "startAverage": 380.5,
-      "results": [
-       0,
-       384,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Röthig, Fredrik",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379,
-      "results": [
-       379,
-       383,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Klahre, Liara",
-      "foreign": null,
-      "status": "",
-      "startAverage": 377,
-      "results": [
-       0,
-       375,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Baumann, Manuela",
-      "foreign": null,
-      "status": "",
-      "startAverage": 373.75,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Paul, Felix Peter",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369,
-      "results": [
-       369,
-       372,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Braun, Maximilian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358,
-      "results": [
-       358,
-       372,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/43A8F686-B5BE-42C0-864F-54463B401A31/3005",
-   "club": {
-    "name": "Priv.SSG zu Dresden e.V.",
-    "federation": "Sächsischer Schützenbund",
-    "street": "Langebrücker Str. 10",
-    "city": "01109 Dresden",
-    "website": null,
-    "logo": null
-   }
-  },
-  {
    "name": "SGi Berlin & Charlottenburg",
    "setlist": {
     "updatedAt": "2026-11-02T19:04",
@@ -5668,6 +5534,140 @@
     "street": "Alte Allee 35",
     "city": "14055 Berlin",
     "website": "https://www.schuetzengilde-berlin.de",
+    "logo": null
+   }
+  },
+  {
+   "name": "PSSG zu Dresden",
+   "setlist": {
+    "updatedAt": "2026-11-02T19:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schönsee, Aspasia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 384,
+      "results": [
+       384,
+       384,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Rapps, Fabienne",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 382,
+      "results": [
+       382,
+       372,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Trischberger, Anna Maria",
+      "foreign": null,
+      "status": "",
+      "startAverage": 381,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Gerlich, Eva",
+      "foreign": null,
+      "status": "",
+      "startAverage": 380.5,
+      "results": [
+       0,
+       384,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Röthig, Fredrik",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379,
+      "results": [
+       379,
+       383,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Klahre, Liara",
+      "foreign": null,
+      "status": "",
+      "startAverage": 377,
+      "results": [
+       0,
+       375,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Baumann, Manuela",
+      "foreign": null,
+      "status": "",
+      "startAverage": 373.75,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Paul, Felix Peter",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       369,
+       372,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Braun, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358,
+      "results": [
+       358,
+       372,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/43A8F686-B5BE-42C0-864F-54463B401A31/3005",
+   "club": {
+    "name": "Priv.SSG zu Dresden e.V.",
+    "federation": "Sächsischer Schützenbund",
+    "street": "Langebrücker Str. 10",
+    "city": "01109 Dresden",
+    "website": null,
     "logo": null
    }
   }
