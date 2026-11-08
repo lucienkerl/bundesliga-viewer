@@ -45,33 +45,33 @@
   },
   {
    "rank": 7,
-   "team": "Gemütlichkeit Mertingen",
-   "singlePoints": "7:8",
-   "teamPoints": "2:4"
-  },
-  {
-   "rank": 8,
    "team": "Eichenlaub Saltendorf",
    "singlePoints": "7:8",
    "teamPoints": "2:4"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "team": "Eichenlaub Unterstall",
    "singlePoints": "5:10",
    "teamPoints": "2:4"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "team": "SG Endorf",
    "singlePoints": "7:13",
    "teamPoints": "2:6"
   },
   {
+   "rank": 10,
+   "team": "Gemütlichkeit Mertingen",
+   "singlePoints": "7:10",
+   "teamPoints": "2:6"
+  },
+  {
    "rank": 11,
    "team": "Gmütlichkeit Luckenpaint",
-   "singlePoints": "2:13",
-   "teamPoints": "0:6"
+   "singlePoints": "4:13",
+   "teamPoints": "2:6"
   },
   {
    "rank": 12,
@@ -3442,11 +3442,11 @@
        "time": "11:30",
        "home": "Gemütlichkeit Mertingen",
        "away": "Gmütlichkeit Luckenpaint",
-       "homeRings": 0,
-       "awayRings": 0,
+       "homeRings": 98,
+       "awayRings": 297,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
@@ -3463,9 +3463,9 @@
          },
          "away": {
           "name": "Entner, Patrick",
-          "total": 0,
+          "total": 100,
           "series": [
-           0,
+           100,
            0,
            0,
            0
@@ -3473,7 +3473,7 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
@@ -3490,9 +3490,9 @@
          },
          "away": {
           "name": "Ruhland, Noah",
-          "total": 0,
+          "total": 99,
           "series": [
-           0,
+           99,
            0,
            0,
            0
@@ -3500,7 +3500,7 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
@@ -3533,9 +3533,9 @@
          "position": 4,
          "home": {
           "name": "Beer, Florian",
-          "total": 0,
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -3544,9 +3544,9 @@
          },
          "away": {
           "name": "Pokorny, Isabella",
-          "total": 0,
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -11520,263 +11520,6 @@
    }
   },
   {
-   "name": "Gemütlichkeit Mertingen",
-   "setlist": {
-    "updatedAt": "2026-10-19T22:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Jäggi, Vivien",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Jäggi, Emely",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Mathis, Thomas",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Pribitzer, Marlene",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 398.5,
-      "results": [
-       399,
-       398,
-       399,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Ferner, Florian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       395,
-       393,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Hafner, Katharina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       396,
-       390,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Beer, Florian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       397,
-       389,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Müller, Sophia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.5,
-      "results": [
-       393,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Herr, Claudia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390.8,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Schröttle, Verena",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388.5,
-      "results": [
-       0,
-       0,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Hasenhündl, Sarah",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 384.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Zott, Georg",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BEB3E0E1-2A92-4BD3-BC55-215B446CB751/3003",
-   "club": {
-    "name": "Gemütlichkeit Mertingen",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Hagenmühlenweg 14",
-    "city": "86690 Mertingen",
-    "website": "https://schuetzenverein-mertingen.de/",
-    "logo": "logos/2F1BD3B4-A673-4D37-99EA-7542C0713723.webp"
-   }
-  },
-  {
    "name": "Eichenlaub Saltendorf",
    "setlist": {
     "updatedAt": "2026-10-19T22:22",
@@ -12528,6 +12271,263 @@
    }
   },
   {
+   "name": "Gemütlichkeit Mertingen",
+   "setlist": {
+    "updatedAt": "2026-10-19T22:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Jäggi, Vivien",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Jäggi, Emely",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Mathis, Thomas",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Pribitzer, Marlene",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 398.5,
+      "results": [
+       399,
+       398,
+       399,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Ferner, Florian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       395,
+       393,
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Hafner, Katharina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       396,
+       390,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Beer, Florian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       397,
+       389,
+       394,
+       98,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Müller, Sophia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391.5,
+      "results": [
+       393,
+       390,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Herr, Claudia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390.8,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Schröttle, Verena",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388.5,
+      "results": [
+       0,
+       0,
+       390,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Hasenhündl, Sarah",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 384.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Zott, Georg",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BEB3E0E1-2A92-4BD3-BC55-215B446CB751/3003",
+   "club": {
+    "name": "Gemütlichkeit Mertingen",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Hagenmühlenweg 14",
+    "city": "86690 Mertingen",
+    "website": "https://schuetzenverein-mertingen.de/",
+    "logo": "logos/2F1BD3B4-A673-4D37-99EA-7542C0713723.webp"
+   }
+  },
+  {
    "name": "Gmütlichkeit Luckenpaint",
    "setlist": {
     "updatedAt": "2026-10-19T22:22",
@@ -12542,7 +12542,7 @@
        0,
        0,
        400,
-       0,
+       100,
        0,
        0,
        0,
@@ -12582,7 +12582,7 @@
        396,
        393,
        391,
-       0,
+       99,
        0,
        0,
        0,
@@ -12642,7 +12642,7 @@
        389,
        389,
        390,
-       0,
+       98,
        0,
        0,
        0,
