@@ -2234,8 +2234,8 @@
        "time": "13:40",
        "home": "SV Bramstedt",
        "away": "SV Ladekop",
-       "homeRings": 1290,
-       "awayRings": 879,
+       "homeRings": 1778,
+       "awayRings": 1273,
        "homePoints": 4,
        "awayPoints": 1,
        "played": true,
@@ -2244,23 +2244,23 @@
          "position": 1,
          "home": {
           "name": "Kohlwey, Lilly",
-          "total": 300,
+          "total": 398,
           "series": [
            100,
            100,
            100,
-           0
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Busch, Hanna",
-          "total": 298,
+          "total": 396,
           "series": [
            99,
            99,
            100,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -2271,23 +2271,23 @@
          "position": 2,
          "home": {
           "name": "Strüwing, Melia",
-          "total": 199,
+          "total": 298,
           "series": [
            99,
            100,
-           0,
+           99,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Meinking, Luise",
-          "total": 297,
+          "total": 396,
           "series": [
            98,
            100,
            99,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -2298,22 +2298,22 @@
          "position": 3,
          "home": {
           "name": "Kölling, Finja",
-          "total": 299,
+          "total": 396,
           "series": [
            100,
            100,
            99,
-           0
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Meinking, Alexander",
-          "total": 98,
+          "total": 295,
           "series": [
            98,
-           0,
-           0,
+           98,
+           99,
            0
           ],
           "shootOff": null
@@ -2325,12 +2325,12 @@
          "position": 4,
          "home": {
           "name": "Rothe, Vanessa",
-          "total": 295,
+          "total": 395,
           "series": [
            97,
            98,
            100,
-           0
+           100
           ],
           "shootOff": null
          },
@@ -2352,11 +2352,11 @@
          "position": 5,
          "home": {
           "name": "Habekost, Rieke",
-          "total": 197,
+          "total": 291,
           "series": [
            97,
            100,
-           0,
+           94,
            0
           ],
           "shootOff": null
@@ -4390,7 +4390,7 @@
        395,
        399,
        395,
-       300,
+       398,
        0,
        0,
        0
@@ -4406,7 +4406,7 @@
        395,
        398,
        399,
-       199,
+       298,
        0,
        0,
        0
@@ -4422,7 +4422,7 @@
        396,
        0,
        395,
-       299,
+       396,
        0,
        0,
        0
@@ -4454,7 +4454,7 @@
        397,
        392,
        392,
-       295,
+       395,
        0,
        0,
        0
@@ -4518,7 +4518,7 @@
        0,
        388,
        392,
-       197,
+       291,
        0,
        0,
        0
@@ -4551,7 +4551,7 @@
        397,
        394,
        0,
-       298,
+       396,
        0,
        0,
        0
@@ -4583,7 +4583,7 @@
        394,
        394,
        0,
-       297,
+       396,
        0,
        0,
        0
@@ -4599,7 +4599,7 @@
        390,
        392,
        0,
-       98,
+       295,
        0,
        0,
        0
