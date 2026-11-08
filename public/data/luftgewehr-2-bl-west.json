@@ -34,7 +34,7 @@
   {
    "rank": 5,
    "team": "SSGem Kevelaer 2005 e.V.",
-   "singlePoints": "6:7",
+   "singlePoints": "7:8",
    "teamPoints": "4:2"
   },
   {
@@ -45,14 +45,14 @@
   },
   {
    "rank": 7,
-   "team": "PSS Inden/Altdorf",
+   "team": "SGes Heepen",
    "singlePoints": "2:13",
    "teamPoints": "0:6"
   },
   {
    "rank": 8,
-   "team": "SGes Heepen",
-   "singlePoints": "1:12",
+   "team": "PSS Inden/Altdorf",
+   "singlePoints": "2:13",
    "teamPoints": "0:6"
   }
  ],
@@ -1458,10 +1458,10 @@
        "time": "13:00",
        "home": "SSGem Kevelaer 2005 e.V.",
        "away": "SGes Heepen",
-       "homeRings": 897,
-       "awayRings": 0,
-       "homePoints": 3,
-       "awayPoints": 0,
+       "homeRings": 1290,
+       "awayRings": 1558,
+       "homePoints": 4,
+       "awayPoints": 1,
        "played": true,
        "pairs": [
         {
@@ -1478,13 +1478,13 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schmidt, Tim",
+          "total": 383,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           95,
+           94
           ],
           "shootOff": null
          },
@@ -1506,17 +1506,17 @@
          },
          "away": {
           "name": "Jockel, Maximilian",
-          "total": 0,
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
@@ -1533,12 +1533,12 @@
          },
          "away": {
           "name": "Münster, Veronique",
-          "total": 0,
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
@@ -1576,27 +1576,27 @@
          "position": 5,
          "home": {
           "name": "Schiltauer, Maja",
-          "total": 0,
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Voßfänger, Eva-Catharina",
-          "total": 0,
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           99,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -5115,7 +5115,7 @@
       "results": [
        393,
        394,
-       0,
+       396,
        0,
        0,
        0,
@@ -5155,7 +5155,7 @@
       "results": [
        386,
        395,
-       97,
+       389,
        0,
        0,
        0,
@@ -5175,7 +5175,7 @@
       "results": [
        390,
        389,
-       0,
+       393,
        0,
        0,
        0,
@@ -5424,6 +5424,183 @@
    }
   },
   {
+   "name": "SGes Heepen",
+   "setlist": {
+    "updatedAt": "2026-10-20T18:57",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schmidt, Tim",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 394,
+      "results": [
+       0,
+       394,
+       383,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Jockel, Maximilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390,
+      "results": [
+       390,
+       390,
+       390,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Münster, Veronique",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.5,
+      "results": [
+       0,
+       0,
+       394,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Günzler, Rebecca",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388.5,
+      "results": [
+       390,
+       387,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Klaiber, Jonas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 387,
+      "results": [
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Haverich, Bjarne",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 380,
+      "results": [
+       0,
+       380,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Lutter-Schwarz, Manuel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.5,
+      "results": [
+       384,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Büscher, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 376,
+      "results": [
+       376,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Voßfänger, Eva-Catharina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       391,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Effertz, Philipp",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/694459B5-48E0-4A7B-A500-0AEFB1BE72BC/3006",
+   "club": {
+    "name": "SGes Heepen e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Salzufler Str. 108a",
+    "city": "33719 Bielefeld",
+    "website": "https://heeper-schützen.de",
+    "logo": null
+   }
+  },
+  {
    "name": "PSS Inden/Altdorf",
    "setlist": {
     "updatedAt": "2026-11-04T14:13",
@@ -5598,183 +5775,6 @@
     "city": "52459 Inden/Altdorf",
     "website": "https://www.pssonline.de",
     "logo": "logos/FE61512D-A01C-4A1B-A477-AAE64E6C41AF.webp"
-   }
-  },
-  {
-   "name": "SGes Heepen",
-   "setlist": {
-    "updatedAt": "2026-10-20T18:57",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Schmidt, Tim",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 394,
-      "results": [
-       0,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Jockel, Maximilian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390,
-      "results": [
-       390,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Münster, Veronique",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Günzler, Rebecca",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388.5,
-      "results": [
-       390,
-       387,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Klaiber, Jonas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 387,
-      "results": [
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Haverich, Bjarne",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 380,
-      "results": [
-       0,
-       380,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Lutter-Schwarz, Manuel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 379.5,
-      "results": [
-       384,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Büscher, Christian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 376,
-      "results": [
-       376,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Voßfänger, Eva-Catharina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Effertz, Philipp",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/694459B5-48E0-4A7B-A500-0AEFB1BE72BC/3006",
-   "club": {
-    "name": "SGes Heepen e.V.",
-    "federation": "Westfälischer Schützenbund",
-    "street": "Salzufler Str. 108a",
-    "city": "33719 Bielefeld",
-    "website": "https://heeper-schützen.de",
-    "logo": null
    }
   }
  ]

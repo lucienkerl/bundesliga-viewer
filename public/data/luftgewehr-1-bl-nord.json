@@ -16,8 +16,8 @@
   {
    "rank": 2,
    "team": "SSV St. Hubertus Elsen",
-   "singlePoints": "13:6",
-   "teamPoints": "6:2"
+   "singlePoints": "16:4",
+   "teamPoints": "8:0"
   },
   {
    "rank": 3,
@@ -45,26 +45,26 @@
   },
   {
    "rank": 7,
-   "team": "SV Gölzau",
-   "singlePoints": "9:10",
-   "teamPoints": "4:4"
-  },
-  {
-   "rank": 8,
    "team": "SV Kamen",
    "singlePoints": "7:8",
    "teamPoints": "2:4"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "team": "BSV Buer-Bülse",
    "singlePoints": "5:10",
    "teamPoints": "2:4"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "team": "Ohligser SGem 75/03",
    "singlePoints": "9:11",
+   "teamPoints": "2:6"
+  },
+  {
+   "rank": 10,
+   "team": "SV Gölzau",
+   "singlePoints": "7:13",
    "teamPoints": "2:6"
   },
   {
@@ -3136,10 +3136,10 @@
        "time": "13:00",
        "home": "SV Gölzau",
        "away": "SSV St. Hubertus Elsen",
-       "homeRings": 1672,
-       "awayRings": 1389,
-       "homePoints": 3,
-       "awayPoints": 1,
+       "homeRings": 1965,
+       "awayRings": 1887,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
@@ -3157,28 +3157,28 @@
          },
          "away": {
           "name": "Ruppel, Lea",
-          "total": 198,
+          "total": 397,
           "series": [
            99,
            99,
-           0,
-           0
+           100,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Bartnik, Weronika",
-          "total": 295,
+          "total": 391,
           "series": [
            98,
            99,
            98,
-           0
+           96
           ],
           "shootOff": null
          },
@@ -3200,49 +3200,49 @@
          "position": 3,
          "home": {
           "name": "Neumann, Annika",
-          "total": 298,
+          "total": 396,
           "series": [
            99,
            100,
            99,
-           0
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hofmann Badea, Nora-Lee",
-          "total": 298,
+          "total": 398,
           "series": [
            99,
            100,
            99,
-           0
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Thurnwaldova, Sabina",
-          "total": 296,
+          "total": 395,
           "series": [
            97,
            100,
            99,
-           0
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kaps, Jessie",
-          "total": 198,
+          "total": 297,
           "series": [
            98,
            100,
-           0,
+           99,
            0
           ],
           "shootOff": null
@@ -3265,17 +3265,17 @@
          },
          "away": {
           "name": "Nagaraja, Sri Krishna",
-          "total": 298,
+          "total": 398,
           "series": [
            100,
            99,
            99,
-           0
+           100
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       }
@@ -10369,7 +10369,7 @@
        399,
        400,
        397,
-       198,
+       397,
        0,
        0,
        0,
@@ -10429,7 +10429,7 @@
        396,
        397,
        397,
-       199,
+       398,
        0,
        0,
        0,
@@ -10449,7 +10449,7 @@
        396,
        0,
        398,
-       198,
+       395,
        0,
        0,
        0,
@@ -10509,7 +10509,7 @@
        0,
        0,
        0,
-       298,
+       398,
        0,
        0,
        0,
@@ -11512,223 +11512,6 @@
    }
   },
   {
-   "name": "SV Gölzau",
-   "setlist": {
-    "updatedAt": "2026-10-20T14:44",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Bartnik, Tomasz",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 396.78,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Goldhorn, Magdalena",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       399,
-       393,
-       396,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Mikolowska, Julia",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 394.4,
-      "results": [
-       0,
-       0,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Bartnik, Weronika",
-      "foreign": "EU",
-      "status": "E",
-      "startAverage": 394.18,
-      "results": [
-       0,
-       0,
-       394,
-       295,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Neumann, Annika",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       392,
-       396,
-       396,
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Lukaszyk, Rafal",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 393.5,
-      "results": [
-       395,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Thurnwaldova, Sabina",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 393.5,
-      "results": [
-       0,
-       0,
-       0,
-       296,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Gross, Charleen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392,
-      "results": [
-       394,
-       390,
-       0,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Lipinski, Lina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       0,
-       391,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Bauer, Linda Sophie",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 385,
-      "results": [
-       385,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BD595B85-E4BB-4817-8ECD-1435DDEF955D/3002",
-   "club": {
-    "name": "SV Gölzau 1990 e.V.",
-    "federation": "Landesschützenverband Sachsen-Anhalt",
-    "street": "Cösitzer Weg 6",
-    "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
-    "website": null,
-    "logo": null
-   }
-  },
-  {
    "name": "SV Kamen",
    "setlist": {
     "updatedAt": "2026-10-20T14:44",
@@ -12556,6 +12339,223 @@
     "street": "Ohligser Schützenplatz 20",
     "city": "42697 Solingen",
     "website": "https://www.Ohligser-SG.de",
+    "logo": null
+   }
+  },
+  {
+   "name": "SV Gölzau",
+   "setlist": {
+    "updatedAt": "2026-10-20T14:44",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Bartnik, Tomasz",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 396.78,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Goldhorn, Magdalena",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       399,
+       393,
+       396,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Mikolowska, Julia",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 394.4,
+      "results": [
+       0,
+       0,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Bartnik, Weronika",
+      "foreign": "EU",
+      "status": "E",
+      "startAverage": 394.18,
+      "results": [
+       0,
+       0,
+       394,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Neumann, Annika",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       392,
+       396,
+       396,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Lukaszyk, Rafal",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 393.5,
+      "results": [
+       395,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Thurnwaldova, Sabina",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 393.5,
+      "results": [
+       0,
+       0,
+       0,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Gross, Charleen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392,
+      "results": [
+       394,
+       390,
+       0,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Lipinski, Lina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391,
+      "results": [
+       0,
+       391,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Bauer, Linda Sophie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 385,
+      "results": [
+       385,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BD595B85-E4BB-4817-8ECD-1435DDEF955D/3002",
+   "club": {
+    "name": "SV Gölzau 1990 e.V.",
+    "federation": "Landesschützenverband Sachsen-Anhalt",
+    "street": "Cösitzer Weg 6",
+    "city": "06369 Südl.Anhalt OT Weißandt-Gölzau",
+    "website": null,
     "logo": null
    }
   },
