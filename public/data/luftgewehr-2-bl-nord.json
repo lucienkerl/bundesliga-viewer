@@ -27,27 +27,27 @@
   },
   {
    "rank": 4,
-   "team": "SB Freiheit II",
-   "singlePoints": "4:6",
-   "teamPoints": "2:2"
-  },
-  {
-   "rank": 5,
    "team": "SV Neuenfelde",
    "singlePoints": "4:6",
    "teamPoints": "2:2"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "team": "SV Hademstorf",
    "singlePoints": "4:6",
    "teamPoints": "2:2"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "team": "KKS Nordstemmen",
-   "singlePoints": "3:7",
-   "teamPoints": "0:4"
+   "singlePoints": "6:9",
+   "teamPoints": "2:4"
+  },
+  {
+   "rank": 7,
+   "team": "SB Freiheit II",
+   "singlePoints": "6:9",
+   "teamPoints": "2:4"
   },
   {
    "rank": 8,
@@ -1310,146 +1310,146 @@
        "time": "10:00",
        "home": "SB Freiheit II",
        "away": "KKS Nordstemmen",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1929,
+       "awayRings": 1945,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Völker, Jacqueline",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           100,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wichmann, Lea",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           99,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Callsen, Emilia",
+          "total": 378,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           93,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schröter, Simon",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           99,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lomowski, Layla Arabella",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Klingebiel, Dana",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           95,
+           94,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Freese, Jakob",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           94,
+           97,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Korf, Finnja",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           97,
+           97,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Laukamp, Naja",
+          "total": 381,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           97,
+           92,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Preiß, Patricia",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -1717,7 +1717,7 @@
           "shootOff": null
          },
          "away": {
-          "name": "Hartmann, Carmen",
+          "name": "Rothe, Vanessa",
           "total": 392,
           "series": [
            97,
@@ -1744,7 +1744,7 @@
           "shootOff": null
          },
          "away": {
-          "name": "Rothe, Vanessa",
+          "name": "Habekost, Rieke",
           "total": 392,
           "series": [
            99,
@@ -4437,7 +4437,7 @@
       "results": [
        395,
        397,
-       392,
+       0,
        0,
        0,
        0,
@@ -4517,7 +4517,7 @@
       "results": [
        0,
        388,
-       0,
+       392,
        0,
        0,
        0,
@@ -4824,199 +4824,6 @@
     "city": "26125 Oldenburg",
     "website": "https://xn--schtzenverein-wechloy-bic.de/",
     "logo": "logos/64BD6B43-1B67-4A7B-BAA4-E3E041296B4B.webp"
-   }
-  },
-  {
-   "name": "SB Freiheit II",
-   "setlist": {
-    "updatedAt": "2026-10-27T09:41",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Völker, Jacqueline",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       0,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Beutenmüller, Lena",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390.43,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Callsen, Emilia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390,
-      "results": [
-       0,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Petersen, Betina Ljunggren",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 389,
-      "results": [
-       388,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Lomowski, Layla Arabella",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388.5,
-      "results": [
-       388,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Freese, Jakob",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 385,
-      "results": [
-       385,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Ahrendt, Lisa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 384,
-      "results": [
-       384,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Schäfer, Lea",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 380,
-      "results": [
-       380,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Laukamp, Naja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379,
-      "results": [
-       0,
-       379,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Richter, Tobias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Meissner, Sören",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A918C8FE-EE02-4ED4-AFDC-E20F9AC9229E/3004",
-   "club": {
-    "name": "Schützenbrüderschaft Freiheit e.V.",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Alte Harzstraße 35",
-    "city": "37520 Osterode am Harz",
-    "website": "https://www.sbfreiheit.de",
-    "logo": "logos/6416AC83-4339-48BB-8658-264C31E0FD8B.webp"
    }
   },
   {
@@ -5403,7 +5210,7 @@
       "results": [
        389,
        387,
-       0,
+       390,
        0,
        0,
        0,
@@ -5419,7 +5226,7 @@
       "results": [
        382,
        393,
-       0,
+       390,
        0,
        0,
        0,
@@ -5467,7 +5274,7 @@
       "results": [
        381,
        391,
-       0,
+       384,
        0,
        0,
        0,
@@ -5483,7 +5290,7 @@
       "results": [
        0,
        0,
-       0,
+       388,
        0,
        0,
        0,
@@ -5547,7 +5354,7 @@
       "results": [
        0,
        0,
-       0,
+       393,
        0,
        0,
        0,
@@ -5564,6 +5371,199 @@
     "city": "31171 Nordstemmen",
     "website": null,
     "logo": null
+   }
+  },
+  {
+   "name": "SB Freiheit II",
+   "setlist": {
+    "updatedAt": "2026-10-27T09:41",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Völker, Jacqueline",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391,
+      "results": [
+       0,
+       391,
+       391,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Beutenmüller, Lena",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390.43,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Callsen, Emilia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390,
+      "results": [
+       0,
+       390,
+       378,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Petersen, Betina Ljunggren",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 389,
+      "results": [
+       388,
+       390,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Lomowski, Layla Arabella",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 388.5,
+      "results": [
+       388,
+       389,
+       395,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Freese, Jakob",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385,
+      "results": [
+       385,
+       0,
+       384,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Ahrendt, Lisa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 384,
+      "results": [
+       384,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Schäfer, Lea",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 380,
+      "results": [
+       380,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Laukamp, Naja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379,
+      "results": [
+       0,
+       379,
+       381,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Richter, Tobias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Meissner, Sören",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A918C8FE-EE02-4ED4-AFDC-E20F9AC9229E/3004",
+   "club": {
+    "name": "Schützenbrüderschaft Freiheit e.V.",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Alte Harzstraße 35",
+    "city": "37520 Osterode am Harz",
+    "website": "https://www.sbfreiheit.de",
+    "logo": "logos/6416AC83-4339-48BB-8658-264C31E0FD8B.webp"
    }
   },
   {
