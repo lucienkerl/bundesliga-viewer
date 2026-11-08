@@ -40,8 +40,8 @@
   {
    "rank": 6,
    "team": "Isental Lengdorf",
-   "singlePoints": "11:8",
-   "teamPoints": "6:2"
+   "singlePoints": "11:9",
+   "teamPoints": "4:4"
   },
   {
    "rank": 7,
@@ -51,14 +51,14 @@
   },
   {
    "rank": 8,
-   "team": "Hubertus Kastl",
+   "team": "kgl. priv. FSG Titting",
    "singlePoints": "9:11",
    "teamPoints": "2:6"
   },
   {
    "rank": 9,
-   "team": "SSG RWS Fürth 2",
-   "singlePoints": "7:12",
+   "team": "Hubertus Kastl",
+   "singlePoints": "9:11",
    "teamPoints": "2:6"
   },
   {
@@ -69,14 +69,14 @@
   },
   {
    "rank": 11,
-   "team": "kgl. priv. FSG Titting",
-   "singlePoints": "8:11",
-   "teamPoints": "0:8"
+   "team": "SV Edelweiß Mendorf",
+   "singlePoints": "5:15",
+   "teamPoints": "2:6"
   },
   {
    "rank": 12,
-   "team": "SV Edelweiß Mendorf",
-   "singlePoints": "4:15",
+   "team": "SSG RWS Fürth 2",
+   "singlePoints": "7:13",
    "teamPoints": "0:8"
   }
  ],
@@ -3326,7 +3326,7 @@
        "away": "SSG RWS Fürth 2",
        "homeRings": 1955,
        "awayRings": 1946,
-       "homePoints": 2,
+       "homePoints": 3,
        "awayPoints": 2,
        "played": true,
        "pairs": [
@@ -3341,7 +3341,7 @@
            98,
            99
           ],
-          "shootOff": null
+          "shootOff": 10.8
          },
          "away": {
           "name": "Scherzer, Paula",
@@ -3352,9 +3352,9 @@
            99,
            98
           ],
-          "shootOff": null
+          "shootOff": 9.9
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
@@ -3632,7 +3632,7 @@
        "away": "Isental Lengdorf",
        "homeRings": 1965,
        "awayRings": 1968,
-       "homePoints": 2,
+       "homePoints": 3,
        "awayPoints": 2,
        "played": true,
        "pairs": [
@@ -3701,7 +3701,7 @@
            98,
            96
           ],
-          "shootOff": null
+          "shootOff": 10.7
          },
          "away": {
           "name": "Thurner, Marie-Christin",
@@ -3712,9 +3712,9 @@
            99,
            98
           ],
-          "shootOff": null
+          "shootOff": 9.9
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
@@ -11647,6 +11647,283 @@
    }
   },
   {
+   "name": "kgl. priv. FSG Titting",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Gugele, Florian",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 397.73,
+      "results": [
+       0,
+       0,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Katz, Klaudie",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 397,
+      "results": [
+       396,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Geiger, Sarah",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 396.5,
+      "results": [
+       398,
+       395,
+       391,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Peskova-Demjen, Daniela",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 395.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Grasberger, Brianna",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       392,
+       396,
+       394,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Waibel, Kiano",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 394,
+      "results": [
+       0,
+       0,
+       0,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schnaidt, Rebecca",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 393.8,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Berreiter, Johanna",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 392.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Seybold, Laura",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       391,
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Urban, Rebecca",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Rudingsdorfer, Ferdinand",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386,
+      "results": [
+       0,
+       386,
+       391,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Bauernfeind, Rupert",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383,
+      "results": [
+       383,
+       0,
+       389,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 13,
+      "name": "Grinzinger, Markus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/34D7C5F5-5671-4978-AB91-0A1C5EECE827/3008",
+   "club": {
+    "name": "Kgl.priv.FSG Anlauterthal Titting",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Am Kreuzberg 27",
+    "city": "85135 Titting",
+    "website": "https://fsg-titting.de",
+    "logo": "logos/63416D72-DCCA-45A9-B311-B07C3CE5AED0.webp"
+   }
+  },
+  {
    "name": "Hubertus Kastl",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -11881,243 +12158,6 @@
     "city": "95506 Kastl",
     "website": "http://www.sportschuetzen-kastl.de/",
     "logo": "logos/58348C25-323A-47A2-B157-23910F03E24B.webp"
-   }
-  },
-  {
-   "name": "SSG RWS Fürth 2",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Scherzer, Paula",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 397,
-      "results": [
-       0,
-       397,
-       391,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Nieberle, Andrea",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       397,
-       395,
-       395,
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Lindner, Mirjam",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       394,
-       392,
-       399,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Rani, Parashara Kodandapani",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 391.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Lederer, Finja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390,
-      "results": [
-       389,
-       391,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Wolf, Maximilian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schrüfer, Sandro",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 389.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Fichtl, Kilian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389,
-      "results": [
-       0,
-       389,
-       0,
-       385,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Petrenko, Dmytro",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 388,
-      "results": [
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Mund, Maleen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 383,
-      "results": [
-       383,
-       0,
-       390,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Lawendel, Julian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 381.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/65168CD6-1090-45E2-AE6B-EF3CC63031C4/3008",
-   "club": {
-    "name": "SSG RWS Fürth",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Kronacher Str. 63",
-    "city": "90765 Fürth",
-    "website": "https://SSG-RWS.de",
-    "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
    }
   },
   {
@@ -12358,283 +12398,6 @@
    }
   },
   {
-   "name": "kgl. priv. FSG Titting",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Gugele, Florian",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 397.73,
-      "results": [
-       0,
-       0,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Katz, Klaudie",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 397,
-      "results": [
-       396,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Geiger, Sarah",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 396.5,
-      "results": [
-       398,
-       395,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Peskova-Demjen, Daniela",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 395.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Grasberger, Brianna",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       392,
-       396,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Waibel, Kiano",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 394,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schnaidt, Rebecca",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 393.8,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Berreiter, Johanna",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 392.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Seybold, Laura",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389,
-      "results": [
-       391,
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Urban, Rebecca",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Rudingsdorfer, Ferdinand",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386,
-      "results": [
-       0,
-       386,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Bauernfeind, Rupert",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 383,
-      "results": [
-       383,
-       0,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 13,
-      "name": "Grinzinger, Markus",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/34D7C5F5-5671-4978-AB91-0A1C5EECE827/3008",
-   "club": {
-    "name": "Kgl.priv.FSG Anlauterthal Titting",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Am Kreuzberg 27",
-    "city": "85135 Titting",
-    "website": "https://fsg-titting.de",
-    "logo": "logos/63416D72-DCCA-45A9-B311-B07C3CE5AED0.webp"
-   }
-  },
-  {
    "name": "SV Edelweiß Mendorf",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -12809,6 +12572,243 @@
     "city": "93336 Mendorf",
     "website": "https://www.sv-edelweiss-mendorf.de/",
     "logo": "logos/C141B6BD-1B54-4128-A037-FBC9583822FA.webp"
+   }
+  },
+  {
+   "name": "SSG RWS Fürth 2",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Scherzer, Paula",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 397,
+      "results": [
+       0,
+       397,
+       391,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Nieberle, Andrea",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       397,
+       395,
+       395,
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Lindner, Mirjam",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       394,
+       392,
+       399,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Rani, Parashara Kodandapani",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 391.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Lederer, Finja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390,
+      "results": [
+       389,
+       391,
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wolf, Maximilian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schrüfer, Sandro",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 389.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Fichtl, Kilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       0,
+       389,
+       0,
+       385,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Petrenko, Dmytro",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Mund, Maleen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383,
+      "results": [
+       383,
+       0,
+       390,
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Lawendel, Julian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 381.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/65168CD6-1090-45E2-AE6B-EF3CC63031C4/3008",
+   "club": {
+    "name": "SSG RWS Fürth",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Kronacher Str. 63",
+    "city": "90765 Fürth",
+    "website": "https://SSG-RWS.de",
+    "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
    }
   }
  ]
