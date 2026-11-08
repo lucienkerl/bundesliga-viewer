@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SSV St. Hubertus Elsen II",
-   "singlePoints": "12:2",
+   "singlePoints": "13:2",
    "teamPoints": "6:0"
   },
   {
@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "SV Petersberg",
-   "singlePoints": "8:6",
+   "singlePoints": "8:7",
    "teamPoints": "2:4"
   },
   {
@@ -1766,7 +1766,7 @@
        "away": "SV Petersberg",
        "homeRings": 1970,
        "awayRings": 1955,
-       "homePoints": 3,
+       "homePoints": 4,
        "awayPoints": 1,
        "played": true,
        "pairs": [
@@ -1835,7 +1835,7 @@
            99,
            99
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "away": {
           "name": "Heck, Jana",
@@ -1846,9 +1846,9 @@
            99,
            100
           ],
-          "shootOff": null
+          "shootOff": 8
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
