@@ -21,8 +21,8 @@
   },
   {
    "rank": 3,
-   "team": "SB Freiheit",
-   "singlePoints": "9:9",
+   "team": "SF Emsdetten",
+   "singlePoints": "13:7",
    "teamPoints": "6:2"
   },
   {
@@ -39,8 +39,8 @@
   },
   {
    "rank": 6,
-   "team": "SF Emsdetten",
-   "singlePoints": "10:8",
+   "team": "SB Freiheit",
+   "singlePoints": "8:12",
    "teamPoints": "4:4"
   },
   {
@@ -2988,65 +2988,65 @@
        "time": "11:30",
        "home": "SB Freiheit",
        "away": "SF Emsdetten",
-       "homeRings": 594,
-       "awayRings": 689,
-       "homePoints": 2,
-       "awayPoints": 1,
+       "homeRings": 1186,
+       "awayRings": 1578,
+       "homePoints": 0,
+       "awayPoints": 5,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Rühling, Luisa",
-          "total": 199,
+          "total": 298,
           "series": [
            100,
            99,
-           0,
+           99,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Fischer, Nike",
-          "total": 199,
+          "total": 299,
           "series": [
            99,
            100,
-           0,
+           100,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Fuglerud, Celina Borgen",
-          "total": 100,
+          "total": 298,
           "series": [
            100,
-           0,
-           0,
+           99,
+           99,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Aleksandrova, Sabine Krista",
-          "total": 97,
+          "total": 394,
           "series": [
            97,
-           0,
-           0,
-           0
+           99,
+           100,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 3,
@@ -3063,53 +3063,53 @@
          },
          "away": {
           "name": "Glohr, Christina",
-          "total": 96,
+          "total": 191,
           "series": [
            96,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 1,
-         "awayPoint": 0
-        },
-        {
-         "position": 4,
-         "home": {
-          "name": "Faltinat, Moritz",
-          "total": 98,
-          "series": [
-           98,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Strik, Tessa",
-          "total": 98,
-          "series": [
-           98,
-           0,
+           95,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Faltinat, Moritz",
+          "total": 295,
+          "series": [
+           98,
+           97,
+           100,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Strik, Tessa",
+          "total": 296,
+          "series": [
+           98,
+           99,
+           99,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Uljee, Dean",
-          "total": 100,
+          "total": 198,
           "series": [
            100,
-           0,
+           98,
            0,
            0
           ],
@@ -3117,12 +3117,12 @@
          },
          "away": {
           "name": "Valera-Soldan, Cedric",
-          "total": 199,
+          "total": 398,
           "series": [
            100,
            99,
-           0,
-           0
+           99,
+           100
           ],
           "shootOff": null
          },
@@ -10532,25 +10532,21 @@
    }
   },
   {
-   "name": "SB Freiheit",
+   "name": "SF Emsdetten",
    "setlist": {
-    "updatedAt": "2026-10-20T14:44",
+    "updatedAt": "2026-10-31T16:10",
     "entries": [
      {
       "rank": 1,
-      "name": "Hegg Duestad, Jeanette",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399.5,
+      "name": "Fischer, Nike",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.5,
       "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
+       395,
+       396,
+       398,
+       299,
        0,
        0,
        0
@@ -10558,19 +10554,15 @@
      },
      {
       "rank": 2,
-      "name": "Lindgren, Victor",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399.5,
+      "name": "Aleksandrova, Sabine Krista",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 395.5,
       "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
+       395,
+       396,
+       393,
+       394,
        0,
        0,
        0
@@ -10578,19 +10570,15 @@
      },
      {
       "rank": 3,
-      "name": "Pietruk, Aleksandra",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399.13,
+      "name": "Glohr, Christina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395,
       "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
+       396,
+       394,
+       391,
+       191,
        0,
        0,
        0
@@ -10598,19 +10586,15 @@
      },
      {
       "rank": 4,
-      "name": "Rühling, Luisa",
-      "foreign": null,
+      "name": "Strik, Tessa",
+      "foreign": "A",
       "status": "S",
-      "startAverage": 398,
+      "startAverage": 394.5,
       "results": [
-       398,
-       398,
-       398,
-       199,
-       0,
-       0,
-       0,
-       0,
+       393,
+       396,
+       399,
+       296,
        0,
        0,
        0
@@ -10618,19 +10602,15 @@
      },
      {
       "rank": 5,
-      "name": "Müller-Thöle, Michaela",
+      "name": "Valera-Soldan, Cedric",
       "foreign": null,
-      "status": "E",
-      "startAverage": 397.8,
+      "status": "S",
+      "startAverage": 393.5,
       "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
+       394,
+       393,
+       396,
+       398,
        0,
        0,
        0
@@ -10638,15 +10618,11 @@
      },
      {
       "rank": 6,
-      "name": "Fuglerud, Celina Borgen",
-      "foreign": "A",
-      "status": "F",
-      "startAverage": 397.5,
+      "name": "Tünte, Iwana",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390,
       "results": [
-       398,
-       397,
-       398,
-       100,
        0,
        0,
        0,
@@ -10658,15 +10634,11 @@
      },
      {
       "rank": 7,
-      "name": "Bardseng Lovseth, Mari",
-      "foreign": "A",
+      "name": "Sonneck, Emilia",
+      "foreign": null,
       "status": "E",
-      "startAverage": 397,
+      "startAverage": 385.14,
       "results": [
-       0,
-       0,
-       0,
-       0,
        0,
        0,
        0,
@@ -10678,15 +10650,11 @@
      },
      {
       "rank": 8,
-      "name": "Rosenthal, Melanie",
+      "name": "Saße-Middelhoff, Andrea",
       "foreign": null,
-      "status": "S",
-      "startAverage": 394,
+      "status": "E",
+      "startAverage": 384.8,
       "results": [
-       0,
-       394,
-       393,
-       97,
        0,
        0,
        0,
@@ -10698,15 +10666,11 @@
      },
      {
       "rank": 9,
-      "name": "Faltinat, Moritz",
+      "name": "Elsbecker, Angelika",
       "foreign": null,
-      "status": "S",
-      "startAverage": 393.5,
+      "status": "E",
+      "startAverage": 383,
       "results": [
-       392,
-       395,
-       394,
-       98,
        0,
        0,
        0,
@@ -10718,15 +10682,11 @@
      },
      {
       "rank": 10,
-      "name": "Uljee, Dean",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 392.5,
+      "name": "Elfering, Nadine",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
       "results": [
-       396,
-       389,
-       398,
-       100,
        0,
        0,
        0,
@@ -10738,15 +10698,27 @@
      },
      {
       "rank": 11,
-      "name": "Meinheit, Jana",
+      "name": "Elsbecker, Dieter",
       "foreign": null,
-      "status": "S",
-      "startAverage": 387,
+      "status": "E",
+      "startAverage": 0,
       "results": [
-       387,
        0,
        0,
        0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Buff, Matthias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
        0,
        0,
        0,
@@ -10758,14 +10730,14 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A918C8FE-EE02-4ED4-AFDC-E20F9AC9229E/3002",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/72EB9820-8635-4A1F-94D5-AB977C0FCAA7/3002",
    "club": {
-    "name": "Schützenbrüderschaft Freiheit e.V.",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Alte Harzstraße 35",
-    "city": "37520 Osterode am Harz",
-    "website": "https://www.sbfreiheit.de",
-    "logo": "logos/6416AC83-4339-48BB-8658-264C31E0FD8B.webp"
+    "name": "SFr Emsdetten e.V.",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Friedrichstraße 4",
+    "city": "48282 Emsdetten",
+    "website": "https://sf-emsdetten.de/",
+    "logo": "logos/A95E660A-498A-4DCA-9764-5EB0E41E136B.webp"
    }
   },
   {
@@ -11303,21 +11275,25 @@
    }
   },
   {
-   "name": "SF Emsdetten",
+   "name": "SB Freiheit",
    "setlist": {
-    "updatedAt": "2026-10-31T16:10",
+    "updatedAt": "2026-10-20T14:44",
     "entries": [
      {
       "rank": 1,
-      "name": "Fischer, Nike",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.5,
+      "name": "Hegg Duestad, Jeanette",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399.5,
       "results": [
-       395,
-       396,
-       398,
-       199,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0
@@ -11325,15 +11301,19 @@
      },
      {
       "rank": 2,
-      "name": "Aleksandrova, Sabine Krista",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 395.5,
+      "name": "Lindgren, Victor",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399.5,
       "results": [
-       395,
-       396,
-       393,
-       97,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0
@@ -11341,15 +11321,19 @@
      },
      {
       "rank": 3,
-      "name": "Glohr, Christina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395,
+      "name": "Pietruk, Aleksandra",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399.13,
       "results": [
-       396,
-       394,
-       391,
-       96,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0
@@ -11357,15 +11341,19 @@
      },
      {
       "rank": 4,
-      "name": "Strik, Tessa",
-      "foreign": "A",
+      "name": "Rühling, Luisa",
+      "foreign": null,
       "status": "S",
-      "startAverage": 394.5,
+      "startAverage": 398,
       "results": [
-       393,
-       396,
-       399,
-       98,
+       398,
+       398,
+       398,
+       298,
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0
@@ -11373,15 +11361,19 @@
      },
      {
       "rank": 5,
-      "name": "Valera-Soldan, Cedric",
+      "name": "Müller-Thöle, Michaela",
       "foreign": null,
-      "status": "S",
-      "startAverage": 393.5,
+      "status": "E",
+      "startAverage": 397.8,
       "results": [
-       394,
-       393,
-       396,
-       298,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0
@@ -11389,11 +11381,15 @@
      },
      {
       "rank": 6,
-      "name": "Tünte, Iwana",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390,
+      "name": "Fuglerud, Celina Borgen",
+      "foreign": "A",
+      "status": "F",
+      "startAverage": 397.5,
       "results": [
+       398,
+       397,
+       398,
+       298,
        0,
        0,
        0,
@@ -11405,11 +11401,15 @@
      },
      {
       "rank": 7,
-      "name": "Sonneck, Emilia",
-      "foreign": null,
+      "name": "Bardseng Lovseth, Mari",
+      "foreign": "A",
       "status": "E",
-      "startAverage": 385.14,
+      "startAverage": 397,
       "results": [
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -11421,11 +11421,15 @@
      },
      {
       "rank": 8,
-      "name": "Saße-Middelhoff, Andrea",
+      "name": "Rosenthal, Melanie",
       "foreign": null,
-      "status": "E",
-      "startAverage": 384.8,
+      "status": "S",
+      "startAverage": 394,
       "results": [
+       0,
+       394,
+       393,
+       97,
        0,
        0,
        0,
@@ -11437,11 +11441,15 @@
      },
      {
       "rank": 9,
-      "name": "Elsbecker, Angelika",
+      "name": "Faltinat, Moritz",
       "foreign": null,
-      "status": "E",
-      "startAverage": 383,
+      "status": "S",
+      "startAverage": 393.5,
       "results": [
+       392,
+       395,
+       394,
+       295,
        0,
        0,
        0,
@@ -11453,11 +11461,15 @@
      },
      {
       "rank": 10,
-      "name": "Elfering, Nadine",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
+      "name": "Uljee, Dean",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 392.5,
       "results": [
+       396,
+       389,
+       398,
+       198,
        0,
        0,
        0,
@@ -11469,27 +11481,15 @@
      },
      {
       "rank": 11,
-      "name": "Elsbecker, Dieter",
+      "name": "Meinheit, Jana",
       "foreign": null,
-      "status": "E",
-      "startAverage": 0,
+      "status": "S",
+      "startAverage": 387,
       "results": [
+       387,
        0,
        0,
        0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Buff, Matthias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
        0,
        0,
        0,
@@ -11501,14 +11501,14 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/72EB9820-8635-4A1F-94D5-AB977C0FCAA7/3002",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A918C8FE-EE02-4ED4-AFDC-E20F9AC9229E/3002",
    "club": {
-    "name": "SFr Emsdetten e.V.",
-    "federation": "Westfälischer Schützenbund",
-    "street": "Friedrichstraße 4",
-    "city": "48282 Emsdetten",
-    "website": "https://sf-emsdetten.de/",
-    "logo": "logos/A95E660A-498A-4DCA-9764-5EB0E41E136B.webp"
+    "name": "Schützenbrüderschaft Freiheit e.V.",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Alte Harzstraße 35",
+    "city": "37520 Osterode am Harz",
+    "website": "https://www.sbfreiheit.de",
+    "logo": "logos/6416AC83-4339-48BB-8658-264C31E0FD8B.webp"
    }
   },
   {
