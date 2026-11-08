@@ -21,39 +21,39 @@
   },
   {
    "rank": 3,
-   "team": "Erlbachtaler-Schützen Niedererlbach",
-   "singlePoints": "10:5",
-   "teamPoints": "4:2"
-  },
-  {
-   "rank": 4,
    "team": "Isental Lengdorf",
    "singlePoints": "9:6",
    "teamPoints": "4:2"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "team": "Sportschützen Niederlauterbach",
    "singlePoints": "8:7",
    "teamPoints": "4:2"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "team": "Falkenschützen Mauerberg",
    "singlePoints": "8:7",
    "teamPoints": "4:2"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "team": "SG Aich",
    "singlePoints": "7:8",
    "teamPoints": "4:2"
   },
   {
+   "rank": 7,
+   "team": "Erlbachtaler-Schützen Niedererlbach",
+   "singlePoints": "11:8",
+   "teamPoints": "4:4"
+  },
+  {
    "rank": 8,
    "team": "Hubertus Kastl",
-   "singlePoints": "7:8",
-   "teamPoints": "2:4"
+   "singlePoints": "10:9",
+   "teamPoints": "4:4"
   },
   {
    "rank": 9,
@@ -3176,31 +3176,31 @@
        "time": "14:45",
        "home": "Erlbachtaler-Schützen Niedererlbach",
        "away": "Hubertus Kastl",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1377,
+       "awayRings": 1575,
+       "homePoints": 1,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Prinz, Jolanda",
+          "total": 196,
           "series": [
-           0,
-           0,
+           98,
+           98,
            0,
            0
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Exenberger, Theresa",
+          "total": 196,
           "series": [
-           0,
-           0,
+           99,
+           97,
            0,
            0
           ],
@@ -3212,110 +3212,110 @@
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schmied, Manuel",
+          "total": 297,
           "series": [
-           0,
-           0,
-           0,
+           98,
+           99,
+           100,
            0
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schuller, Christina",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           100,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Körndl, Nicole",
+          "total": 199,
           "series": [
-           0,
-           0,
+           99,
+           100,
            0,
            0
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Merkl, Eva",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kröner, Linda",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kausler, Maria",
+          "total": 194,
           "series": [
-           0,
-           0,
+           95,
+           99,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Aumann, Thomas",
+          "total": 289,
           "series": [
-           0,
-           0,
-           0,
+           97,
+           96,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Pöllath, Maria",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           99,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -10702,183 +10702,6 @@
    }
   },
   {
-   "name": "Erlbachtaler-Schützen Niedererlbach",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Prinz, Jolanda",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       396,
-       396,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Schmied, Manuel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395,
-      "results": [
-       396,
-       394,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Hatterer, Stephane",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 393.54,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Körndl, Nicole",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.5,
-      "results": [
-       393,
-       392,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kröner, Linda",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 392.5,
-      "results": [
-       389,
-       396,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Huber, Alexander",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388,
-      "results": [
-       0,
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Aumann, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 385,
-      "results": [
-       385,
-       0,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Weber, Fabian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 379.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FDB20C43-C1FB-4B95-83C1-EEBEE9D75758/3008",
-   "club": {
-    "name": "Erlbachtaler-Schützen Niedererlbach",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Moosburger Str. 8A",
-    "city": "84172 Niedererlbach",
-    "website": "https://erlbachtaler-schuetzen.de",
-    "logo": "logos/FE1F415C-9C75-4C14-BB42-088982CFE20A.webp"
-   }
-  },
-  {
    "name": "Isental Lengdorf",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -11647,6 +11470,183 @@
    }
   },
   {
+   "name": "Erlbachtaler-Schützen Niedererlbach",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Prinz, Jolanda",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       396,
+       396,
+       398,
+       196,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schmied, Manuel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395,
+      "results": [
+       396,
+       394,
+       392,
+       297,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Hatterer, Stephane",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 393.54,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Körndl, Nicole",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.5,
+      "results": [
+       393,
+       392,
+       394,
+       199,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kröner, Linda",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 392.5,
+      "results": [
+       389,
+       396,
+       392,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Huber, Alexander",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       0,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Aumann, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385,
+      "results": [
+       385,
+       0,
+       392,
+       289,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Weber, Fabian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FDB20C43-C1FB-4B95-83C1-EEBEE9D75758/3008",
+   "club": {
+    "name": "Erlbachtaler-Schützen Niedererlbach",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Moosburger Str. 8A",
+    "city": "84172 Niedererlbach",
+    "website": "https://erlbachtaler-schuetzen.de",
+    "logo": "logos/FE1F415C-9C75-4C14-BB42-088982CFE20A.webp"
+   }
+  },
+  {
    "name": "Hubertus Kastl",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -11681,7 +11681,7 @@
        391,
        398,
        398,
-       0,
+       196,
        0,
        0,
        0,
@@ -11701,7 +11701,7 @@
        395,
        392,
        390,
-       0,
+       395,
        0,
        0,
        0,
@@ -11721,7 +11721,7 @@
        0,
        393,
        394,
-       0,
+       394,
        0,
        0,
        0,
@@ -11741,7 +11741,7 @@
        390,
        393,
        395,
-       0,
+       194,
        0,
        0,
        0,
@@ -11761,7 +11761,7 @@
        393,
        389,
        395,
-       0,
+       396,
        0,
        0,
        0,
