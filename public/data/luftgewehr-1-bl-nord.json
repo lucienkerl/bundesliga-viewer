@@ -2849,7 +2849,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Misfjord, Aurora",
           "total": 0,
           "series": [
            0,
@@ -2860,7 +2860,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Toma, Réka",
           "total": 0,
           "series": [
            0,
@@ -2876,7 +2876,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Stahl, Franziska",
           "total": 0,
           "series": [
            0,
@@ -2887,7 +2887,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Blos, Michelle",
           "total": 0,
           "series": [
            0,
@@ -2903,7 +2903,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Scholz, Sophie",
           "total": 0,
           "series": [
            0,
@@ -2914,7 +2914,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Hülsmann, Marc",
           "total": 0,
           "series": [
            0,
@@ -2930,7 +2930,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Mockenhaupt, Benedikt",
           "total": 0,
           "series": [
            0,
@@ -2941,7 +2941,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Blos, Bastian",
           "total": 0,
           "series": [
            0,
@@ -2957,7 +2957,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Giegling, Marvin",
           "total": 0,
           "series": [
            0,
@@ -2968,7 +2968,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Ziegler, Antonia Sofie",
           "total": 0,
           "series": [
            0,
@@ -12945,7 +12945,7 @@
       "rank": 9,
       "name": "Mockenhaupt, Benedikt",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 394,
       "results": [
        395,
