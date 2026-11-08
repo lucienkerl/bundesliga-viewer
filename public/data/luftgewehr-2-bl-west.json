@@ -1458,7 +1458,7 @@
        "time": "13:00",
        "home": "SSGem Kevelaer 2005 e.V.",
        "away": "SGes Heepen",
-       "homeRings": 297,
+       "homeRings": 897,
        "awayRings": 0,
        "homePoints": 3,
        "awayPoints": 0,
@@ -1468,17 +1468,17 @@
          "position": 1,
          "home": {
           "name": "Thomas, Alexander",
-          "total": 100,
+          "total": 400,
           "series": [
            100,
-           0,
-           0,
-           0
+           100,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": "Schmidt, Tim",
+          "name": null,
           "total": 0,
           "series": [
            0,
@@ -1522,12 +1522,12 @@
          "position": 3,
          "home": {
           "name": "Schepens, Nicolas",
-          "total": 100,
+          "total": 400,
           "series": [
            100,
-           0,
-           0,
-           0
+           100,
+           100,
+           100
           ],
           "shootOff": null
          },
@@ -5075,7 +5075,7 @@
       "results": [
        0,
        0,
-       100,
+       400,
        0,
        0,
        0,
@@ -5135,7 +5135,7 @@
       "results": [
        392,
        393,
-       100,
+       400,
        0,
        0,
        0,

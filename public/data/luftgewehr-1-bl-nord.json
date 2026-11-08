@@ -16,7 +16,7 @@
   {
    "rank": 2,
    "team": "SSV St. Hubertus Elsen",
-   "singlePoints": "14:6",
+   "singlePoints": "13:6",
    "teamPoints": "6:2"
   },
   {
@@ -46,7 +46,7 @@
   {
    "rank": 7,
    "team": "SV Gölzau",
-   "singlePoints": "9:11",
+   "singlePoints": "9:10",
    "teamPoints": "4:4"
   },
   {
@@ -3136,31 +3136,31 @@
        "time": "13:00",
        "home": "SV Gölzau",
        "away": "SSV St. Hubertus Elsen",
-       "homeRings": 785,
-       "awayRings": 595,
+       "homeRings": 1672,
+       "awayRings": 1389,
        "homePoints": 3,
-       "awayPoints": 2,
+       "awayPoints": 1,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Goldhorn, Magdalena",
-          "total": 194,
+          "total": 392,
           "series": [
            97,
            97,
-           0,
-           0
+           100,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ruppel, Lea",
-          "total": 99,
+          "total": 198,
           "series": [
            99,
-           0,
+           99,
            0,
            0
           ],
@@ -3173,23 +3173,23 @@
          "position": 2,
          "home": {
           "name": "Bartnik, Weronika",
-          "total": 98,
+          "total": 295,
           "series": [
            98,
-           0,
-           0,
+           99,
+           98,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schnerr, Linnea",
-          "total": 199,
+          "total": 397,
           "series": [
            100,
            99,
-           0,
-           0
+           98,
+           100
           ],
           "shootOff": null
          },
@@ -3200,21 +3200,48 @@
          "position": 3,
          "home": {
           "name": "Neumann, Annika",
-          "total": 199,
+          "total": 298,
           "series": [
            99,
            100,
-           0,
+           99,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hofmann Badea, Nora-Lee",
-          "total": 99,
+          "total": 298,
           "series": [
            99,
-           0,
+           100,
+           99,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 0
+        },
+        {
+         "position": 4,
+         "home": {
+          "name": "Thurnwaldova, Sabina",
+          "total": 296,
+          "series": [
+           97,
+           100,
+           99,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Kaps, Jessie",
+          "total": 198,
+          "series": [
+           98,
+           100,
            0,
            0
           ],
@@ -3224,52 +3251,25 @@
          "awayPoint": 0
         },
         {
-         "position": 4,
-         "home": {
-          "name": "Thurnwaldova, Sabina",
-          "total": 97,
-          "series": [
-           97,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Kaps, Jessie",
-          "total": 98,
-          "series": [
-           98,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 1
-        },
-        {
          "position": 5,
          "home": {
           "name": "Gross, Charleen",
-          "total": 197,
+          "total": 391,
           "series": [
            97,
            100,
-           0,
-           0
+           97,
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Nagaraja, Sri Krishna",
-          "total": 100,
+          "total": 298,
           "series": [
            100,
-           0,
-           0,
+           99,
+           99,
            0
           ],
           "shootOff": null
@@ -10369,7 +10369,7 @@
        399,
        400,
        397,
-       99,
+       198,
        0,
        0,
        0,
@@ -10409,7 +10409,7 @@
        396,
        397,
        396,
-       199,
+       397,
        0,
        0,
        0,
@@ -10429,7 +10429,7 @@
        396,
        397,
        397,
-       99,
+       199,
        0,
        0,
        0,
@@ -10449,7 +10449,7 @@
        396,
        0,
        398,
-       98,
+       198,
        0,
        0,
        0,
@@ -10509,7 +10509,7 @@
        0,
        0,
        0,
-       100,
+       298,
        0,
        0,
        0,
@@ -11546,7 +11546,7 @@
        399,
        393,
        396,
-       194,
+       392,
        0,
        0,
        0,
@@ -11586,7 +11586,7 @@
        0,
        0,
        394,
-       98,
+       295,
        0,
        0,
        0,
@@ -11606,7 +11606,7 @@
        392,
        396,
        396,
-       199,
+       396,
        0,
        0,
        0,
@@ -11646,7 +11646,7 @@
        0,
        0,
        0,
-       97,
+       296,
        0,
        0,
        0,
@@ -11666,7 +11666,7 @@
        394,
        390,
        0,
-       197,
+       391,
        0,
        0,
        0,

@@ -33,15 +33,15 @@
   },
   {
    "rank": 5,
-   "team": "SV Germania Prittlbach",
-   "singlePoints": "6:14",
+   "team": "SV Fenken",
+   "singlePoints": "11:9",
    "teamPoints": "4:4"
   },
   {
    "rank": 6,
-   "team": "SV Fenken",
-   "singlePoints": "8:7",
-   "teamPoints": "2:4"
+   "team": "SV Germania Prittlbach",
+   "singlePoints": "6:14",
+   "teamPoints": "4:4"
   },
   {
    "rank": 7,
@@ -51,14 +51,14 @@
   },
   {
    "rank": 8,
-   "team": "Eichenlaub Unterstall",
-   "singlePoints": "5:10",
-   "teamPoints": "2:4"
+   "team": "Gemütlichkeit Mertingen",
+   "singlePoints": "9:11",
+   "teamPoints": "2:6"
   },
   {
    "rank": 9,
-   "team": "Gemütlichkeit Mertingen",
-   "singlePoints": "9:11",
+   "team": "Eichenlaub Unterstall",
+   "singlePoints": "7:13",
    "teamPoints": "2:6"
   },
   {
@@ -3590,127 +3590,127 @@
        "time": "13:00",
        "home": "SV Fenken",
        "away": "Eichenlaub Unterstall",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1282,
+       "awayRings": 1172,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Abt, Markus",
-          "total": 0,
+          "total": 295,
           "series": [
-           0,
-           0,
-           0,
+           99,
+           96,
+           100,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kuen, Johannes",
-          "total": 0,
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           100,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Sauter, Sophie",
-          "total": 0,
+          "total": 297,
           "series": [
-           0,
-           0,
-           0,
+           99,
+           100,
+           98,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ammler, Laura Marie",
-          "total": 0,
+          "total": 197,
           "series": [
-           0,
-           0,
+           100,
+           97,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Panwar, Divyansh Singh",
-          "total": 0,
+          "total": 298,
           "series": [
-           0,
-           0,
-           0,
+           98,
+           100,
+           100,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Bayerle, Hannah",
-          "total": 0,
+          "total": 194,
           "series": [
-           0,
-           0,
+           97,
+           97,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Wehren, Hannah",
-          "total": 0,
+          "total": 294,
           "series": [
-           0,
-           0,
-           0,
+           95,
+           99,
+           100,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Böck, Sonja",
-          "total": 0,
+          "total": 194,
           "series": [
-           0,
-           0,
+           97,
+           97,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Kohler, Kerstin",
-          "total": 0,
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -3719,17 +3719,17 @@
          },
          "away": {
           "name": "Bergmann, Dominik",
-          "total": 0,
+          "total": 192,
           "series": [
-           0,
-           0,
+           95,
+           97,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -11026,6 +11026,263 @@
    }
   },
   {
+   "name": "SV Fenken",
+   "setlist": {
+    "updatedAt": "2026-10-19T22:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Abt, Markus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 398,
+      "results": [
+       0,
+       0,
+       397,
+       295,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Sauter, Sophie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 398,
+      "results": [
+       397,
+       399,
+       395,
+       297,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Leppa, Aleksi",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 396.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Friedmann, Nils",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396.5,
+      "results": [
+       396,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Blazickova, Veronika",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 396,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Panwar, Divyansh Singh",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 395.5,
+      "results": [
+       398,
+       393,
+       395,
+       298,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Wehren, Hannah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.5,
+      "results": [
+       394,
+       397,
+       395,
+       294,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Günther, Luisa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       392,
+       396,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Kohler, Kerstin",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 391.5,
+      "results": [
+       0,
+       0,
+       0,
+       98,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Schwendner, Theresa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 391,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Huzel, Tobias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 378,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Klein, Jenny",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/12318527-2C70-465F-827B-BF50C033B8A9/3003",
+   "club": {
+    "name": "SV Fenken",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Waldeckweg 1",
+    "city": "88281 Schlier-Fenken",
+    "website": null,
+    "logo": "logos/AD7752DA-1A8A-468F-9613-8092663C6D8C.webp"
+   }
+  },
+  {
    "name": "SV Germania Prittlbach",
    "setlist": {
     "updatedAt": "2026-10-19T22:22",
@@ -11263,263 +11520,6 @@
    }
   },
   {
-   "name": "SV Fenken",
-   "setlist": {
-    "updatedAt": "2026-10-19T22:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Abt, Markus",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 398,
-      "results": [
-       0,
-       0,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Sauter, Sophie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 398,
-      "results": [
-       397,
-       399,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Leppa, Aleksi",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 396.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Friedmann, Nils",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396.5,
-      "results": [
-       396,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Blazickova, Veronika",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 396,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Panwar, Divyansh Singh",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 395.5,
-      "results": [
-       398,
-       393,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Wehren, Hannah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.5,
-      "results": [
-       394,
-       397,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Günther, Luisa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       392,
-       396,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Kohler, Kerstin",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 391.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Schwendner, Theresa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 391,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Huzel, Tobias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 378,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Klein, Jenny",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/12318527-2C70-465F-827B-BF50C033B8A9/3003",
-   "club": {
-    "name": "SV Fenken",
-    "federation": "Württembergischer Schützenverband",
-    "street": "Waldeckweg 1",
-    "city": "88281 Schlier-Fenken",
-    "website": null,
-    "logo": "logos/AD7752DA-1A8A-468F-9613-8092663C6D8C.webp"
-   }
-  },
-  {
    "name": "Eichenlaub Saltendorf",
    "setlist": {
     "updatedAt": "2026-10-19T22:22",
@@ -11754,263 +11754,6 @@
     "city": "93158 Teublitz Ot. Saltendorf",
     "website": null,
     "logo": "logos/FBBF2056-3E3B-46C6-B5BE-B034F17A1C0E.webp"
-   }
-  },
-  {
-   "name": "Eichenlaub Unterstall",
-   "setlist": {
-    "updatedAt": "2026-10-19T22:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kuen, Johannes",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 397.83,
-      "results": [
-       0,
-       0,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Diem, Patrick",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 397.75,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Herrli, Martina",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 396.5,
-      "results": [
-       396,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Haberl, Anna",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 394,
-      "results": [
-       0,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Zellinger, Marc",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       393,
-       0,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Ammler, Laura Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       394,
-       392,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Bayerle, Hannah",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 392,
-      "results": [
-       0,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Knoch, Felix",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       391,
-       0,
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Böck, Sonja",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 387,
-      "results": [
-       0,
-       387,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Bergmann, Dominik",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386,
-      "results": [
-       386,
-       0,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Frohnwieser, Sebastian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Auer, Marie-Theres",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/AB5E8D23-C835-4F52-B0C5-273FDA90C292/3003",
-   "club": {
-    "name": "SV Eichenlaub Unterstall",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Am Sportplatz 1",
-    "city": "86673 Unterstall",
-    "website": "https://www.eichenlaub-unterstall.de",
-    "logo": "logos/5AB8D5C9-2E8F-486A-B296-DB018E1C02AA.webp"
    }
   },
   {
@@ -12268,6 +12011,263 @@
     "city": "86690 Mertingen",
     "website": "https://schuetzenverein-mertingen.de/",
     "logo": "logos/2F1BD3B4-A673-4D37-99EA-7542C0713723.webp"
+   }
+  },
+  {
+   "name": "Eichenlaub Unterstall",
+   "setlist": {
+    "updatedAt": "2026-10-19T22:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kuen, Johannes",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 397.83,
+      "results": [
+       0,
+       0,
+       394,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Diem, Patrick",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 397.75,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Herrli, Martina",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 396.5,
+      "results": [
+       396,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Haberl, Anna",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 394,
+      "results": [
+       0,
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Zellinger, Marc",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       393,
+       0,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Ammler, Laura Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       394,
+       392,
+       394,
+       197,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Bayerle, Hannah",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 392,
+      "results": [
+       0,
+       392,
+       0,
+       194,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Knoch, Felix",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391,
+      "results": [
+       391,
+       0,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Böck, Sonja",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 387,
+      "results": [
+       0,
+       387,
+       0,
+       194,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Bergmann, Dominik",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386,
+      "results": [
+       386,
+       0,
+       394,
+       192,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Frohnwieser, Sebastian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Auer, Marie-Theres",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/AB5E8D23-C835-4F52-B0C5-273FDA90C292/3003",
+   "club": {
+    "name": "SV Eichenlaub Unterstall",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Am Sportplatz 1",
+    "city": "86673 Unterstall",
+    "website": "https://www.eichenlaub-unterstall.de",
+    "logo": "logos/5AB8D5C9-2E8F-486A-B296-DB018E1C02AA.webp"
    }
   },
   {
