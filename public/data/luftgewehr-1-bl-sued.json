@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SSV Kronau",
-   "singlePoints": "18:2",
+   "singlePoints": "19:1",
    "teamPoints": "8:0"
   },
   {
@@ -28,14 +28,14 @@
   {
    "rank": 4,
    "team": "SSG RWS Fürth 1",
-   "singlePoints": "8:7",
-   "teamPoints": "4:2"
+   "singlePoints": "13:7",
+   "teamPoints": "6:2"
   },
   {
    "rank": 5,
    "team": "SV Germania Prittlbach",
-   "singlePoints": "6:9",
-   "teamPoints": "4:2"
+   "singlePoints": "6:14",
+   "teamPoints": "4:4"
   },
   {
    "rank": 6,
@@ -64,7 +64,7 @@
   {
    "rank": 10,
    "team": "SG Endorf",
-   "singlePoints": "8:12",
+   "singlePoints": "7:13",
    "teamPoints": "2:6"
   },
   {
@@ -2840,146 +2840,146 @@
        "time": "10:00",
        "home": "SV Germania Prittlbach",
        "away": "SSG RWS Fürth 1",
-       "homeRings": 0,
-       "awayRings": 0,
+       "homeRings": 1973,
+       "awayRings": 1988,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 5,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Straub, Isabella",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           100,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ott, Alyssa",
+          "total": 399,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Stadler, Lisa",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Mund, Xenia",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           100,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Germond, Etienne",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Tichy, Radek",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           98,
+           99,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Buchmayer, Iris",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schnell, Theresa",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Zuntz, Hoshen",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Straßer, Franziska",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -3294,33 +3294,33 @@
        "time": "10:00",
        "home": "SG Endorf",
        "away": "SSV Kronau",
-       "homeRings": 1266,
-       "awayRings": 1388,
-       "homePoints": 1,
-       "awayPoints": 4,
+       "homeRings": 1949,
+       "awayRings": 1983,
+       "homePoints": 0,
+       "awayPoints": 5,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Einwaller, Dominic",
-          "total": 197,
+          "total": 394,
           "series": [
            98,
            99,
-           0,
-           0
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Stark, Nele",
-          "total": 198,
+          "total": 397,
           "series": [
            99,
            99,
-           0,
-           0
+           99,
+           100
           ],
           "shootOff": null
          },
@@ -3331,23 +3331,23 @@
          "position": 2,
          "home": {
           "name": "Webersberger, Ida",
-          "total": 197,
+          "total": 394,
           "series": [
            99,
            98,
-           0,
-           0
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Braun, Max",
-          "total": 297,
+          "total": 397,
           "series": [
            99,
            98,
            100,
-           0
+           100
           ],
           "shootOff": null
          },
@@ -3358,39 +3358,39 @@
          "position": 3,
          "home": {
           "name": "Westner, Regina",
-          "total": 295,
+          "total": 394,
           "series": [
            100,
            99,
            96,
-           0
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Wurster, Lana",
-          "total": 198,
+          "total": 395,
           "series": [
            98,
            100,
-           0,
-           0
+           99,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Fischer, Felix",
-          "total": 293,
+          "total": 391,
           "series": [
            97,
            99,
            97,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -3412,23 +3412,23 @@
          "position": 5,
          "home": {
           "name": "Retzer, Florian",
-          "total": 284,
+          "total": 376,
           "series": [
            95,
            95,
            94,
-           0
+           92
           ],
           "shootOff": null
          },
          "away": {
           "name": "Fix, Colin",
-          "total": 297,
+          "total": 396,
           "series": [
            99,
            100,
            98,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -3451,7 +3451,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Pribitzer, Marlene",
           "total": 0,
           "series": [
            0,
@@ -3462,7 +3462,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Entner, Patrick",
           "total": 0,
           "series": [
            0,
@@ -3478,7 +3478,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Ferner, Florian",
           "total": 0,
           "series": [
            0,
@@ -3489,7 +3489,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Ruhland, Noah",
           "total": 0,
           "series": [
            0,
@@ -3505,7 +3505,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Hafner, Katharina",
           "total": 0,
           "series": [
            0,
@@ -3516,7 +3516,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Karlon, Alexander",
           "total": 0,
           "series": [
            0,
@@ -3532,7 +3532,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Beer, Florian",
           "total": 0,
           "series": [
            0,
@@ -3543,7 +3543,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Pokorny, Isabella",
           "total": 0,
           "series": [
            0,
@@ -3559,7 +3559,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Müller, Sophia",
           "total": 0,
           "series": [
            0,
@@ -3570,7 +3570,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Hauner, Sara-Marie",
           "total": 0,
           "series": [
            0,
@@ -10192,7 +10192,7 @@
        398,
        399,
        399,
-       198,
+       397,
        0,
        0,
        0,
@@ -10232,7 +10232,7 @@
        398,
        397,
        399,
-       297,
+       397,
        0,
        0,
        0,
@@ -10272,7 +10272,7 @@
        395,
        398,
        395,
-       198,
+       395,
        0,
        0,
        0,
@@ -10312,7 +10312,7 @@
        0,
        0,
        399,
-       297,
+       396,
        0,
        0,
        0,
@@ -10843,7 +10843,7 @@
        400,
        398,
        398,
-       0,
+       399,
        0,
        0,
        0,
@@ -10863,7 +10863,7 @@
        397,
        397,
        397,
-       0,
+       397,
        0,
        0,
        0,
@@ -10883,7 +10883,7 @@
        0,
        0,
        397,
-       0,
+       397,
        0,
        0,
        0,
@@ -10903,7 +10903,7 @@
        394,
        399,
        396,
-       0,
+       398,
        0,
        0,
        0,
@@ -10923,7 +10923,7 @@
        395,
        398,
        398,
-       0,
+       397,
        0,
        0,
        0,
@@ -11080,7 +11080,7 @@
        398,
        397,
        394,
-       0,
+       394,
        0,
        0,
        0,
@@ -11120,7 +11120,7 @@
        0,
        0,
        0,
-       0,
+       396,
        0,
        0,
        0,
@@ -11140,7 +11140,7 @@
        396,
        398,
        0,
-       0,
+       394,
        0,
        0,
        0,
@@ -11160,7 +11160,7 @@
        0,
        0,
        0,
-       0,
+       394,
        0,
        0,
        0,
@@ -11200,7 +11200,7 @@
        391,
        393,
        0,
-       0,
+       395,
        0,
        0,
        0,
@@ -12325,7 +12325,7 @@
        0,
        0,
        394,
-       197,
+       394,
        0,
        0,
        0,
@@ -12365,7 +12365,7 @@
        394,
        396,
        393,
-       197,
+       394,
        0,
        0,
        0,
@@ -12425,7 +12425,7 @@
        393,
        393,
        395,
-       295,
+       394,
        0,
        0,
        0,
@@ -12465,7 +12465,7 @@
        0,
        0,
        0,
-       293,
+       391,
        0,
        0,
        0,
@@ -12485,7 +12485,7 @@
        0,
        0,
        0,
-       284,
+       376,
        0,
        0,
        0,

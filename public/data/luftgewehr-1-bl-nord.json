@@ -64,13 +64,13 @@
   {
    "rank": 10,
    "team": "Ohligser SGem 75/03",
-   "singlePoints": "10:10",
+   "singlePoints": "9:11",
    "teamPoints": "2:6"
   },
   {
    "rank": 11,
    "team": "Wissener SV",
-   "singlePoints": "5:15",
+   "singlePoints": "6:14",
    "teamPoints": "2:6"
   },
   {
@@ -2840,10 +2840,10 @@
        "time": "10:00",
        "home": "Wissener SV",
        "away": "Ohligser SGem 75/03",
-       "homeRings": 1875,
+       "homeRings": 1973,
        "awayRings": 1971,
-       "homePoints": 3,
-       "awayPoints": 2,
+       "homePoints": 4,
+       "awayPoints": 1,
        "played": true,
        "pairs": [
         {
@@ -2958,12 +2958,12 @@
          "position": 5,
          "home": {
           "name": "Giegling, Marvin",
-          "total": 297,
+          "total": 395,
           "series": [
            99,
            100,
            98,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -2978,8 +2978,8 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         }
        ]
       },
@@ -12457,7 +12457,7 @@
        0,
        0,
        0,
-       299,
+       397,
        0,
        0,
        0,
@@ -12754,7 +12754,7 @@
        392,
        395,
        394,
-       297,
+       395,
        0,
        0,
        0,
