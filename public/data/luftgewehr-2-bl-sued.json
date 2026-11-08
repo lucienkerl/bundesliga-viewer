@@ -51,13 +51,13 @@
   },
   {
    "rank": 8,
-   "team": "Hubertus Kastl",
-   "singlePoints": "8:7",
+   "team": "SV Pfeil Vöhringen II",
+   "singlePoints": "6:9",
    "teamPoints": "2:4"
   },
   {
    "rank": 9,
-   "team": "SV Pfeil Vöhringen II",
+   "team": "SSG RWS Fürth 2",
    "singlePoints": "6:9",
    "teamPoints": "2:4"
   },
@@ -69,8 +69,8 @@
   },
   {
    "rank": 11,
-   "team": "SSG RWS Fürth 2",
-   "singlePoints": "4:11",
+   "team": "Hubertus Kastl",
+   "singlePoints": "6:9",
    "teamPoints": "0:6"
   },
   {
@@ -2400,33 +2400,33 @@
        "time": "12:30",
        "home": "SSG RWS Fürth 2",
        "away": "Hubertus Kastl",
-       "homeRings": 587,
-       "awayRings": 688,
-       "homePoints": 1,
-       "awayPoints": 4,
+       "homeRings": 1668,
+       "awayRings": 1577,
+       "homePoints": 3,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Scherzer, Paula",
-          "total": 196,
+          "total": 391,
           "series": [
            97,
            99,
-           0,
-           0
+           96,
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Exenberger, Theresa",
-          "total": 199,
+          "total": 398,
           "series": [
            99,
            100,
-           0,
-           0
+           99,
+           100
           ],
           "shootOff": null
          },
@@ -2437,48 +2437,48 @@
          "position": 2,
          "home": {
           "name": "Nieberle, Andrea",
-          "total": 98,
+          "total": 395,
           "series": [
            98,
-           0,
-           0,
-           0
+           98,
+           99,
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schuller, Christina",
-          "total": 194,
+          "total": 390,
           "series": [
            98,
            96,
-           0,
-           0
+           99,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Lindner, Mirjam",
-          "total": 100,
+          "total": 299,
           "series": [
            100,
-           0,
-           0,
+           100,
+           99,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Merkl, Eva",
-          "total": 0,
+          "total": 196,
           "series": [
-           0,
-           0,
+           97,
+           99,
            0,
            0
           ],
@@ -2491,50 +2491,50 @@
          "position": 4,
          "home": {
           "name": "Lederer, Finja",
-          "total": 98,
+          "total": 292,
           "series": [
            98,
-           0,
-           0,
+           98,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Kausler, Maria",
-          "total": 100,
+          "total": 198,
           "series": [
            100,
-           0,
+           98,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Mund, Maleen",
-          "total": 95,
+          "total": 291,
           "series": [
            95,
-           0,
-           0,
+           100,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Pöllath, Maria",
-          "total": 195,
+          "total": 395,
           "series": [
            96,
            99,
-           0,
-           0
+           100,
+           100
           ],
           "shootOff": null
          },
@@ -11647,243 +11647,6 @@
    }
   },
   {
-   "name": "Hubertus Kastl",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kitzbichler, Jasmin",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 396.63,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Exenberger, Theresa",
-      "foreign": "A",
-      "status": "F",
-      "startAverage": 394.5,
-      "results": [
-       391,
-       398,
-       199,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Schuller, Christina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.5,
-      "results": [
-       395,
-       392,
-       194,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Merkl, Eva",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       0,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kausler, Maria",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391.5,
-      "results": [
-       390,
-       393,
-       100,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Pöllath, Maria",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       393,
-       389,
-       195,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Miedl, Marie",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 385,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Buchbinder, Michael",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 384.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Herbst, Janine",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 382,
-      "results": [
-       382,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Neukam, Silvia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Zimmermann, Elena",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/5FD1810D-F886-4E05-8C59-92ED792DDDBB/3008",
-   "club": {
-    "name": "Sportschützen Einigkeit Hubertus Kastl 1921 e.V.",
-    "federation": "Oberpfälzer Schützenbund",
-    "street": "Jahnstraße 6",
-    "city": "95506 Kastl",
-    "website": "http://www.sportschuetzen-kastl.de/",
-    "logo": "logos/58348C25-323A-47A2-B157-23910F03E24B.webp"
-   }
-  },
-  {
    "name": "SV Pfeil Vöhringen II",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -12118,6 +11881,243 @@
     "city": "89269 Vöhringen",
     "website": "https://schuetzenverein-voehringen.de/",
     "logo": "logos/B4AB2FA3-5364-4F7B-A725-6E10583BEE81.webp"
+   }
+  },
+  {
+   "name": "SSG RWS Fürth 2",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Scherzer, Paula",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 397,
+      "results": [
+       0,
+       397,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Nieberle, Andrea",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       397,
+       395,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Lindner, Mirjam",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       394,
+       392,
+       399,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Rani, Parashara Kodandapani",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 391.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Lederer, Finja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390,
+      "results": [
+       389,
+       391,
+       292,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wolf, Maximilian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schrüfer, Sandro",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 389.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Fichtl, Kilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       0,
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Petrenko, Dmytro",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Mund, Maleen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383,
+      "results": [
+       383,
+       0,
+       291,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Lawendel, Julian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 381.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/65168CD6-1090-45E2-AE6B-EF3CC63031C4/3008",
+   "club": {
+    "name": "SSG RWS Fürth",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Kronacher Str. 63",
+    "city": "90765 Fürth",
+    "website": "https://SSG-RWS.de",
+    "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
    }
   },
   {
@@ -12398,20 +12398,20 @@
    }
   },
   {
-   "name": "SSG RWS Fürth 2",
+   "name": "Hubertus Kastl",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
     "entries": [
      {
       "rank": 1,
-      "name": "Scherzer, Paula",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 397,
+      "name": "Kitzbichler, Jasmin",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 396.63,
       "results": [
        0,
-       397,
-       196,
+       0,
+       0,
        0,
        0,
        0,
@@ -12424,14 +12424,14 @@
      },
      {
       "rank": 2,
-      "name": "Nieberle, Andrea",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
+      "name": "Exenberger, Theresa",
+      "foreign": "A",
+      "status": "F",
+      "startAverage": 394.5,
       "results": [
-       397,
-       395,
-       98,
+       391,
+       398,
+       398,
        0,
        0,
        0,
@@ -12444,14 +12444,14 @@
      },
      {
       "rank": 3,
-      "name": "Lindner, Mirjam",
+      "name": "Schuller, Christina",
       "foreign": null,
       "status": "S",
-      "startAverage": 393,
+      "startAverage": 393.5,
       "results": [
-       394,
+       395,
        392,
-       100,
+       293,
        0,
        0,
        0,
@@ -12464,14 +12464,14 @@
      },
      {
       "rank": 4,
-      "name": "Rani, Parashara Kodandapani",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 391.4,
+      "name": "Merkl, Eva",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
       "results": [
        0,
-       0,
-       0,
+       393,
+       97,
        0,
        0,
        0,
@@ -12484,14 +12484,14 @@
      },
      {
       "rank": 5,
-      "name": "Lederer, Finja",
+      "name": "Kausler, Maria",
       "foreign": null,
       "status": "S",
-      "startAverage": 390,
+      "startAverage": 391.5,
       "results": [
-       389,
-       391,
-       98,
+       390,
+       393,
+       198,
        0,
        0,
        0,
@@ -12504,14 +12504,14 @@
      },
      {
       "rank": 6,
-      "name": "Wolf, Maximilian",
+      "name": "Pöllath, Maria",
       "foreign": null,
-      "status": "E",
-      "startAverage": 390,
+      "status": "S",
+      "startAverage": 391,
       "results": [
-       0,
-       0,
-       0,
+       393,
+       389,
+       395,
        0,
        0,
        0,
@@ -12524,10 +12524,10 @@
      },
      {
       "rank": 7,
-      "name": "Schrüfer, Sandro",
+      "name": "Miedl, Marie",
       "foreign": null,
       "status": "E",
-      "startAverage": 389.5,
+      "startAverage": 385,
       "results": [
        0,
        0,
@@ -12544,13 +12544,13 @@
      },
      {
       "rank": 8,
-      "name": "Fichtl, Kilian",
+      "name": "Buchbinder, Michael",
       "foreign": null,
-      "status": "S",
-      "startAverage": 389,
+      "status": "E",
+      "startAverage": 384.5,
       "results": [
        0,
-       389,
+       0,
        0,
        0,
        0,
@@ -12564,12 +12564,12 @@
      },
      {
       "rank": 9,
-      "name": "Petrenko, Dmytro",
-      "foreign": "A",
+      "name": "Herbst, Janine",
+      "foreign": null,
       "status": "E",
-      "startAverage": 388,
+      "startAverage": 382,
       "results": [
-       388,
+       382,
        0,
        0,
        0,
@@ -12584,14 +12584,14 @@
      },
      {
       "rank": 10,
-      "name": "Mund, Maleen",
+      "name": "Neukam, Silvia",
       "foreign": null,
-      "status": "S",
-      "startAverage": 383,
+      "status": "E",
+      "startAverage": 0,
       "results": [
-       383,
        0,
-       95,
+       0,
+       0,
        0,
        0,
        0,
@@ -12604,10 +12604,10 @@
      },
      {
       "rank": 11,
-      "name": "Lawendel, Julian",
+      "name": "Zimmermann, Elena",
       "foreign": null,
       "status": "E",
-      "startAverage": 381.5,
+      "startAverage": 0,
       "results": [
        0,
        0,
@@ -12624,14 +12624,14 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/65168CD6-1090-45E2-AE6B-EF3CC63031C4/3008",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/5FD1810D-F886-4E05-8C59-92ED792DDDBB/3008",
    "club": {
-    "name": "SSG RWS Fürth",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Kronacher Str. 63",
-    "city": "90765 Fürth",
-    "website": "https://SSG-RWS.de",
-    "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
+    "name": "Sportschützen Einigkeit Hubertus Kastl 1921 e.V.",
+    "federation": "Oberpfälzer Schützenbund",
+    "street": "Jahnstraße 6",
+    "city": "95506 Kastl",
+    "website": "http://www.sportschuetzen-kastl.de/",
+    "logo": "logos/58348C25-323A-47A2-B157-23910F03E24B.webp"
    }
   },
   {

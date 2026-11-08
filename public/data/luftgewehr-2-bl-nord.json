@@ -21,21 +21,21 @@
   },
   {
    "rank": 3,
-   "team": "Tell Wechloy",
-   "singlePoints": "6:4",
-   "teamPoints": "2:2"
+   "team": "SV Neuenfelde",
+   "singlePoints": "8:7",
+   "teamPoints": "4:2"
   },
   {
    "rank": 4,
-   "team": "SV Neuenfelde",
+   "team": "SV Hademstorf",
    "singlePoints": "4:6",
    "teamPoints": "2:2"
   },
   {
    "rank": 5,
-   "team": "SV Hademstorf",
-   "singlePoints": "4:6",
-   "teamPoints": "2:2"
+   "team": "Tell Wechloy",
+   "singlePoints": "7:8",
+   "teamPoints": "2:4"
   },
   {
    "rank": 6,
@@ -1458,146 +1458,146 @@
        "time": "11:35",
        "home": "SV Neuenfelde",
        "away": "Tell Wechloy",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1926,
+       "awayRings": 1917,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Tamke, Hannah",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           95,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Näther, Ann-Katrin",
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           92,
+           97,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Gehrs, Lara-Michelle",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           98,
+           97,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Andersen, Jonas",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           97,
+           98,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Spijkerman, Armin",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           96,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Sperveslage, Anneke",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           99,
+           96,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wolkenhauer, Jule",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           99,
+           97,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Heuft, Ayleen",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           97,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Eckert, Kathrin",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           90,
+           93,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Dänekas, Kira",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           96,
+           94,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4682,151 +4682,6 @@
    }
   },
   {
-   "name": "Tell Wechloy",
-   "setlist": {
-    "updatedAt": "2026-10-27T09:41",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Näther, Ann-Katrin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389,
-      "results": [
-       387,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Andersen, Jonas",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 387,
-      "results": [
-       387,
-       387,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Sperveslage, Anneke",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386.5,
-      "results": [
-       388,
-       385,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Heuft, Ayleen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 384.5,
-      "results": [
-       382,
-       387,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Riedemann, Nadine",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 383,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Otten, Ann-Katrin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 381,
-      "results": [
-       381,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Dänekas, Kira",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 380,
-      "results": [
-       0,
-       380,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Umbach, Franziska",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 368.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/597EE165-801F-4293-B281-586AD872CF95/3004",
-   "club": {
-    "name": "Schützenverein \"Tell\" Wechloy e.V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Elsflether Straße 55",
-    "city": "26125 Oldenburg",
-    "website": "https://xn--schtzenverein-wechloy-bic.de/",
-    "logo": "logos/64BD6B43-1B67-4A7B-BAA4-E3E041296B4B.webp"
-   }
-  },
-  {
    "name": "SV Neuenfelde",
    "setlist": {
     "updatedAt": "2026-10-27T09:41",
@@ -5194,6 +5049,151 @@
     "city": "29693 Hademstorf",
     "website": "https://www.sv-hademstorf.de/",
     "logo": null
+   }
+  },
+  {
+   "name": "Tell Wechloy",
+   "setlist": {
+    "updatedAt": "2026-10-27T09:41",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Näther, Ann-Katrin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       387,
+       391,
+       385,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Andersen, Jonas",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 387,
+      "results": [
+       387,
+       387,
+       387,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Sperveslage, Anneke",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386.5,
+      "results": [
+       388,
+       385,
+       386,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Heuft, Ayleen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 384.5,
+      "results": [
+       382,
+       387,
+       386,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Riedemann, Nadine",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Otten, Ann-Katrin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 381,
+      "results": [
+       381,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Dänekas, Kira",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 380,
+      "results": [
+       0,
+       380,
+       373,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Umbach, Franziska",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 368.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/597EE165-801F-4293-B281-586AD872CF95/3004",
+   "club": {
+    "name": "Schützenverein \"Tell\" Wechloy e.V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Elsflether Straße 55",
+    "city": "26125 Oldenburg",
+    "website": "https://xn--schtzenverein-wechloy-bic.de/",
+    "logo": "logos/64BD6B43-1B67-4A7B-BAA4-E3E041296B4B.webp"
    }
   },
   {

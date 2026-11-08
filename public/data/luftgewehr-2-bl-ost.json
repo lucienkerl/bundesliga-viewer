@@ -10,50 +10,50 @@
   {
    "rank": 1,
    "team": "SV Gölzau II",
-   "singlePoints": "5:0",
-   "teamPoints": "2:0"
+   "singlePoints": "10:0",
+   "teamPoints": "4:0"
   },
   {
    "rank": 2,
    "team": "PSV Olympia Berlin III",
-   "singlePoints": "5:0",
-   "teamPoints": "2:0"
+   "singlePoints": "10:0",
+   "teamPoints": "4:0"
   },
   {
    "rank": 3,
-   "team": "Giebichensteiner SGi Halle",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
+   "team": "FV SSZ Suhl",
+   "singlePoints": "7:3",
+   "teamPoints": "4:0"
   },
   {
    "rank": 4,
-   "team": "FV SSZ Suhl",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
+   "team": "Giebichensteiner SGi Halle",
+   "singlePoints": "6:4",
+   "teamPoints": "2:2"
   },
   {
    "rank": 5,
    "team": "SGI zu Werder (Havel)",
-   "singlePoints": "1:4",
-   "teamPoints": "0:2"
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
   },
   {
    "rank": 6,
    "team": "SGi Lübben",
-   "singlePoints": "1:4",
-   "teamPoints": "0:2"
+   "singlePoints": "3:7",
+   "teamPoints": "0:4"
   },
   {
    "rank": 7,
    "team": "PSSG zu Dresden",
-   "singlePoints": "0:5",
-   "teamPoints": "0:2"
+   "singlePoints": "0:10",
+   "teamPoints": "0:4"
   },
   {
    "rank": 8,
    "team": "SGi Berlin & Charlottenburg",
-   "singlePoints": "0:5",
-   "teamPoints": "0:2"
+   "singlePoints": "0:10",
+   "teamPoints": "0:4"
   }
  ],
  "matchDays": [
@@ -682,146 +682,146 @@
        "time": "10:00",
        "home": "PSSG zu Dresden",
        "away": "SV Gölzau II",
-       "homeRings": 0,
-       "awayRings": 0,
+       "homeRings": 1895,
+       "awayRings": 1937,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 5,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schönsee, Aspasia",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           92,
+           98,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kube, Elena",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           94,
+           98,
+           96
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Gerlich, Eva",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           95,
+           96,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Walter, Ida",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           100,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Röthig, Fredrik",
+          "total": 383,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           97,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bauer, Linda Sophie",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           99,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Paul, Felix Peter",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           91,
+           95,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Eichelberg, Felice",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           98,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Braun, Maximilian",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           96,
+           93,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wenzel, Florian",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           96,
+           95,
+           96
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -830,145 +830,145 @@
        "time": "10:00",
        "home": "FV SSZ Suhl",
        "away": "SGi Lübben",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1928,
+       "awayRings": 1919,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Jäger, Leni Colleen",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           99,
+           96,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hebrock, Moritz",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           95,
+           96,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Denysiuk, Hanna",
+          "total": 382,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           97,
+           96,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schaff, Sören",
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           98,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Henninger, Lena",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           95,
+           96,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Golze, Leni",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           92,
+           95,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Fischer, Dennis",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           96,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lindow, Sophia",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           97,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Urban, Pascal",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           92,
+           94,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Graßmann, Svenja",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           95,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -978,145 +978,145 @@
        "time": "11:30",
        "home": "SGI zu Werder (Havel)",
        "away": "Giebichensteiner SGi Halle",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1950,
+       "awayRings": 1933,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kurmann, Johanna",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Müller, Lia",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           99,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kanzler, Elea Johanna",
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           95,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schweimler, Lilli",
+          "total": 384,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           96,
+           91,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Asmussen, Madeleine",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           98,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Heindorf, Leni",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           98,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kanzler, Maria Antonia",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wilfert, Florian",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           95,
+           97,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Unger, Lois",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           97,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Juhnke, Valentin",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           95,
+           92,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -1126,146 +1126,146 @@
        "time": "11:30",
        "home": "SGi Berlin & Charlottenburg",
        "away": "PSV Olympia Berlin III",
-       "homeRings": 0,
-       "awayRings": 0,
+       "homeRings": 1905,
+       "awayRings": 1938,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 5,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Crainicov, Oxana",
+          "total": 383,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           98,
+           95,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hanke, Maja",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           96,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Höftmann, Annica",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           97,
+           97,
+           97
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Heider, Jan",
+          "total": 387,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           100,
+           95,
+           97
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Weismann, Jean-Pierre",
+          "total": 378,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           95,
+           91,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ruthsatz, Frank",
+          "total": 385,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           92,
+           98,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Stiebitz, Sofie",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           94,
+           97,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ralle, Marlon",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           98,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Vaorin, Isabel",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           93,
+           97,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Breidenbach, Neele",
+          "total": 389,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           97,
+           96
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -4380,7 +4380,7 @@
       "startAverage": 388.17,
       "results": [
        0,
-       0,
+       386,
        0,
        0,
        0,
@@ -4400,7 +4400,7 @@
       "startAverage": 388,
       "results": [
        388,
-       0,
+       388,
        0,
        0,
        0,
@@ -4440,7 +4440,7 @@
       "startAverage": 385,
       "results": [
        0,
-       0,
+       393,
        0,
        0,
        0,
@@ -4460,7 +4460,7 @@
       "startAverage": 382,
       "results": [
        0,
-       0,
+       390,
        0,
        0,
        0,
@@ -4480,7 +4480,7 @@
       "startAverage": 381,
       "results": [
        0,
-       0,
+       380,
        0,
        0,
        0,
@@ -4738,153 +4738,6 @@
    }
   },
   {
-   "name": "Giebichensteiner SGi Halle",
-   "setlist": {
-    "updatedAt": "2026-11-06T12:16",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Müller, Lia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395,
-      "results": [
-       395,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Schweimler, Lilli",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392,
-      "results": [
-       392,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Heindorf, Leni",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       391,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Beck, Matthias",
-      "foreign": null,
-      "status": "",
-      "startAverage": 390.2,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Donath, Luis",
-      "foreign": null,
-      "status": "",
-      "startAverage": 388.5,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Wilfert, Florian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388,
-      "results": [
-       388,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Brunngräber, Lisa-Marie",
-      "foreign": null,
-      "status": "",
-      "startAverage": 383.25,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Juhnke, Valentin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379,
-      "results": [
-       379,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Böhme, André",
-      "foreign": null,
-      "status": "",
-      "startAverage": 379,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Klimmek, Melina",
-      "foreign": null,
-      "status": "",
-      "startAverage": 376.33,
-      "results": [
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/32ACE14C-A235-43D2-A0F6-CB811BB3BD84/3005",
-   "club": {
-    "name": "Giebichensteiner SGi 1848 Halle/S. e.V.",
-    "federation": "Landesschützenverband Sachsen-Anhalt",
-    "street": "Karl-Ernst-Weg 44",
-    "city": "6118 Halle",
-    "website": null,
-    "logo": "logos/8886F43F-0C60-40E8-A6F9-636C1EA6D667.webp"
-   }
-  },
-  {
    "name": "FV SSZ Suhl",
    "setlist": {
     "updatedAt": "2026-11-02T19:04",
@@ -4897,7 +4750,7 @@
       "startAverage": 395,
       "results": [
        395,
-       0,
+       390,
        0,
        0
       ]
@@ -4910,7 +4763,7 @@
       "startAverage": 394,
       "results": [
        394,
-       0,
+       382,
        0,
        0
       ]
@@ -4936,7 +4789,7 @@
       "startAverage": 388.57,
       "results": [
        0,
-       0,
+       389,
        0,
        0
       ]
@@ -4962,7 +4815,7 @@
       "startAverage": 386,
       "results": [
        386,
-       0,
+       388,
        0,
        0
       ]
@@ -5001,7 +4854,7 @@
       "startAverage": 380.5,
       "results": [
        0,
-       0,
+       379,
        0,
        0
       ]
@@ -5045,6 +4898,153 @@
    }
   },
   {
+   "name": "Giebichensteiner SGi Halle",
+   "setlist": {
+    "updatedAt": "2026-11-06T12:16",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Müller, Lia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395,
+      "results": [
+       395,
+       391,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schweimler, Lilli",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392,
+      "results": [
+       392,
+       384,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Heindorf, Leni",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391,
+      "results": [
+       391,
+       392,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Beck, Matthias",
+      "foreign": null,
+      "status": "",
+      "startAverage": 390.2,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Donath, Luis",
+      "foreign": null,
+      "status": "",
+      "startAverage": 388.5,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wilfert, Florian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 388,
+      "results": [
+       388,
+       389,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Brunngräber, Lisa-Marie",
+      "foreign": null,
+      "status": "",
+      "startAverage": 383.25,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Juhnke, Valentin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379,
+      "results": [
+       379,
+       377,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Böhme, André",
+      "foreign": null,
+      "status": "",
+      "startAverage": 379,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Klimmek, Melina",
+      "foreign": null,
+      "status": "",
+      "startAverage": 376.33,
+      "results": [
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/32ACE14C-A235-43D2-A0F6-CB811BB3BD84/3005",
+   "club": {
+    "name": "Giebichensteiner SGi 1848 Halle/S. e.V.",
+    "federation": "Landesschützenverband Sachsen-Anhalt",
+    "street": "Karl-Ernst-Weg 44",
+    "city": "6118 Halle",
+    "website": null,
+    "logo": "logos/8886F43F-0C60-40E8-A6F9-636C1EA6D667.webp"
+   }
+  },
+  {
    "name": "SGI zu Werder (Havel)",
    "setlist": {
     "updatedAt": "2026-11-02T19:04",
@@ -5057,7 +5057,7 @@
       "startAverage": 395.4,
       "results": [
        0,
-       0,
+       390,
        0,
        0
       ]
@@ -5070,7 +5070,7 @@
       "startAverage": 392,
       "results": [
        392,
-       0,
+       390,
        0,
        0
       ]
@@ -5096,7 +5096,7 @@
       "startAverage": 385.71,
       "results": [
        0,
-       0,
+       387,
        0,
        0
       ]
@@ -5109,7 +5109,7 @@
       "startAverage": 385,
       "results": [
        385,
-       0,
+       391,
        0,
        0
       ]
@@ -5148,7 +5148,7 @@
       "startAverage": 377,
       "results": [
        377,
-       0,
+       392,
        0,
        0
       ]
@@ -5230,7 +5230,7 @@
       "startAverage": 391,
       "results": [
        391,
-       0,
+       388,
        0,
        0
       ]
@@ -5243,7 +5243,7 @@
       "startAverage": 387,
       "results": [
        387,
-       0,
+       385,
        0,
        0
       ]
@@ -5256,7 +5256,7 @@
       "startAverage": 384.83,
       "results": [
        0,
-       0,
+       380,
        0,
        0
       ]
@@ -5269,7 +5269,7 @@
       "startAverage": 381.5,
       "results": [
        0,
-       0,
+       389,
        0,
        0
       ]
@@ -5282,7 +5282,7 @@
       "startAverage": 381,
       "results": [
        381,
-       0,
+       377,
        0,
        0
       ]
@@ -5403,7 +5403,7 @@
       "startAverage": 384,
       "results": [
        384,
-       0,
+       384,
        0,
        0
       ]
@@ -5442,7 +5442,7 @@
       "startAverage": 380.5,
       "results": [
        0,
-       0,
+       384,
        0,
        0
       ]
@@ -5455,7 +5455,7 @@
       "startAverage": 379,
       "results": [
        379,
-       0,
+       383,
        0,
        0
       ]
@@ -5494,7 +5494,7 @@
       "startAverage": 369,
       "results": [
        369,
-       0,
+       372,
        0,
        0
       ]
@@ -5507,7 +5507,7 @@
       "startAverage": 358,
       "results": [
        358,
-       0,
+       372,
        0,
        0
       ]
