@@ -2567,7 +2567,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Gugele, Florian",
           "total": 0,
           "series": [
            0,
@@ -2578,7 +2578,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Lechner, Sara",
           "total": 0,
           "series": [
            0,
@@ -2594,7 +2594,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Geiger, Sarah",
           "total": 0,
           "series": [
            0,
@@ -2605,7 +2605,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Plank, Melanie",
           "total": 0,
           "series": [
            0,
@@ -2621,7 +2621,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Grasberger, Brianna",
           "total": 0,
           "series": [
            0,
@@ -2632,7 +2632,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Weithaler, Simon",
           "total": 0,
           "series": [
            0,
@@ -2648,7 +2648,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Rudingsdorfer, Ferdinand",
           "total": 0,
           "series": [
            0,
@@ -2659,7 +2659,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Eiglsperger, Simon",
           "total": 0,
           "series": [
            0,
@@ -2675,7 +2675,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Bauernfeind, Rupert",
           "total": 0,
           "series": [
            0,
@@ -2686,7 +2686,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Wagner, Katharina",
           "total": 0,
           "series": [
            0,
@@ -11932,7 +11932,7 @@
       "rank": 3,
       "name": "Geiger, Sarah",
       "foreign": null,
-      "status": "",
+      "status": "F",
       "startAverage": 396.5,
       "results": [
        398,
