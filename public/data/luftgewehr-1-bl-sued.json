@@ -58,7 +58,7 @@
   {
    "rank": 9,
    "team": "Gemütlichkeit Mertingen",
-   "singlePoints": "8:11",
+   "singlePoints": "9:11",
    "teamPoints": "2:6"
   },
   {
@@ -70,7 +70,7 @@
   {
    "rank": 11,
    "team": "Gmütlichkeit Luckenpaint",
-   "singlePoints": "5:14",
+   "singlePoints": "5:15",
    "teamPoints": "2:6"
   },
   {
@@ -3442,9 +3442,9 @@
        "time": "11:30",
        "home": "Gemütlichkeit Mertingen",
        "away": "Gmütlichkeit Luckenpaint",
-       "homeRings": 884,
-       "awayRings": 1084,
-       "homePoints": 1,
+       "homeRings": 1966,
+       "awayRings": 1965,
+       "homePoints": 2,
        "awayPoints": 3,
        "played": true,
        "pairs": [
@@ -3452,50 +3452,50 @@
          "position": 1,
          "home": {
           "name": "Pribitzer, Marlene",
-          "total": 200,
+          "total": 397,
           "series": [
            100,
            100,
-           0,
-           0
+           100,
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Entner, Patrick",
-          "total": 200,
+          "total": 400,
           "series": [
            100,
            100,
-           0,
-           0
+           100,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Ferner, Florian",
-          "total": 197,
+          "total": 392,
           "series": [
            99,
            98,
-           0,
-           0
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ruhland, Noah",
-          "total": 297,
+          "total": 396,
           "series": [
            99,
            100,
            98,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -3506,52 +3506,52 @@
          "position": 3,
          "home": {
           "name": "Hafner, Katharina",
-          "total": 98,
+          "total": 392,
           "series": [
            98,
-           0,
-           0,
-           0
+           98,
+           98,
+           98
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "away": {
           "name": "Karlon, Alexander",
-          "total": 196,
+          "total": 392,
           "series": [
            98,
            98,
-           0,
-           0
+           99,
+           97
           ],
-          "shootOff": null
+          "shootOff": 9
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Beer, Florian",
-          "total": 197,
-          "series": [
-           98,
-           99,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Pokorny, Isabella",
-          "total": 297,
+          "total": 395,
           "series": [
            98,
            99,
            100,
-           0
+           98
           ],
-          "shootOff": null
+          "shootOff": 9
+         },
+         "away": {
+          "name": "Pokorny, Isabella",
+          "total": 395,
+          "series": [
+           98,
+           99,
+           100,
+           98
+          ],
+          "shootOff": 10
          },
          "homePoint": 0,
          "awayPoint": 1
@@ -3560,23 +3560,23 @@
          "position": 5,
          "home": {
           "name": "Müller, Sophia",
-          "total": 192,
+          "total": 390,
           "series": [
            93,
            99,
-           0,
-           0
+           98,
+           100
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hauner, Sara-Marie",
-          "total": 94,
+          "total": 382,
           "series": [
            94,
-           0,
-           0,
-           0
+           95,
+           96,
+           97
           ],
           "shootOff": null
          },
@@ -3599,7 +3599,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Abt, Markus",
           "total": 0,
           "series": [
            0,
@@ -3610,7 +3610,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Kuen, Johannes",
           "total": 0,
           "series": [
            0,
@@ -3626,7 +3626,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Sauter, Sophie",
           "total": 0,
           "series": [
            0,
@@ -3637,7 +3637,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Ammler, Laura Marie",
           "total": 0,
           "series": [
            0,
@@ -3653,7 +3653,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Panwar, Divyansh Singh",
           "total": 0,
           "series": [
            0,
@@ -3664,7 +3664,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Bayerle, Hannah",
           "total": 0,
           "series": [
            0,
@@ -3680,7 +3680,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Wehren, Hannah",
           "total": 0,
           "series": [
            0,
@@ -3691,7 +3691,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Böck, Sonja",
           "total": 0,
           "series": [
            0,
@@ -3707,7 +3707,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Kohler, Kerstin",
           "total": 0,
           "series": [
            0,
@@ -3718,7 +3718,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Bergmann, Dominik",
           "total": 0,
           "series": [
            0,
@@ -12088,7 +12088,7 @@
        399,
        398,
        399,
-       200,
+       397,
        0,
        0,
        0,
@@ -12108,7 +12108,7 @@
        395,
        393,
        394,
-       197,
+       392,
        0,
        0,
        0,
@@ -12128,7 +12128,7 @@
        396,
        390,
        393,
-       98,
+       392,
        0,
        0,
        0,
@@ -12148,7 +12148,7 @@
        397,
        389,
        394,
-       197,
+       395,
        0,
        0,
        0,
@@ -12168,7 +12168,7 @@
        393,
        390,
        0,
-       192,
+       390,
        0,
        0,
        0,
@@ -12542,7 +12542,7 @@
        0,
        0,
        400,
-       200,
+       400,
        0,
        0,
        0,
@@ -12582,7 +12582,7 @@
        396,
        393,
        391,
-       297,
+       396,
        0,
        0,
        0,
@@ -12602,7 +12602,7 @@
        394,
        389,
        393,
-       196,
+       392,
        0,
        0,
        0,
@@ -12642,7 +12642,7 @@
        389,
        389,
        390,
-       297,
+       395,
        0,
        0,
        0,
@@ -12682,7 +12682,7 @@
        391,
        386,
        386,
-       94,
+       382,
        0,
        0,
        0,

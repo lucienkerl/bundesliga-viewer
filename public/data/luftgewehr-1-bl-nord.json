@@ -9,20 +9,20 @@
  "table": [
   {
    "rank": 1,
-   "team": "SSV St. Hubertus Elsen",
-   "singlePoints": "12:3",
-   "teamPoints": "6:0"
+   "team": "SSG Kevelaer",
+   "singlePoints": "17:3",
+   "teamPoints": "8:0"
   },
   {
    "rank": 2,
-   "team": "SSG Kevelaer",
+   "team": "SSV St. Hubertus Elsen",
    "singlePoints": "12:3",
    "teamPoints": "6:0"
   },
   {
    "rank": 3,
    "team": "SF Emsdetten",
-   "singlePoints": "13:7",
+   "singlePoints": "12:8",
    "teamPoints": "6:2"
   },
   {
@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "SB Freiheit",
-   "singlePoints": "8:12",
+   "singlePoints": "9:11",
    "teamPoints": "4:4"
   },
   {
@@ -76,8 +76,8 @@
   {
    "rank": 12,
    "team": "Braunschweiger SG 1545",
-   "singlePoints": "5:10",
-   "teamPoints": "0:6"
+   "singlePoints": "5:15",
+   "teamPoints": "0:8"
   }
  ],
  "matchDays": [
@@ -2988,10 +2988,10 @@
        "time": "11:30",
        "home": "SB Freiheit",
        "away": "SF Emsdetten",
-       "homeRings": 1680,
+       "homeRings": 1976,
        "awayRings": 1971,
-       "homePoints": 1,
-       "awayPoints": 4,
+       "homePoints": 2,
+       "awayPoints": 3,
        "played": true,
        "pairs": [
         {
@@ -3052,12 +3052,12 @@
          "position": 3,
          "home": {
           "name": "Rosenthal, Melanie",
-          "total": 293,
+          "total": 391,
           "series": [
            97,
            98,
            98,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -3072,19 +3072,19 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Faltinat, Moritz",
-          "total": 295,
+          "total": 393,
           "series": [
            98,
            97,
            100,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -3106,12 +3106,12 @@
          "position": 5,
          "home": {
           "name": "Uljee, Dean",
-          "total": 297,
+          "total": 397,
           "series": [
            100,
            98,
            99,
-           0
+           100
           ],
           "shootOff": null
          },
@@ -3442,145 +3442,145 @@
        "time": "11:30",
        "home": "SSG Kevelaer",
        "away": "Braunschweiger SG 1545",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
+       "homeRings": 1989,
+       "awayRings": 1971,
+       "homePoints": 5,
        "awayPoints": 0,
-       "played": false,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Paul, Ayonika",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Gurrik, Isak",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           100,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Driessen, Franziska",
+          "total": 400,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wucherpfennig, Angelina",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           95,
+           99,
+           100
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Janßen, Franka",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           100,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bartels, Laura-Marie",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           99,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Billion, Marie",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           100,
+           100,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Karl, Alexander",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           100,
+           100
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Rentmeister, Finnja",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           99,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Marquardt, Tabea",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           97,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10138,6 +10138,183 @@
  ],
  "teams": [
   {
+   "name": "SSG Kevelaer",
+   "setlist": {
+    "updatedAt": "2026-10-20T14:44",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Herbulot, Manon",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 399,
+      "results": [
+       399,
+       399,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Paul, Ayonika",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 399,
+      "results": [
+       0,
+       0,
+       397,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Janßen, Anna",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 398.5,
+      "results": [
+       399,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Driessen, Franziska",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 397.5,
+      "results": [
+       397,
+       398,
+       398,
+       400,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Janßen, Franka",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 397.5,
+      "results": [
+       397,
+       398,
+       398,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Thomas, Alexander",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 396.88,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Billion, Marie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 396.27,
+      "results": [
+       0,
+       0,
+       398,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Rentmeister, Finnja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.5,
+      "results": [
+       393,
+       398,
+       397,
+       398,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/64834CE5-4A8F-4B66-82A3-6ABA580D74B6/3002",
+   "club": {
+    "name": "SSGem Kevelaer 2005 e.V.",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Hüls 11",
+    "city": "47623 Kevelaer",
+    "website": "https://www.ssg-kevelaer.de/",
+    "logo": null
+   }
+  },
+  {
    "name": "SSV St. Hubertus Elsen",
    "setlist": {
     "updatedAt": "2026-11-07T13:26",
@@ -10352,183 +10529,6 @@
     "city": "33106 Paderborn",
     "website": "https://www.ssv-elsen.de",
     "logo": "logos/92E37536-D505-4F28-825D-9DB509844670.webp"
-   }
-  },
-  {
-   "name": "SSG Kevelaer",
-   "setlist": {
-    "updatedAt": "2026-10-20T14:44",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Herbulot, Manon",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 399,
-      "results": [
-       399,
-       399,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Paul, Ayonika",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 399,
-      "results": [
-       0,
-       0,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Janßen, Anna",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 398.5,
-      "results": [
-       399,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Driessen, Franziska",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 397.5,
-      "results": [
-       397,
-       398,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Janßen, Franka",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 397.5,
-      "results": [
-       397,
-       398,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Thomas, Alexander",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 396.88,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Billion, Marie",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 396.27,
-      "results": [
-       0,
-       0,
-       398,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Rentmeister, Finnja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.5,
-      "results": [
-       393,
-       398,
-       397,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/64834CE5-4A8F-4B66-82A3-6ABA580D74B6/3002",
-   "club": {
-    "name": "SSGem Kevelaer 2005 e.V.",
-    "federation": "Rheinischer Schützenbund",
-    "street": "Hüls 11",
-    "city": "47623 Kevelaer",
-    "website": "https://www.ssg-kevelaer.de/",
-    "logo": null
    }
   },
   {
@@ -11429,7 +11429,7 @@
        0,
        394,
        393,
-       293,
+       391,
        0,
        0,
        0,
@@ -11449,7 +11449,7 @@
        392,
        395,
        394,
-       295,
+       393,
        0,
        0,
        0,
@@ -11469,7 +11469,7 @@
        396,
        389,
        398,
-       297,
+       397,
        0,
        0,
        0,
@@ -12831,7 +12831,7 @@
        0,
        0,
        394,
-       0,
+       395,
        0,
        0,
        0,
@@ -12931,7 +12931,7 @@
        392,
        393,
        393,
-       0,
+       392,
        0,
        0,
        0,
@@ -12951,7 +12951,7 @@
        391,
        392,
        0,
-       0,
+       394,
        0,
        0,
        0,
@@ -12971,7 +12971,7 @@
        389,
        390,
        395,
-       0,
+       395,
        0,
        0,
        0,
@@ -12991,7 +12991,7 @@
        388,
        0,
        0,
-       0,
+       395,
        0,
        0,
        0,
