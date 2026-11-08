@@ -57,27 +57,27 @@
   },
   {
    "rank": 9,
+   "team": "SSG RWS Fürth 2",
+   "singlePoints": "8:11",
+   "teamPoints": "2:6"
+  },
+  {
+   "rank": 10,
    "team": "SV Pfeil Vöhringen II",
    "singlePoints": "6:14",
    "teamPoints": "2:6"
   },
   {
-   "rank": 10,
+   "rank": 11,
    "team": "kgl. priv. FSG Titting",
    "singlePoints": "6:9",
    "teamPoints": "0:6"
   },
   {
-   "rank": 11,
-   "team": "SSG RWS Fürth 2",
-   "singlePoints": "5:10",
-   "teamPoints": "0:6"
-  },
-  {
    "rank": 12,
    "team": "SV Edelweiß Mendorf",
-   "singlePoints": "2:13",
-   "teamPoints": "0:6"
+   "singlePoints": "3:16",
+   "teamPoints": "0:8"
   }
  ],
  "matchDays": [
@@ -3324,33 +3324,33 @@
        "time": "16:15",
        "home": "SV Edelweiß Mendorf",
        "away": "SSG RWS Fürth 2",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1367,
+       "awayRings": 1173,
+       "homePoints": 1,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Scheringer, Sophia",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           99,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Scherzer, Paula",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           99,
+           98
           ],
           "shootOff": null
          },
@@ -3360,110 +3360,110 @@
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Zieglmeier, Vanessa",
+          "total": 195,
           "series": [
-           0,
-           0,
+           96,
+           99,
            0,
            0
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Nieberle, Andrea",
+          "total": 196,
           "series": [
-           0,
-           0,
+           97,
+           99,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Scheringer, Mia",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           97,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lindner, Mirjam",
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Appelsmayer, Julia",
+          "total": 196,
           "series": [
-           0,
-           0,
+           98,
+           98,
            0,
            0
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Fichtl, Kilian",
+          "total": 291,
           "series": [
-           0,
-           0,
-           0,
+           99,
+           95,
+           97,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Zieglmeier, Melissa",
+          "total": 192,
           "series": [
-           0,
-           0,
+           95,
+           97,
            0,
            0
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Mund, Maleen",
+          "total": 195,
           "series": [
-           0,
-           0,
+           97,
+           98,
            0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -11884,6 +11884,243 @@
    }
   },
   {
+   "name": "SSG RWS Fürth 2",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Scherzer, Paula",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 397,
+      "results": [
+       0,
+       397,
+       391,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Nieberle, Andrea",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       397,
+       395,
+       395,
+       196,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Lindner, Mirjam",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393,
+      "results": [
+       394,
+       392,
+       399,
+       98,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Rani, Parashara Kodandapani",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 391.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Lederer, Finja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 390,
+      "results": [
+       389,
+       391,
+       389,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wolf, Maximilian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schrüfer, Sandro",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 389.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Fichtl, Kilian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       0,
+       389,
+       0,
+       291,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Petrenko, Dmytro",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Mund, Maleen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383,
+      "results": [
+       383,
+       0,
+       390,
+       195,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Lawendel, Julian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 381.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/65168CD6-1090-45E2-AE6B-EF3CC63031C4/3008",
+   "club": {
+    "name": "SSG RWS Fürth",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Kronacher Str. 63",
+    "city": "90765 Fürth",
+    "website": "https://SSG-RWS.de",
+    "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
+   }
+  },
+  {
    "name": "SV Pfeil Vöhringen II",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -12398,243 +12635,6 @@
    }
   },
   {
-   "name": "SSG RWS Fürth 2",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Scherzer, Paula",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 397,
-      "results": [
-       0,
-       397,
-       391,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Nieberle, Andrea",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       397,
-       395,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Lindner, Mirjam",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393,
-      "results": [
-       394,
-       392,
-       399,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Rani, Parashara Kodandapani",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 391.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Lederer, Finja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 390,
-      "results": [
-       389,
-       391,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Wolf, Maximilian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schrüfer, Sandro",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 389.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Fichtl, Kilian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389,
-      "results": [
-       0,
-       389,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Petrenko, Dmytro",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 388,
-      "results": [
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Mund, Maleen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 383,
-      "results": [
-       383,
-       0,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Lawendel, Julian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 381.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/65168CD6-1090-45E2-AE6B-EF3CC63031C4/3008",
-   "club": {
-    "name": "SSG RWS Fürth",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Kronacher Str. 63",
-    "city": "90765 Fürth",
-    "website": "https://SSG-RWS.de",
-    "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
-   }
-  },
-  {
    "name": "SV Edelweiß Mendorf",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -12649,7 +12649,7 @@
        393,
        395,
        390,
-       0,
+       393,
        0,
        0,
        0,
@@ -12669,7 +12669,7 @@
        390,
        392,
        0,
-       0,
+       195,
        0,
        0,
        0,
@@ -12689,7 +12689,7 @@
        389,
        393,
        388,
-       0,
+       391,
        0,
        0,
        0,
@@ -12729,7 +12729,7 @@
        389,
        384,
        385,
-       0,
+       196,
        0,
        0,
        0,
@@ -12749,7 +12749,7 @@
        385,
        386,
        388,
-       0,
+       290,
        0,
        0,
        0,
