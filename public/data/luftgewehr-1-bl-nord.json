@@ -2988,33 +2988,33 @@
        "time": "11:30",
        "home": "SB Freiheit",
        "away": "SF Emsdetten",
-       "homeRings": 1186,
-       "awayRings": 1578,
-       "homePoints": 0,
-       "awayPoints": 5,
+       "homeRings": 1680,
+       "awayRings": 1971,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Rühling, Luisa",
-          "total": 298,
+          "total": 397,
           "series": [
            100,
            99,
            99,
-           0
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Fischer, Nike",
-          "total": 299,
+          "total": 399,
           "series": [
            99,
            100,
            100,
-           0
+           100
           ],
           "shootOff": null
          },
@@ -3025,12 +3025,12 @@
          "position": 2,
          "home": {
           "name": "Fuglerud, Celina Borgen",
-          "total": 298,
+          "total": 398,
           "series": [
            100,
            99,
            99,
-           0
+           100
           ],
           "shootOff": null
          },
@@ -3045,30 +3045,30 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Rosenthal, Melanie",
-          "total": 97,
+          "total": 293,
           "series": [
            97,
-           0,
-           0,
+           98,
+           98,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Glohr, Christina",
-          "total": 191,
+          "total": 386,
           "series": [
            96,
            95,
-           0,
-           0
+           96,
+           99
           ],
           "shootOff": null
          },
@@ -3090,12 +3090,12 @@
          },
          "away": {
           "name": "Strik, Tessa",
-          "total": 296,
+          "total": 394,
           "series": [
            98,
            99,
            99,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -3106,11 +3106,11 @@
          "position": 5,
          "home": {
           "name": "Uljee, Dean",
-          "total": 198,
+          "total": 297,
           "series": [
            100,
            98,
-           0,
+           99,
            0
           ],
           "shootOff": null
@@ -10546,7 +10546,7 @@
        395,
        396,
        398,
-       299,
+       399,
        0,
        0,
        0
@@ -10578,7 +10578,7 @@
        396,
        394,
        391,
-       191,
+       386,
        0,
        0,
        0
@@ -10594,7 +10594,7 @@
        393,
        396,
        399,
-       296,
+       394,
        0,
        0,
        0
@@ -11349,7 +11349,7 @@
        398,
        398,
        398,
-       298,
+       397,
        0,
        0,
        0,
@@ -11389,7 +11389,7 @@
        398,
        397,
        398,
-       298,
+       398,
        0,
        0,
        0,
@@ -11429,7 +11429,7 @@
        0,
        394,
        393,
-       97,
+       293,
        0,
        0,
        0,
@@ -11469,7 +11469,7 @@
        396,
        389,
        398,
-       198,
+       297,
        0,
        0,
        0,

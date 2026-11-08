@@ -2715,7 +2715,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Lanzinger, Lena",
           "total": 0,
           "series": [
            0,
@@ -2726,7 +2726,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Tristl, Martina",
           "total": 0,
           "series": [
            0,
@@ -2742,7 +2742,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Muxel, Thomas",
           "total": 0,
           "series": [
            0,
@@ -2753,7 +2753,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Eberlberger, Florian",
           "total": 0,
           "series": [
            0,
@@ -2769,7 +2769,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Thurner, Marie-Christin",
           "total": 0,
           "series": [
            0,
@@ -2780,7 +2780,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Lang, Angelika",
           "total": 0,
           "series": [
            0,
@@ -2796,7 +2796,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Obermaier, Kerstin",
           "total": 0,
           "series": [
            0,
@@ -2807,7 +2807,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Schwerer, Marie",
           "total": 0,
           "series": [
            0,
@@ -2823,7 +2823,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Obermaier, Stefan",
           "total": 0,
           "series": [
            0,
@@ -2834,7 +2834,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Schwerer, Hannah",
           "total": 0,
           "series": [
            0,
@@ -10887,7 +10887,7 @@
       "rank": 3,
       "name": "Kemptner, Julian",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 395.5,
       "results": [
        397,

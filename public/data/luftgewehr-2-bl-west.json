@@ -15,19 +15,19 @@
   },
   {
    "rank": 2,
-   "team": "BSV Buer-Bülse II",
-   "singlePoints": "7:3",
-   "teamPoints": "4:0"
+   "team": "SV Stärklos",
+   "singlePoints": "11:4",
+   "teamPoints": "4:2"
   },
   {
    "rank": 3,
-   "team": "SV Petersberg",
-   "singlePoints": "7:3",
-   "teamPoints": "2:2"
+   "team": "BSV Buer-Bülse II",
+   "singlePoints": "8:7",
+   "teamPoints": "4:2"
   },
   {
    "rank": 4,
-   "team": "SV Stärklos",
+   "team": "SV Petersberg",
    "singlePoints": "7:3",
    "teamPoints": "2:2"
   },
@@ -1310,146 +1310,146 @@
        "time": "11:00",
        "home": "BSV Buer-Bülse II",
        "away": "SV Stärklos",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1945,
+       "awayRings": 1973,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ten Dolle, Nynke",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           96,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Beul, Lena Bianca",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           100,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Röder, Sina",
+          "total": 397,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           100,
+           100
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Faust, Leah",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           100,
+           100,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Röhr, Jennifer",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           97,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Götz, Leonie",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Weber, Sebastian",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           95,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Klee, Anna",
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           99,
+           100
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Volkart, Nadine",
+          "total": 378,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           95,
+           95,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Becker, Jaqueline",
+          "total": 393,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           100,
+           99,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -1467,7 +1467,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Thomas, Alexander",
           "total": 0,
           "series": [
            0,
@@ -1478,7 +1478,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Schmidt, Tim",
           "total": 0,
           "series": [
            0,
@@ -1494,7 +1494,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Dhein, Michael",
           "total": 0,
           "series": [
            0,
@@ -1505,7 +1505,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Jockel, Maximilian",
           "total": 0,
           "series": [
            0,
@@ -1521,7 +1521,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Schepens, Nicolas",
           "total": 0,
           "series": [
            0,
@@ -1532,7 +1532,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Münster, Veronique",
           "total": 0,
           "series": [
            0,
@@ -1548,7 +1548,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Denk, Wiktoria",
           "total": 0,
           "series": [
            0,
@@ -1559,7 +1559,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Klaiber, Jonas",
           "total": 0,
           "series": [
            0,
@@ -1575,7 +1575,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Schiltauer, Maja",
           "total": 0,
           "series": [
            0,
@@ -1586,7 +1586,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Voßfänger, Eva-Catharina",
           "total": 0,
           "series": [
            0,
@@ -4531,6 +4531,151 @@
    }
   },
   {
+   "name": "SV Stärklos",
+   "setlist": {
+    "updatedAt": "2026-10-20T18:56",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Beul, Lena Bianca",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.5,
+      "results": [
+       394,
+       397,
+       392,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Faust, Leah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395.5,
+      "results": [
+       395,
+       396,
+       396,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Götz, Leonie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 393.5,
+      "results": [
+       394,
+       393,
+       394,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Klee, Anna",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391,
+      "results": [
+       388,
+       394,
+       398,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Becker, Jaqueline",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389,
+      "results": [
+       387,
+       391,
+       393,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Grobek, Louis",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schröder, Frederick",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Götz, Anna-Lena",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1F080882-63F5-46CE-87B8-73FE475617DC/3006",
+   "club": {
+    "name": "SV Stärklos",
+    "federation": "Hessischer Schützenverband",
+    "street": "An der Lieth 11",
+    "city": "36166 Haunetal",
+    "website": "http://www.sv-staerklos.de/",
+    "logo": "logos/63C8D32B-452C-4466-B246-6333969DD416.webp"
+   }
+  },
+  {
    "name": "BSV Buer-Bülse II",
    "setlist": {
     "updatedAt": "2026-11-04T12:02",
@@ -4885,151 +5030,6 @@
    }
   },
   {
-   "name": "SV Stärklos",
-   "setlist": {
-    "updatedAt": "2026-10-20T18:56",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Beul, Lena Bianca",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.5,
-      "results": [
-       394,
-       397,
-       392,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Faust, Leah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395.5,
-      "results": [
-       395,
-       396,
-       396,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Götz, Leonie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 393.5,
-      "results": [
-       394,
-       393,
-       394,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Klee, Anna",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       388,
-       394,
-       398,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Becker, Jaqueline",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389,
-      "results": [
-       387,
-       391,
-       393,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Grobek, Louis",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schröder, Frederick",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Götz, Anna-Lena",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1F080882-63F5-46CE-87B8-73FE475617DC/3006",
-   "club": {
-    "name": "SV Stärklos",
-    "federation": "Hessischer Schützenverband",
-    "street": "An der Lieth 11",
-    "city": "36166 Haunetal",
-    "website": "http://www.sv-staerklos.de/",
-    "logo": "logos/63C8D32B-452C-4466-B246-6333969DD416.webp"
-   }
-  },
-  {
    "name": "SV Steinbach",
    "setlist": {
     "updatedAt": "2026-10-20T18:57",
@@ -5315,7 +5315,7 @@
       "rank": 6,
       "name": "Schiltauer, Maja",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 389.5,
       "results": [
        390,
