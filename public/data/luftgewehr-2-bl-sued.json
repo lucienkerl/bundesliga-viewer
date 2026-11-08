@@ -21,14 +21,14 @@
   },
   {
    "rank": 3,
-   "team": "Isental Lengdorf",
-   "singlePoints": "7:3",
-   "teamPoints": "4:0"
+   "team": "Erlbachtaler-Schützen Niedererlbach",
+   "singlePoints": "10:5",
+   "teamPoints": "4:2"
   },
   {
    "rank": 4,
-   "team": "Erlbachtaler-Schützen Niedererlbach",
-   "singlePoints": "10:5",
+   "team": "Isental Lengdorf",
+   "singlePoints": "9:6",
    "teamPoints": "4:2"
   },
   {
@@ -46,8 +46,8 @@
   {
    "rank": 7,
    "team": "SG Aich",
-   "singlePoints": "4:6",
-   "teamPoints": "2:2"
+   "singlePoints": "7:8",
+   "teamPoints": "4:2"
   },
   {
    "rank": 8,
@@ -2706,146 +2706,146 @@
        "time": "12:30",
        "home": "Isental Lengdorf",
        "away": "SG Aich",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1955,
+       "awayRings": 1960,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Lanzinger, Lena",
-          "total": 0,
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           99,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Tristl, Martina",
-          "total": 0,
+          "total": 398,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           100,
+           100,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Muxel, Thomas",
-          "total": 0,
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           100,
+           96,
+           98
           ],
-          "shootOff": null
+          "shootOff": 10.8
          },
          "away": {
           "name": "Eberlberger, Florian",
-          "total": 0,
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           96,
+           99,
+           98
           ],
-          "shootOff": null
+          "shootOff": 9.5
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Thurner, Marie-Christin",
-          "total": 0,
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           97,
+           98,
+           96
           ],
           "shootOff": null
          },
          "away": {
           "name": "Lang, Angelika",
-          "total": 0,
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           97,
+           98,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Obermaier, Kerstin",
-          "total": 0,
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           98,
+           96
           ],
-          "shootOff": null
+          "shootOff": 10.4
          },
          "away": {
           "name": "Schwerer, Marie",
-          "total": 0,
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           97,
+           94
           ],
-          "shootOff": null
+          "shootOff": 9.3
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Obermaier, Stefan",
-          "total": 0,
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           98,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schwerer, Hannah",
-          "total": 0,
+          "total": 390,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           97,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -3491,7 +3491,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Lechner, Sara",
           "total": 0,
           "series": [
            0,
@@ -3518,7 +3518,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Plank, Melanie",
           "total": 0,
           "series": [
            0,
@@ -3545,7 +3545,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Weithaler, Simon",
           "total": 0,
           "series": [
            0,
@@ -3572,7 +3572,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Eiglsperger, Simon",
           "total": 0,
           "series": [
            0,
@@ -3599,7 +3599,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Bauer, Jessica",
           "total": 0,
           "series": [
            0,
@@ -10702,223 +10702,6 @@
    }
   },
   {
-   "name": "Isental Lengdorf",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Lanzinger, Lena",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394.5,
-      "results": [
-       395,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Muxel, Thomas",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       393,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Thurner, Marie-Christin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       394,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Obermaier, Kerstin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Zimmer, Christine",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 391,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Obermaier, Alexander",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390.5,
-      "results": [
-       388,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Obermaier, Stefan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 389.1,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Hoffmann, Matthias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 387.5,
-      "results": [
-       389,
-       386,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Heiß, Sophie",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 383.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Wurm, Maximilian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/9D8D75C8-F5EA-4FAE-8A98-4CCA301A7C47/3008",
-   "club": {
-    "name": "SV Isental Lengdorf",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Hauptstraße 3",
-    "city": "84435 Lengdorf",
-    "website": "https://www.isental-lengdorf.de",
-    "logo": "logos/69A01603-ED8A-4C49-A805-C0FF967318E8.webp"
-   }
-  },
-  {
    "name": "Erlbachtaler-Schützen Niedererlbach",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -11093,6 +10876,223 @@
     "city": "84172 Niedererlbach",
     "website": "https://erlbachtaler-schuetzen.de",
     "logo": "logos/FE1F415C-9C75-4C14-BB42-088982CFE20A.webp"
+   }
+  },
+  {
+   "name": "Isental Lengdorf",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Lanzinger, Lena",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394.5,
+      "results": [
+       395,
+       394,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Muxel, Thomas",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       393,
+       395,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Thurner, Marie-Christin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       394,
+       394,
+       391,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Obermaier, Kerstin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.33,
+      "results": [
+       0,
+       0,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Zimmer, Christine",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 391,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Obermaier, Alexander",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390.5,
+      "results": [
+       388,
+       393,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Obermaier, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 389.1,
+      "results": [
+       0,
+       0,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Hoffmann, Matthias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 387.5,
+      "results": [
+       389,
+       386,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Heiß, Sophie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 383.25,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Wurm, Maximilian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/9D8D75C8-F5EA-4FAE-8A98-4CCA301A7C47/3008",
+   "club": {
+    "name": "SV Isental Lengdorf",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Hauptstraße 3",
+    "city": "84435 Lengdorf",
+    "website": "https://www.isental-lengdorf.de",
+    "logo": "logos/69A01603-ED8A-4C49-A805-C0FF967318E8.webp"
    }
   },
   {
@@ -11463,7 +11463,7 @@
       "results": [
        397,
        396,
-       0,
+       398,
        0,
        0,
        0,
@@ -11483,7 +11483,7 @@
       "results": [
        393,
        396,
-       0,
+       392,
        0,
        0,
        0,
@@ -11503,7 +11503,7 @@
       "results": [
        395,
        394,
-       0,
+       392,
        0,
        0,
        0,
@@ -11523,7 +11523,7 @@
       "results": [
        391,
        391,
-       0,
+       388,
        0,
        0,
        0,
@@ -11563,7 +11563,7 @@
       "results": [
        0,
        388,
-       0,
+       390,
        0,
        0,
        0,

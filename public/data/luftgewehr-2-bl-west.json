@@ -10,8 +10,8 @@
   {
    "rank": 1,
    "team": "SSV St. Hubertus Elsen II",
-   "singlePoints": "9:1",
-   "teamPoints": "4:0"
+   "singlePoints": "12:2",
+   "teamPoints": "6:0"
   },
   {
    "rank": 2,
@@ -40,8 +40,8 @@
   {
    "rank": 6,
    "team": "SV Petersberg",
-   "singlePoints": "7:3",
-   "teamPoints": "2:2"
+   "singlePoints": "8:6",
+   "teamPoints": "2:4"
   },
   {
    "rank": 7,
@@ -1458,8 +1458,8 @@
        "time": "13:00",
        "home": "SSGem Kevelaer 2005 e.V.",
        "away": "SGes Heepen",
-       "homeRings": 1290,
-       "awayRings": 1558,
+       "homeRings": 1978,
+       "awayRings": 1949,
        "homePoints": 4,
        "awayPoints": 1,
        "played": true,
@@ -1495,12 +1495,12 @@
          "position": 2,
          "home": {
           "name": "Dhein, Michael",
-          "total": 0,
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           99,
+           99,
+           98
           ],
           "shootOff": null
          },
@@ -1515,8 +1515,8 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 3,
@@ -1549,28 +1549,28 @@
          "position": 4,
          "home": {
           "name": "Denk, Wiktoria",
-          "total": 97,
+          "total": 389,
           "series": [
            97,
-           0,
-           0,
-           0
+           96,
+           98,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Klaiber, Jonas",
-          "total": 0,
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           96,
+           97,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 5,
@@ -1764,87 +1764,87 @@
        "time": "13:00",
        "home": "SSV St. Hubertus Elsen II",
        "away": "SV Petersberg",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1970,
+       "awayRings": 1955,
+       "homePoints": 3,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Pieper, Katharina",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           98,
+           100,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Tripp, Johanna",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           97,
+           98,
+           99
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Martynova, Maya",
+          "total": 392,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           97,
+           98
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Barbe, Tom",
+          "total": 394,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           99,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lammersen, Maximilian",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           99,
+           99,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Heck, Jana",
+          "total": 396,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           99,
+           99,
+           100
           ],
           "shootOff": null
          },
@@ -1854,55 +1854,55 @@
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hochgeschurz, Nadine",
+          "total": 395,
           "series": [
-           0,
-           0,
-           0,
-           0
+           100,
+           98,
+           98,
+           99
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Heck, Mona",
+          "total": 388,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           96,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Smit, Sean",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           98,
+           99,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Döllinger, Michael",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           98,
+           95,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4415,7 +4415,7 @@
       "results": [
        396,
        397,
-       0,
+       396,
        0,
        0,
        0,
@@ -4431,7 +4431,7 @@
       "results": [
        395,
        395,
-       0,
+       392,
        0,
        0,
        0,
@@ -4447,7 +4447,7 @@
       "results": [
        395,
        393,
-       0,
+       396,
        0,
        0,
        0,
@@ -4463,7 +4463,7 @@
       "results": [
        394,
        0,
-       0,
+       395,
        0,
        0,
        0,
@@ -4479,7 +4479,7 @@
       "results": [
        0,
        390,
-       0,
+       391,
        0,
        0,
        0,
@@ -5324,7 +5324,7 @@
       "results": [
        392,
        396,
-       0,
+       391,
        0,
        0,
        0,
@@ -5340,7 +5340,7 @@
       "results": [
        393,
        394,
-       0,
+       394,
        0,
        0,
        0,
@@ -5356,7 +5356,7 @@
       "results": [
        392,
        389,
-       0,
+       396,
        0,
        0,
        0,
@@ -5372,7 +5372,7 @@
       "results": [
        0,
        0,
-       0,
+       388,
        0,
        0,
        0,
@@ -5404,7 +5404,7 @@
       "results": [
        0,
        0,
-       0,
+       386,
        0,
        0,
        0,
@@ -5501,7 +5501,7 @@
       "results": [
        387,
        0,
-       0,
+       391,
        0,
        0,
        0,
