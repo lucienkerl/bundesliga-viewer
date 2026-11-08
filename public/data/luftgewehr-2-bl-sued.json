@@ -21,45 +21,45 @@
   },
   {
    "rank": 3,
+   "team": "Erlbachtaler-Schützen Niedererlbach",
+   "singlePoints": "12:6",
+   "teamPoints": "6:2"
+  },
+  {
+   "rank": 4,
    "team": "Isental Lengdorf",
    "singlePoints": "9:6",
    "teamPoints": "4:2"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "team": "Sportschützen Niederlauterbach",
    "singlePoints": "8:7",
    "teamPoints": "4:2"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "team": "Falkenschützen Mauerberg",
    "singlePoints": "8:7",
    "teamPoints": "4:2"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "team": "SG Aich",
    "singlePoints": "7:8",
    "teamPoints": "4:2"
   },
   {
-   "rank": 7,
-   "team": "Erlbachtaler-Schützen Niedererlbach",
-   "singlePoints": "11:8",
-   "teamPoints": "4:4"
-  },
-  {
    "rank": 8,
-   "team": "Hubertus Kastl",
-   "singlePoints": "10:9",
-   "teamPoints": "4:4"
-  },
-  {
-   "rank": 9,
    "team": "SV Pfeil Vöhringen II",
    "singlePoints": "6:9",
    "teamPoints": "2:4"
+  },
+  {
+   "rank": 9,
+   "team": "Hubertus Kastl",
+   "singlePoints": "8:10",
+   "teamPoints": "2:6"
   },
   {
    "rank": 10,
@@ -3176,33 +3176,33 @@
        "time": "14:45",
        "home": "Erlbachtaler-Schützen Niedererlbach",
        "away": "Hubertus Kastl",
-       "homeRings": 1377,
-       "awayRings": 1575,
-       "homePoints": 1,
-       "awayPoints": 3,
+       "homeRings": 1969,
+       "awayRings": 1869,
+       "homePoints": 2,
+       "awayPoints": 1,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Prinz, Jolanda",
-          "total": 196,
+          "total": 394,
           "series": [
            98,
            98,
-           0,
-           0
+           100,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Exenberger, Theresa",
-          "total": 196,
+          "total": 394,
           "series": [
            99,
            97,
-           0,
-           0
+           98,
+           100
           ],
           "shootOff": null
          },
@@ -3213,12 +3213,12 @@
          "position": 2,
          "home": {
           "name": "Schmied, Manuel",
-          "total": 297,
+          "total": 395,
           "series": [
            98,
            99,
            100,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -3234,18 +3234,18 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 1
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Körndl, Nicole",
-          "total": 199,
+          "total": 397,
           "series": [
            99,
            100,
-           0,
-           0
+           99,
+           99
           ],
           "shootOff": null
          },
@@ -3260,8 +3260,8 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 4,
@@ -3278,11 +3278,11 @@
          },
          "away": {
           "name": "Kausler, Maria",
-          "total": 194,
+          "total": 290,
           "series": [
            95,
            99,
-           0,
+           96,
            0
           ],
           "shootOff": null
@@ -3294,12 +3294,12 @@
          "position": 5,
          "home": {
           "name": "Aumann, Thomas",
-          "total": 289,
+          "total": 387,
           "series": [
            97,
            96,
            96,
-           0
+           98
           ],
           "shootOff": null
          },
@@ -10702,6 +10702,183 @@
    }
   },
   {
+   "name": "Erlbachtaler-Schützen Niedererlbach",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Prinz, Jolanda",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       396,
+       396,
+       398,
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schmied, Manuel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395,
+      "results": [
+       396,
+       394,
+       392,
+       395,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Hatterer, Stephane",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 393.54,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Körndl, Nicole",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.5,
+      "results": [
+       393,
+       392,
+       394,
+       397,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kröner, Linda",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 392.5,
+      "results": [
+       389,
+       396,
+       392,
+       396,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Huber, Alexander",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       0,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Aumann, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385,
+      "results": [
+       385,
+       0,
+       392,
+       387,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Weber, Fabian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FDB20C43-C1FB-4B95-83C1-EEBEE9D75758/3008",
+   "club": {
+    "name": "Erlbachtaler-Schützen Niedererlbach",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Moosburger Str. 8A",
+    "city": "84172 Niedererlbach",
+    "website": "https://erlbachtaler-schuetzen.de",
+    "logo": "logos/FE1F415C-9C75-4C14-BB42-088982CFE20A.webp"
+   }
+  },
+  {
    "name": "Isental Lengdorf",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -11130,7 +11307,7 @@
        399,
        398,
        396,
-       0,
+       397,
        0,
        0,
        0,
@@ -11150,7 +11327,7 @@
        396,
        397,
        394,
-       0,
+       398,
        0,
        0,
        0,
@@ -11170,7 +11347,7 @@
        391,
        393,
        387,
-       0,
+       390,
        0,
        0,
        0,
@@ -11190,7 +11367,7 @@
        386,
        397,
        391,
-       0,
+       390,
        0,
        0,
        0,
@@ -11210,7 +11387,7 @@
        390,
        392,
        389,
-       0,
+       387,
        0,
        0,
        0,
@@ -11470,21 +11647,21 @@
    }
   },
   {
-   "name": "Erlbachtaler-Schützen Niedererlbach",
+   "name": "SV Pfeil Vöhringen II",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
     "entries": [
      {
       "rank": 1,
-      "name": "Prinz, Jolanda",
+      "name": "Krumm, Florian",
       "foreign": null,
       "status": "S",
-      "startAverage": 396,
+      "startAverage": 396.5,
       "results": [
        396,
+       397,
+       395,
        396,
-       398,
-       196,
        0,
        0,
        0,
@@ -11496,15 +11673,15 @@
      },
      {
       "rank": 2,
-      "name": "Schmied, Manuel",
-      "foreign": null,
+      "name": "Grosch, Mia",
+      "foreign": "A",
       "status": "S",
-      "startAverage": 395,
+      "startAverage": 394,
       "results": [
-       396,
-       394,
        392,
-       297,
+       396,
+       0,
+       0,
        0,
        0,
        0,
@@ -11516,15 +11693,15 @@
      },
      {
       "rank": 3,
-      "name": "Hatterer, Stephane",
-      "foreign": "A",
+      "name": "Fischer, Bernd",
+      "foreign": null,
       "status": "S",
-      "startAverage": 393.54,
+      "startAverage": 394,
       "results": [
-       0,
-       0,
-       0,
-       0,
+       392,
+       396,
+       392,
+       394,
        0,
        0,
        0,
@@ -11536,15 +11713,15 @@
      },
      {
       "rank": 4,
-      "name": "Körndl, Nicole",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.5,
+      "name": "Rauer, Dominik",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 393.5,
       "results": [
-       393,
-       392,
-       394,
-       199,
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -11556,15 +11733,15 @@
      },
      {
       "rank": 5,
-      "name": "Kröner, Linda",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 392.5,
+      "name": "Asprian, Valerie",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 392.93,
       "results": [
-       389,
-       396,
-       392,
-       396,
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -11576,15 +11753,15 @@
      },
      {
       "rank": 6,
-      "name": "Huber, Alexander",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388,
+      "name": "Hugon, Nour",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 390,
       "results": [
-       0,
        388,
-       0,
-       0,
+       392,
+       390,
+       388,
        0,
        0,
        0,
@@ -11596,15 +11773,15 @@
      },
      {
       "rank": 7,
-      "name": "Aumann, Thomas",
+      "name": "Strydom, Adriaan",
       "foreign": null,
       "status": "S",
-      "startAverage": 385,
+      "startAverage": 388,
       "results": [
-       385,
-       0,
-       392,
-       289,
+       388,
+       388,
+       382,
+       386,
        0,
        0,
        0,
@@ -11616,10 +11793,10 @@
      },
      {
       "rank": 8,
-      "name": "Weber, Fabian",
+      "name": "Wegerer, Mark",
       "foreign": null,
       "status": "E",
-      "startAverage": 379.67,
+      "startAverage": 387,
       "results": [
        0,
        0,
@@ -11633,17 +11810,77 @@
        0,
        0
       ]
+     },
+     {
+      "rank": 9,
+      "name": "Schwärzer, Florian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 385.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Hausner, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 382.6,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Hausner, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 380,
+      "results": [
+       0,
+       0,
+       380,
+       382,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FDB20C43-C1FB-4B95-83C1-EEBEE9D75758/3008",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A75D8C4B-1C61-4E63-9E29-4BB25CD88E02/3008",
    "club": {
-    "name": "Erlbachtaler-Schützen Niedererlbach",
+    "name": "SchV \"Pfeil\" Vöhringen",
     "federation": "Bayerischer Sportschützenbund",
-    "street": "Moosburger Str. 8A",
-    "city": "84172 Niedererlbach",
-    "website": "https://erlbachtaler-schuetzen.de",
-    "logo": "logos/FE1F415C-9C75-4C14-BB42-088982CFE20A.webp"
+    "street": "Illerstraße 28",
+    "city": "89269 Vöhringen",
+    "website": "https://schuetzenverein-voehringen.de/",
+    "logo": "logos/B4AB2FA3-5364-4F7B-A725-6E10583BEE81.webp"
    }
   },
   {
@@ -11681,7 +11918,7 @@
        391,
        398,
        398,
-       196,
+       394,
        0,
        0,
        0,
@@ -11741,7 +11978,7 @@
        390,
        393,
        395,
-       194,
+       384,
        0,
        0,
        0,
@@ -11881,243 +12118,6 @@
     "city": "95506 Kastl",
     "website": "http://www.sportschuetzen-kastl.de/",
     "logo": "logos/58348C25-323A-47A2-B157-23910F03E24B.webp"
-   }
-  },
-  {
-   "name": "SV Pfeil Vöhringen II",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Krumm, Florian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396.5,
-      "results": [
-       396,
-       397,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Grosch, Mia",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       392,
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Fischer, Bernd",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       392,
-       396,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Rauer, Dominik",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 393.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Asprian, Valerie",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 392.93,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Hugon, Nour",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 390,
-      "results": [
-       388,
-       392,
-       390,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Strydom, Adriaan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 388,
-      "results": [
-       388,
-       388,
-       382,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Wegerer, Mark",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 387,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Schwärzer, Florian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 385.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Hausner, Michael",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 382.6,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Hausner, Stefan",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 380,
-      "results": [
-       0,
-       0,
-       380,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A75D8C4B-1C61-4E63-9E29-4BB25CD88E02/3008",
-   "club": {
-    "name": "SchV \"Pfeil\" Vöhringen",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Illerstraße 28",
-    "city": "89269 Vöhringen",
-    "website": "https://schuetzenverein-voehringen.de/",
-    "logo": "logos/B4AB2FA3-5364-4F7B-A725-6E10583BEE81.webp"
    }
   },
   {
