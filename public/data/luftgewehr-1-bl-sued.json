@@ -3294,8 +3294,8 @@
        "time": "10:00",
        "home": "SG Endorf",
        "away": "SSV Kronau",
-       "homeRings": 588,
-       "awayRings": 892,
+       "homeRings": 1266,
+       "awayRings": 1388,
        "homePoints": 1,
        "awayPoints": 4,
        "played": true,
@@ -3304,10 +3304,10 @@
          "position": 1,
          "home": {
           "name": "Einwaller, Dominic",
-          "total": 98,
+          "total": 197,
           "series": [
            98,
-           0,
+           99,
            0,
            0
           ],
@@ -3315,10 +3315,10 @@
          },
          "away": {
           "name": "Stark, Nele",
-          "total": 99,
+          "total": 198,
           "series": [
            99,
-           0,
+           99,
            0,
            0
           ],
@@ -3331,10 +3331,10 @@
          "position": 2,
          "home": {
           "name": "Webersberger, Ida",
-          "total": 99,
+          "total": 197,
           "series": [
            99,
-           0,
+           98,
            0,
            0
           ],
@@ -3342,11 +3342,11 @@
          },
          "away": {
           "name": "Braun, Max",
-          "total": 197,
+          "total": 297,
           "series": [
            99,
            98,
-           0,
+           100,
            0
           ],
           "shootOff": null
@@ -3358,21 +3358,21 @@
          "position": 3,
          "home": {
           "name": "Westner, Regina",
-          "total": 199,
+          "total": 295,
           "series": [
            100,
            99,
-           0,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Wurster, Lana",
-          "total": 98,
+          "total": 198,
           "series": [
            98,
-           0,
+           100,
            0,
            0
           ],
@@ -3385,23 +3385,23 @@
          "position": 4,
          "home": {
           "name": "Fischer, Felix",
-          "total": 97,
+          "total": 293,
           "series": [
            97,
-           0,
-           0,
+           99,
+           97,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Lotter, Annabelle",
-          "total": 299,
+          "total": 398,
           "series": [
            99,
            100,
            100,
-           0
+           99
           ],
           "shootOff": null
          },
@@ -3412,22 +3412,22 @@
          "position": 5,
          "home": {
           "name": "Retzer, Florian",
-          "total": 95,
+          "total": 284,
           "series": [
            95,
-           0,
-           0,
+           95,
+           94,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Fix, Colin",
-          "total": 199,
+          "total": 297,
           "series": [
            99,
            100,
-           0,
+           98,
            0
           ],
           "shootOff": null
@@ -10192,7 +10192,7 @@
        398,
        399,
        399,
-       99,
+       198,
        0,
        0,
        0,
@@ -10232,7 +10232,7 @@
        398,
        397,
        399,
-       197,
+       297,
        0,
        0,
        0,
@@ -10272,7 +10272,7 @@
        395,
        398,
        395,
-       98,
+       198,
        0,
        0,
        0,
@@ -10292,7 +10292,7 @@
        0,
        0,
        398,
-       299,
+       398,
        0,
        0,
        0,
@@ -10312,7 +10312,7 @@
        0,
        0,
        399,
-       199,
+       297,
        0,
        0,
        0,
@@ -12325,7 +12325,7 @@
        0,
        0,
        394,
-       98,
+       197,
        0,
        0,
        0,
@@ -12365,7 +12365,7 @@
        394,
        396,
        393,
-       99,
+       197,
        0,
        0,
        0,
@@ -12425,7 +12425,7 @@
        393,
        393,
        395,
-       199,
+       295,
        0,
        0,
        0,
@@ -12465,7 +12465,7 @@
        0,
        0,
        0,
-       97,
+       293,
        0,
        0,
        0,
@@ -12485,7 +12485,7 @@
        0,
        0,
        0,
-       95,
+       284,
        0,
        0,
        0,

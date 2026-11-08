@@ -2840,8 +2840,8 @@
        "time": "10:00",
        "home": "Wissener SV",
        "away": "Ohligser SGem 75/03",
-       "homeRings": 1481,
-       "awayRings": 1381,
+       "homeRings": 1875,
+       "awayRings": 1971,
        "homePoints": 3,
        "awayPoints": 2,
        "played": true,
@@ -2877,50 +2877,50 @@
          "position": 2,
          "home": {
           "name": "Stahl, Franziska",
-          "total": 197,
+          "total": 396,
           "series": [
            97,
            100,
-           0,
-           0
+           100,
+           99
           ],
           "shootOff": null
          },
          "away": {
           "name": "Blos, Michelle",
-          "total": 297,
+          "total": 395,
           "series": [
            100,
            98,
            99,
-           0
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Scholz, Sophie",
-          "total": 299,
+          "total": 396,
           "series": [
            100,
            100,
            99,
-           0
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hülsmann, Marc",
-          "total": 194,
+          "total": 391,
           "series": [
            95,
            99,
-           0,
-           0
+           99,
+           98
           ],
           "shootOff": null
          },
@@ -2942,39 +2942,39 @@
          },
          "away": {
           "name": "Blos, Bastian",
-          "total": 199,
+          "total": 397,
           "series": [
            100,
            99,
-           0,
-           0
+           100,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Giegling, Marvin",
-          "total": 199,
+          "total": 297,
           "series": [
            99,
            100,
-           0,
+           98,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ziegler, Antonia Sofie",
-          "total": 293,
+          "total": 390,
           "series": [
            98,
            98,
            97,
-           0
+           97
           ],
           "shootOff": null
          },
@@ -12417,7 +12417,7 @@
        395,
        395,
        397,
-       297,
+       395,
        0,
        0,
        0,
@@ -12437,7 +12437,7 @@
        0,
        394,
        395,
-       293,
+       391,
        0,
        0,
        0,
@@ -12457,7 +12457,7 @@
        0,
        0,
        0,
-       199,
+       299,
        0,
        0,
        0,
@@ -12477,7 +12477,7 @@
        396,
        391,
        393,
-       293,
+       390,
        0,
        0,
        0,
@@ -12694,7 +12694,7 @@
        395,
        397,
        393,
-       297,
+       396,
        0,
        0,
        0,
@@ -12714,7 +12714,7 @@
        394,
        0,
        395,
-       299,
+       396,
        0,
        0,
        0,
