@@ -1616,7 +1616,7 @@
        "time": "10:00",
        "home": "SSV Kassau",
        "away": "SV Bramstedt",
-       "homeRings": 1619,
+       "homeRings": 1913,
        "awayRings": 1973,
        "homePoints": 0,
        "awayPoints": 5,
@@ -1653,10 +1653,10 @@
          "position": 2,
          "home": {
           "name": "Meier, Lina",
-          "total": 375,
+          "total": 386,
           "series": [
-           92,
-           92,
+           97,
+           98,
            94,
            97
           ],
@@ -1680,12 +1680,12 @@
          "position": 3,
          "home": {
           "name": "Zupke, Tanja",
-          "total": 285,
+          "total": 379,
           "series": [
            97,
            96,
            92,
-           0
+           94
           ],
           "shootOff": null
          },
@@ -1707,12 +1707,12 @@
          "position": 4,
          "home": {
           "name": "Jeger, Florian",
-          "total": 289,
+          "total": 385,
           "series": [
            97,
            96,
            96,
-           0
+           96
           ],
           "shootOff": null
          },
@@ -1734,12 +1734,12 @@
          "position": 5,
          "home": {
           "name": "Overgaard, Kasper Hornbek",
-          "total": 284,
+          "total": 377,
           "series": [
            95,
            95,
            94,
-           0
+           93
           ],
           "shootOff": null
          },

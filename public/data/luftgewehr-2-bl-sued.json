@@ -33,50 +33,50 @@
   },
   {
    "rank": 5,
-   "team": "Erlbachtaler-Schützen Niedererlbach",
-   "singlePoints": "5:5",
-   "teamPoints": "2:2"
-  },
-  {
-   "rank": 6,
    "team": "Sportschützen Niederlauterbach",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "team": "SV Pfeil Vöhringen II",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "team": "SG Aich",
    "singlePoints": "4:6",
    "teamPoints": "2:2"
   },
   {
+   "rank": 8,
+   "team": "Erlbachtaler-Schützen Niedererlbach",
+   "singlePoints": "7:8",
+   "teamPoints": "2:4"
+  },
+  {
    "rank": 9,
+   "team": "SV Edelweiß Mendorf",
+   "singlePoints": "5:10",
+   "teamPoints": "2:4"
+  },
+  {
+   "rank": 10,
    "team": "kgl. priv. FSG Titting",
    "singlePoints": "4:6",
    "teamPoints": "0:4"
   },
   {
-   "rank": 10,
+   "rank": 11,
    "team": "Hubertus Kastl",
    "singlePoints": "4:6",
    "teamPoints": "0:4"
   },
   {
-   "rank": 11,
+   "rank": 12,
    "team": "SSG RWS Fürth 2",
    "singlePoints": "3:7",
-   "teamPoints": "0:4"
-  },
-  {
-   "rank": 12,
-   "team": "SV Edelweiß Mendorf",
-   "singlePoints": "2:8",
    "teamPoints": "0:4"
   }
  ],
@@ -2252,19 +2252,19 @@
        "time": "11:00",
        "home": "SV Edelweiß Mendorf",
        "away": "Erlbachtaler-Schützen Niedererlbach",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 584,
+       "awayRings": 199,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Scheringer, Sophia",
+          "total": 99,
           "series": [
-           0,
+           99,
            0,
            0,
            0
@@ -2272,10 +2272,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Prinz, Jolanda",
+          "total": 100,
           "series": [
-           0,
+           100,
            0,
            0,
            0
@@ -2283,23 +2283,23 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Scheringer, Mia",
+          "total": 195,
           "series": [
-           0,
-           0,
+           97,
+           98,
            0,
            0
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Schmied, Manuel",
           "total": 0,
           "series": [
            0,
@@ -2309,16 +2309,16 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Scheringer, Carla",
+          "total": 95,
           "series": [
-           0,
+           95,
            0,
            0,
            0
@@ -2326,7 +2326,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Körndl, Nicole",
           "total": 0,
           "series": [
            0,
@@ -2336,16 +2336,16 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Appelsmayer, Julia",
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -2353,10 +2353,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kröner, Linda",
+          "total": 99,
           "series": [
-           0,
+           99,
            0,
            0,
            0
@@ -2364,15 +2364,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Zieglmeier, Melissa",
+          "total": 97,
           "series": [
-           0,
+           97,
            0,
            0,
            0
@@ -2380,7 +2380,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Aumann, Thomas",
           "total": 0,
           "series": [
            0,
@@ -2390,7 +2390,7 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -11076,183 +11076,6 @@
    }
   },
   {
-   "name": "Erlbachtaler-Schützen Niedererlbach",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Prinz, Jolanda",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 396,
-      "results": [
-       396,
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Schmied, Manuel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 395,
-      "results": [
-       396,
-       394,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Hatterer, Stephane",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 393.54,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Körndl, Nicole",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 392.5,
-      "results": [
-       393,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kröner, Linda",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 392.5,
-      "results": [
-       389,
-       396,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Huber, Alexander",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 388,
-      "results": [
-       0,
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Aumann, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 385,
-      "results": [
-       385,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Weber, Fabian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 379.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FDB20C43-C1FB-4B95-83C1-EEBEE9D75758/3008",
-   "club": {
-    "name": "Erlbachtaler-Schützen Niedererlbach",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Moosburger Str. 8A",
-    "city": "84172 Niedererlbach",
-    "website": "https://erlbachtaler-schuetzen.de",
-    "logo": "logos/FE1F415C-9C75-4C14-BB42-088982CFE20A.webp"
-   }
-  },
-  {
    "name": "Sportschützen Niederlauterbach",
    "setlist": {
     "updatedAt": "2026-11-07T14:52",
@@ -11881,6 +11704,360 @@
     "city": "85368 Moosburg a.d. Isar/Aich",
     "website": "https://sgaich.de",
     "logo": null
+   }
+  },
+  {
+   "name": "Erlbachtaler-Schützen Niedererlbach",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Prinz, Jolanda",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 396,
+      "results": [
+       396,
+       396,
+       100,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schmied, Manuel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 395,
+      "results": [
+       396,
+       394,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Hatterer, Stephane",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 393.54,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Körndl, Nicole",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 392.5,
+      "results": [
+       393,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kröner, Linda",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 392.5,
+      "results": [
+       389,
+       396,
+       197,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Huber, Alexander",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 388,
+      "results": [
+       0,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Aumann, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385,
+      "results": [
+       385,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Weber, Fabian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 379.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FDB20C43-C1FB-4B95-83C1-EEBEE9D75758/3008",
+   "club": {
+    "name": "Erlbachtaler-Schützen Niedererlbach",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Moosburger Str. 8A",
+    "city": "84172 Niedererlbach",
+    "website": "https://erlbachtaler-schuetzen.de",
+    "logo": "logos/FE1F415C-9C75-4C14-BB42-088982CFE20A.webp"
+   }
+  },
+  {
+   "name": "SV Edelweiß Mendorf",
+   "setlist": {
+    "updatedAt": "2026-11-07T14:52",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Scheringer, Sophia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 394,
+      "results": [
+       393,
+       395,
+       99,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Zieglmeier, Vanessa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391,
+      "results": [
+       390,
+       392,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Scheringer, Mia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 391,
+      "results": [
+       389,
+       393,
+       195,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Scheringer, Carla",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 390.67,
+      "results": [
+       0,
+       0,
+       95,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Appelsmayer, Julia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 386.5,
+      "results": [
+       389,
+       384,
+       98,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Zieglmeier, Melissa",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 385.5,
+      "results": [
+       385,
+       386,
+       97,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Dichtl, Bernhard",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Appelsmayer, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F7A908D8-0833-4568-BE87-55E06EA62A80/3008",
+   "club": {
+    "name": "SV Edelweiß Mendorf e.V.",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Bettbrunner Strasse 18",
+    "city": "93336 Mendorf",
+    "website": "https://www.sv-edelweiss-mendorf.de/",
+    "logo": "logos/C141B6BD-1B54-4128-A037-FBC9583822FA.webp"
    }
   },
   {
@@ -12632,183 +12809,6 @@
     "city": "90765 Fürth",
     "website": "https://SSG-RWS.de",
     "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
-   }
-  },
-  {
-   "name": "SV Edelweiß Mendorf",
-   "setlist": {
-    "updatedAt": "2026-11-07T14:52",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Scheringer, Sophia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 394,
-      "results": [
-       393,
-       395,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Zieglmeier, Vanessa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       390,
-       392,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Scheringer, Mia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 391,
-      "results": [
-       389,
-       393,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Scheringer, Carla",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 390.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Appelsmayer, Julia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 386.5,
-      "results": [
-       389,
-       384,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Zieglmeier, Melissa",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 385.5,
-      "results": [
-       385,
-       386,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Dichtl, Bernhard",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Appelsmayer, Stefan",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F7A908D8-0833-4568-BE87-55E06EA62A80/3008",
-   "club": {
-    "name": "SV Edelweiß Mendorf e.V.",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Bettbrunner Strasse 18",
-    "city": "93336 Mendorf",
-    "website": "https://www.sv-edelweiss-mendorf.de/",
-    "logo": "logos/C141B6BD-1B54-4128-A037-FBC9583822FA.webp"
    }
   }
  ]
