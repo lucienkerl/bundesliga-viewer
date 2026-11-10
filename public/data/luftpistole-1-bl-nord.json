@@ -12116,7 +12116,7 @@
   {
    "name": "Freischütz Wathlingen",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-10T11:19",
     "entries": [
      {
       "rank": 1,
@@ -12240,6 +12240,26 @@
      },
      {
       "rank": 7,
+      "name": "Kindel, Jonas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
       "name": "Schrader, Jessica",
       "foreign": null,
       "status": "E",
@@ -12259,7 +12279,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 9,
       "name": "Tauermann, Sarah",
       "foreign": null,
       "status": "S",
@@ -12279,7 +12299,7 @@
       ]
      },
      {
-      "rank": 9,
+      "rank": 10,
       "name": "Brabender, Christian",
       "foreign": null,
       "status": "S",
@@ -12299,7 +12319,7 @@
       ]
      },
      {
-      "rank": 10,
+      "rank": 11,
       "name": "Freier, Sven",
       "foreign": null,
       "status": "E",
