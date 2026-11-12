@@ -10594,7 +10594,7 @@
   {
    "name": "PSV Olympia Berlin",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-12T11:08",
     "entries": [
      {
       "rank": 1,
@@ -10718,26 +10718,6 @@
      },
      {
       "rank": 7,
-      "name": "Fijalkowski, Marc Leon",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 368,
-      "results": [
-       363,
-       369,
-       365,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
       "name": "Skeries, Michelle",
       "foreign": null,
       "status": "E",
@@ -10757,16 +10737,16 @@
       ]
      },
      {
-      "rank": 9,
-      "name": "Wagner, Adrian",
+      "rank": 8,
+      "name": "Fijalkowski, Marc Leon",
       "foreign": null,
-      "status": "E",
-      "startAverage": 366.86,
+      "status": "F",
+      "startAverage": 363.86,
       "results": [
-       0,
-       0,
-       0,
-       0,
+       363,
+       369,
+       365,
+       375,
        0,
        0,
        0,
@@ -10777,7 +10757,7 @@
       ]
      },
      {
-      "rank": 10,
+      "rank": 9,
       "name": "Janikulla, Robert",
       "foreign": null,
       "status": "S",
@@ -10797,7 +10777,7 @@
       ]
      },
      {
-      "rank": 11,
+      "rank": 10,
       "name": "Eder, Josefin",
       "foreign": null,
       "status": "E",
