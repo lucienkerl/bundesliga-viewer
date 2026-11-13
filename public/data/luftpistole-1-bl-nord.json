@@ -10594,7 +10594,7 @@
   {
    "name": "PSV Olympia Berlin",
    "setlist": {
-    "updatedAt": "2026-11-12T11:08",
+    "updatedAt": "2026-11-12T15:51",
     "entries": [
      {
       "rank": 1,
@@ -10718,15 +10718,15 @@
      },
      {
       "rank": 7,
-      "name": "Skeries, Michelle",
+      "name": "Fijalkowski, Marc Leon",
       "foreign": null,
-      "status": "E",
-      "startAverage": 367.8,
+      "status": "F",
+      "startAverage": 368,
       "results": [
-       0,
-       0,
-       0,
-       0,
+       363,
+       369,
+       365,
+       375,
        0,
        0,
        0,
@@ -10738,15 +10738,15 @@
      },
      {
       "rank": 8,
-      "name": "Fijalkowski, Marc Leon",
+      "name": "Skeries, Michelle",
       "foreign": null,
-      "status": "F",
-      "startAverage": 363.86,
+      "status": "E",
+      "startAverage": 367.8,
       "results": [
-       363,
-       369,
-       365,
-       375,
+       0,
+       0,
+       0,
+       0,
        0,
        0,
        0,
