@@ -1616,8 +1616,8 @@
        "time": "10:30",
        "home": "SV Walldorf",
        "away": "SV Altheim-Waldhausen",
-       "homeRings": 634,
-       "awayRings": 636,
+       "homeRings": 998,
+       "awayRings": 1274,
        "homePoints": 2,
        "awayPoints": 3,
        "played": true,
@@ -1637,10 +1637,10 @@
          },
          "away": {
           "name": "Riedener, Andreas",
-          "total": 91,
+          "total": 182,
           "series": [
            91,
-           0,
+           91,
            0,
            0
           ],
@@ -1653,10 +1653,10 @@
          "position": 2,
          "home": {
           "name": "Besser, Julius",
-          "total": 88,
+          "total": 181,
           "series": [
            88,
-           0,
+           93,
            0,
            0
           ],
@@ -1664,11 +1664,11 @@
          },
          "away": {
           "name": "Laub, Frank",
-          "total": 179,
+          "total": 269,
           "series": [
            87,
            92,
-           0,
+           90,
            0
           ],
           "shootOff": null
@@ -1680,10 +1680,10 @@
          "position": 3,
          "home": {
           "name": "Günther, Konstantin",
-          "total": 94,
+          "total": 186,
           "series": [
            94,
-           0,
+           92,
            0,
            0
           ],
@@ -1691,12 +1691,12 @@
          },
          "away": {
           "name": "Wetzel, Philipp",
-          "total": 186,
+          "total": 371,
           "series": [
            92,
            94,
-           0,
-           0
+           95,
+           90
           ],
           "shootOff": null
          },
@@ -1707,37 +1707,37 @@
          "position": 4,
          "home": {
           "name": "Quintel, Karsten",
-          "total": 178,
+          "total": 263,
           "series": [
            88,
            90,
-           0,
+           85,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Blezu, Andreas",
-          "total": 88,
+          "total": 269,
           "series": [
            88,
-           0,
-           0,
+           91,
+           90,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Friedrich, Stefanie",
-          "total": 91,
+          "total": 185,
           "series": [
            91,
-           0,
+           94,
            0,
            0
           ],
@@ -1745,17 +1745,17 @@
          },
          "away": {
           "name": "Morar, Christian",
-          "total": 92,
+          "total": 183,
           "series": [
+           92,
+           91,
            0,
-           0,
-           0,
-           92
+           0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         }
        ]
       },
@@ -5352,7 +5352,7 @@
       "results": [
        0,
        0,
-       91,
+       182,
        0,
        0,
        0,
@@ -5384,7 +5384,7 @@
       "results": [
        375,
        360,
-       179,
+       269,
        0,
        0,
        0,
@@ -5400,7 +5400,7 @@
       "results": [
        370,
        362,
-       186,
+       371,
        0,
        0,
        0,
@@ -5416,7 +5416,7 @@
       "results": [
        0,
        0,
-       88,
+       269,
        0,
        0,
        0,
@@ -5432,7 +5432,7 @@
       "results": [
        355,
        369,
-       92,
+       183,
        0,
        0,
        0,
@@ -5738,7 +5738,7 @@
       "results": [
        0,
        0,
-       88,
+       181,
        0,
        0,
        0,
@@ -5754,7 +5754,7 @@
       "results": [
        366,
        362,
-       94,
+       186,
        0,
        0,
        0,
@@ -5802,7 +5802,7 @@
       "results": [
        360,
        0,
-       178,
+       263,
        0,
        0,
        0,
@@ -5818,7 +5818,7 @@
       "results": [
        354,
        356,
-       91,
+       185,
        0,
        0,
        0,
