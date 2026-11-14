@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SV Kelheim-Gmünd",
-   "singlePoints": "19:6",
+   "singlePoints": "20:4",
    "teamPoints": "10:0"
   },
   {
@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "SGi Ludwigsburg",
-   "singlePoints": "15:10",
+   "singlePoints": "13:11",
    "teamPoints": "6:4"
   },
   {
@@ -3754,33 +3754,33 @@
        "time": "15:00",
        "home": "SGi Ludwigsburg",
        "away": "SV Kelheim-Gmünd",
-       "homeRings": 750,
-       "awayRings": 849,
-       "homePoints": 2,
-       "awayPoints": 3,
+       "homeRings": 1392,
+       "awayRings": 1793,
+       "homePoints": 0,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Schmidt, Florian Daniel",
-          "total": 92,
+          "total": 273,
           "series": [
            92,
-           0,
-           0,
+           92,
+           89,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Carrera, Pablo",
-          "total": 189,
+          "total": 381,
           "series": [
            95,
            94,
-           0,
-           0
+           97,
+           95
           ],
           "shootOff": null
          },
@@ -3791,77 +3791,77 @@
          "position": 2,
          "home": {
           "name": "Reitz, Florian",
-          "total": 187,
+          "total": 279,
           "series": [
            94,
            93,
-           0,
+           92,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Grimm, Philipp",
-          "total": 186,
+          "total": 375,
           "series": [
            93,
            93,
-           0,
-           0
+           95,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
           "name": "Hlousek, Julia",
-          "total": 191,
+          "total": 287,
           "series": [
            95,
            96,
-           0,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Karsch, Monika",
-          "total": 96,
+          "total": 287,
           "series": [
            96,
-           0,
-           0,
+           98,
+           93,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 1,
+         "homePoint": 0,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Spinella, Massimo",
-          "total": 188,
+          "total": 284,
           "series": [
            97,
            91,
-           0,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Weiß, Simon",
-          "total": 191,
+          "total": 375,
           "series": [
            96,
            95,
-           0,
-           0
+           91,
+           93
           ],
           "shootOff": null
          },
@@ -3872,23 +3872,23 @@
          "position": 5,
          "home": {
           "name": "Potteck, René",
-          "total": 92,
+          "total": 269,
           "series": [
            92,
-           0,
-           0,
+           90,
+           87,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schultheiß, Christoph",
-          "total": 187,
+          "total": 375,
           "series": [
            94,
            93,
-           0,
-           0
+           94,
+           94
           ],
           "shootOff": null
          },
@@ -10173,7 +10173,7 @@
        0,
        0,
        0,
-       286,
+       381,
        0,
        0,
        0,
@@ -10193,7 +10193,7 @@
        392,
        373,
        0,
-       281,
+       375,
        0,
        0,
        0,
@@ -10233,7 +10233,7 @@
        0,
        373,
        379,
-       194,
+       287,
        0,
        0,
        0,
@@ -10273,7 +10273,7 @@
        381,
        381,
        373,
-       282,
+       375,
        0,
        0,
        0,
@@ -10293,7 +10293,7 @@
        371,
        0,
        0,
-       281,
+       375,
        0,
        0,
        0,
@@ -11438,7 +11438,7 @@
        375,
        381,
        364,
-       92,
+       273,
        0,
        0,
        0,
@@ -11478,7 +11478,7 @@
        373,
        369,
        368,
-       187,
+       279,
        0,
        0,
        0,
@@ -11538,7 +11538,7 @@
        0,
        0,
        0,
-       191,
+       287,
        0,
        0,
        0,
@@ -11558,7 +11558,7 @@
        0,
        0,
        0,
-       188,
+       284,
        0,
        0,
        0,
@@ -11598,7 +11598,7 @@
        0,
        0,
        0,
-       182,
+       269,
        0,
        0,
        0,
