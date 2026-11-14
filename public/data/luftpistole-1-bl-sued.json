@@ -28,7 +28,7 @@
   {
    "rank": 4,
    "team": "FSG Kempten 1",
-   "singlePoints": "14:10",
+   "singlePoints": "16:9",
    "teamPoints": "8:2"
   },
   {
@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "KKS Hambrücken",
-   "singlePoints": "15:9",
+   "singlePoints": "14:11",
    "teamPoints": "6:4"
   },
   {
@@ -3902,33 +3902,33 @@
        "time": "16:30",
        "home": "KKS Hambrücken",
        "away": "FSG Kempten 1",
-       "homeRings": 1040,
-       "awayRings": 1038,
-       "homePoints": 2,
-       "awayPoints": 2,
+       "homeRings": 1518,
+       "awayRings": 1704,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Walter, Robin",
-          "total": 193,
+          "total": 288,
           "series": [
            95,
            98,
-           0,
+           95,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Gampierakis, Georgios",
-          "total": 287,
+          "total": 383,
           "series": [
            94,
            95,
            98,
-           0
+           96
           ],
           "shootOff": null
          },
@@ -3939,50 +3939,50 @@
          "position": 2,
          "home": {
           "name": "Baumeister, Eduard",
-          "total": 284,
+          "total": 381,
           "series": [
            95,
            96,
            93,
-           0
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Heise, Michael",
-          "total": 191,
+          "total": 383,
           "series": [
            95,
            96,
-           0,
-           0
+           97,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
           "name": "Fries, Hugo",
-          "total": 187,
+          "total": 284,
           "series": [
            96,
            91,
-           0,
+           97,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Heise, Andreas",
-          "total": 277,
+          "total": 371,
           "series": [
            89,
            94,
            94,
-           0
+           94
           ],
           "shootOff": null
          },
@@ -3993,55 +3993,55 @@
          "position": 4,
          "home": {
           "name": "Becker, Celina Maria Paula",
-          "total": 191,
+          "total": 287,
           "series": [
            95,
            96,
-           0,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Rinn, Marcel",
-          "total": 191,
+          "total": 283,
           "series": [
            95,
            96,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 0
-        },
-        {
-         "position": 5,
-         "home": {
-          "name": "Kudrya, Serhiy",
-          "total": 185,
-          "series": [
            92,
-           93,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Veser, Adrian",
-          "total": 92,
-          "series": [
-           92,
-           0,
-           0,
            0
           ],
           "shootOff": null
          },
          "homePoint": 1,
          "awayPoint": 0
+        },
+        {
+         "position": 5,
+         "home": {
+          "name": "Kudrya, Serhiy",
+          "total": 278,
+          "series": [
+           92,
+           93,
+           93,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Veser, Adrian",
+          "total": 284,
+          "series": [
+           92,
+           95,
+           97,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       },
@@ -10944,7 +10944,7 @@
        0,
        383,
        381,
-       287,
+       383,
        0,
        0,
        0,
@@ -10964,7 +10964,7 @@
        382,
        374,
        375,
-       288,
+       383,
        0,
        0,
        0,
@@ -11004,7 +11004,7 @@
        382,
        376,
        374,
-       277,
+       371,
        0,
        0,
        0,
@@ -11044,7 +11044,7 @@
        0,
        378,
        375,
-       191,
+       283,
        0,
        0,
        0,
@@ -11064,7 +11064,7 @@
        370,
        0,
        371,
-       187,
+       284,
        0,
        0,
        0,
@@ -11418,7 +11418,7 @@
        0,
        0,
        0,
-       193,
+       288,
        0,
        0,
        0,
@@ -11438,7 +11438,7 @@
        0,
        382,
        384,
-       284,
+       381,
        0,
        0,
        0,
@@ -11458,7 +11458,7 @@
        379,
        0,
        0,
-       187,
+       284,
        0,
        0,
        0,
@@ -11478,7 +11478,7 @@
        375,
        0,
        0,
-       191,
+       287,
        0,
        0,
        0,
@@ -11498,7 +11498,7 @@
        366,
        383,
        373,
-       185,
+       278,
        0,
        0,
        0,
