@@ -21,15 +21,15 @@
   },
   {
    "rank": 3,
-   "team": "Wandsbeker SGi",
+   "team": "BSG Stadtwerke Norderstedt",
    "singlePoints": "13:7",
    "teamPoints": "6:2"
   },
   {
    "rank": 4,
-   "team": "BSG Stadtwerke Norderstedt",
-   "singlePoints": "10:5",
-   "teamPoints": "4:2"
+   "team": "Wandsbeker SGi",
+   "singlePoints": "13:7",
+   "teamPoints": "6:2"
   },
   {
    "rank": 5,
@@ -45,13 +45,13 @@
   },
   {
    "rank": 7,
-   "team": "SB Süpplingen",
-   "singlePoints": "4:11",
-   "teamPoints": "0:6"
+   "team": "PC Rendsburg",
+   "singlePoints": "6:14",
+   "teamPoints": "0:8"
   },
   {
    "rank": 8,
-   "team": "PC Rendsburg",
+   "team": "SB Süpplingen",
    "singlePoints": "6:14",
    "teamPoints": "0:8"
   }
@@ -1928,146 +1928,146 @@
        "time": "14:00",
        "home": "SB Süpplingen",
        "away": "BSG Stadtwerke Norderstedt",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1800,
+       "awayRings": 1834,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kirchmer, Kristof",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           92,
+           93,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ortiz, Diego",
+          "total": 381,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           94,
+           96,
+           97
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Keune, Andreas",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           92,
+           93,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kemner, Felix",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           85,
+           90,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Eib, Lars",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           91,
+           91,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bergholt Madsen, Heidi",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           95,
+           90,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Tomicki, Martin",
+          "total": 355,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           90,
+           86,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Greutner, Daniel",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           87,
+           94,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Klein, Christian",
+          "total": 346,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           84,
+           83,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Marron, Lucie",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           90,
+           92,
+           88
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -4746,6 +4746,167 @@
    }
   },
   {
+   "name": "BSG Stadtwerke Norderstedt",
+   "setlist": {
+    "updatedAt": "2026-11-09T10:59",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Ortiz, Diego",
+      "foreign": "AS",
+      "status": "S",
+      "startAverage": 368.5,
+      "results": [
+       364,
+       373,
+       370,
+       381,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Kemner, Felix",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.5,
+      "results": [
+       354,
+       371,
+       360,
+       362,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Bergholt Madsen, Heidi",
+      "foreign": "A",
+      "status": "F",
+      "startAverage": 362,
+      "results": [
+       0,
+       362,
+       365,
+       362,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Greutner, Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360.5,
+      "results": [
+       365,
+       356,
+       363,
+       370,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Scharff Rasmussen, Louise",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 358,
+      "results": [
+       358,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Richert, Janina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 354.5,
+      "results": [
+       357,
+       352,
+       346,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Wendorf, Daniel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 351,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Marron, Lucie",
+      "foreign": "EU",
+      "status": "E",
+      "startAverage": 349.25,
+      "results": [
+       0,
+       0,
+       0,
+       359,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Mehrabimoghadam, Reza",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 337,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/2F065C37-CC32-41C1-AB15-C83AF57A1A7D/3039",
+   "club": {
+    "name": "BSG Stadtwerke Norderstedt",
+    "federation": "Schützenverband Hamburg",
+    "street": "Wagnerstr. 57",
+    "city": "24568 Kaltenkirchen",
+    "website": "https://www.bsg-stadtwerke-norderstedt.de/index.php",
+    "logo": null
+   }
+  },
+  {
    "name": "Wandsbeker SGi",
    "setlist": {
     "updatedAt": "2026-11-09T10:59",
@@ -4888,167 +5049,6 @@
     "city": "20535 Hamburg",
     "website": "https://www.wandsbeker-schuetzengilde.de",
     "logo": "logos/03889191-A19E-4B8E-B359-CB174FE9ADFC.webp"
-   }
-  },
-  {
-   "name": "BSG Stadtwerke Norderstedt",
-   "setlist": {
-    "updatedAt": "2026-11-09T10:59",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Ortiz, Diego",
-      "foreign": "AS",
-      "status": "S",
-      "startAverage": 368.5,
-      "results": [
-       364,
-       373,
-       370,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Kemner, Felix",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.5,
-      "results": [
-       354,
-       371,
-       360,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Bergholt Madsen, Heidi",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 362,
-      "results": [
-       0,
-       362,
-       365,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Greutner, Daniel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 360.5,
-      "results": [
-       365,
-       356,
-       363,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Scharff Rasmussen, Louise",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 358,
-      "results": [
-       358,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Richert, Janina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 354.5,
-      "results": [
-       357,
-       352,
-       346,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Wendorf, Daniel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 351,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Marron, Lucie",
-      "foreign": "EU",
-      "status": "E",
-      "startAverage": 349.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Mehrabimoghadam, Reza",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 337,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/2F065C37-CC32-41C1-AB15-C83AF57A1A7D/3039",
-   "club": {
-    "name": "BSG Stadtwerke Norderstedt",
-    "federation": "Schützenverband Hamburg",
-    "street": "Wagnerstr. 57",
-    "city": "24568 Kaltenkirchen",
-    "website": "https://www.bsg-stadtwerke-norderstedt.de/index.php",
-    "logo": null
    }
   },
   {
@@ -5390,167 +5390,6 @@
    }
   },
   {
-   "name": "SB Süpplingen",
-   "setlist": {
-    "updatedAt": "2026-11-09T10:59",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kirchmer, Kristof",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363.5,
-      "results": [
-       369,
-       358,
-       368,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Keune, Andreas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 363.5,
-      "results": [
-       356,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Eib, Lars",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362,
-      "results": [
-       361,
-       363,
-       365,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Stute, Lisa-Frederike",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358,
-      "results": [
-       359,
-       357,
-       354,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Tomicki, Martin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 355.5,
-      "results": [
-       356,
-       355,
-       364,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Stute, Kristina-Meike",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 348,
-      "results": [
-       0,
-       0,
-       353,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Klein, Christian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 345,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Müller, Fabian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Müller, Sebastian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DCEA5620-9ACD-4383-BCEE-D0A190A03EE8/3039",
-   "club": {
-    "name": "Schützenbrüderschaft Süpplingen v. 1952 e.V.",
-    "federation": "Niedersächsischer Sportschützenverband",
-    "street": "Helmstedter Str. 4c",
-    "city": "38373 Süpplingen",
-    "website": null,
-    "logo": "logos/3FF0C892-0436-42E7-9EE7-294A857E5BC1.webp"
-   }
-  },
-  {
    "name": "PC Rendsburg",
    "setlist": {
     "updatedAt": "2026-11-09T10:59",
@@ -5677,6 +5516,167 @@
     "city": "24768 Rendsburg",
     "website": null,
     "logo": null
+   }
+  },
+  {
+   "name": "SB Süpplingen",
+   "setlist": {
+    "updatedAt": "2026-11-09T10:59",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kirchmer, Kristof",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363.5,
+      "results": [
+       369,
+       358,
+       368,
+       365,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Keune, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 363.5,
+      "results": [
+       356,
+       371,
+       0,
+       366,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Eib, Lars",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362,
+      "results": [
+       361,
+       363,
+       365,
+       368,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Stute, Lisa-Frederike",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358,
+      "results": [
+       359,
+       357,
+       354,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Tomicki, Martin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 355.5,
+      "results": [
+       356,
+       355,
+       364,
+       355,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Stute, Kristina-Meike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 348,
+      "results": [
+       0,
+       0,
+       353,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Klein, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 345,
+      "results": [
+       0,
+       0,
+       0,
+       346,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Müller, Fabian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Müller, Sebastian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DCEA5620-9ACD-4383-BCEE-D0A190A03EE8/3039",
+   "club": {
+    "name": "Schützenbrüderschaft Süpplingen v. 1952 e.V.",
+    "federation": "Niedersächsischer Sportschützenverband",
+    "street": "Helmstedter Str. 4c",
+    "city": "38373 Süpplingen",
+    "website": null,
+    "logo": "logos/3FF0C892-0436-42E7-9EE7-294A857E5BC1.webp"
    }
   }
  ]
