@@ -9,15 +9,15 @@
  "table": [
   {
    "rank": 1,
-   "team": "SSV St. Peter",
-   "singlePoints": "9:6",
+   "team": "SGi Ebershardt",
+   "singlePoints": "13:2",
    "teamPoints": "6:0"
   },
   {
    "rank": 2,
-   "team": "SGi Ebershardt",
-   "singlePoints": "9:1",
-   "teamPoints": "4:0"
+   "team": "SSV St. Peter",
+   "singlePoints": "9:6",
+   "teamPoints": "6:0"
   },
   {
    "rank": 3,
@@ -33,14 +33,14 @@
   },
   {
    "rank": 5,
-   "team": "Sportschützen Püttlingen",
-   "singlePoints": "4:6",
-   "teamPoints": "2:2"
+   "team": "SV Altheim-Waldhausen",
+   "singlePoints": "8:7",
+   "teamPoints": "2:4"
   },
   {
    "rank": 6,
-   "team": "SV Altheim-Waldhausen",
-   "singlePoints": "8:7",
+   "team": "Sportschützen Püttlingen",
+   "singlePoints": "5:10",
    "teamPoints": "2:4"
   },
   {
@@ -1764,19 +1764,19 @@
        "time": "13:00",
        "home": "SGi Ebershardt",
        "away": "Sportschützen Püttlingen",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 458,
+       "awayRings": 444,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Würsig, Daniel",
-          "total": 0,
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
@@ -1785,25 +1785,25 @@
          },
          "away": {
           "name": "Roth, Sébastien",
-          "total": 0,
+          "total": 89,
           "series": [
-           0,
+           89,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
           "name": "Gäckle, Marius",
-          "total": 0,
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -1812,25 +1812,25 @@
          },
          "away": {
           "name": "Romang, Claire",
-          "total": 0,
+          "total": 89,
           "series": [
-           0,
+           89,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Kovacic, Sophia",
-          "total": 0,
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
@@ -1839,25 +1839,25 @@
          },
          "away": {
           "name": "Mootz, Thomas",
-          "total": 0,
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Strommer, Sarah",
-          "total": 0,
+          "total": 89,
           "series": [
-           0,
+           89,
            0,
            0,
            0
@@ -1866,9 +1866,9 @@
          },
          "away": {
           "name": "Weber, Silvain",
-          "total": 0,
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
@@ -1876,15 +1876,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Frey, Dominik",
-          "total": 0,
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
@@ -1893,16 +1893,16 @@
          },
          "away": {
           "name": "Schaff, Frédéric",
-          "total": 0,
+          "total": 83,
           "series": [
-           0,
+           83,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4386,6 +4386,151 @@
  ],
  "teams": [
   {
+   "name": "SGi Ebershardt",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Würsig, Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377,
+      "results": [
+       373,
+       381,
+       93,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Gäckle, Marius",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       372,
+       370,
+       92,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Kovacic, Sophia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 370.5,
+      "results": [
+       370,
+       371,
+       93,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Strommer, Sarah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367,
+      "results": [
+       365,
+       369,
+       89,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Frey, Dominik",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       368,
+       360,
+       91,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Kammerer, Thomas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 348,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Uhlenhaut, Mike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 335,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Frey, Otto",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A166BFF6-ADCE-498A-81D4-A50FCA4E1F18/3042",
+   "club": {
+    "name": "SGi Ebershardt",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Waldstraße 1",
+    "city": "72224 Ebhausen",
+    "website": "https://www.ebershardt.de",
+    "logo": null
+   }
+  },
+  {
    "name": "SSV St. Peter",
    "setlist": {
     "updatedAt": "2026-10-12T10:33",
@@ -4544,151 +4689,6 @@
     "city": "79271 St. Peter",
     "website": "https://www.ssv-st-peter.de",
     "logo": "logos/7E8332DA-C27F-42A8-8856-AB11BE0B4F21.webp"
-   }
-  },
-  {
-   "name": "SGi Ebershardt",
-   "setlist": {
-    "updatedAt": "2026-10-12T10:34",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Würsig, Daniel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377,
-      "results": [
-       373,
-       381,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Gäckle, Marius",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371,
-      "results": [
-       372,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Kovacic, Sophia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 370.5,
-      "results": [
-       370,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Strommer, Sarah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367,
-      "results": [
-       365,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Frey, Dominik",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364,
-      "results": [
-       368,
-       360,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Kammerer, Thomas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 348,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Uhlenhaut, Mike",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 335,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Frey, Otto",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A166BFF6-ADCE-498A-81D4-A50FCA4E1F18/3042",
-   "club": {
-    "name": "SGi Ebershardt",
-    "federation": "Württembergischer Schützenverband",
-    "street": "Waldstraße 1",
-    "city": "72224 Ebhausen",
-    "website": "https://www.ebershardt.de",
-    "logo": null
    }
   },
   {
@@ -5146,199 +5146,6 @@
    }
   },
   {
-   "name": "Sportschützen Püttlingen",
-   "setlist": {
-    "updatedAt": "2026-10-12T10:34",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Wey, Anthoni",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 375,
-      "results": [
-       370,
-       380,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Roth, Sébastien",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 372.5,
-      "results": [
-       375,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Romang, Claire",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 364,
-      "results": [
-       357,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Mootz, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.5,
-      "results": [
-       368,
-       357,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Weber, Silvain",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 355.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Schaff, Frédéric",
-      "foreign": "EU",
-      "status": "S",
-      "startAverage": 354,
-      "results": [
-       356,
-       352,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Nosbüsch, Armin",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 340,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Wagner, Frank",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Grune, Albert",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Bote, Dennis",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Schneider, Edmund",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8698EFE7-4E07-4760-BB93-99B532A9981B/3042",
-   "club": {
-    "name": "Sportschützen Püttlingen 1904 e.V.",
-    "federation": "Schützenverband Saar",
-    "street": "Hohbergstr. 1",
-    "city": "66346 Püttlingen",
-    "website": null,
-    "logo": "logos/0C1E7646-9121-4C25-99BD-711143B62D87.webp"
-   }
-  },
-  {
    "name": "SV Altheim-Waldhausen",
    "setlist": {
     "updatedAt": "2026-10-12T10:32",
@@ -5529,6 +5336,199 @@
     "city": "88499 Altheim",
     "website": "http://www.schuetzenverein-altheim-w.de/",
     "logo": "logos/0B24F101-FF54-42A6-A883-F8002CB05FE6.webp"
+   }
+  },
+  {
+   "name": "Sportschützen Püttlingen",
+   "setlist": {
+    "updatedAt": "2026-10-12T10:34",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Wey, Anthoni",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 375,
+      "results": [
+       370,
+       380,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Roth, Sébastien",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 372.5,
+      "results": [
+       375,
+       370,
+       89,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Romang, Claire",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       357,
+       371,
+       89,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Mootz, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.5,
+      "results": [
+       368,
+       357,
+       92,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Weber, Silvain",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.5,
+      "results": [
+       0,
+       0,
+       91,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schaff, Frédéric",
+      "foreign": "EU",
+      "status": "S",
+      "startAverage": 354,
+      "results": [
+       356,
+       352,
+       83,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Nosbüsch, Armin",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 340,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Wagner, Frank",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Grune, Albert",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Bote, Dennis",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Schneider, Edmund",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8698EFE7-4E07-4760-BB93-99B532A9981B/3042",
+   "club": {
+    "name": "Sportschützen Püttlingen 1904 e.V.",
+    "federation": "Schützenverband Saar",
+    "street": "Hohbergstr. 1",
+    "city": "66346 Püttlingen",
+    "website": null,
+    "logo": "logos/0C1E7646-9121-4C25-99BD-711143B62D87.webp"
    }
   },
   {
