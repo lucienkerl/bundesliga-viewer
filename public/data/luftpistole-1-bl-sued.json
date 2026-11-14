@@ -4059,7 +4059,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Martin, Andreas",
           "total": 0,
           "series": [
            0,
@@ -4070,7 +4070,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Probst, David",
           "total": 0,
           "series": [
            0,
@@ -4086,7 +4086,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Adels, Nina",
           "total": 0,
           "series": [
            0,
@@ -4097,7 +4097,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Ranzinger, Philipp",
           "total": 0,
           "series": [
            0,
@@ -4113,7 +4113,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Polischuk, Maria",
           "total": 0,
           "series": [
            0,
@@ -4124,7 +4124,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Baamann, Theresia",
           "total": 0,
           "series": [
            0,
@@ -4140,7 +4140,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Lindner, Dominikus",
           "total": 0,
           "series": [
            0,
@@ -4151,7 +4151,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Hirmer, Stefan",
           "total": 0,
           "series": [
            0,
@@ -4167,7 +4167,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Schütt, Carsten",
           "total": 0,
           "series": [
            0,
@@ -4178,7 +4178,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Deroni, Sascha",
           "total": 0,
           "series": [
            0,
@@ -11848,7 +11848,7 @@
       "rank": 12,
       "name": "Schütt, Carsten",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 360.5,
       "results": [
        0,
