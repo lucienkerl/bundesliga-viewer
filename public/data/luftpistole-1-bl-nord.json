@@ -10,8 +10,8 @@
   {
    "rank": 1,
    "team": "Sp.Sch.St.Seb.Pier2000",
-   "singlePoints": "19:1",
-   "teamPoints": "8:0"
+   "singlePoints": "23:2",
+   "teamPoints": "10:0"
   },
   {
    "rank": 2,
@@ -33,27 +33,27 @@
   },
   {
    "rank": 5,
-   "team": "SV Schirumer Leegmoor",
-   "singlePoints": "10:10",
-   "teamPoints": "4:4"
+   "team": "SV Falke Dasbach",
+   "singlePoints": "13:12",
+   "teamPoints": "6:4"
   },
   {
    "rank": 6,
-   "team": "Spsch Raesfeld",
-   "singlePoints": "10:10",
+   "team": "SV Niedererbach",
+   "singlePoints": "9:11",
    "teamPoints": "4:4"
   },
   {
    "rank": 7,
-   "team": "SV Falke Dasbach",
-   "singlePoints": "9:11",
-   "teamPoints": "4:4"
+   "team": "SV Schirumer Leegmoor",
+   "singlePoints": "11:14",
+   "teamPoints": "4:6"
   },
   {
    "rank": 8,
-   "team": "SV Niedererbach",
-   "singlePoints": "9:11",
-   "teamPoints": "4:4"
+   "team": "Spsch Raesfeld",
+   "singlePoints": "11:14",
+   "teamPoints": "4:6"
   },
   {
    "rank": 9,
@@ -3754,145 +3754,145 @@
        "time": "15:00",
        "home": "Sp.Sch.St.Seb.Pier2000",
        "away": "SV Schirumer Leegmoor",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1875,
+       "awayRings": 1864,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Jako, Miriam",
+          "total": 383,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           97,
+           94,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Nooij, Sander",
+          "total": 382,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           95,
+           95,
+           98
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kremser, Markus",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           96,
+           91,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Stürken, Marcel",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           99,
+           94,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Januszek, Robin",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           95,
+           95,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Grünhoff, Dennis",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           93,
+           91,
+           92
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kögler, Andreas",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           93,
+           94,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ritter, Maik",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           91,
+           90,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Verbist, Shane",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           89,
+           92,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lüken, Thomas",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           91,
+           92,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4208,146 +4208,146 @@
        "time": "15:00",
        "home": "Spsch Raesfeld",
        "away": "SV Falke Dasbach",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1808,
+       "awayRings": 1855,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Reichelt, Nadine",
+          "total": 361,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           92,
+           91,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Polgár, János",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           95,
+           94,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Koch, Leon Philipp",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           90,
+           92,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Löhr, Sven",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           92,
+           91,
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Litterscheid, Heiko",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           90,
+           93,
+           87
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bahrmann, Ann-Kathrin",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           89,
+           91,
+           91
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Trömer, Manuel",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           87,
+           93,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Metten, Christian",
+          "total": 375,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           95,
+           93,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ermes, Andrè",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           92,
+           94,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Remmert, Stefan",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           94,
+           91,
+           88
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -10193,7 +10193,7 @@
        389,
        0,
        0,
-       0,
+       383,
        0,
        0,
        0,
@@ -10213,7 +10213,7 @@
        380,
        378,
        376,
-       0,
+       376,
        0,
        0,
        0,
@@ -10233,7 +10233,7 @@
        376,
        377,
        369,
-       0,
+       377,
        0,
        0,
        0,
@@ -10253,7 +10253,7 @@
        375,
        375,
        371,
-       0,
+       369,
        0,
        0,
        0,
@@ -10293,7 +10293,7 @@
        0,
        367,
        0,
-       0,
+       370,
        0,
        0,
        0,
@@ -11066,500 +11066,6 @@
    }
   },
   {
-   "name": "SV Schirumer Leegmoor",
-   "setlist": {
-    "updatedAt": "2026-10-28T15:21",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Nooij, Sander",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 377.5,
-      "results": [
-       376,
-       379,
-       377,
-       378,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Stürken, Marcel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 370.75,
-      "results": [
-       377,
-       373,
-       363,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Grünhoff, Dennis",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.5,
-      "results": [
-       370,
-       370,
-       370,
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Ritter, Maik",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 366.33,
-      "results": [
-       0,
-       363,
-       373,
-       363,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Fürst, Eike",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 365.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Lüken, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364.5,
-      "results": [
-       370,
-       367,
-       357,
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Barden, Rainer",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 360,
-      "results": [
-       360,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Broers, Michael",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 356.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Tjaden, Martin",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 351,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Slink, Andreas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/C183D12F-A024-442C-A267-D9728D544D97/3036",
-   "club": {
-    "name": "Schützenverein Schirumer Leegmoor e.V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Korbweidenstraße 34",
-    "city": "26605 Aurich",
-    "website": "https://www.sv-schirumer-leegmoor.de",
-    "logo": "logos/16D69F85-A2CB-4380-8BEA-9C2BB7E60B99.webp"
-   }
-  },
-  {
-   "name": "Spsch Raesfeld",
-   "setlist": {
-    "updatedAt": "2026-10-28T15:21",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Alimoglu, Abdullah Ömer",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 379,
-      "results": [
-       383,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Brückner, Jan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377.5,
-      "results": [
-       381,
-       374,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Krampe, Lena",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 367.43,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Reichelt, Nadine",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367,
-      "results": [
-       374,
-       360,
-       368,
-       366,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Koch, Leon Philipp",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 365.17,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Ley, Manfred",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 365,
-      "results": [
-       0,
-       0,
-       374,
-       356,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Terboven, Jona",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364.67,
-      "results": [
-       365,
-       0,
-       372,
-       357,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Halke, Matthias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 362.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Litterscheid, Heiko",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 360,
-      "results": [
-       0,
-       362,
-       358,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Trömer, Manuel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 358,
-      "results": [
-       358,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Ermes, Andrè",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 352,
-      "results": [
-       0,
-       350,
-       0,
-       354,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Fiedler, Hanna",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 350.5,
-      "results": [
-       0,
-       0,
-       353,
-       348,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 13,
-      "name": "Höller, Margit",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/EF175F7A-730C-4F25-9193-E9567D3030A9/3036",
-   "club": {
-    "name": "SpSch Raesfeld/Westf",
-    "federation": "Westfälischer Schützenbund",
-    "street": "Hüberskamp 7",
-    "city": "46348 Raesfeld",
-    "website": "https://spsch-raesfeld.eu/",
-    "logo": "logos/3C7049D1-5E11-42DF-A3D6-D6D29A46E53F.webp"
-   }
-  },
-  {
    "name": "SV Falke Dasbach",
    "setlist": {
     "updatedAt": "2026-10-28T15:21",
@@ -11608,14 +11114,14 @@
       "rank": 3,
       "name": "Polgár, János",
       "foreign": "A",
-      "status": "E",
+      "status": "F",
       "startAverage": 375.5,
       "results": [
        0,
        0,
        377,
        374,
-       0,
+       377,
        0,
        0,
        0,
@@ -11635,7 +11141,7 @@
        364,
        0,
        0,
-       0,
+       366,
        0,
        0,
        0,
@@ -11675,7 +11181,7 @@
        373,
        367,
        367,
-       0,
+       368,
        0,
        0,
        0,
@@ -11695,7 +11201,7 @@
        0,
        0,
        0,
-       0,
+       375,
        0,
        0,
        0,
@@ -11755,7 +11261,7 @@
        0,
        0,
        365,
-       0,
+       369,
        0,
        0,
        0,
@@ -12091,6 +11597,500 @@
     "city": "56412 Niedererbach",
     "website": "https://www.schuetzenvereinniedererbach.de",
     "logo": "logos/0D497BEF-7428-47F4-A549-8FB319284CA3.webp"
+   }
+  },
+  {
+   "name": "SV Schirumer Leegmoor",
+   "setlist": {
+    "updatedAt": "2026-10-28T15:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Nooij, Sander",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 377.5,
+      "results": [
+       376,
+       379,
+       377,
+       378,
+       382,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Stürken, Marcel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 370.75,
+      "results": [
+       377,
+       373,
+       363,
+       370,
+       380,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Grünhoff, Dennis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.5,
+      "results": [
+       370,
+       370,
+       370,
+       364,
+       373,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Ritter, Maik",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 366.33,
+      "results": [
+       0,
+       363,
+       373,
+       363,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Fürst, Eike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 365.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Lüken, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.5,
+      "results": [
+       370,
+       367,
+       357,
+       364,
+       364,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Barden, Rainer",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 360,
+      "results": [
+       360,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Broers, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 356.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Tjaden, Martin",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 351,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Slink, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/C183D12F-A024-442C-A267-D9728D544D97/3036",
+   "club": {
+    "name": "Schützenverein Schirumer Leegmoor e.V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Korbweidenstraße 34",
+    "city": "26605 Aurich",
+    "website": "https://www.sv-schirumer-leegmoor.de",
+    "logo": "logos/16D69F85-A2CB-4380-8BEA-9C2BB7E60B99.webp"
+   }
+  },
+  {
+   "name": "Spsch Raesfeld",
+   "setlist": {
+    "updatedAt": "2026-10-28T15:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Alimoglu, Abdullah Ömer",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 379,
+      "results": [
+       383,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Brückner, Jan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377.5,
+      "results": [
+       381,
+       374,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Krampe, Lena",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 367.43,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Reichelt, Nadine",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367,
+      "results": [
+       374,
+       360,
+       368,
+       366,
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Koch, Leon Philipp",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 365.17,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Ley, Manfred",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 365,
+      "results": [
+       0,
+       0,
+       374,
+       356,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Terboven, Jona",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.67,
+      "results": [
+       365,
+       0,
+       372,
+       357,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Halke, Matthias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 362.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Litterscheid, Heiko",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360,
+      "results": [
+       0,
+       362,
+       358,
+       0,
+       358,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Trömer, Manuel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 358,
+      "results": [
+       358,
+       0,
+       0,
+       0,
+       357,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Ermes, Andrè",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 352,
+      "results": [
+       0,
+       350,
+       0,
+       354,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Fiedler, Hanna",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 350.5,
+      "results": [
+       0,
+       0,
+       353,
+       348,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 13,
+      "name": "Höller, Margit",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/EF175F7A-730C-4F25-9193-E9567D3030A9/3036",
+   "club": {
+    "name": "SpSch Raesfeld/Westf",
+    "federation": "Westfälischer Schützenbund",
+    "street": "Hüberskamp 7",
+    "city": "46348 Raesfeld",
+    "website": "https://spsch-raesfeld.eu/",
+    "logo": "logos/3C7049D1-5E11-42DF-A3D6-D6D29A46E53F.webp"
    }
   },
   {
