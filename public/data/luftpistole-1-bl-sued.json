@@ -28,7 +28,7 @@
   {
    "rank": 4,
    "team": "FSG Kempten 1",
-   "singlePoints": "14:8",
+   "singlePoints": "14:10",
    "teamPoints": "8:2"
   },
   {
@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "KKS Hambrücken",
-   "singlePoints": "13:9",
+   "singlePoints": "15:9",
    "teamPoints": "6:4"
   },
   {
@@ -3902,9 +3902,9 @@
        "time": "16:30",
        "home": "KKS Hambrücken",
        "away": "FSG Kempten 1",
-       "homeRings": 95,
-       "awayRings": 278,
-       "homePoints": 0,
+       "homeRings": 1040,
+       "awayRings": 1038,
+       "homePoints": 2,
        "awayPoints": 2,
        "played": true,
        "pairs": [
@@ -3912,10 +3912,10 @@
          "position": 1,
          "home": {
           "name": "Walter, Robin",
-          "total": 0,
+          "total": 193,
           "series": [
-           0,
-           0,
+           95,
+           98,
            0,
            0
           ],
@@ -3923,11 +3923,11 @@
          },
          "away": {
           "name": "Gampierakis, Georgios",
-          "total": 94,
+          "total": 287,
           "series": [
            94,
-           0,
-           0,
+           95,
+           98,
            0
           ],
           "shootOff": null
@@ -3939,37 +3939,37 @@
          "position": 2,
          "home": {
           "name": "Baumeister, Eduard",
-          "total": 95,
+          "total": 284,
           "series": [
            95,
-           0,
-           0,
+           96,
+           93,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Heise, Michael",
-          "total": 95,
+          "total": 191,
           "series": [
            95,
-           0,
+           96,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Fries, Hugo",
-          "total": 0,
+          "total": 187,
           "series": [
-           0,
-           0,
+           96,
+           91,
            0,
            0
           ],
@@ -3977,11 +3977,11 @@
          },
          "away": {
           "name": "Heise, Andreas",
-          "total": 89,
+          "total": 277,
           "series": [
            89,
-           0,
-           0,
+           94,
+           94,
            0
           ],
           "shootOff": null
@@ -3993,10 +3993,10 @@
          "position": 4,
          "home": {
           "name": "Becker, Celina Maria Paula",
-          "total": 0,
+          "total": 191,
           "series": [
-           0,
-           0,
+           95,
+           96,
            0,
            0
           ],
@@ -4004,10 +4004,10 @@
          },
          "away": {
           "name": "Rinn, Marcel",
-          "total": 0,
+          "total": 191,
           "series": [
-           0,
-           0,
+           95,
+           96,
            0,
            0
           ],
@@ -4020,10 +4020,10 @@
          "position": 5,
          "home": {
           "name": "Kudrya, Serhiy",
-          "total": 0,
+          "total": 185,
           "series": [
-           0,
-           0,
+           92,
+           93,
            0,
            0
           ],
@@ -4031,16 +4031,16 @@
          },
          "away": {
           "name": "Veser, Adrian",
-          "total": 0,
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10944,7 +10944,7 @@
        0,
        383,
        381,
-       94,
+       287,
        0,
        0,
        0,
@@ -10964,7 +10964,7 @@
        382,
        374,
        375,
-       95,
+       288,
        0,
        0,
        0,
@@ -11004,7 +11004,7 @@
        382,
        376,
        374,
-       89,
+       277,
        0,
        0,
        0,
@@ -11044,7 +11044,7 @@
        0,
        378,
        375,
-       95,
+       191,
        0,
        0,
        0,
@@ -11064,7 +11064,7 @@
        370,
        0,
        371,
-       0,
+       187,
        0,
        0,
        0,
@@ -11418,7 +11418,7 @@
        0,
        0,
        0,
-       95,
+       193,
        0,
        0,
        0,
@@ -11438,7 +11438,7 @@
        0,
        382,
        384,
-       95,
+       284,
        0,
        0,
        0,
@@ -11458,7 +11458,7 @@
        379,
        0,
        0,
-       96,
+       187,
        0,
        0,
        0,
@@ -11478,7 +11478,7 @@
        375,
        0,
        0,
-       95,
+       191,
        0,
        0,
        0,
@@ -11498,7 +11498,7 @@
        366,
        383,
        373,
-       92,
+       185,
        0,
        0,
        0,
