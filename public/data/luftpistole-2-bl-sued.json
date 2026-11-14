@@ -10821,7 +10821,7 @@
   {
    "name": "Wildbachschützen Landshut",
    "setlist": {
-    "updatedAt": "2026-10-28T15:22",
+    "updatedAt": "2026-11-14T17:31",
     "entries": [
      {
       "rank": 1,
@@ -11006,6 +11006,26 @@
      {
       "rank": 10,
       "name": "Kronwitter, Walter",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Jost, Luis Maximilian",
       "foreign": null,
       "status": "E",
       "startAverage": 0,
