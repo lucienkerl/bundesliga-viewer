@@ -10,8 +10,8 @@
   {
    "rank": 1,
    "team": "SV Haendorf",
-   "singlePoints": "11:4",
-   "teamPoints": "6:0"
+   "singlePoints": "14:6",
+   "teamPoints": "8:0"
   },
   {
    "rank": 2,
@@ -33,15 +33,15 @@
   },
   {
    "rank": 5,
-   "team": "SV Assel",
-   "singlePoints": "6:9",
+   "team": "Schützengilde Grohnde",
+   "singlePoints": "5:10",
    "teamPoints": "2:4"
   },
   {
    "rank": 6,
-   "team": "Schützengilde Grohnde",
-   "singlePoints": "5:10",
-   "teamPoints": "2:4"
+   "team": "SV Assel",
+   "singlePoints": "8:12",
+   "teamPoints": "2:6"
   },
   {
    "rank": 7,
@@ -2382,145 +2382,145 @@
        "time": "15:15",
        "home": "SV Assel",
        "away": "SV Haendorf",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1801,
+       "awayRings": 1828,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lemmel, Thoralf",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           88,
+           94,
+           87
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Varnhorn, Christoph",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           87,
+           92,
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hauschild, Steffen",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           92,
+           86,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Cordes, Timon",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           92,
+           89,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Maaß, Heiko",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           92,
+           89,
+           86
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "von Döllen, Timo",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           93,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Steffens, Jan",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           91,
+           92,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wingert, Jennifer",
+          "total": 378,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           95,
+           92,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Middeke, Ulf",
+          "total": 353,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           85,
+           89,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wingert, Marina",
+          "total": 352,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           86,
+           86,
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4390,7 +4390,7 @@
        372,
        375,
        372,
-       0,
+       357,
        0,
        0,
        0
@@ -4406,7 +4406,7 @@
        368,
        370,
        378,
-       0,
+       370,
        0,
        0,
        0
@@ -4422,7 +4422,7 @@
        365,
        365,
        373,
-       0,
+       371,
        0,
        0,
        0
@@ -4438,7 +4438,7 @@
        364,
        363,
        362,
-       0,
+       378,
        0,
        0,
        0
@@ -4470,7 +4470,7 @@
        348,
        359,
        346,
-       0,
+       352,
        0,
        0,
        0
@@ -5052,167 +5052,6 @@
    }
   },
   {
-   "name": "SV Assel",
-   "setlist": {
-    "updatedAt": "2026-11-09T10:59",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Wehr, Thilo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Lemmel, Thoralf",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 363.5,
-      "results": [
-       369,
-       358,
-       365,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Hauschild, Steffen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.67,
-      "results": [
-       0,
-       0,
-       360,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Maaß, Heiko",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 361,
-      "results": [
-       364,
-       358,
-       357,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Stelling, Gabriele",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359,
-      "results": [
-       362,
-       356,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Steffens, Jan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 356.5,
-      "results": [
-       357,
-       356,
-       362,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Zwernemann, Marius",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 349.5,
-      "results": [
-       351,
-       348,
-       346,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Middeke, Ulf",
-      "foreign": null,
-      "status": "",
-      "startAverage": 348,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Mählmann, Rolf",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E9B142C3-B7A9-420A-A8B1-F022ADCEA743/3039",
-   "club": {
-    "name": "Schützenverein Assel e.V. von 1901",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Asseler Str. 41",
-    "city": "21706 Drochtersen",
-    "website": "https://sv-assel.de/",
-    "logo": "logos/49758D50-153E-489A-B31A-1B8BA1731683.webp"
-   }
-  },
-  {
    "name": "Schützengilde Grohnde",
    "setlist": {
     "updatedAt": "2026-11-09T10:59",
@@ -5387,6 +5226,167 @@
     "city": "31860 Emmerthal",
     "website": "https://sgi-grohnde.de",
     "logo": "logos/41AE6023-2E5E-4A31-8B49-6D0BD03C0DAD.webp"
+   }
+  },
+  {
+   "name": "SV Assel",
+   "setlist": {
+    "updatedAt": "2026-11-09T10:59",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Wehr, Thilo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Lemmel, Thoralf",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 363.5,
+      "results": [
+       369,
+       358,
+       365,
+       360,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Hauschild, Steffen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.67,
+      "results": [
+       0,
+       0,
+       360,
+       364,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Maaß, Heiko",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361,
+      "results": [
+       364,
+       358,
+       357,
+       356,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Stelling, Gabriele",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359,
+      "results": [
+       362,
+       356,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Steffens, Jan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 356.5,
+      "results": [
+       357,
+       356,
+       362,
+       368,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Zwernemann, Marius",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 349.5,
+      "results": [
+       351,
+       348,
+       346,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Middeke, Ulf",
+      "foreign": null,
+      "status": "",
+      "startAverage": 348,
+      "results": [
+       0,
+       0,
+       0,
+       353,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Mählmann, Rolf",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E9B142C3-B7A9-420A-A8B1-F022ADCEA743/3039",
+   "club": {
+    "name": "Schützenverein Assel e.V. von 1901",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Asseler Str. 41",
+    "city": "21706 Drochtersen",
+    "website": "https://sv-assel.de/",
+    "logo": "logos/49758D50-153E-489A-B31A-1B8BA1731683.webp"
    }
   },
   {

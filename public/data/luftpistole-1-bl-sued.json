@@ -3911,7 +3911,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Walter, Robin",
           "total": 0,
           "series": [
            0,
@@ -3922,7 +3922,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Gampierakis, Georgios",
           "total": 0,
           "series": [
            0,
@@ -3938,7 +3938,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Baumeister, Eduard",
           "total": 0,
           "series": [
            0,
@@ -3949,7 +3949,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Heise, Michael",
           "total": 0,
           "series": [
            0,
@@ -3965,7 +3965,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Fries, Hugo",
           "total": 0,
           "series": [
            0,
@@ -3976,7 +3976,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Heise, Andreas",
           "total": 0,
           "series": [
            0,
@@ -3992,7 +3992,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Becker, Celina Maria Paula",
           "total": 0,
           "series": [
            0,
@@ -4003,7 +4003,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Rinn, Marcel",
           "total": 0,
           "series": [
            0,
@@ -4019,7 +4019,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Kudrya, Serhiy",
           "total": 0,
           "series": [
            0,
@@ -4030,7 +4030,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Veser, Adrian",
           "total": 0,
           "series": [
            0,
@@ -11154,7 +11154,7 @@
       "rank": 1,
       "name": "Gampierakis, Georgios",
       "foreign": "A",
-      "status": "E",
+      "status": "F",
       "startAverage": 382,
       "results": [
        0,
