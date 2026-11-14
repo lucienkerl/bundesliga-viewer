@@ -22,8 +22,8 @@
   {
    "rank": 3,
    "team": "1. BSGi zu Oelsnitz/Vogtland",
-   "singlePoints": "12:8",
-   "teamPoints": "6:2"
+   "singlePoints": "15:10",
+   "teamPoints": "8:2"
   },
   {
    "rank": 4,
@@ -69,15 +69,15 @@
   },
   {
    "rank": 11,
-   "team": "SV Bassum von 1848",
+   "team": "SV Lindwedel",
    "singlePoints": "4:16",
    "teamPoints": "0:8"
   },
   {
    "rank": 12,
-   "team": "SV Lindwedel",
-   "singlePoints": "4:16",
-   "teamPoints": "0:8"
+   "team": "SV Bassum von 1848",
+   "singlePoints": "6:19",
+   "teamPoints": "0:10"
   }
  ],
  "matchDays": [
@@ -4504,145 +4504,145 @@
        "time": "18:00",
        "home": "1. BSGi zu Oelsnitz/Vogtland",
        "away": "SV Bassum von 1848",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1837,
+       "awayRings": 1834,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Grießbach, Yannic",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           93,
+           97,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hoppe, Thomas",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           90,
+           93,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Eichel, Enrico",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           93,
+           91,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Rother, Denis",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           93,
+           92,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Naujoks, Lukas",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           94,
+           90,
+           85
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hadeler, Lea Carolin",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           96,
+           89,
+           91
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Krieger, Norman",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           93,
+           89,
+           86
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Sandmann, Sascha",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           94,
+           91,
+           90
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hirte, Henry",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           94,
+           90,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Vollmer, Frederik",
+          "total": 361,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           91,
+           91,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10607,7 +10607,7 @@
        379,
        384,
        377,
-       0,
+       380,
        0,
        0,
        0,
@@ -10627,7 +10627,7 @@
        381,
        373,
        366,
-       0,
+       373,
        0,
        0,
        0,
@@ -10647,7 +10647,7 @@
        375,
        362,
        374,
-       0,
+       359,
        0,
        0,
        0,
@@ -10660,14 +10660,14 @@
       "rank": 4,
       "name": "Krieger, Norman",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 370,
       "results": [
        0,
        0,
        369,
        371,
-       0,
+       359,
        0,
        0,
        0,
@@ -10687,7 +10687,7 @@
        370,
        0,
        0,
-       0,
+       366,
        0,
        0,
        0,
@@ -12548,223 +12548,6 @@
    }
   },
   {
-   "name": "SV Bassum von 1848",
-   "setlist": {
-    "updatedAt": "2026-10-28T15:21",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Eknes, Erik",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 377.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Hoppe, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375.25,
-      "results": [
-       377,
-       370,
-       375,
-       379,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Rother, Denis",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371,
-      "results": [
-       372,
-       374,
-       368,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Hadeler, Lea Carolin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367.5,
-      "results": [
-       365,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Michel, Pierre",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 366.67,
-      "results": [
-       0,
-       360,
-       372,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Sandmann, Sascha",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365,
-      "results": [
-       365,
-       362,
-       365,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Vollmer, Frederik",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 361,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Samojlenko, Valerij",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 357.5,
-      "results": [
-       0,
-       0,
-       362,
-       353,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Pohl, Claas-Cervin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 344,
-      "results": [
-       344,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Käseberg-Böschen, Tim",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 341.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/323DA2E7-556D-4D45-AADB-76BAB61463E7/3036",
-   "club": {
-    "name": "Schützenverein Bassum von 1848 e.V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Am Schützenplatz 4",
-    "city": "27211 Bassum",
-    "website": "https://www.bassum1848.de",
-    "logo": "logos/99ABBD70-86D0-4257-8A0B-CD1F6A908ABF.webp"
-   }
-  },
-  {
    "name": "SV Lindwedel",
    "setlist": {
     "updatedAt": "2026-10-28T15:21",
@@ -12999,6 +12782,223 @@
     "city": "29690 Lindwedel",
     "website": null,
     "logo": "logos/75A6AD3C-F23A-4DB0-84B1-A244C2F7F398.webp"
+   }
+  },
+  {
+   "name": "SV Bassum von 1848",
+   "setlist": {
+    "updatedAt": "2026-10-28T15:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Eknes, Erik",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 377.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Hoppe, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375.25,
+      "results": [
+       377,
+       370,
+       375,
+       379,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Rother, Denis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       372,
+       374,
+       368,
+       370,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Hadeler, Lea Carolin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367.5,
+      "results": [
+       365,
+       370,
+       0,
+       0,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Michel, Pierre",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 366.67,
+      "results": [
+       0,
+       360,
+       372,
+       368,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Sandmann, Sascha",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365,
+      "results": [
+       365,
+       362,
+       365,
+       368,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Vollmer, Frederik",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Samojlenko, Valerij",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 357.5,
+      "results": [
+       0,
+       0,
+       362,
+       353,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Pohl, Claas-Cervin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 344,
+      "results": [
+       344,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Käseberg-Böschen, Tim",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 341.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/323DA2E7-556D-4D45-AADB-76BAB61463E7/3036",
+   "club": {
+    "name": "Schützenverein Bassum von 1848 e.V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Am Schützenplatz 4",
+    "city": "27211 Bassum",
+    "website": "https://www.bassum1848.de",
+    "logo": "logos/99ABBD70-86D0-4257-8A0B-CD1F6A908ABF.webp"
    }
   }
  ]

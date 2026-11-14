@@ -4050,8 +4050,8 @@
        "time": "18:00",
        "home": "HSG München",
        "away": "Edelweiß Scheuring",
-       "homeRings": 1204,
-       "awayRings": 1283,
+       "homeRings": 1854,
+       "awayRings": 1846,
        "homePoints": 3,
        "awayPoints": 2,
        "played": true,
@@ -4060,50 +4060,23 @@
          "position": 1,
          "home": {
           "name": "Martin, Andreas",
-          "total": 188,
+          "total": 375,
           "series": [
            93,
            95,
-           0,
-           0
+           94,
+           93
           ],
           "shootOff": null
          },
          "away": {
           "name": "Probst, David",
-          "total": 277,
+          "total": 370,
           "series": [
            94,
            92,
            91,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 1
-        },
-        {
-         "position": 2,
-         "home": {
-          "name": "Adels, Nina",
-          "total": 274,
-          "series": [
-           92,
-           89,
-           93,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Ranzinger, Philipp",
-          "total": 186,
-          "series": [
-           95,
-           91,
-           0,
-           0
+           93
           ],
           "shootOff": null
          },
@@ -4111,26 +4084,53 @@
          "awayPoint": 0
         },
         {
+         "position": 2,
+         "home": {
+          "name": "Adels, Nina",
+          "total": 365,
+          "series": [
+           92,
+           89,
+           93,
+           91
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Ranzinger, Philipp",
+          "total": 375,
+          "series": [
+           95,
+           91,
+           95,
+           94
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
          "position": 3,
          "home": {
           "name": "Polischuk, Maria",
-          "total": 191,
+          "total": 380,
           "series": [
            95,
            96,
-           0,
-           0
+           92,
+           97
           ],
           "shootOff": null
          },
          "away": {
           "name": "Baamann, Theresia",
-          "total": 182,
+          "total": 369,
           "series": [
            90,
            92,
-           0,
-           0
+           93,
+           94
           ],
           "shootOff": null
          },
@@ -4141,23 +4141,23 @@
          "position": 4,
          "home": {
           "name": "Lindner, Dominikus",
-          "total": 276,
+          "total": 370,
           "series": [
            95,
            89,
            92,
-           0
+           94
           ],
           "shootOff": null
          },
          "away": {
           "name": "Hirmer, Stefan",
-          "total": 272,
+          "total": 366,
           "series": [
            87,
            92,
            93,
-           0
+           94
           ],
           "shootOff": null
          },
@@ -4168,12 +4168,12 @@
          "position": 5,
          "home": {
           "name": "Schütt, Carsten",
-          "total": 275,
+          "total": 364,
           "series": [
            94,
            88,
            93,
-           0
+           89
           ],
           "shootOff": null
          },
@@ -11735,7 +11735,7 @@
        374,
        375,
        377,
-       282,
+       375,
        0,
        0,
        0,
@@ -11755,7 +11755,7 @@
        372,
        375,
        366,
-       274,
+       365,
        0,
        0,
        0,
@@ -11775,7 +11775,7 @@
        372,
        369,
        368,
-       283,
+       380,
        0,
        0,
        0,
@@ -11855,7 +11855,7 @@
        0,
        359,
        362,
-       275,
+       364,
        0,
        0,
        0,
@@ -12366,7 +12366,7 @@
        379,
        375,
        377,
-       277,
+       370,
        0,
        0,
        0,
@@ -12406,7 +12406,7 @@
        378,
        377,
        374,
-       186,
+       375,
        0,
        0,
        0,
@@ -12446,7 +12446,7 @@
        369,
        378,
        373,
-       182,
+       369,
        0,
        0,
        0,
