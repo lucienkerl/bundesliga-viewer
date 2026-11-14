@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "SV Altheim-Waldhausen",
-   "singlePoints": "7:8",
+   "singlePoints": "8:7",
    "teamPoints": "2:4"
   },
   {
@@ -52,7 +52,7 @@
   {
    "rank": 8,
    "team": "SV Walldorf",
-   "singlePoints": "6:9",
+   "singlePoints": "5:10",
    "teamPoints": "0:6"
   }
  ],
@@ -1616,62 +1616,62 @@
        "time": "10:30",
        "home": "SV Walldorf",
        "away": "SV Altheim-Waldhausen",
-       "homeRings": 998,
-       "awayRings": 1274,
-       "homePoints": 2,
-       "awayPoints": 3,
+       "homeRings": 1803,
+       "awayRings": 1820,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Rogge, Ronald",
-          "total": 183,
+          "total": 361,
           "series": [
            92,
            91,
-           0,
-           0
+           86,
+           92
           ],
           "shootOff": null
          },
          "away": {
           "name": "Riedener, Andreas",
-          "total": 182,
+          "total": 369,
           "series": [
            91,
            91,
-           0,
-           0
+           91,
+           96
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Besser, Julius",
-          "total": 181,
+          "total": 359,
           "series": [
            88,
            93,
-           0,
-           0
+           90,
+           88
           ],
-          "shootOff": null
+          "shootOff": 8
          },
          "away": {
           "name": "Laub, Frank",
-          "total": 269,
+          "total": 359,
           "series": [
            87,
            92,
            90,
-           0
+           90
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "homePoint": 0,
          "awayPoint": 1
@@ -1680,12 +1680,12 @@
          "position": 3,
          "home": {
           "name": "Günther, Konstantin",
-          "total": 186,
+          "total": 375,
           "series": [
            94,
            92,
-           0,
-           0
+           94,
+           95
           ],
           "shootOff": null
          },
@@ -1700,30 +1700,30 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Quintel, Karsten",
-          "total": 263,
+          "total": 347,
           "series": [
            88,
            90,
            85,
-           0
+           84
           ],
           "shootOff": null
          },
          "away": {
           "name": "Blezu, Andreas",
-          "total": 269,
+          "total": 356,
           "series": [
            88,
            91,
            90,
-           0
+           87
           ],
           "shootOff": null
          },
@@ -1734,28 +1734,28 @@
          "position": 5,
          "home": {
           "name": "Friedrich, Stefanie",
-          "total": 185,
+          "total": 361,
           "series": [
            91,
            94,
-           0,
-           0
+           87,
+           89
           ],
           "shootOff": null
          },
          "away": {
           "name": "Morar, Christian",
-          "total": 183,
+          "total": 365,
           "series": [
            92,
            91,
-           0,
-           0
+           90,
+           92
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       },
@@ -4604,7 +4604,7 @@
       "results": [
        0,
        368,
-       0,
+       378,
        0,
        0,
        0,
@@ -4624,7 +4624,7 @@
       "results": [
        365,
        0,
-       0,
+       368,
        0,
        0,
        0,
@@ -4644,7 +4644,7 @@
       "results": [
        372,
        356,
-       0,
+       358,
        0,
        0,
        0,
@@ -4664,7 +4664,7 @@
       "results": [
        362,
        363,
-       0,
+       346,
        0,
        0,
        0,
@@ -4684,7 +4684,7 @@
       "results": [
        363,
        360,
-       0,
+       360,
        0,
        0,
        0,
@@ -4813,7 +4813,7 @@
       "results": [
        372,
        371,
-       0,
+       367,
        0,
        0,
        0,
@@ -4829,7 +4829,7 @@
       "results": [
        371,
        365,
-       0,
+       362,
        0,
        0,
        0,
@@ -4845,7 +4845,7 @@
       "results": [
        365,
        363,
-       0,
+       361,
        0,
        0,
        0,
@@ -4861,7 +4861,7 @@
       "results": [
        364,
        362,
-       0,
+       367,
        0,
        0,
        0,
@@ -4877,7 +4877,7 @@
       "results": [
        0,
        0,
-       0,
+       365,
        0,
        0,
        0,
@@ -5352,7 +5352,7 @@
       "results": [
        0,
        0,
-       182,
+       369,
        0,
        0,
        0,
@@ -5384,7 +5384,7 @@
       "results": [
        375,
        360,
-       269,
+       359,
        0,
        0,
        0,
@@ -5416,7 +5416,7 @@
       "results": [
        0,
        0,
-       269,
+       356,
        0,
        0,
        0,
@@ -5432,7 +5432,7 @@
       "results": [
        355,
        369,
-       183,
+       365,
        0,
        0,
        0,
@@ -5706,7 +5706,7 @@
       "results": [
        0,
        369,
-       183,
+       361,
        0,
        0,
        0,
@@ -5738,7 +5738,7 @@
       "results": [
        0,
        0,
-       181,
+       359,
        0,
        0,
        0,
@@ -5754,7 +5754,7 @@
       "results": [
        366,
        362,
-       186,
+       375,
        0,
        0,
        0,
@@ -5802,7 +5802,7 @@
       "results": [
        360,
        0,
-       263,
+       347,
        0,
        0,
        0,
@@ -5818,7 +5818,7 @@
       "results": [
        354,
        356,
-       185,
+       361,
        0,
        0,
        0,
