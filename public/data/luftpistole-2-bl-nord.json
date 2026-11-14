@@ -4893,7 +4893,7 @@
   {
    "name": "SV Anderlingen",
    "setlist": {
-    "updatedAt": "2026-11-09T10:59",
+    "updatedAt": "2026-11-13T22:23",
     "entries": [
      {
       "rank": 1,
@@ -5013,6 +5013,22 @@
       "foreign": null,
       "status": "E",
       "startAverage": 338.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Hinck, Eike",
+      "foreign": null,
+      "status": "",
+      "startAverage": 0,
       "results": [
        0,
        0,
