@@ -15,15 +15,15 @@
   },
   {
    "rank": 2,
-   "team": "BSG Stadtwerke Norderstedt",
-   "singlePoints": "9:1",
-   "teamPoints": "4:0"
+   "team": "SV Anderlingen",
+   "singlePoints": "10:5",
+   "teamPoints": "6:0"
   },
   {
    "rank": 3,
-   "team": "SV Anderlingen",
-   "singlePoints": "6:4",
-   "teamPoints": "4:0"
+   "team": "BSG Stadtwerke Norderstedt",
+   "singlePoints": "10:5",
+   "teamPoints": "4:2"
   },
   {
    "rank": 4,
@@ -1458,145 +1458,145 @@
        "time": "11:45",
        "home": "SV Anderlingen",
        "away": "BSG Stadtwerke Norderstedt",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1817,
+       "awayRings": 1804,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brandt, Christian",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           87,
+           92,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ortiz, Diego",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           92,
+           92,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brandt, Paulina",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           85,
+           95,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kemner, Felix",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           85,
+           88,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Tomforde, Jan-Hinrich",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           92,
+           90,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bergholt Madsen, Heidi",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           90,
+           89,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brandt, Ole Mattis",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           95,
+           87,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Greutner, Daniel",
+          "total": 363,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           90,
+           89,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brandt, Annelie",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           83,
+           92,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Richert, Janina",
+          "total": 346,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           85,
+           87,
+           86
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4585,6 +4585,167 @@
    }
   },
   {
+   "name": "SV Anderlingen",
+   "setlist": {
+    "updatedAt": "2026-11-13T22:23",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Brandt, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369.5,
+      "results": [
+       371,
+       368,
+       364,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Brandt, Paulina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.5,
+      "results": [
+       367,
+       366,
+       362,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Tomforde, Jan-Hinrich",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363.5,
+      "results": [
+       364,
+       363,
+       367,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Brandt, Ole Mattis",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362,
+      "results": [
+       361,
+       363,
+       366,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Martin, Laura",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 362,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Brandt, Annelie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 352,
+      "results": [
+       352,
+       0,
+       358,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Delventhal, Sven",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 352,
+      "results": [
+       0,
+       352,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Jakobsen, Friedhelm",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 338.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Hinck, Eike",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DF5D5E21-7B7B-4719-9609-DD84FAB1F96C/3039",
+   "club": {
+    "name": "Schützenverein Anderlingen u. Umgeb. e. V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Hembecker Weg 1",
+    "city": "27446 Anderlingen",
+    "website": null,
+    "logo": null
+   }
+  },
+  {
    "name": "BSG Stadtwerke Norderstedt",
    "setlist": {
     "updatedAt": "2026-11-09T10:59",
@@ -4598,7 +4759,7 @@
       "results": [
        364,
        373,
-       0,
+       370,
        0,
        0,
        0,
@@ -4614,7 +4775,7 @@
       "results": [
        354,
        371,
-       0,
+       360,
        0,
        0,
        0,
@@ -4630,7 +4791,7 @@
       "results": [
        0,
        362,
-       0,
+       365,
        0,
        0,
        0,
@@ -4646,7 +4807,7 @@
       "results": [
        365,
        356,
-       0,
+       363,
        0,
        0,
        0,
@@ -4678,7 +4839,7 @@
       "results": [
        357,
        352,
-       0,
+       346,
        0,
        0,
        0,
@@ -4742,167 +4903,6 @@
     "street": "Wagnerstr. 57",
     "city": "24568 Kaltenkirchen",
     "website": "https://www.bsg-stadtwerke-norderstedt.de/index.php",
-    "logo": null
-   }
-  },
-  {
-   "name": "SV Anderlingen",
-   "setlist": {
-    "updatedAt": "2026-11-13T22:23",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Brandt, Christian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369.5,
-      "results": [
-       371,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Brandt, Paulina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.5,
-      "results": [
-       367,
-       366,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Tomforde, Jan-Hinrich",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363.5,
-      "results": [
-       364,
-       363,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Brandt, Ole Mattis",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362,
-      "results": [
-       361,
-       363,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Martin, Laura",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 362,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Brandt, Annelie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 352,
-      "results": [
-       352,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Delventhal, Sven",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 352,
-      "results": [
-       0,
-       352,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Jakobsen, Friedhelm",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 338.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Hinck, Eike",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/DF5D5E21-7B7B-4719-9609-DD84FAB1F96C/3039",
-   "club": {
-    "name": "Schützenverein Anderlingen u. Umgeb. e. V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Hembecker Weg 1",
-    "city": "27446 Anderlingen",
-    "website": null,
     "logo": null
    }
   },
