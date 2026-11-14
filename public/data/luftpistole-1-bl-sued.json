@@ -52,19 +52,19 @@
   {
    "rank": 8,
    "team": "SSG RWS Fürth",
-   "singlePoints": "7:13",
-   "teamPoints": "2:6"
+   "singlePoints": "10:15",
+   "teamPoints": "4:6"
   },
   {
    "rank": 9,
-   "team": "SG 1928 Glattbach",
-   "singlePoints": "4:16",
-   "teamPoints": "2:6"
+   "team": "Edelweiß Scheuring",
+   "singlePoints": "10:15",
+   "teamPoints": "2:8"
   },
   {
    "rank": 10,
-   "team": "Edelweiß Scheuring",
-   "singlePoints": "10:15",
+   "team": "SG 1928 Glattbach",
+   "singlePoints": "6:19",
    "teamPoints": "2:8"
   },
   {
@@ -4504,146 +4504,146 @@
        "time": "18:00",
        "home": "SG 1928 Glattbach",
        "away": "SSG RWS Fürth",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1833,
+       "awayRings": 1832,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Drawert, Carolin",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           85,
+           91,
+           91,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Korn, Sören",
+          "total": 374,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           91,
+           97,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Junker, Katharina",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           92,
+           90,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Heyer, Philip",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           96,
+           94,
+           90
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kunkel, Leon",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           94,
+           93,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Raabe, Martin",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           85,
+           95,
+           91,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Ruckerbauer, Mathias",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           94,
+           92,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Dörr, Cora",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           86,
+           92,
+           92
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Meister, Martin",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           92,
+           92,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Gmeinder, Ronja",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           95,
+           86,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -11972,7 +11972,7 @@
        381,
        378,
        369,
-       0,
+       374,
        0,
        0,
        0,
@@ -11992,7 +11992,7 @@
        374,
        374,
        379,
-       0,
+       372,
        0,
        0,
        0,
@@ -12052,7 +12052,7 @@
        370,
        366,
        0,
-       0,
+       365,
        0,
        0,
        0,
@@ -12072,7 +12072,7 @@
        365,
        0,
        0,
-       0,
+       356,
        0,
        0,
        0,
@@ -12132,7 +12132,7 @@
        0,
        0,
        356,
-       0,
+       365,
        0,
        0,
        0,
@@ -12151,203 +12151,6 @@
     "city": "90765 Fürth",
     "website": "https://SSG-RWS.de",
     "logo": "logos/9589D065-C286-4EA5-AB9C-8BE877909902.webp"
-   }
-  },
-  {
-   "name": "SG 1928 Glattbach",
-   "setlist": {
-    "updatedAt": "2026-10-28T15:21",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Drawert, Carolin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 372,
-      "results": [
-       370,
-       0,
-       375,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Junker, Katharina",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 371,
-      "results": [
-       0,
-       367,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Kunkel, Leon",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.75,
-      "results": [
-       370,
-       369,
-       368,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Ruckerbauer, Mathias",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.25,
-      "results": [
-       369,
-       364,
-       369,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Meister, Martin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.75,
-      "results": [
-       371,
-       369,
-       362,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Geyer, Christian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366,
-      "results": [
-       0,
-       366,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Hock, Ludwig",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 359,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Hartig, Sebastian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 352.5,
-      "results": [
-       359,
-       0,
-       0,
-       346,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Milleder, Sebastian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1DC41C11-279C-4248-ADDC-61F9FDC4F9FC/3038",
-   "club": {
-    "name": "SG 1928 Glattbach",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Im Erlengrund 25",
-    "city": "63864 Glattbach",
-    "website": "https://www.sg-glattbach.com",
-    "logo": "logos/6BBD31A9-031B-4EC1-B5EE-658255FC14E8.webp"
    }
   },
   {
@@ -12545,6 +12348,203 @@
     "city": "86937 Scheuring",
     "website": "https://www.edelweiss-scheuring.de",
     "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
+   }
+  },
+  {
+   "name": "SG 1928 Glattbach",
+   "setlist": {
+    "updatedAt": "2026-10-28T15:21",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Drawert, Carolin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 372,
+      "results": [
+       370,
+       0,
+       375,
+       371,
+       359,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Junker, Katharina",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 371,
+      "results": [
+       0,
+       367,
+       375,
+       0,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Kunkel, Leon",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.75,
+      "results": [
+       370,
+       369,
+       368,
+       368,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Ruckerbauer, Mathias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.25,
+      "results": [
+       369,
+       364,
+       369,
+       371,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Meister, Martin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.75,
+      "results": [
+       371,
+       369,
+       362,
+       365,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Geyer, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366,
+      "results": [
+       0,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Hock, Ludwig",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Hartig, Sebastian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 352.5,
+      "results": [
+       359,
+       0,
+       0,
+       346,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Milleder, Sebastian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1DC41C11-279C-4248-ADDC-61F9FDC4F9FC/3038",
+   "club": {
+    "name": "SG 1928 Glattbach",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Im Erlengrund 25",
+    "city": "63864 Glattbach",
+    "website": "https://www.sg-glattbach.com",
+    "logo": "logos/6BBD31A9-031B-4EC1-B5EE-658255FC14E8.webp"
    }
   },
   {
