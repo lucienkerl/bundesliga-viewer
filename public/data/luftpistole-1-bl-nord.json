@@ -40,8 +40,8 @@
   {
    "rank": 6,
    "team": "SV Niedererbach",
-   "singlePoints": "9:11",
-   "teamPoints": "4:4"
+   "singlePoints": "12:13",
+   "teamPoints": "6:4"
   },
   {
    "rank": 7,
@@ -70,8 +70,8 @@
   {
    "rank": 11,
    "team": "SV Lindwedel",
-   "singlePoints": "4:16",
-   "teamPoints": "0:8"
+   "singlePoints": "6:19",
+   "teamPoints": "0:10"
   },
   {
    "rank": 12,
@@ -4050,146 +4050,146 @@
        "time": "18:00",
        "home": "SV Lindwedel",
        "away": "SV Niedererbach",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1832,
+       "awayRings": 1843,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wilkens, Boris",
+          "total": 374,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           93,
+           95,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Günther, Sarah",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           89,
+           93,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schulz, Jascha",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           91,
+           94,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kozlowski, Krzysztof",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           94,
+           93,
+           90
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Horstmann, Tim",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           87,
+           91,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wollnitza, Pascal",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           93,
+           94,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Bittner, Michael",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           91,
+           93,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Röller, Dirk",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           91,
+           94,
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Knaack, Thomas",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           91,
+           89,
+           90
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Abram, Enrico",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           89,
+           89,
+           89
           ],
-          "shootOff": null
+          "shootOff": 10
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -11358,7 +11358,7 @@
        382,
        376,
        371,
-       0,
+       368,
        0,
        0,
        0,
@@ -11398,7 +11398,7 @@
        371,
        374,
        372,
-       0,
+       372,
        0,
        0,
        0,
@@ -11418,7 +11418,7 @@
        366,
        376,
        365,
-       0,
+       372,
        0,
        0,
        0,
@@ -11438,7 +11438,7 @@
        0,
        367,
        364,
-       0,
+       371,
        0,
        0,
        0,
@@ -11518,7 +11518,7 @@
        354,
        0,
        0,
-       0,
+       360,
        0,
        0,
        0,
@@ -12563,7 +12563,7 @@
        378,
        375,
        371,
-       0,
+       374,
        0,
        0,
        0,
@@ -12583,7 +12583,7 @@
        370,
        369,
        367,
-       0,
+       366,
        0,
        0,
        0,
@@ -12603,7 +12603,7 @@
        367,
        0,
        0,
-       0,
+       360,
        0,
        0,
        0,
@@ -12623,7 +12623,7 @@
        371,
        364,
        361,
-       0,
+       372,
        0,
        0,
        0,
@@ -12643,7 +12643,7 @@
        371,
        357,
        0,
-       0,
+       360,
        0,
        0,
        0,
