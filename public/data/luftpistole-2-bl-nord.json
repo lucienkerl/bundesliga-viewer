@@ -9,27 +9,27 @@
  "table": [
   {
    "rank": 1,
+   "team": "SV Haendorf",
+   "singlePoints": "11:4",
+   "teamPoints": "6:0"
+  },
+  {
+   "rank": 2,
    "team": "BSG Stadtwerke Norderstedt",
    "singlePoints": "9:1",
    "teamPoints": "4:0"
   },
   {
-   "rank": 2,
-   "team": "SV Haendorf",
-   "singlePoints": "8:2",
-   "teamPoints": "4:0"
-  },
-  {
    "rank": 3,
-   "team": "Wandsbeker SGi",
-   "singlePoints": "7:3",
+   "team": "SV Anderlingen",
+   "singlePoints": "6:4",
    "teamPoints": "4:0"
   },
   {
    "rank": 4,
-   "team": "SV Anderlingen",
-   "singlePoints": "6:4",
-   "teamPoints": "4:0"
+   "team": "Wandsbeker SGi",
+   "singlePoints": "9:6",
+   "teamPoints": "4:2"
   },
   {
    "rank": 5,
@@ -1764,146 +1764,146 @@
        "time": "11:35",
        "home": "SV Haendorf",
        "away": "Wandsbeker SGi",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1831,
+       "awayRings": 1790,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Varnhorn, Christoph",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           92,
+           90,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schonauer, Stefan",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           89,
+           91,
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Cordes, Timon",
+          "total": 378,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           92,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Blattner, Charles Lèon",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           94,
+           93,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "von Döllen, Timo",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           94,
+           95,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Krichevskyi, Valerji",
+          "total": 346,
           "series": [
-           0,
-           0,
-           0,
-           0
+           85,
+           87,
+           90,
+           84
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wingert, Jennifer",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           86,
+           89,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Shvets, Veronika",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           93,
+           90,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wingert, Marina",
+          "total": 346,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           85,
+           81,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Siemers, Jochen",
+          "total": 351,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           89,
+           87,
+           88
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4376,6 +4376,215 @@
  ],
  "teams": [
   {
+   "name": "SV Haendorf",
+   "setlist": {
+    "updatedAt": "2026-11-09T10:59",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Varnhorn, Christoph",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373.5,
+      "results": [
+       372,
+       375,
+       372,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Cordes, Timon",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369,
+      "results": [
+       368,
+       370,
+       378,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "von Döllen, Timo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365,
+      "results": [
+       365,
+       365,
+       373,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Wingert, Jennifer",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363.5,
+      "results": [
+       364,
+       363,
+       362,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Teichert, Elisa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 357.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wingert, Marina",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 353.5,
+      "results": [
+       348,
+       359,
+       346,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Bonne, Marc",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Mertens, Julian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Walther, Ashley",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Walther, Lucia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Simon, Kira",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Cordes, Bernd",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BDA00569-550C-4093-8C79-3937531C3F7A/3039",
+   "club": {
+    "name": "Schützenverein Haendorf e.V.",
+    "federation": "Nordwestdeutscher Schützenbund",
+    "street": "Affendorf 1",
+    "city": "27330 Asendorf",
+    "website": "https://www.SV-Haendorf.de",
+    "logo": "logos/DB2B5D86-3BB3-4A07-8DA8-88DD19AE8C95.webp"
+   }
+  },
+  {
    "name": "BSG Stadtwerke Norderstedt",
    "setlist": {
     "updatedAt": "2026-11-09T10:59",
@@ -4537,360 +4746,6 @@
    }
   },
   {
-   "name": "SV Haendorf",
-   "setlist": {
-    "updatedAt": "2026-11-09T10:59",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Varnhorn, Christoph",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373.5,
-      "results": [
-       372,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Cordes, Timon",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369,
-      "results": [
-       368,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "von Döllen, Timo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365,
-      "results": [
-       365,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Wingert, Jennifer",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363.5,
-      "results": [
-       364,
-       363,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Teichert, Elisa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 357.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Wingert, Marina",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 353.5,
-      "results": [
-       348,
-       359,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Bonne, Marc",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Mertens, Julian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Walther, Ashley",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Walther, Lucia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Simon, Kira",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Cordes, Bernd",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/BDA00569-550C-4093-8C79-3937531C3F7A/3039",
-   "club": {
-    "name": "Schützenverein Haendorf e.V.",
-    "federation": "Nordwestdeutscher Schützenbund",
-    "street": "Affendorf 1",
-    "city": "27330 Asendorf",
-    "website": "https://www.SV-Haendorf.de",
-    "logo": "logos/DB2B5D86-3BB3-4A07-8DA8-88DD19AE8C95.webp"
-   }
-  },
-  {
-   "name": "Wandsbeker SGi",
-   "setlist": {
-    "updatedAt": "2026-11-09T10:59",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Schonauer, Stefan",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367,
-      "results": [
-       367,
-       367,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Blattner, Charles Lèon",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Krichevskyi, Valerji",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 360,
-      "results": [
-       0,
-       360,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Mania, Christian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 357,
-      "results": [
-       355,
-       359,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Shvets, Veronika",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 356,
-      "results": [
-       357,
-       355,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Opitz, Rainer",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 355.2,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Küchenbecker, Peter",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 354,
-      "results": [
-       354,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Siemers, Jochen",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 352,
-      "results": [
-       356,
-       348,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/B3DC851A-FA80-4348-9423-DA1135F6AE80/3039",
-   "club": {
-    "name": "Wandsbeker Schützengilde von 1637 e.V.",
-    "federation": "Schützenverband Hamburg",
-    "street": "Marienthaler Str. 178",
-    "city": "20535 Hamburg",
-    "website": "https://www.wandsbeker-schuetzengilde.de",
-    "logo": "logos/03889191-A19E-4B8E-B359-CB174FE9ADFC.webp"
-   }
-  },
-  {
    "name": "SV Anderlingen",
    "setlist": {
     "updatedAt": "2026-11-13T22:23",
@@ -5049,6 +4904,151 @@
     "city": "27446 Anderlingen",
     "website": null,
     "logo": null
+   }
+  },
+  {
+   "name": "Wandsbeker SGi",
+   "setlist": {
+    "updatedAt": "2026-11-09T10:59",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schonauer, Stefan",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367,
+      "results": [
+       367,
+       367,
+       357,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Blattner, Charles Lèon",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.67,
+      "results": [
+       0,
+       0,
+       370,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Krichevskyi, Valerji",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360,
+      "results": [
+       0,
+       360,
+       346,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Mania, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 357,
+      "results": [
+       355,
+       359,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Shvets, Veronika",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 356,
+      "results": [
+       357,
+       355,
+       366,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Opitz, Rainer",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.2,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Küchenbecker, Peter",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 354,
+      "results": [
+       354,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Siemers, Jochen",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 352,
+      "results": [
+       356,
+       348,
+       351,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/B3DC851A-FA80-4348-9423-DA1135F6AE80/3039",
+   "club": {
+    "name": "Wandsbeker Schützengilde von 1637 e.V.",
+    "federation": "Schützenverband Hamburg",
+    "street": "Marienthaler Str. 178",
+    "city": "20535 Hamburg",
+    "website": "https://www.wandsbeker-schuetzengilde.de",
+    "logo": "logos/03889191-A19E-4B8E-B359-CB174FE9ADFC.webp"
    }
   },
   {
