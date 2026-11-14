@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "SGi Ebershardt",
-   "singlePoints": "12:3",
+   "singlePoints": "14:1",
    "teamPoints": "6:0"
   },
   {
@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "Sportschützen Püttlingen",
-   "singlePoints": "6:9",
+   "singlePoints": "4:11",
    "teamPoints": "2:4"
   },
   {
@@ -1764,59 +1764,59 @@
        "time": "13:00",
        "home": "SGi Ebershardt",
        "away": "Sportschützen Püttlingen",
-       "homeRings": 920,
-       "awayRings": 993,
-       "homePoints": 3,
-       "awayPoints": 2,
+       "homeRings": 1657,
+       "awayRings": 1542,
+       "homePoints": 5,
+       "awayPoints": 0,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Würsig, Daniel",
-          "total": 93,
+          "total": 281,
           "series": [
            93,
-           0,
-           0,
+           95,
+           93,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Roth, Sébastien",
-          "total": 185,
+          "total": 273,
           "series": [
            89,
            96,
-           0,
+           88,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
           "name": "Gäckle, Marius",
-          "total": 186,
+          "total": 277,
           "series": [
            92,
            94,
-           0,
+           91,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Romang, Claire",
-          "total": 178,
+          "total": 274,
           "series": [
            89,
            89,
-           0,
+           96,
            0
           ],
           "shootOff": null
@@ -1828,22 +1828,22 @@
          "position": 3,
          "home": {
           "name": "Kovacic, Sophia",
-          "total": 278,
+          "total": 366,
           "series": [
            93,
            89,
            96,
-           0
+           88
           ],
           "shootOff": null
          },
          "away": {
           "name": "Mootz, Thomas",
-          "total": 180,
+          "total": 275,
           "series": [
            92,
            88,
-           0,
+           95,
            0
           ],
           "shootOff": null
@@ -1855,50 +1855,50 @@
          "position": 4,
          "home": {
           "name": "Strommer, Sarah",
-          "total": 183,
+          "total": 371,
           "series": [
            89,
            94,
-           0,
-           0
+           90,
+           98
           ],
           "shootOff": null
          },
          "away": {
           "name": "Weber, Silvain",
-          "total": 275,
+          "total": 363,
           "series": [
            91,
            94,
            90,
-           0
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Frey, Dominik",
-          "total": 180,
+          "total": 362,
           "series": [
            91,
            89,
-           0,
-           0
+           91,
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schaff, Frédéric",
-          "total": 175,
+          "total": 357,
           "series": [
            83,
            92,
-           0,
-           0
+           91,
+           91
           ],
           "shootOff": null
          },
@@ -4399,7 +4399,7 @@
       "results": [
        373,
        381,
-       93,
+       370,
        0,
        0,
        0,
@@ -4415,7 +4415,7 @@
       "results": [
        372,
        370,
-       186,
+       374,
        0,
        0,
        0,
@@ -4431,7 +4431,7 @@
       "results": [
        370,
        371,
-       278,
+       366,
        0,
        0,
        0,
@@ -4447,7 +4447,7 @@
       "results": [
        365,
        369,
-       183,
+       371,
        0,
        0,
        0,
@@ -4463,7 +4463,7 @@
       "results": [
        368,
        360,
-       180,
+       362,
        0,
        0,
        0,
@@ -5368,7 +5368,7 @@
       "results": [
        375,
        370,
-       185,
+       363,
        0,
        0,
        0,
@@ -5384,7 +5384,7 @@
       "results": [
        357,
        371,
-       178,
+       370,
        0,
        0,
        0,
@@ -5400,7 +5400,7 @@
       "results": [
        368,
        357,
-       180,
+       361,
        0,
        0,
        0,
@@ -5416,7 +5416,7 @@
       "results": [
        0,
        0,
-       275,
+       363,
        0,
        0,
        0,
@@ -5432,7 +5432,7 @@
       "results": [
        356,
        352,
-       175,
+       357,
        0,
        0,
        0,
