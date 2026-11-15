@@ -10,14 +10,14 @@
   {
    "rank": 1,
    "team": "SG Frankfurt/Oder",
-   "singlePoints": "9:1",
-   "teamPoints": "4:0"
+   "singlePoints": "14:1",
+   "teamPoints": "6:0"
   },
   {
    "rank": 2,
    "team": "Schützengilde zu Potsdam 1465",
-   "singlePoints": "8:2",
-   "teamPoints": "4:0"
+   "singlePoints": "8:7",
+   "teamPoints": "4:2"
   },
   {
    "rank": 3,
@@ -1438,145 +1438,145 @@
        "time": "13:00",
        "home": "SG Frankfurt/Oder",
        "away": "Schützengilde zu Potsdam 1465",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
+       "homeRings": 1876,
+       "awayRings": 1804,
+       "homePoints": 5,
        "awayPoints": 0,
-       "played": false,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schulz, Cecilio",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           94,
+           94,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Birr, Stefan",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           91,
+           95,
+           90
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Struck, Lucas",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           95,
+           93,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lausch, Sabine",
+          "total": 348,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           86,
+           87,
+           87
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Sarrach, Anakin",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           94,
+           97,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Böhm, Robert",
+          "total": 363,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           91,
+           92,
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Putzke, Lenny",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           94,
+           94,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Geppert, Wolfgang",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           92,
+           87,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Blenck, Johanna",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           90,
+           92,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Radtke, Sabine",
+          "total": 354,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           87,
+           87,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4329,7 +4329,7 @@
       "results": [
        373,
        376,
-       0,
+       376,
        0,
        0,
        0,
@@ -4345,7 +4345,7 @@
       "results": [
        371,
        380,
-       0,
+       373,
        0,
        0,
        0,
@@ -4377,7 +4377,7 @@
       "results": [
        369,
        374,
-       0,
+       379,
        0,
        0,
        0,
@@ -4393,7 +4393,7 @@
       "results": [
        367,
        377,
-       0,
+       379,
        0,
        0,
        0,
@@ -4505,7 +4505,7 @@
       "results": [
        0,
        360,
-       0,
+       369,
        0,
        0,
        0,
@@ -4538,7 +4538,7 @@
       "results": [
        372,
        376,
-       0,
+       372,
        0,
        0,
        0,
@@ -4554,7 +4554,7 @@
       "results": [
        357,
        366,
-       0,
+       348,
        0,
        0,
        0,
@@ -4570,7 +4570,7 @@
       "results": [
        354,
        369,
-       0,
+       367,
        0,
        0,
        0,
@@ -4586,7 +4586,7 @@
       "results": [
        354,
        359,
-       0,
+       363,
        0,
        0,
        0,
@@ -4634,7 +4634,7 @@
       "results": [
        0,
        342,
-       0,
+       354,
        0,
        0,
        0,
