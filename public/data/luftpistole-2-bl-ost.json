@@ -33,25 +33,25 @@
   },
   {
    "rank": 5,
-   "team": "Zehlendorfer SGI",
-   "singlePoints": "6:9",
-   "teamPoints": "2:4"
-  },
-  {
-   "rank": 6,
    "team": "Priv. SG zu Löbau",
    "singlePoints": "6:9",
    "teamPoints": "2:4"
   },
   {
+   "rank": 6,
+   "team": "Zehlendorfer SGI",
+   "singlePoints": "6:9",
+   "teamPoints": "2:4"
+  },
+  {
    "rank": 7,
-   "team": "Gröninger Schützenverein",
+   "team": "SV Schönholzer Heide",
    "singlePoints": "6:9",
    "teamPoints": "2:4"
   },
   {
    "rank": 8,
-   "team": "SV Schönholzer Heide",
+   "team": "Gröninger Schützenverein",
    "singlePoints": "4:11",
    "teamPoints": "0:6"
   }
@@ -1735,9 +1735,9 @@
        "home": "Gröninger Schützenverein",
        "away": "SV Schönholzer Heide",
        "homeRings": 1747,
-       "awayRings": 1080,
-       "homePoints": 3,
-       "awayPoints": 2,
+       "awayRings": 1790,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
@@ -1835,18 +1835,18 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schlemminger, Christian",
+          "total": 350,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           90,
+           86,
+           87
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 5,
@@ -1862,18 +1862,18 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Litvinov, Leon",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           90,
+           92,
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       }
@@ -5164,151 +5164,6 @@
    }
   },
   {
-   "name": "Zehlendorfer SGI",
-   "setlist": {
-    "updatedAt": "2026-11-13T14:01",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Hartmann, Viktor",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364,
-      "results": [
-       364,
-       365,
-       368,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Heinrici, Joachim",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 349,
-      "results": [
-       349,
-       366,
-       356,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Schneider, Valerian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 348,
-      "results": [
-       348,
-       356,
-       350,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Poppicht, Henry",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 347,
-      "results": [
-       347,
-       352,
-       358,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Heinrici, Albrecht",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 338,
-      "results": [
-       338,
-       347,
-       340,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Heinrici, Sabine",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Hartung, Eliah",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Hartung, Nico",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A759BCEE-8214-49AA-8A3B-EF032845A495/3040",
-   "club": {
-    "name": "Zehlendorfer Schützengilde von 1893 e.V.",
-    "federation": "Schützenverband Berlin - Brandenburg",
-    "street": "Onkel-Tom-Str. 42",
-    "city": "14169 Berlin",
-    "website": "https://zehlendorfer-schuetzengilde.de",
-    "logo": "logos/DAC0F735-1618-4519-80DC-7F1251CE45E3.webp"
-   }
-  },
-  {
    "name": "Priv. SG zu Löbau",
    "setlist": {
     "updatedAt": "2026-11-13T14:06",
@@ -5470,20 +5325,20 @@
    }
   },
   {
-   "name": "Gröninger Schützenverein",
+   "name": "Zehlendorfer SGI",
    "setlist": {
     "updatedAt": "2026-11-13T14:01",
     "entries": [
      {
       "rank": 1,
-      "name": "Schmidt, Christian",
+      "name": "Hartmann, Viktor",
       "foreign": null,
       "status": "S",
       "startAverage": 364,
       "results": [
        364,
-       353,
-       356,
+       365,
+       368,
        0,
        0,
        0,
@@ -5492,14 +5347,14 @@
      },
      {
       "rank": 2,
-      "name": "Herbst, Marvin",
+      "name": "Heinrici, Joachim",
       "foreign": null,
       "status": "S",
-      "startAverage": 363,
+      "startAverage": 349,
       "results": [
-       363,
+       349,
        366,
-       374,
+       356,
        0,
        0,
        0,
@@ -5508,14 +5363,14 @@
      },
      {
       "rank": 3,
-      "name": "Bohndorf, Torsten",
+      "name": "Schneider, Valerian",
       "foreign": null,
       "status": "S",
-      "startAverage": 354,
+      "startAverage": 348,
       "results": [
-       354,
-       0,
-       344,
+       348,
+       356,
+       350,
        0,
        0,
        0,
@@ -5524,14 +5379,14 @@
      },
      {
       "rank": 4,
-      "name": "Sturm, Christian",
+      "name": "Poppicht, Henry",
       "foreign": null,
       "status": "S",
-      "startAverage": 341,
+      "startAverage": 347,
       "results": [
-       341,
-       353,
-       348,
+       347,
+       352,
+       358,
        0,
        0,
        0,
@@ -5540,14 +5395,14 @@
      },
      {
       "rank": 5,
-      "name": "Bohndorf, Lea",
+      "name": "Heinrici, Albrecht",
       "foreign": null,
       "status": "S",
-      "startAverage": 336,
+      "startAverage": 338,
       "results": [
-       336,
-       355,
-       0,
+       338,
+       347,
+       340,
        0,
        0,
        0,
@@ -5556,14 +5411,14 @@
      },
      {
       "rank": 6,
-      "name": "Kinzel, Peter",
+      "name": "Heinrici, Sabine",
       "foreign": null,
       "status": "E",
       "startAverage": 0,
       "results": [
        0,
-       341,
-       325,
+       0,
+       0,
        0,
        0,
        0,
@@ -5572,7 +5427,7 @@
      },
      {
       "rank": 7,
-      "name": "Stienen, Jeanette",
+      "name": "Hartung, Eliah",
       "foreign": null,
       "status": "E",
       "startAverage": 0,
@@ -5588,23 +5443,7 @@
      },
      {
       "rank": 8,
-      "name": "Heine, Tobias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Osterburg, Jenny",
+      "name": "Hartung, Nico",
       "foreign": null,
       "status": "E",
       "startAverage": 0,
@@ -5620,14 +5459,14 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/461D5609-7DF5-48DF-9904-E317BC30725A/3040",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/A759BCEE-8214-49AA-8A3B-EF032845A495/3040",
    "club": {
-    "name": "Gröninger Schützenverein e.V.",
-    "federation": "Landesschützenverband Sachsen-Anhalt",
-    "street": "Halberstädter Str.",
-    "city": "39397 Gröningen/Bode",
-    "website": "https://g-sv.de/",
-    "logo": "logos/08F0C6A8-1CD7-4C6D-A0BF-B5E19FA0C6DA.webp"
+    "name": "Zehlendorfer Schützengilde von 1893 e.V.",
+    "federation": "Schützenverband Berlin - Brandenburg",
+    "street": "Onkel-Tom-Str. 42",
+    "city": "14169 Berlin",
+    "website": "https://zehlendorfer-schuetzengilde.de",
+    "logo": "logos/DAC0F735-1618-4519-80DC-7F1251CE45E3.webp"
    }
   },
   {
@@ -5837,6 +5676,167 @@
     "city": "13156 Berlin",
     "website": "https://www.svsh.org",
     "logo": "logos/D2B68C4C-A1F9-47BB-BAAB-D9902F2A8855.webp"
+   }
+  },
+  {
+   "name": "Gröninger Schützenverein",
+   "setlist": {
+    "updatedAt": "2026-11-13T14:01",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Schmidt, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364,
+      "results": [
+       364,
+       353,
+       356,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Herbst, Marvin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363,
+      "results": [
+       363,
+       366,
+       374,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Bohndorf, Torsten",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 354,
+      "results": [
+       354,
+       0,
+       344,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Sturm, Christian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 341,
+      "results": [
+       341,
+       353,
+       348,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Bohndorf, Lea",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 336,
+      "results": [
+       336,
+       355,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Kinzel, Peter",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       341,
+       325,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Stienen, Jeanette",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Heine, Tobias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Osterburg, Jenny",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/461D5609-7DF5-48DF-9904-E317BC30725A/3040",
+   "club": {
+    "name": "Gröninger Schützenverein e.V.",
+    "federation": "Landesschützenverband Sachsen-Anhalt",
+    "street": "Halberstädter Str.",
+    "city": "39397 Gröningen/Bode",
+    "website": "https://g-sv.de/",
+    "logo": "logos/08F0C6A8-1CD7-4C6D-A0BF-B5E19FA0C6DA.webp"
    }
   }
  ]
