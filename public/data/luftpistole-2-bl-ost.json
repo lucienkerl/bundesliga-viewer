@@ -9,45 +9,45 @@
  "table": [
   {
    "rank": 1,
-   "team": "Priv. SG zu Löbau",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
+   "team": "SG Frankfurt/Oder",
+   "singlePoints": "9:1",
+   "teamPoints": "4:0"
   },
   {
    "rank": 2,
-   "team": "SG Frankfurt/Oder",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
+   "team": "Schützengilde zu Potsdam 1465",
+   "singlePoints": "8:2",
+   "teamPoints": "4:0"
   },
   {
    "rank": 3,
-   "team": "PSV Olympia Berlin II",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
-  },
-  {
-   "rank": 4,
-   "team": "Schützengilde zu Potsdam 1465",
-   "singlePoints": "4:1",
-   "teamPoints": "2:0"
-  },
-  {
-   "rank": 5,
    "team": "Schützenverein \"Greif\" Blumenthal",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
   {
-   "rank": 6,
+   "rank": 4,
+   "team": "PSV Olympia Berlin II",
+   "singlePoints": "5:5",
+   "teamPoints": "2:2"
+  },
+  {
+   "rank": 5,
    "team": "Zehlendorfer SGI",
-   "singlePoints": "1:4",
-   "teamPoints": "0:2"
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
+  },
+  {
+   "rank": 6,
+   "team": "Priv. SG zu Löbau",
+   "singlePoints": "4:6",
+   "teamPoints": "2:2"
   },
   {
    "rank": 7,
    "team": "Gröninger Schützenverein",
-   "singlePoints": "1:4",
-   "teamPoints": "0:2"
+   "singlePoints": "3:7",
+   "teamPoints": "0:4"
   },
   {
    "rank": 8,
@@ -682,146 +682,146 @@
        "time": "10:00",
        "home": "Schützengilde zu Potsdam 1465",
        "away": "PSV Olympia Berlin II",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1812,
+       "awayRings": 1815,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Birr, Stefan",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           93,
+           95,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Dworzak, Torsten",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           90,
+           93,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lausch, Sabine",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           91,
+           90,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Soldatova, Evgenia",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           86,
+           96,
+           87
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Böhm, Robert",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           91,
+           87,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Brand, Barbara",
+          "total": 354,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           92,
+           88,
+           85
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Geppert, Wolfgang",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           89,
+           90,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Avramenko, Alexander",
+          "total": 361,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           91,
+           89,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Radtke, Sabine",
+          "total": 342,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           80,
+           87,
+           86
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Flemming, Alexander",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           95,
+           90,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -830,146 +830,146 @@
        "time": "10:00",
        "home": "Priv. SG zu Löbau",
        "away": "SG Frankfurt/Oder",
-       "homeRings": 0,
-       "awayRings": 0,
+       "homeRings": 1800,
+       "awayRings": 1867,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 5,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Zaharanski, Luca",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           90,
+           94,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schulz, Cecilio",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           97,
+           94,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wernecke, Lucy",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           92,
+           92,
+           87
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Struck, Lucas",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           98,
+           96,
+           93,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schieweg, Finja",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           88,
+           97,
+           84
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Sarrach, Anakin",
+          "total": 374,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           98,
+           90,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schieweg, Lennart",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           91,
+           87,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Putzke, Lenny",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           98,
+           90,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Heidrich, Marc-Philipp",
+          "total": 350,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           80,
+           87,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Blenck, Johanna",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           94,
+           90,
+           86
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -978,145 +978,145 @@
        "time": "11:30",
        "home": "Zehlendorfer SGI",
        "away": "Gröninger Schützenverein",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1786,
+       "awayRings": 1768,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hartmann, Viktor",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           89,
+           93,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schmidt, Christian",
+          "total": 353,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           84,
+           91,
+           86
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Heinrici, Joachim",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           94,
+           94,
+           88
           ],
-          "shootOff": null
+          "shootOff": 7
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Herbst, Marvin",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           90,
+           91,
+           94
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schneider, Valerian",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           90,
+           89,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Sturm, Christian",
+          "total": 353,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           93,
+           87,
+           85
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Poppicht, Henry",
+          "total": 352,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           86,
+           89,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bohndorf, Lea",
+          "total": 355,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           85,
+           91,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Heinrici, Albrecht",
+          "total": 347,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           90,
+           82,
+           86
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kinzel, Peter",
+          "total": 341,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           82,
+           89,
+           81
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4316,167 +4316,6 @@
  ],
  "teams": [
   {
-   "name": "Priv. SG zu Löbau",
-   "setlist": {
-    "updatedAt": "2026-11-13T14:06",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Zaharanski, Luca",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367,
-      "results": [
-       367,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Schäfer, Madlen",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 365,
-      "results": [
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Wernecke, Lucy",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362,
-      "results": [
-       362,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Schieweg, Finja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359,
-      "results": [
-       359,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "May, Klaus Peter",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 356.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Hoell, Florian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 351,
-      "results": [
-       351,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schieweg, Lennart",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 349,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Heidrich, Emily",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 345.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Heidrich, Marc-Philipp",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 242.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/735F1CF3-6C5B-46D7-AE6D-94B341F2775D/3040",
-   "club": {
-    "name": "Priv.SG zu Löbau e.V.",
-    "federation": "Sächsischer Schützenbund",
-    "street": "Georgewitzer Straße 46 B",
-    "city": "02708 Löbau",
-    "website": "https://www.psgloebau.de",
-    "logo": null
-   }
-  },
-  {
    "name": "SG Frankfurt/Oder",
    "setlist": {
     "updatedAt": "2026-11-13T14:03",
@@ -4489,7 +4328,7 @@
       "startAverage": 373,
       "results": [
        373,
-       0,
+       376,
        0,
        0,
        0,
@@ -4505,7 +4344,7 @@
       "startAverage": 371,
       "results": [
        371,
-       0,
+       380,
        0,
        0,
        0,
@@ -4537,7 +4376,7 @@
       "startAverage": 369,
       "results": [
        369,
-       0,
+       374,
        0,
        0,
        0,
@@ -4553,7 +4392,7 @@
       "startAverage": 367,
       "results": [
        367,
-       0,
+       377,
        0,
        0,
        0,
@@ -4665,7 +4504,7 @@
       "startAverage": 0,
       "results": [
        0,
-       0,
+       360,
        0,
        0,
        0,
@@ -4686,323 +4525,6 @@
    }
   },
   {
-   "name": "PSV Olympia Berlin II",
-   "setlist": {
-    "updatedAt": "2026-11-12T15:50",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Dworzak, Torsten",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379,
-      "results": [
-       379,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Müller, Doreen",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 370.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Wagner, Adrian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Soldatova, Evgenia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 364,
-      "results": [
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Fijalkowski, Marc Leon",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 363.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Avramenko, Irina",
-      "foreign": "AS",
-      "status": "S",
-      "startAverage": 360,
-      "results": [
-       360,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Brand, Barbara",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359.14,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Ketzlin, Mario",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 357,
-      "results": [
-       357,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Avramenko, Alexander",
-      "foreign": "AS",
-      "status": "S",
-      "startAverage": 352,
-      "results": [
-       352,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Wischnewsky, Michael",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 316,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Mohamed, Raef",
-      "foreign": "AS",
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Pflug, Eric",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 13,
-      "name": "Soldatova, Evgenia",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 14,
-      "name": "Potteck, Uwe",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 15,
-      "name": "Flemming, Alexander",
-      "foreign": null,
-      "status": "",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/67BFC240-14CB-4184-8ADC-BA900379AF1A/3040",
-   "club": {
-    "name": "Polizeisportverein Olympia Berlin e.V.",
-    "federation": "Schützenverband Berlin - Brandenburg",
-    "street": "Kirschweg 23",
-    "city": "12524 Berlin",
-    "website": "https://psv-olympia.de",
-    "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
-   }
-  },
-  {
    "name": "Schützengilde zu Potsdam 1465",
    "setlist": {
     "updatedAt": "2026-11-13T14:01",
@@ -5015,7 +4537,7 @@
       "startAverage": 372,
       "results": [
        372,
-       0,
+       376,
        0,
        0,
        0,
@@ -5031,7 +4553,7 @@
       "startAverage": 357,
       "results": [
        357,
-       0,
+       366,
        0,
        0,
        0,
@@ -5047,7 +4569,7 @@
       "startAverage": 354,
       "results": [
        354,
-       0,
+       369,
        0,
        0,
        0,
@@ -5063,7 +4585,7 @@
       "startAverage": 354,
       "results": [
        354,
-       0,
+       359,
        0,
        0,
        0,
@@ -5111,7 +4633,7 @@
       "startAverage": 348.4,
       "results": [
        0,
-       0,
+       342,
        0,
        0,
        0,
@@ -5325,6 +4847,323 @@
    }
   },
   {
+   "name": "PSV Olympia Berlin II",
+   "setlist": {
+    "updatedAt": "2026-11-12T15:50",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Dworzak, Torsten",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379,
+      "results": [
+       379,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Müller, Doreen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 370.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Wagner, Adrian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Soldatova, Evgenia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 364,
+      "results": [
+       364,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Fijalkowski, Marc Leon",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 363.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Avramenko, Irina",
+      "foreign": "AS",
+      "status": "S",
+      "startAverage": 360,
+      "results": [
+       360,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Brand, Barbara",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359.14,
+      "results": [
+       0,
+       354,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Ketzlin, Mario",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 357,
+      "results": [
+       357,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Avramenko, Alexander",
+      "foreign": "AS",
+      "status": "S",
+      "startAverage": 352,
+      "results": [
+       352,
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Wischnewsky, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 316,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Mohamed, Raef",
+      "foreign": "AS",
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Pflug, Eric",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 13,
+      "name": "Soldatova, Evgenia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 14,
+      "name": "Potteck, Uwe",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 15,
+      "name": "Flemming, Alexander",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       368,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/67BFC240-14CB-4184-8ADC-BA900379AF1A/3040",
+   "club": {
+    "name": "Polizeisportverein Olympia Berlin e.V.",
+    "federation": "Schützenverband Berlin - Brandenburg",
+    "street": "Kirschweg 23",
+    "city": "12524 Berlin",
+    "website": "https://psv-olympia.de",
+    "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
+   }
+  },
+  {
    "name": "Zehlendorfer SGI",
    "setlist": {
     "updatedAt": "2026-11-13T14:01",
@@ -5337,7 +5176,7 @@
       "startAverage": 364,
       "results": [
        364,
-       0,
+       365,
        0,
        0,
        0,
@@ -5353,7 +5192,7 @@
       "startAverage": 349,
       "results": [
        349,
-       0,
+       366,
        0,
        0,
        0,
@@ -5369,7 +5208,7 @@
       "startAverage": 348,
       "results": [
        348,
-       0,
+       356,
        0,
        0,
        0,
@@ -5385,7 +5224,7 @@
       "startAverage": 347,
       "results": [
        347,
-       0,
+       352,
        0,
        0,
        0,
@@ -5401,7 +5240,7 @@
       "startAverage": 338,
       "results": [
        338,
-       0,
+       347,
        0,
        0,
        0,
@@ -5470,6 +5309,167 @@
    }
   },
   {
+   "name": "Priv. SG zu Löbau",
+   "setlist": {
+    "updatedAt": "2026-11-13T14:06",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Zaharanski, Luca",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367,
+      "results": [
+       367,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schäfer, Madlen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 365,
+      "results": [
+       365,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Wernecke, Lucy",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362,
+      "results": [
+       362,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Schieweg, Finja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359,
+      "results": [
+       359,
+       357,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "May, Klaus Peter",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 356.25,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Hoell, Florian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 351,
+      "results": [
+       351,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schieweg, Lennart",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 349,
+      "results": [
+       0,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Heidrich, Emily",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 345.25,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Heidrich, Marc-Philipp",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 242.25,
+      "results": [
+       0,
+       350,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/735F1CF3-6C5B-46D7-AE6D-94B341F2775D/3040",
+   "club": {
+    "name": "Priv.SG zu Löbau e.V.",
+    "federation": "Sächsischer Schützenbund",
+    "street": "Georgewitzer Straße 46 B",
+    "city": "02708 Löbau",
+    "website": "https://www.psgloebau.de",
+    "logo": null
+   }
+  },
+  {
    "name": "Gröninger Schützenverein",
    "setlist": {
     "updatedAt": "2026-11-13T14:01",
@@ -5482,7 +5482,7 @@
       "startAverage": 364,
       "results": [
        364,
-       0,
+       353,
        0,
        0,
        0,
@@ -5498,7 +5498,7 @@
       "startAverage": 363,
       "results": [
        363,
-       0,
+       366,
        0,
        0,
        0,
@@ -5530,7 +5530,7 @@
       "startAverage": 341,
       "results": [
        341,
-       0,
+       353,
        0,
        0,
        0,
@@ -5546,7 +5546,7 @@
       "startAverage": 336,
       "results": [
        336,
-       0,
+       355,
        0,
        0,
        0,
@@ -5562,7 +5562,7 @@
       "startAverage": 0,
       "results": [
        0,
-       0,
+       341,
        0,
        0,
        0,
