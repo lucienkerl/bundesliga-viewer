@@ -10,8 +10,8 @@
   {
    "rank": 1,
    "team": "Hubertus Rettenbach",
-   "singlePoints": "12:8",
-   "teamPoints": "8:0"
+   "singlePoints": "16:9",
+   "teamPoints": "10:0"
   },
   {
    "rank": 2,
@@ -45,21 +45,21 @@
   },
   {
    "rank": 7,
-   "team": "Kgl. priv. FSG Bad Tölz",
-   "singlePoints": "10:10",
-   "teamPoints": "4:4"
-  },
-  {
-   "rank": 8,
    "team": "SV Waldkirch",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "team": "SG 1883 Ebersdorf",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
+  },
+  {
+   "rank": 9,
+   "team": "Kgl. priv. FSG Bad Tölz",
+   "singlePoints": "11:14",
+   "teamPoints": "4:6"
   },
   {
    "rank": 10,
@@ -4100,19 +4100,19 @@
        "time": "11:00",
        "home": "Hubertus Rettenbach",
        "away": "Kgl. priv. FSG Bad Tölz",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 465,
+       "awayRings": 362,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Seitz, Johannes",
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -4120,26 +4120,26 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Müller, Georg",
+          "total": 87,
           "series": [
-           0,
+           87,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Spötzl, Tobias",
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
@@ -4147,10 +4147,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Müller, Thomas",
+          "total": 95,
           "series": [
-           0,
+           95,
            0,
            0,
            0
@@ -4158,15 +4158,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Diepelt, Christian",
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
@@ -4174,26 +4174,26 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schwaiger, Markus",
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Meisinger, Matthias",
+          "total": 94,
           "series": [
-           0,
+           94,
            0,
            0,
            0
@@ -4201,26 +4201,26 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bertl, Michael",
+          "total": 88,
           "series": [
-           0,
+           88,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Niedermaier, Maria",
+          "total": 93,
           "series": [
-           0,
+           93,
            0,
            0,
            0
@@ -4228,7 +4228,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Bruckmeier, Barbara",
           "total": 0,
           "series": [
            0,
@@ -4238,7 +4238,7 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4415,7 +4415,7 @@
         {
          "position": 1,
          "home": {
-          "name": null,
+          "name": "Wimmer, Monika",
           "total": 0,
           "series": [
            0,
@@ -4426,7 +4426,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Ruß, Nick",
           "total": 0,
           "series": [
            0,
@@ -4442,7 +4442,7 @@
         {
          "position": 2,
          "home": {
-          "name": null,
+          "name": "Ecker, Reinhard",
           "total": 0,
           "series": [
            0,
@@ -4453,7 +4453,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Bäumler, Andreas",
           "total": 0,
           "series": [
            0,
@@ -4469,7 +4469,7 @@
         {
          "position": 3,
          "home": {
-          "name": null,
+          "name": "Liedel, Andreas",
           "total": 0,
           "series": [
            0,
@@ -4480,7 +4480,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Kupillas, Stefan",
           "total": 0,
           "series": [
            0,
@@ -4496,7 +4496,7 @@
         {
          "position": 4,
          "home": {
-          "name": null,
+          "name": "Unterholzner, Markus",
           "total": 0,
           "series": [
            0,
@@ -4507,7 +4507,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Haberzeth, Lukas",
           "total": 0,
           "series": [
            0,
@@ -4523,7 +4523,7 @@
         {
          "position": 5,
          "home": {
-          "name": null,
+          "name": "Jost, Luis Maximilian",
           "total": 0,
           "series": [
            0,
@@ -4534,7 +4534,7 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
+          "name": "Kraus, Timo",
           "total": 0,
           "series": [
            0,
@@ -10263,7 +10263,7 @@
        58,
        372,
        374,
-       0,
+       92,
        0,
        0,
        0,
@@ -10303,7 +10303,7 @@
        0,
        0,
        0,
-       0,
+       93,
        0,
        0,
        0,
@@ -10323,7 +10323,7 @@
        364,
        366,
        363,
-       0,
+       93,
        0,
        0,
        0,
@@ -10363,7 +10363,7 @@
        367,
        362,
        372,
-       0,
+       94,
        0,
        0,
        0,
@@ -10383,7 +10383,7 @@
        364,
        366,
        360,
-       0,
+       93,
        0,
        0,
        0,
@@ -11410,223 +11410,6 @@
    }
   },
   {
-   "name": "Kgl. priv. FSG Bad Tölz",
-   "setlist": {
-    "updatedAt": "2026-10-28T15:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Müller, Georg",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369.5,
-      "results": [
-       373,
-       370,
-       369,
-       366,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Müller, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.25,
-      "results": [
-       366,
-       381,
-       359,
-       367,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Schwaiger, Markus",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368,
-      "results": [
-       361,
-       371,
-       375,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Bertl, Michael",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.25,
-      "results": [
-       358,
-       358,
-       364,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Bruckmeier, Barbara",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 361.25,
-      "results": [
-       366,
-       354,
-       356,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Libowsky, Michael",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 353.64,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Baum, Benno",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Nietsch, Angela Maria",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Demegni, Stefan",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Müller, Georg sen.",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/52EEB105-CAB6-400C-98FF-A94EAB7CAD69/3037",
-   "club": {
-    "name": "Kgl.priv.FSG Bad Tölz",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Kiefersau 138",
-    "city": "83646 Bad Tölz OT Wackersberg",
-    "website": null,
-    "logo": null
-   }
-  },
-  {
    "name": "SV Waldkirch",
    "setlist": {
     "updatedAt": "2026-10-28T15:22",
@@ -12018,6 +11801,223 @@
     "city": "96237 Ebersdorf",
     "website": "https://www.sg-ebersdorf.de",
     "logo": "logos/E48EFC7F-C837-4546-8391-E4354C7246F2.webp"
+   }
+  },
+  {
+   "name": "Kgl. priv. FSG Bad Tölz",
+   "setlist": {
+    "updatedAt": "2026-10-28T15:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Müller, Georg",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369.5,
+      "results": [
+       373,
+       370,
+       369,
+       366,
+       87,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Müller, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.25,
+      "results": [
+       366,
+       381,
+       359,
+       367,
+       95,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Schwaiger, Markus",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368,
+      "results": [
+       361,
+       371,
+       375,
+       365,
+       92,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Bertl, Michael",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.25,
+      "results": [
+       358,
+       358,
+       364,
+       369,
+       88,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Bruckmeier, Barbara",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361.25,
+      "results": [
+       366,
+       354,
+       356,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Libowsky, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 353.64,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Baum, Benno",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Nietsch, Angela Maria",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Demegni, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Müller, Georg sen.",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/52EEB105-CAB6-400C-98FF-A94EAB7CAD69/3037",
+   "club": {
+    "name": "Kgl.priv.FSG Bad Tölz",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Kiefersau 138",
+    "city": "83646 Bad Tölz OT Wackersberg",
+    "website": null,
+    "logo": null
    }
   },
   {
