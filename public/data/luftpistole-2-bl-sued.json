@@ -4100,8 +4100,8 @@
        "time": "11:00",
        "home": "Hubertus Rettenbach",
        "away": "Kgl. priv. FSG Bad Tölz",
-       "homeRings": 465,
-       "awayRings": 362,
+       "homeRings": 1760,
+       "awayRings": 1716,
        "homePoints": 4,
        "awayPoints": 1,
        "played": true,
@@ -4110,23 +4110,23 @@
          "position": 1,
          "home": {
           "name": "Seitz, Johannes",
-          "total": 92,
+          "total": 368,
           "series": [
            92,
-           0,
-           0,
-           0
+           90,
+           93,
+           93
           ],
           "shootOff": null
          },
          "away": {
           "name": "Müller, Georg",
-          "total": 87,
+          "total": 354,
           "series": [
            87,
-           0,
-           0,
-           0
+           89,
+           89,
+           89
           ],
           "shootOff": null
          },
@@ -4137,49 +4137,22 @@
          "position": 2,
          "home": {
           "name": "Spötzl, Tobias",
-          "total": 93,
+          "total": 283,
           "series": [
            93,
-           0,
-           0,
+           95,
+           95,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Müller, Thomas",
-          "total": 95,
+          "total": 278,
           "series": [
            95,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 1
-        },
-        {
-         "position": 3,
-         "home": {
-          "name": "Diepelt, Christian",
-          "total": 93,
-          "series": [
-           93,
-           0,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Schwaiger, Markus",
-          "total": 92,
-          "series": [
-           92,
-           0,
-           0,
+           88,
+           95,
            0
           ],
           "shootOff": null
@@ -4188,26 +4161,53 @@
          "awayPoint": 0
         },
         {
+         "position": 3,
+         "home": {
+          "name": "Diepelt, Christian",
+          "total": 363,
+          "series": [
+           93,
+           91,
+           89,
+           90
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Schwaiger, Markus",
+          "total": 368,
+          "series": [
+           92,
+           88,
+           97,
+           91
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
          "position": 4,
          "home": {
           "name": "Meisinger, Matthias",
-          "total": 94,
+          "total": 377,
           "series": [
            94,
-           0,
-           0,
-           0
+           94,
+           94,
+           95
           ],
           "shootOff": null
          },
          "away": {
           "name": "Bertl, Michael",
-          "total": 88,
+          "total": 362,
           "series": [
            88,
-           0,
-           0,
-           0
+           92,
+           90,
+           92
           ],
           "shootOff": null
          },
@@ -4218,23 +4218,23 @@
          "position": 5,
          "home": {
           "name": "Niedermaier, Maria",
-          "total": 93,
+          "total": 369,
           "series": [
            93,
-           0,
-           0,
-           0
+           92,
+           93,
+           91
           ],
           "shootOff": null
          },
          "away": {
           "name": "Bruckmeier, Barbara",
-          "total": 0,
+          "total": 354,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           91,
+           83,
+           89
           ],
           "shootOff": null
          },
@@ -10263,7 +10263,7 @@
        58,
        372,
        374,
-       92,
+       368,
        0,
        0,
        0,
@@ -10303,7 +10303,7 @@
        0,
        0,
        0,
-       93,
+       283,
        0,
        0,
        0,
@@ -10323,7 +10323,7 @@
        364,
        366,
        363,
-       93,
+       363,
        0,
        0,
        0,
@@ -10363,7 +10363,7 @@
        367,
        362,
        372,
-       94,
+       377,
        0,
        0,
        0,
@@ -10383,7 +10383,7 @@
        364,
        366,
        360,
-       93,
+       369,
        0,
        0,
        0,
@@ -11819,7 +11819,7 @@
        370,
        369,
        366,
-       87,
+       354,
        0,
        0,
        0,
@@ -11839,7 +11839,7 @@
        381,
        359,
        367,
-       95,
+       278,
        0,
        0,
        0,
@@ -11859,7 +11859,7 @@
        371,
        375,
        365,
-       92,
+       368,
        0,
        0,
        0,
@@ -11879,7 +11879,7 @@
        358,
        364,
        369,
-       88,
+       362,
        0,
        0,
        0,
@@ -11899,7 +11899,7 @@
        354,
        356,
        369,
-       0,
+       354,
        0,
        0,
        0,
