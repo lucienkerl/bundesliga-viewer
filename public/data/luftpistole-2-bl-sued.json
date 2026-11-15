@@ -27,27 +27,27 @@
   },
   {
    "rank": 4,
-   "team": "Wildbachschützen Landshut",
-   "singlePoints": "11:9",
-   "teamPoints": "4:4"
-  },
-  {
-   "rank": 5,
    "team": "Bogenschützen Grund",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "team": "SV Pfeifferhütte",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "team": "SV Waldkirch",
    "singlePoints": "10:10",
    "teamPoints": "4:4"
+  },
+  {
+   "rank": 7,
+   "team": "Wildbachschützen Landshut",
+   "singlePoints": "11:10",
+   "teamPoints": "4:6"
   },
   {
    "rank": 8,
@@ -64,8 +64,8 @@
   {
    "rank": 10,
    "team": "SG Auerhahn Steinberg",
-   "singlePoints": "9:11",
-   "teamPoints": "2:6"
+   "singlePoints": "10:11",
+   "teamPoints": "4:6"
   },
   {
    "rank": 11,
@@ -4100,8 +4100,8 @@
        "time": "11:00",
        "home": "Hubertus Rettenbach",
        "away": "Kgl. priv. FSG Bad Tölz",
-       "homeRings": 1760,
-       "awayRings": 1716,
+       "homeRings": 1850,
+       "awayRings": 1809,
        "homePoints": 4,
        "awayPoints": 1,
        "played": true,
@@ -4137,23 +4137,23 @@
          "position": 2,
          "home": {
           "name": "Spötzl, Tobias",
-          "total": 283,
+          "total": 373,
           "series": [
            93,
            95,
            95,
-           0
+           90
           ],
           "shootOff": null
          },
          "away": {
           "name": "Müller, Thomas",
-          "total": 278,
+          "total": 371,
           "series": [
            95,
            88,
            95,
-           0
+           93
           ],
           "shootOff": null
          },
@@ -4406,38 +4406,38 @@
        "time": "11:00",
        "home": "Wildbachschützen Landshut",
        "away": "SG Auerhahn Steinberg",
-       "homeRings": 0,
-       "awayRings": 0,
+       "homeRings": 367,
+       "awayRings": 372,
        "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Wimmer, Monika",
-          "total": 0,
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           94,
+           92,
+           89
           ],
           "shootOff": null
          },
          "away": {
           "name": "Ruß, Nick",
-          "total": 0,
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           96,
+           93,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
@@ -10303,7 +10303,7 @@
        0,
        0,
        0,
-       283,
+       373,
        0,
        0,
        0,
@@ -10816,243 +10816,6 @@
     "city": "86937 Scheuring",
     "website": "https://www.edelweiss-scheuring.de",
     "logo": "logos/344D365C-83B0-41B0-8451-20AC8A6488F9.webp"
-   }
-  },
-  {
-   "name": "Wildbachschützen Landshut",
-   "setlist": {
-    "updatedAt": "2026-11-14T17:31",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kronwitter, Alexander",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375.5,
-      "results": [
-       374,
-       376,
-       376,
-       376,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Jost, Celina Kathleen",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 371,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Lück, Christian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 368.56,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Wimmer, Monika",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.25,
-      "results": [
-       360,
-       371,
-       365,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Ecker, Reinhard",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363.25,
-      "results": [
-       365,
-       365,
-       361,
-       362,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Liedel, Andreas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363.25,
-      "results": [
-       368,
-       354,
-       369,
-       362,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Unterholzner, Markus",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.5,
-      "results": [
-       360,
-       359,
-       360,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Büchl, Dana",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 359,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Wendl, Harald",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 344,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Kronwitter, Walter",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Jost, Luis Maximilian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F6FCBF39-0F22-49C7-AF02-D64F6567EAB3/3037",
-   "club": {
-    "name": "Wildbachschützen Landshut e.V.",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Wildbachstrasse 15",
-    "city": "84036 Landshut",
-    "website": "https://www.wildbachschuetzen-landshut.de",
-    "logo": "logos/9636897C-DC5C-494F-A092-AA484BF7B787.webp"
    }
   },
   {
@@ -11607,6 +11370,243 @@
    }
   },
   {
+   "name": "Wildbachschützen Landshut",
+   "setlist": {
+    "updatedAt": "2026-11-14T17:31",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kronwitter, Alexander",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375.5,
+      "results": [
+       374,
+       376,
+       376,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Jost, Celina Kathleen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 371,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Lück, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 368.56,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Wimmer, Monika",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.25,
+      "results": [
+       360,
+       371,
+       365,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Ecker, Reinhard",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363.25,
+      "results": [
+       365,
+       365,
+       361,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Liedel, Andreas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363.25,
+      "results": [
+       368,
+       354,
+       369,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Unterholzner, Markus",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.5,
+      "results": [
+       360,
+       359,
+       360,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Büchl, Dana",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Wendl, Harald",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 344,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Kronwitter, Walter",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Jost, Luis Maximilian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F6FCBF39-0F22-49C7-AF02-D64F6567EAB3/3037",
+   "club": {
+    "name": "Wildbachschützen Landshut e.V.",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Wildbachstrasse 15",
+    "city": "84036 Landshut",
+    "website": "https://www.wildbachschuetzen-landshut.de",
+    "logo": "logos/9636897C-DC5C-494F-A092-AA484BF7B787.webp"
+   }
+  },
+  {
    "name": "Kgl. priv. FSG Bad Tölz",
    "setlist": {
     "updatedAt": "2026-10-28T15:22",
@@ -11642,7 +11642,7 @@
        381,
        359,
        367,
-       278,
+       371,
        0,
        0,
        0,
@@ -12036,7 +12036,7 @@
        370,
        367,
        370,
-       0,
+       372,
        0,
        0,
        0,
