@@ -21,13 +21,13 @@
   },
   {
    "rank": 3,
-   "team": "Schützenverein \"Greif\" Blumenthal",
-   "singlePoints": "5:5",
-   "teamPoints": "2:2"
+   "team": "PSV Olympia Berlin II",
+   "singlePoints": "8:7",
+   "teamPoints": "4:2"
   },
   {
    "rank": 4,
-   "team": "PSV Olympia Berlin II",
+   "team": "Schützenverein \"Greif\" Blumenthal",
    "singlePoints": "5:5",
    "teamPoints": "2:2"
   },
@@ -40,8 +40,8 @@
   {
    "rank": 6,
    "team": "Priv. SG zu Löbau",
-   "singlePoints": "4:6",
-   "teamPoints": "2:2"
+   "singlePoints": "6:9",
+   "teamPoints": "2:4"
   },
   {
    "rank": 7,
@@ -1290,145 +1290,145 @@
        "time": "13:00",
        "home": "PSV Olympia Berlin II",
        "away": "Priv. SG zu Löbau",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1805,
+       "awayRings": 1787,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Dworzak, Torsten",
+          "total": 360,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           90,
+           90,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Zaharanski, Luca",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           93,
+           94,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Soldatova, Evgenia",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           91,
+           88,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wernecke, Lucy",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           95,
+           87,
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Brand, Barbara",
+          "total": 357,
           "series": [
-           0,
-           0,
-           0,
-           0
+           84,
+           90,
+           92,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schieweg, Finja",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           90,
+           89,
+           86
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Avramenko, Alexander",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           93,
+           89,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hoell, Florian",
+          "total": 351,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           85,
+           89,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Flemming, Alexander",
+          "total": 361,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           92,
+           93,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schieweg, Lennart",
+          "total": 341,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           80,
+           87,
+           85
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4718,6 +4718,323 @@
    }
   },
   {
+   "name": "PSV Olympia Berlin II",
+   "setlist": {
+    "updatedAt": "2026-11-12T15:50",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Dworzak, Torsten",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379,
+      "results": [
+       379,
+       370,
+       360,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Müller, Doreen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 370.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Wagner, Adrian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 366.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Soldatova, Evgenia",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 364,
+      "results": [
+       364,
+       362,
+       365,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Fijalkowski, Marc Leon",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 363.86,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Avramenko, Irina",
+      "foreign": "AS",
+      "status": "S",
+      "startAverage": 360,
+      "results": [
+       360,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Brand, Barbara",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359.14,
+      "results": [
+       0,
+       354,
+       357,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Ketzlin, Mario",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 357,
+      "results": [
+       357,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Avramenko, Alexander",
+      "foreign": "AS",
+      "status": "S",
+      "startAverage": 352,
+      "results": [
+       352,
+       361,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Wischnewsky, Michael",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 316,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Mohamed, Raef",
+      "foreign": "AS",
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Pflug, Eric",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 13,
+      "name": "Soldatova, Evgenia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 14,
+      "name": "Potteck, Uwe",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 15,
+      "name": "Flemming, Alexander",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       368,
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/67BFC240-14CB-4184-8ADC-BA900379AF1A/3040",
+   "club": {
+    "name": "Polizeisportverein Olympia Berlin e.V.",
+    "federation": "Schützenverband Berlin - Brandenburg",
+    "street": "Kirschweg 23",
+    "city": "12524 Berlin",
+    "website": "https://psv-olympia.de",
+    "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
+   }
+  },
+  {
    "name": "Schützenverein \"Greif\" Blumenthal",
    "setlist": {
     "updatedAt": "2026-11-13T14:01",
@@ -4844,323 +5161,6 @@
     "city": "17379 Ferdinandshof",
     "website": null,
     "logo": null
-   }
-  },
-  {
-   "name": "PSV Olympia Berlin II",
-   "setlist": {
-    "updatedAt": "2026-11-12T15:50",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Dworzak, Torsten",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379,
-      "results": [
-       379,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Müller, Doreen",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 370.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Wagner, Adrian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Soldatova, Evgenia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 364,
-      "results": [
-       364,
-       362,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Fijalkowski, Marc Leon",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 363.86,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Avramenko, Irina",
-      "foreign": "AS",
-      "status": "S",
-      "startAverage": 360,
-      "results": [
-       360,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Brand, Barbara",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359.14,
-      "results": [
-       0,
-       354,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Ketzlin, Mario",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 357,
-      "results": [
-       357,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Avramenko, Alexander",
-      "foreign": "AS",
-      "status": "S",
-      "startAverage": 352,
-      "results": [
-       352,
-       361,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Wischnewsky, Michael",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 316,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Mohamed, Raef",
-      "foreign": "AS",
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Pflug, Eric",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 13,
-      "name": "Soldatova, Evgenia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 14,
-      "name": "Potteck, Uwe",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 15,
-      "name": "Flemming, Alexander",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/67BFC240-14CB-4184-8ADC-BA900379AF1A/3040",
-   "club": {
-    "name": "Polizeisportverein Olympia Berlin e.V.",
-    "federation": "Schützenverband Berlin - Brandenburg",
-    "street": "Kirschweg 23",
-    "city": "12524 Berlin",
-    "website": "https://psv-olympia.de",
-    "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
    }
   },
   {
@@ -5322,7 +5322,7 @@
       "results": [
        367,
        369,
-       0,
+       373,
        0,
        0,
        0,
@@ -5354,7 +5354,7 @@
       "results": [
        362,
        362,
-       0,
+       364,
        0,
        0,
        0,
@@ -5370,7 +5370,7 @@
       "results": [
        359,
        357,
-       0,
+       358,
        0,
        0,
        0,
@@ -5402,7 +5402,7 @@
       "results": [
        351,
        0,
-       0,
+       351,
        0,
        0,
        0,
@@ -5418,7 +5418,7 @@
       "results": [
        0,
        362,
-       0,
+       341,
        0,
        0,
        0,
