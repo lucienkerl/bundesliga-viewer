@@ -21,21 +21,21 @@
   },
   {
    "rank": 3,
-   "team": "PSV Olympia Berlin II",
+   "team": "Schützenverein \"Greif\" Blumenthal",
    "singlePoints": "8:7",
    "teamPoints": "4:2"
   },
   {
    "rank": 4,
-   "team": "Schützenverein \"Greif\" Blumenthal",
-   "singlePoints": "5:5",
-   "teamPoints": "2:2"
+   "team": "PSV Olympia Berlin II",
+   "singlePoints": "8:7",
+   "teamPoints": "4:2"
   },
   {
    "rank": 5,
    "team": "Zehlendorfer SGI",
-   "singlePoints": "4:6",
-   "teamPoints": "2:2"
+   "singlePoints": "6:9",
+   "teamPoints": "2:4"
   },
   {
    "rank": 6,
@@ -46,14 +46,14 @@
   {
    "rank": 7,
    "team": "Gröninger Schützenverein",
-   "singlePoints": "3:7",
-   "teamPoints": "0:4"
+   "singlePoints": "6:9",
+   "teamPoints": "2:4"
   },
   {
    "rank": 8,
    "team": "SV Schönholzer Heide",
-   "singlePoints": "2:8",
-   "teamPoints": "0:4"
+   "singlePoints": "4:11",
+   "teamPoints": "0:6"
   }
  ],
  "matchDays": [
@@ -1586,145 +1586,145 @@
        "time": "14:30",
        "home": "Schützenverein \"Greif\" Blumenthal",
        "away": "Zehlendorfer SGI",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1778,
+       "awayRings": 1772,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schlünz, Finja",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           91,
+           87,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hartmann, Viktor",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           91,
+           89,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Grabe, Jördis",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           94,
+           91,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Heinrici, Joachim",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           94,
+           90,
+           81
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Grams, Thomas",
+          "total": 355,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           86,
+           86,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schneider, Valerian",
+          "total": 350,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           87,
+           85,
+           88
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wiese, Mathias",
+          "total": 349,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           84,
+           91,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Poppicht, Henry",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           90,
+           93,
+           89
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kehrly, Benjamin",
+          "total": 345,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           82,
+           87,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Heinrici, Albrecht",
+          "total": 340,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           84,
+           88,
+           80
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -1734,103 +1734,103 @@
        "time": "14:30",
        "home": "Gröninger Schützenverein",
        "away": "SV Schönholzer Heide",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1747,
+       "awayRings": 1080,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schmidt, Christian",
+          "total": 356,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           90,
+           87,
+           87
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Grimm, Dominik",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           92,
+           88,
+           90
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Herbst, Marvin",
+          "total": 374,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           95,
+           93,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Nitschke, Marcus",
+          "total": 363,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           86,
+           94,
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Bohndorf, Torsten",
+          "total": 344,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           83,
+           87,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Weilmünster, Katharina",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           87,
+           90,
+           90,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Sturm, Christian",
+          "total": 348,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           86,
+           88,
+           83
           ],
           "shootOff": null
          },
@@ -1845,19 +1845,19 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kinzel, Peter",
+          "total": 325,
           "series": [
-           0,
-           0,
-           0,
-           0
+           74,
+           78,
+           89,
+           84
           ],
           "shootOff": null
          },
@@ -1872,7 +1872,7 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -4718,6 +4718,135 @@
    }
   },
   {
+   "name": "Schützenverein \"Greif\" Blumenthal",
+   "setlist": {
+    "updatedAt": "2026-11-13T14:01",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kutzeck, Katja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 372,
+      "results": [
+       372,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Schlünz, Finja",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 363,
+      "results": [
+       363,
+       364,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Grabe, Jördis",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361.5,
+      "results": [
+       0,
+       360,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Hadrath, Theo",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Grams, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 353,
+      "results": [
+       353,
+       367,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wiese, Mathias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 348,
+      "results": [
+       348,
+       349,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kehrly, Benjamin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 343,
+      "results": [
+       343,
+       354,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/EA9763B3-9679-4403-BF14-8C2D6FAAAA0F/3040",
+   "club": {
+    "name": "Schützenverein Greif e.V. Blumenthal",
+    "federation": "Landesschützenverband Mecklenburg-Vorpommern",
+    "street": "Blumenthal 7A",
+    "city": "17379 Ferdinandshof",
+    "website": null,
+    "logo": null
+   }
+  },
+  {
    "name": "PSV Olympia Berlin II",
    "setlist": {
     "updatedAt": "2026-11-12T15:50",
@@ -5032,135 +5161,6 @@
     "city": "12524 Berlin",
     "website": "https://psv-olympia.de",
     "logo": "logos/0A670FCB-01B2-43C4-AE1E-1DA999028F7B.webp"
-   }
-  },
-  {
-   "name": "Schützenverein \"Greif\" Blumenthal",
-   "setlist": {
-    "updatedAt": "2026-11-13T14:01",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kutzeck, Katja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 372,
-      "results": [
-       372,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Schlünz, Finja",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 363,
-      "results": [
-       363,
-       364,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Grabe, Jördis",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 361.5,
-      "results": [
-       0,
-       360,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Hadrath, Theo",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 361,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Grams, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 353,
-      "results": [
-       353,
-       367,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Wiese, Mathias",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 348,
-      "results": [
-       348,
-       349,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Kehrly, Benjamin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 343,
-      "results": [
-       343,
-       354,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/EA9763B3-9679-4403-BF14-8C2D6FAAAA0F/3040",
-   "club": {
-    "name": "Schützenverein Greif e.V. Blumenthal",
-    "federation": "Landesschützenverband Mecklenburg-Vorpommern",
-    "street": "Blumenthal 7A",
-    "city": "17379 Ferdinandshof",
-    "website": null,
-    "logo": null
    }
   },
   {
