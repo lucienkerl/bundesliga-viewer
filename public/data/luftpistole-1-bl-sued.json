@@ -10140,7 +10140,7 @@
   {
    "name": "ESV Weil am Rhein",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
@@ -10167,7 +10167,7 @@
       "name": "Sauter, Aaron",
       "foreign": null,
       "status": "S",
-      "startAverage": 384.5,
+      "startAverage": 384,
       "results": [
        389,
        389,
@@ -10187,7 +10187,7 @@
       "name": "Schwald, Michael",
       "foreign": null,
       "status": "S",
-      "startAverage": 384,
+      "startAverage": 383.2,
       "results": [
        380,
        393,
@@ -10247,7 +10247,7 @@
       "name": "Meyer, Patrick",
       "foreign": null,
       "status": "S",
-      "startAverage": 379.75,
+      "startAverage": 379.2,
       "results": [
        377,
        380,
@@ -10267,7 +10267,7 @@
       "name": "Grisoni, Cédric",
       "foreign": "A",
       "status": "S",
-      "startAverage": 378.5,
+      "startAverage": 377.33,
       "results": [
        0,
        0,
@@ -10357,7 +10357,7 @@
   {
    "name": "SV Kelheim-Gmünd",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
@@ -10381,46 +10381,6 @@
      },
      {
       "rank": 2,
-      "name": "Carrera, Pablo",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 383,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       381,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Grimm, Philipp",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 382.67,
-      "results": [
-       383,
-       392,
-       373,
-       0,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
       "name": "Dubovy, Jindrich",
       "foreign": "A",
       "status": "E",
@@ -10440,11 +10400,51 @@
       ]
      },
      {
+      "rank": 3,
+      "name": "Carrera, Pablo",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 381,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       381,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Grimm, Philipp",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 380.75,
+      "results": [
+       383,
+       392,
+       373,
+       0,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
       "rank": 5,
       "name": "Karsch, Monika",
       "foreign": null,
       "status": "S",
-      "startAverage": 378.67,
+      "startAverage": 379.5,
       "results": [
        384,
        0,
@@ -10484,7 +10484,7 @@
       "name": "Weiß, Simon",
       "foreign": null,
       "status": "S",
-      "startAverage": 377.5,
+      "startAverage": 377,
       "results": [
        375,
        381,
@@ -10504,7 +10504,7 @@
       "name": "Schultheiß, Christoph",
       "foreign": null,
       "status": "S",
-      "startAverage": 373,
+      "startAverage": 373.67,
       "results": [
        375,
        371,
@@ -10614,7 +10614,7 @@
   {
    "name": "Sgi Waldenburg",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
@@ -10718,26 +10718,6 @@
      },
      {
       "rank": 6,
-      "name": "Peter, Florian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 379,
-      "results": [
-       0,
-       0,
-       378,
-       380,
-       374,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
       "name": "Tarhan, Sevval Ilayda",
       "foreign": "A",
       "status": "E",
@@ -10757,17 +10737,37 @@
       ]
      },
      {
+      "rank": 7,
+      "name": "Peter, Florian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 377.33,
+      "results": [
+       0,
+       0,
+       378,
+       380,
+       374,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
       "rank": 8,
-      "name": "Köppl, Andreas",
+      "name": "Backes, Tobias",
       "foreign": null,
       "status": "S",
-      "startAverage": 376.33,
+      "startAverage": 376.75,
       "results": [
-       372,
-       378,
-       379,
+       381,
+       373,
        0,
-       0,
+       369,
+       384,
        0,
        0,
        0,
@@ -10778,16 +10778,16 @@
      },
      {
       "rank": 9,
-      "name": "Backes, Tobias",
+      "name": "Köppl, Andreas",
       "foreign": null,
       "status": "S",
-      "startAverage": 374.33,
+      "startAverage": 376.33,
       "results": [
-       381,
-       373,
+       372,
+       378,
+       379,
        0,
-       369,
-       384,
+       0,
        0,
        0,
        0,
@@ -10841,7 +10841,7 @@
       "name": "Hollfoth, Felix Luca",
       "foreign": null,
       "status": "E",
-      "startAverage": 370.5,
+      "startAverage": 370.67,
       "results": [
        0,
        0,
@@ -10931,14 +10931,14 @@
   {
    "name": "FSG Kempten 1",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
       "name": "Gampierakis, Georgios",
       "foreign": "A",
       "status": "F",
-      "startAverage": 382,
+      "startAverage": 382.33,
       "results": [
        0,
        0,
@@ -10958,7 +10958,7 @@
       "name": "Heise, Michael",
       "foreign": null,
       "status": "S",
-      "startAverage": 378.75,
+      "startAverage": 379.6,
       "results": [
        384,
        382,
@@ -10995,10 +10995,30 @@
      },
      {
       "rank": 4,
+      "name": "Rinn, Marcel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375.75,
+      "results": [
+       370,
+       0,
+       378,
+       375,
+       380,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
       "name": "Heise, Andreas",
       "foreign": null,
       "status": "S",
-      "startAverage": 376,
+      "startAverage": 375,
       "results": [
        372,
        382,
@@ -11014,7 +11034,7 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 6,
       "name": "Bechter, Manfred",
       "foreign": "A",
       "status": "E",
@@ -11034,31 +11054,11 @@
       ]
      },
      {
-      "rank": 6,
-      "name": "Rinn, Marcel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 374.33,
-      "results": [
-       370,
-       0,
-       378,
-       375,
-       380,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "rank": 7,
       "name": "Veser, Adrian",
       "foreign": null,
       "status": "S",
-      "startAverage": 371.33,
+      "startAverage": 373,
       "results": [
        373,
        370,
@@ -11148,7 +11148,7 @@
   {
    "name": "SGi Ludwigsburg",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
@@ -11212,10 +11212,50 @@
      },
      {
       "rank": 4,
+      "name": "Hlousek, Julia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Spinella, Massimo",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
       "name": "Schmidt, Florian Daniel",
       "foreign": null,
       "status": "S",
-      "startAverage": 375,
+      "startAverage": 373.6,
       "results": [
        380,
        375,
@@ -11231,7 +11271,27 @@
       ]
      },
      {
-      "rank": 5,
+      "rank": 7,
+      "name": "Reitz, Florian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 372.6,
+      "results": [
+       376,
+       373,
+       369,
+       368,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
       "name": "Kerl, Lucien",
       "foreign": null,
       "status": "F",
@@ -11251,27 +11311,7 @@
       ]
      },
      {
-      "rank": 6,
-      "name": "Reitz, Florian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371.5,
-      "results": [
-       376,
-       373,
-       369,
-       368,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
+      "rank": 9,
       "name": "Miklis, André",
       "foreign": null,
       "status": "S",
@@ -11291,7 +11331,7 @@
       ]
      },
      {
-      "rank": 8,
+      "rank": 10,
       "name": "Goberville, Sandrine",
       "foreign": "A",
       "status": "S",
@@ -11302,46 +11342,6 @@
        0,
        0,
        0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Hlousek, Julia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 369.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Spinella, Massimo",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 369.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       377,
        0,
        0,
        0,
@@ -11375,7 +11375,7 @@
       "name": "Potteck, René",
       "foreign": null,
       "status": "S",
-      "startAverage": 364.25,
+      "startAverage": 361,
       "results": [
        0,
        0,
@@ -11405,14 +11405,14 @@
   {
    "name": "KKS Hambrücken",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
       "name": "Walter, Robin",
       "foreign": null,
       "status": "S",
-      "startAverage": 385,
+      "startAverage": 383,
       "results": [
        0,
        0,
@@ -11432,7 +11432,7 @@
       "name": "Baumeister, Eduard",
       "foreign": null,
       "status": "S",
-      "startAverage": 381.33,
+      "startAverage": 381.25,
       "results": [
        378,
        0,
@@ -11449,10 +11449,30 @@
      },
      {
       "rank": 3,
+      "name": "Becker, Celina Maria Paula",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.33,
+      "results": [
+       375,
+       375,
+       0,
+       0,
+       379,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
       "name": "Fries, Hugo",
       "foreign": null,
       "status": "S",
-      "startAverage": 376.5,
+      "startAverage": 374.67,
       "results": [
        374,
        379,
@@ -11468,31 +11488,11 @@
       ]
      },
      {
-      "rank": 4,
-      "name": "Becker, Celina Maria Paula",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 375,
-      "results": [
-       375,
-       375,
-       0,
-       0,
-       379,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "rank": 5,
       "name": "Kudrya, Serhiy",
       "foreign": "A",
       "status": "F",
-      "startAverage": 373.75,
+      "startAverage": 373.6,
       "results": [
        373,
        366,
@@ -11622,7 +11622,7 @@
   {
    "name": "HSG München",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
@@ -11729,7 +11729,7 @@
       "name": "Martin, Andreas",
       "foreign": null,
       "status": "S",
-      "startAverage": 372.5,
+      "startAverage": 373,
       "results": [
        364,
        374,
@@ -11746,16 +11746,16 @@
      },
      {
       "rank": 7,
-      "name": "Adels, Nina",
+      "name": "Polischuk, Maria",
       "foreign": null,
       "status": "S",
-      "startAverage": 371.75,
+      "startAverage": 372.6,
       "results": [
        374,
        372,
-       375,
-       366,
-       365,
+       369,
+       368,
+       380,
        0,
        0,
        0,
@@ -11766,16 +11766,16 @@
      },
      {
       "rank": 8,
-      "name": "Polischuk, Maria",
+      "name": "Adels, Nina",
       "foreign": null,
       "status": "S",
-      "startAverage": 370.75,
+      "startAverage": 370.4,
       "results": [
        374,
        372,
-       369,
-       368,
-       380,
+       375,
+       366,
+       365,
        0,
        0,
        0,
@@ -11809,7 +11809,7 @@
       "name": "Lindner, Dominikus",
       "foreign": null,
       "status": "S",
-      "startAverage": 367,
+      "startAverage": 368.5,
       "results": [
        367,
        0,
@@ -11849,7 +11849,7 @@
       "name": "Schütt, Carsten",
       "foreign": null,
       "status": "F",
-      "startAverage": 360.5,
+      "startAverage": 361.67,
       "results": [
        0,
        0,
@@ -11899,7 +11899,7 @@
   {
    "name": "SSG RWS Fürth",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
@@ -11966,7 +11966,7 @@
       "name": "Korn, Sören",
       "foreign": null,
       "status": "S",
-      "startAverage": 375.75,
+      "startAverage": 375.4,
       "results": [
        375,
        381,
@@ -11986,7 +11986,7 @@
       "name": "Heyer, Philip",
       "foreign": null,
       "status": "S",
-      "startAverage": 375.25,
+      "startAverage": 374.6,
       "results": [
        374,
        374,
@@ -12046,7 +12046,7 @@
       "name": "Raabe, Martin",
       "foreign": null,
       "status": "S",
-      "startAverage": 369.33,
+      "startAverage": 368.25,
       "results": [
        372,
        370,
@@ -12063,26 +12063,6 @@
      },
      {
       "rank": 9,
-      "name": "Dörr, Cora",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365,
-      "results": [
-       365,
-       365,
-       0,
-       0,
-       356,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
       "name": "Lohse, Corinna",
       "foreign": null,
       "status": "E",
@@ -12093,6 +12073,26 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Dörr, Cora",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362,
+      "results": [
+       365,
+       365,
+       0,
+       0,
+       356,
        0,
        0,
        0,
@@ -12126,7 +12126,7 @@
       "name": "Gmeinder, Ronja",
       "foreign": null,
       "status": "E",
-      "startAverage": 356,
+      "startAverage": 360.5,
       "results": [
        0,
        0,
@@ -12156,30 +12156,10 @@
   {
    "name": "Edelweiß Scheuring",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
-      "name": "Probst, David",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377,
-      "results": [
-       0,
-       379,
-       375,
-       377,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
       "name": "Petrov, Dusko",
       "foreign": "A",
       "status": "S",
@@ -12199,17 +12179,37 @@
       ]
      },
      {
-      "rank": 3,
+      "rank": 2,
       "name": "Ranzinger, Philipp",
       "foreign": null,
       "status": "S",
-      "startAverage": 376,
+      "startAverage": 375.8,
       "results": [
        375,
        378,
        377,
        374,
        375,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Probst, David",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 375.25,
+      "results": [
+       0,
+       379,
+       375,
+       377,
+       370,
        0,
        0,
        0,
@@ -12243,7 +12243,7 @@
       "name": "Baamann, Theresia",
       "foreign": null,
       "status": "F",
-      "startAverage": 372.75,
+      "startAverage": 372,
       "results": [
        371,
        369,
@@ -12300,12 +12300,12 @@
      },
      {
       "rank": 8,
-      "name": "Hirmer, Stefan",
+      "name": "Deroni, Sascha",
       "foreign": null,
-      "status": "S",
-      "startAverage": 364,
+      "status": "E",
+      "startAverage": 366,
       "results": [
-       364,
+       0,
        0,
        0,
        0,
@@ -12320,12 +12320,12 @@
      },
      {
       "rank": 9,
-      "name": "Deroni, Sascha",
+      "name": "Hirmer, Stefan",
       "foreign": null,
-      "status": "E",
-      "startAverage": 0,
+      "status": "S",
+      "startAverage": 365,
       "results": [
-       0,
+       364,
        0,
        0,
        0,
@@ -12353,20 +12353,20 @@
   {
    "name": "SG 1928 Glattbach",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
-      "name": "Drawert, Carolin",
+      "name": "Kunkel, Leon",
       "foreign": null,
       "status": "S",
-      "startAverage": 372,
+      "startAverage": 370.2,
       "results": [
        370,
-       0,
-       375,
-       371,
-       359,
+       369,
+       368,
+       368,
+       376,
        0,
        0,
        0,
@@ -12380,7 +12380,7 @@
       "name": "Junker, Katharina",
       "foreign": null,
       "status": "F",
-      "startAverage": 371,
+      "startAverage": 369,
       "results": [
        0,
        367,
@@ -12397,30 +12397,10 @@
      },
      {
       "rank": 3,
-      "name": "Kunkel, Leon",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 368.75,
-      "results": [
-       370,
-       369,
-       368,
-       368,
-       376,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
       "name": "Ruckerbauer, Mathias",
       "foreign": null,
       "status": "S",
-      "startAverage": 368.25,
+      "startAverage": 368.8,
       "results": [
        369,
        364,
@@ -12436,17 +12416,17 @@
       ]
      },
      {
-      "rank": 5,
-      "name": "Meister, Martin",
+      "rank": 4,
+      "name": "Drawert, Carolin",
       "foreign": null,
       "status": "S",
-      "startAverage": 366.75,
+      "startAverage": 368.75,
       "results": [
+       370,
+       0,
+       375,
        371,
-       369,
-       362,
-       365,
-       362,
+       359,
        0,
        0,
        0,
@@ -12456,7 +12436,7 @@
       ]
      },
      {
-      "rank": 6,
+      "rank": 5,
       "name": "Geyer, Christian",
       "foreign": null,
       "status": "E",
@@ -12467,6 +12447,26 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Meister, Martin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.8,
+      "results": [
+       371,
+       369,
+       362,
+       365,
+       362,
        0,
        0,
        0,
@@ -12550,7 +12550,7 @@
   {
    "name": "SV Hubertus Hitzhofen-Oberzell",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
@@ -12577,7 +12577,7 @@
       "name": "Mastrovalerio, Matteo",
       "foreign": "A",
       "status": "S",
-      "startAverage": 383,
+      "startAverage": 381.67,
       "results": [
        0,
        0,
@@ -12597,7 +12597,7 @@
       "name": "Fröhlich, Paul",
       "foreign": null,
       "status": "S",
-      "startAverage": 377.5,
+      "startAverage": 376.67,
       "results": [
        0,
        0,
@@ -12634,6 +12634,26 @@
      },
      {
       "rank": 5,
+      "name": "Strubel, Nils",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371.4,
+      "results": [
+       374,
+       371,
+       366,
+       367,
+       379,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
       "name": "Gruber, Kilian",
       "foreign": null,
       "status": "E",
@@ -12653,31 +12673,11 @@
       ]
      },
      {
-      "rank": 6,
-      "name": "Strubel, Nils",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369.5,
-      "results": [
-       374,
-       371,
-       366,
-       367,
-       379,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "rank": 7,
       "name": "Negler, Stefan",
       "foreign": null,
       "status": "S",
-      "startAverage": 366.5,
+      "startAverage": 366.4,
       "results": [
        366,
        369,
@@ -12714,26 +12714,6 @@
      },
      {
       "rank": 9,
-      "name": "Pirkl, Johannes",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366,
-      "results": [
-       366,
-       0,
-       0,
-       0,
-       358,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
       "name": "Klingler, Stephan",
       "foreign": null,
       "status": "E",
@@ -12744,6 +12724,26 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Pirkl, Johannes",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 362,
+      "results": [
+       366,
+       0,
+       0,
+       0,
+       358,
        0,
        0,
        0,
@@ -12787,7 +12787,7 @@
   {
    "name": "SV Willmandingen",
    "setlist": {
-    "updatedAt": "2026-10-28T15:21",
+    "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
@@ -12810,7 +12810,7 @@
       "name": "Singvogel, Thomas",
       "foreign": null,
       "status": "S",
-      "startAverage": 367,
+      "startAverage": 367.5,
       "results": [
        361,
        0,
@@ -12823,22 +12823,6 @@
      },
      {
       "rank": 3,
-      "name": "Erking, Tobias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 366.5,
-      "results": [
-       0,
-       0,
-       366,
-       367,
-       359,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
       "name": "Baur, Dirk",
       "foreign": null,
       "status": "E",
@@ -12849,6 +12833,22 @@
        0,
        0,
        0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Nicolussi, Peter",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.5,
+      "results": [
+       363,
+       361,
+       0,
+       0,
+       368,
        0,
        0
       ]
@@ -12871,16 +12871,16 @@
      },
      {
       "rank": 6,
-      "name": "Nicolussi, Peter",
+      "name": "Erking, Tobias",
       "foreign": null,
-      "status": "S",
-      "startAverage": 363,
+      "status": "E",
+      "startAverage": 364,
       "results": [
-       363,
-       361,
        0,
        0,
-       368,
+       366,
+       367,
+       359,
        0,
        0
       ]
@@ -12919,32 +12919,32 @@
      },
      {
       "rank": 9,
-      "name": "Haas, Gabriele",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359.67,
-      "results": [
-       0,
-       371,
-       348,
-       360,
-       357,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
       "name": "Zipperer, Robert",
       "foreign": null,
       "status": "F",
-      "startAverage": 358,
+      "startAverage": 360.67,
       "results": [
        0,
        0,
        354,
        362,
        366,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Haas, Gabriele",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359,
+      "results": [
+       0,
+       371,
+       348,
+       360,
+       357,
        0,
        0
       ]
