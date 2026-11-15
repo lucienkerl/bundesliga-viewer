@@ -22,31 +22,31 @@
   {
    "rank": 3,
    "team": "SG Edelweiß Scheuring 2",
-   "singlePoints": "12:8",
-   "teamPoints": "6:2"
+   "singlePoints": "14:10",
+   "teamPoints": "8:2"
   },
   {
    "rank": 4,
    "team": "Bogenschützen Grund",
-   "singlePoints": "10:10",
-   "teamPoints": "4:4"
+   "singlePoints": "13:12",
+   "teamPoints": "6:4"
   },
   {
    "rank": 5,
-   "team": "SV Pfeifferhütte",
-   "singlePoints": "10:10",
-   "teamPoints": "4:4"
+   "team": "Wildbachschützen Landshut",
+   "singlePoints": "13:11",
+   "teamPoints": "4:6"
   },
   {
    "rank": 6,
-   "team": "SV Waldkirch",
-   "singlePoints": "10:10",
-   "teamPoints": "4:4"
+   "team": "SV Pfeifferhütte",
+   "singlePoints": "12:12",
+   "teamPoints": "4:6"
   },
   {
    "rank": 7,
-   "team": "Wildbachschützen Landshut",
-   "singlePoints": "13:11",
+   "team": "SV Waldkirch",
+   "singlePoints": "12:13",
    "teamPoints": "4:6"
   },
   {
@@ -4248,146 +4248,146 @@
        "time": "12:30",
        "home": "Bogenschützen Grund",
        "away": "SV Waldkirch",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1797,
+       "awayRings": 1656,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Lipp, Stefan",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           92,
+           93,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schulz, Sebastian",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           94,
+           90,
+           92
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Höfl, Kai",
+          "total": 359,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           89,
+           91,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Rogg, Simon",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           94,
+           89,
+           91
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schwarzbauer, Hans",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           92,
+           96,
+           88
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lichtl, Henrik",
+          "total": 278,
           "series": [
-           0,
-           0,
-           0,
+           91,
+           95,
+           92,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wingruber, Josef",
+          "total": 349,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           84,
+           90,
+           87
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schrotter, Marie",
+          "total": 276,
           "series": [
-           0,
-           0,
-           0,
+           92,
+           92,
+           92,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Weber, Andreas",
+          "total": 349,
           "series": [
-           0,
-           0,
-           0,
-           0
+           86,
+           81,
+           92,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lück, Sophia",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           89,
+           94,
+           92
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       }
@@ -4554,19 +4554,19 @@
        "time": "12:30",
        "home": "SV Pfeifferhütte",
        "away": "SG Edelweiß Scheuring 2",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 456,
+       "awayRings": 463,
+       "homePoints": 2,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kärner, Rene",
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
@@ -4574,26 +4574,26 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schupper, Eileen",
+          "total": 89,
           "series": [
-           0,
+           89,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Högner, Udo",
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -4601,26 +4601,26 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Bösl, Michaela",
+          "total": 91,
           "series": [
-           0,
+           91,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Otto, Lukas",
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -4628,10 +4628,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Ranzinger, Thomas",
+          "total": 95,
           "series": [
-           0,
+           95,
            0,
            0,
            0
@@ -4639,15 +4639,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Backmeroff, Matthias",
+          "total": 89,
           "series": [
-           0,
+           89,
            0,
            0,
            0
@@ -4655,10 +4655,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Balg, Henrik",
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -4666,15 +4666,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kreußel, Peter",
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -4682,10 +4682,10 @@
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Balg, Marco",
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -10617,7 +10617,7 @@
        0,
        0,
        0,
-       0,
+       89,
        0,
        0,
        0,
@@ -10637,7 +10637,7 @@
        370,
        371,
        369,
-       0,
+       91,
        0,
        0,
        0,
@@ -10657,7 +10657,7 @@
        357,
        366,
        366,
-       0,
+       95,
        0,
        0,
        0,
@@ -10677,7 +10677,7 @@
        360,
        368,
        359,
-       0,
+       96,
        0,
        0,
        0,
@@ -10717,7 +10717,7 @@
        361,
        0,
        0,
-       0,
+       92,
        0,
        0,
        0,
@@ -10834,7 +10834,7 @@
        364,
        373,
        372,
-       0,
+       373,
        0,
        0,
        0,
@@ -10854,7 +10854,7 @@
        351,
        363,
        365,
-       0,
+       359,
        0,
        0,
        0,
@@ -10874,7 +10874,7 @@
        364,
        352,
        362,
-       0,
+       367,
        0,
        0,
        0,
@@ -10914,7 +10914,7 @@
        357,
        345,
        353,
-       0,
+       349,
        0,
        0,
        0,
@@ -10927,14 +10927,14 @@
       "rank": 6,
       "name": "Weber, Andreas",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 352,
       "results": [
        0,
        0,
        354,
        350,
-       0,
+       349,
        0,
        0,
        0,
@@ -10953,420 +10953,6 @@
     "city": "94099 Ruhstorf a. d. Rott",
     "website": null,
     "logo": null
-   }
-  },
-  {
-   "name": "SV Pfeifferhütte",
-   "setlist": {
-    "updatedAt": "2026-10-28T15:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kärner, Rene",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371,
-      "results": [
-       371,
-       370,
-       373,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Högner, Udo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 370.25,
-      "results": [
-       373,
-       368,
-       371,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Otto, Lukas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365.75,
-      "results": [
-       367,
-       364,
-       359,
-       373,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Fechter, Stefan",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 360,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Heim, Markus",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 359.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Backmeroff, Matthias",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 357.5,
-      "results": [
-       351,
-       356,
-       362,
-       361,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Kreußel, Peter",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 357,
-      "results": [
-       363,
-       359,
-       344,
-       362,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Kirschner, Kevin",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 357,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Holzammer, Christopher",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 356.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Lang, Bastian",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 355.13,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/996DFE0C-17C5-4A58-9564-80037D54410B/3037",
-   "club": {
-    "name": "SV Pfeifferhütte u. Umgebung",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Schützenstraße 1",
-    "city": "90592 Schwarzenbruck",
-    "website": "https://www.schuetzenverein-pfeifferhuette.de/",
-    "logo": "logos/8885E8B8-CC8F-4505-9385-954DA57C245C.webp"
-   }
-  },
-  {
-   "name": "SV Waldkirch",
-   "setlist": {
-    "updatedAt": "2026-10-28T15:22",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Grgic, Dimitrije",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 378.4,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Joldea, Luca",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 375.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Schulz, Sebastian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371,
-      "results": [
-       369,
-       370,
-       366,
-       379,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Rogg, Simon",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369.5,
-      "results": [
-       370,
-       370,
-       368,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Lichtl, Henrik",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 363,
-      "results": [
-       364,
-       362,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Schrotter, Marie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 362.5,
-      "results": [
-       365,
-       363,
-       357,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Schlahsa, Andreas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 359,
-      "results": [
-       0,
-       0,
-       362,
-       356,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Lück, Sophia",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 357.75,
-      "results": [
-       361,
-       353,
-       361,
-       356,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Schlaier, Daniel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 350,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/4A32C8BB-FDCA-42E2-A744-0B7F5A1A6D62/3037",
-   "club": {
-    "name": "SchV Edelweiß Waldkirch",
-    "federation": "Bayerischer Sportschützenbund",
-    "street": "Obersorfstraße 24",
-    "city": "89368 Winterbach Ot. Waldkirch",
-    "website": null,
-    "logo": "logos/FE3CF56F-0576-4617-A57F-75F95CCDFAC4.webp"
    }
   },
   {
@@ -11604,6 +11190,420 @@
     "city": "84036 Landshut",
     "website": "https://www.wildbachschuetzen-landshut.de",
     "logo": "logos/9636897C-DC5C-494F-A092-AA484BF7B787.webp"
+   }
+  },
+  {
+   "name": "SV Pfeifferhütte",
+   "setlist": {
+    "updatedAt": "2026-10-28T15:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kärner, Rene",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       371,
+       370,
+       373,
+       370,
+       278,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Högner, Udo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 370.25,
+      "results": [
+       373,
+       368,
+       371,
+       369,
+       181,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Otto, Lukas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.75,
+      "results": [
+       367,
+       364,
+       359,
+       373,
+       181,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Fechter, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Heim, Markus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Backmeroff, Matthias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 357.5,
+      "results": [
+       351,
+       356,
+       362,
+       361,
+       180,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Kreußel, Peter",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 357,
+      "results": [
+       363,
+       359,
+       344,
+       362,
+       187,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Kirschner, Kevin",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 357,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Holzammer, Christopher",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 356.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Lang, Bastian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.13,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/996DFE0C-17C5-4A58-9564-80037D54410B/3037",
+   "club": {
+    "name": "SV Pfeifferhütte u. Umgebung",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Schützenstraße 1",
+    "city": "90592 Schwarzenbruck",
+    "website": "https://www.schuetzenverein-pfeifferhuette.de/",
+    "logo": "logos/8885E8B8-CC8F-4505-9385-954DA57C245C.webp"
+   }
+  },
+  {
+   "name": "SV Waldkirch",
+   "setlist": {
+    "updatedAt": "2026-10-28T15:22",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Grgic, Dimitrije",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 378.4,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Joldea, Luca",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 375.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Schulz, Sebastian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       369,
+       370,
+       366,
+       379,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Rogg, Simon",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369.5,
+      "results": [
+       370,
+       370,
+       368,
+       370,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Lichtl, Henrik",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 363,
+      "results": [
+       364,
+       362,
+       0,
+       0,
+       278,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schrotter, Marie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 362.5,
+      "results": [
+       365,
+       363,
+       357,
+       365,
+       276,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Schlahsa, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 359,
+      "results": [
+       0,
+       0,
+       362,
+       356,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Lück, Sophia",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 357.75,
+      "results": [
+       361,
+       353,
+       361,
+       356,
+       367,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Schlaier, Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 350,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/4A32C8BB-FDCA-42E2-A744-0B7F5A1A6D62/3037",
+   "club": {
+    "name": "SchV Edelweiß Waldkirch",
+    "federation": "Bayerischer Sportschützenbund",
+    "street": "Obersorfstraße 24",
+    "city": "89368 Winterbach Ot. Waldkirch",
+    "website": null,
+    "logo": "logos/FE3CF56F-0576-4617-A57F-75F95CCDFAC4.webp"
    }
   },
   {
