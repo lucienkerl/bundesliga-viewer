@@ -71,7 +71,7 @@
      "matches": [
       {
        "number": 1,
-       "time": "11:30",
+       "time": "10:00",
        "home": "SGI zu Werder (Havel)",
        "away": "FV SSZ Suhl",
        "homeRings": 1925,
@@ -110,7 +110,7 @@
         {
          "position": 2,
          "home": {
-          "name": "Kanzler, Elea Johanna",
+          "name": "Kurmann, Johanna",
           "total": 392,
           "series": [
            98,
@@ -367,7 +367,7 @@
       },
       {
        "number": 3,
-       "time": "14:00",
+       "time": "13:00",
        "home": "PSV Olympia Berlin III",
        "away": "PSSG zu Dresden",
        "homeRings": 1948,
@@ -515,7 +515,7 @@
       },
       {
        "number": 4,
-       "time": "14:00",
+       "time": "14:30",
        "home": "SGi Berlin & Charlottenburg",
        "away": "SV Gölzau II",
        "homeRings": 1504,
@@ -1268,9 +1268,25 @@
          "awayPoint": 1
         }
        ]
-      },
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "date": "2026-11-08",
+   "venues": [
+    {
+     "host": "PSV Olympia Berlin III",
+     "hall": "Walther Arena Berlin",
+     "street": "Kirschweg 23",
+     "city": "Berlin 12524",
+     "phone": "(030) 63104385",
+     "referee": "Grötzner, Marlies",
+     "matches": [
       {
-       "number": 5,
+       "number": 1,
        "time": "13:00",
        "home": "SGi Lübben",
        "away": "PSSG zu Dresden",
@@ -1418,7 +1434,7 @@
        ]
       },
       {
-       "number": 6,
+       "number": 2,
        "time": "13:00",
        "home": "FV SSZ Suhl",
        "away": "SV Gölzau II",
@@ -1566,7 +1582,7 @@
        ]
       },
       {
-       "number": 7,
+       "number": 3,
        "time": "14:30",
        "home": "SGI zu Werder (Havel)",
        "away": "SGi Berlin & Charlottenburg",
@@ -1714,7 +1730,7 @@
        ]
       },
       {
-       "number": 8,
+       "number": 4,
        "time": "14:30",
        "home": "Giebichensteiner SGi Halle",
        "away": "PSV Olympia Berlin III",
@@ -1866,7 +1882,7 @@
    ]
   },
   {
-   "number": 3,
+   "number": 4,
    "date": "2026-12-06",
    "venues": [
     {
@@ -2468,9 +2484,25 @@
          "awayPoint": 0
         }
        ]
-      },
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "date": "2026-12-06",
+   "venues": [
+    {
+     "host": "FV SSZ Suhl",
+     "hall": "Erich-Krempel Halle",
+     "street": "Schützenstraße 6",
+     "city": "98527 Suhl",
+     "phone": null,
+     "referee": "Harring, Christian",
+     "matches": [
       {
-       "number": 5,
+       "number": 1,
        "time": "13:00",
        "home": "FV SSZ Suhl",
        "away": "Giebichensteiner SGi Halle",
@@ -2618,7 +2650,7 @@
        ]
       },
       {
-       "number": 6,
+       "number": 2,
        "time": "13:00",
        "home": "PSV Olympia Berlin III",
        "away": "SGi Lübben",
@@ -2766,7 +2798,7 @@
        ]
       },
       {
-       "number": 7,
+       "number": 3,
        "time": "13:00",
        "home": "SV Gölzau II",
        "away": "SGI zu Werder (Havel)",
@@ -2914,7 +2946,7 @@
        ]
       },
       {
-       "number": 8,
+       "number": 4,
        "time": "13:00",
        "home": "SGi Berlin & Charlottenburg",
        "away": "PSSG zu Dresden",
@@ -3066,7 +3098,7 @@
    ]
   },
   {
-   "number": 4,
+   "number": 6,
    "date": "2027-01-17",
    "venues": [
     {
@@ -3668,9 +3700,25 @@
          "awayPoint": 0
         }
        ]
-      },
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "date": "2027-01-17",
+   "venues": [
+    {
+     "host": "SGI zu Werder (Havel)",
+     "hall": "Schiesssportzentrum Frankfurt",
+     "street": "Eisenhüttenstädter Chaussee 55",
+     "city": "15236 Frankfurt an der Oder",
+     "phone": null,
+     "referee": "Preihs, Maria K. D.",
+     "matches": [
       {
-       "number": 5,
+       "number": 1,
        "time": "13:00",
        "home": "SV Gölzau II",
        "away": "SGi Lübben",
@@ -3818,7 +3866,7 @@
        ]
       },
       {
-       "number": 6,
+       "number": 2,
        "time": "13:00",
        "home": "SGI zu Werder (Havel)",
        "away": "PSSG zu Dresden",
@@ -3966,7 +4014,7 @@
        ]
       },
       {
-       "number": 7,
+       "number": 3,
        "time": "13:00",
        "home": "PSV Olympia Berlin III",
        "away": "FV SSZ Suhl",
@@ -4114,7 +4162,7 @@
        ]
       },
       {
-       "number": 8,
+       "number": 4,
        "time": "13:00",
        "home": "SGi Berlin & Charlottenburg",
        "away": "Giebichensteiner SGi Halle",
@@ -4282,6 +4330,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4293,7 +4344,10 @@
       "startAverage": 392.33,
       "results": [
        394,
+       389,
        394,
+       0,
+       0,
        0,
        0
       ]
@@ -4306,6 +4360,9 @@
       "startAverage": 392,
       "results": [
        392,
+       0,
+       0,
+       0,
        0,
        0,
        0
@@ -4321,6 +4378,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4333,6 +4393,9 @@
       "results": [
        389,
        387,
+       387,
+       0,
+       0,
        0,
        0
       ]
@@ -4345,7 +4408,10 @@
       "startAverage": 387.67,
       "results": [
        389,
+       385,
        389,
+       0,
+       0,
        0,
        0
       ]
@@ -4358,7 +4424,10 @@
       "startAverage": 387,
       "results": [
        0,
+       0,
        387,
+       0,
+       0,
        0,
        0
       ]
@@ -4373,6 +4442,9 @@
        384,
        389,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4385,6 +4457,9 @@
       "results": [
        0,
        388,
+       379,
+       0,
+       0,
        0,
        0
       ]
@@ -4396,6 +4471,9 @@
       "status": "E",
       "startAverage": 378.33,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -4412,6 +4490,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4422,6 +4503,9 @@
       "status": "E",
       "startAverage": 0,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -4454,6 +4538,9 @@
       "results": [
        395,
        390,
+       391,
+       0,
+       0,
        0,
        0
       ]
@@ -4468,6 +4555,9 @@
        391,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4479,7 +4569,10 @@
       "startAverage": 390.5,
       "results": [
        0,
+       389,
        392,
+       0,
+       0,
        0,
        0
       ]
@@ -4492,7 +4585,10 @@
       "startAverage": 388.67,
       "results": [
        394,
+       382,
        390,
+       0,
+       0,
        0,
        0
       ]
@@ -4506,6 +4602,9 @@
       "results": [
        386,
        388,
+       390,
+       0,
+       0,
        0,
        0
       ]
@@ -4520,6 +4619,9 @@
        387,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4530,6 +4632,9 @@
       "status": "E",
       "startAverage": 383.14,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -4546,6 +4651,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4556,6 +4664,9 @@
       "status": "E",
       "startAverage": 379,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -4572,6 +4683,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4583,7 +4697,10 @@
       "startAverage": 377.5,
       "results": [
        0,
+       379,
        376,
+       0,
+       0,
        0,
        0
       ]
@@ -4609,7 +4726,7 @@
       "rank": 1,
       "name": "Mikolowska, Julia",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 398,
       "results": [
        398,
@@ -4629,7 +4746,7 @@
       "rank": 2,
       "name": "Lukaszyk, Rafal",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 396.5,
       "results": [
        0,
@@ -4649,7 +4766,7 @@
       "rank": 3,
       "name": "Thurnwaldova, Sabina",
       "foreign": "A",
-      "status": "",
+      "status": "E",
       "startAverage": 393.5,
       "results": [
        0,
@@ -4713,8 +4830,8 @@
       "startAverage": 389.5,
       "results": [
        0,
+       390,
        389,
-       0,
        0,
        0,
        0,
@@ -4733,8 +4850,8 @@
       "startAverage": 389,
       "results": [
        388,
+       388,
        391,
-       0,
        0,
        0,
        0,
@@ -4749,12 +4866,12 @@
       "rank": 8,
       "name": "Bauer, Linda Sophie",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 389,
       "results": [
        0,
        393,
-       0,
+       385,
        0,
        0,
        0,
@@ -4789,12 +4906,12 @@
       "rank": 10,
       "name": "Kube, Elena",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 384.5,
       "results": [
        0,
        386,
-       0,
+       383,
        0,
        0,
        0,
@@ -4809,7 +4926,7 @@
       "rank": 11,
       "name": "Wenzel, Florian",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 380,
       "results": [
        0,
@@ -4829,12 +4946,12 @@
       "rank": 12,
       "name": "Eidam, Alexandra",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 380,
       "results": [
        0,
-       380,
        0,
+       380,
        0,
        0,
        0,
@@ -4849,7 +4966,7 @@
       "rank": 13,
       "name": "Bennemann, Richard",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -4869,7 +4986,7 @@
       "rank": 14,
       "name": "Lemme, Lena",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 0,
       "results": [
        0,
@@ -4909,8 +5026,11 @@
       "status": "S",
       "startAverage": 392,
       "results": [
-       392,
+       0,
        390,
+       394,
+       0,
+       0,
        0,
        0
       ]
@@ -4919,11 +5039,14 @@
       "rank": 2,
       "name": "Kurmann, Johanna",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 389.5,
       "results": [
-       0,
+       392,
        390,
+       389,
+       0,
+       0,
        0,
        0
       ]
@@ -4937,6 +5060,9 @@
       "results": [
        0,
        387,
+       387,
+       0,
+       0,
        0,
        0
       ]
@@ -4949,7 +5075,10 @@
       "startAverage": 386.33,
       "results": [
        385,
+       391,
        383,
+       0,
+       0,
        0,
        0
       ]
@@ -4962,6 +5091,9 @@
       "startAverage": 386,
       "results": [
        386,
+       0,
+       0,
+       0,
        0,
        0,
        0
@@ -4977,6 +5109,9 @@
        385,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -4988,7 +5123,10 @@
       "startAverage": 384,
       "results": [
        377,
+       392,
        383,
+       0,
+       0,
        0,
        0
       ]
@@ -5000,6 +5138,9 @@
       "status": "E",
       "startAverage": 378.17,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5016,6 +5157,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5026,6 +5170,9 @@
       "status": "E",
       "startAverage": 365.25,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5042,6 +5189,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5052,6 +5202,9 @@
       "status": "E",
       "startAverage": 0,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5083,7 +5236,10 @@
       "startAverage": 391.33,
       "results": [
        395,
+       391,
        388,
+       0,
+       0,
        0,
        0
       ]
@@ -5096,7 +5252,10 @@
       "startAverage": 391,
       "results": [
        391,
+       392,
        390,
+       0,
+       0,
        0,
        0
       ]
@@ -5108,6 +5267,9 @@
       "status": "E",
       "startAverage": 390.2,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5124,6 +5286,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5135,7 +5300,10 @@
       "startAverage": 388,
       "results": [
        388,
+       389,
        387,
+       0,
+       0,
        0,
        0
       ]
@@ -5148,7 +5316,10 @@
       "startAverage": 387.33,
       "results": [
        392,
+       384,
        386,
+       0,
+       0,
        0,
        0
       ]
@@ -5163,6 +5334,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5174,7 +5348,10 @@
       "startAverage": 378,
       "results": [
        0,
+       0,
        378,
+       0,
+       0,
        0,
        0
       ]
@@ -5189,6 +5366,9 @@
        379,
        377,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5199,6 +5379,9 @@
       "status": "E",
       "startAverage": 376.33,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5231,6 +5414,9 @@
       "results": [
        391,
        388,
+       388,
+       0,
+       0,
        0,
        0
       ]
@@ -5243,7 +5429,10 @@
       "startAverage": 385.5,
       "results": [
        0,
+       389,
        382,
+       0,
+       0,
        0,
        0
       ]
@@ -5256,7 +5445,10 @@
       "startAverage": 385,
       "results": [
        387,
+       385,
        383,
+       0,
+       0,
        0,
        0
       ]
@@ -5269,7 +5461,10 @@
       "startAverage": 384,
       "results": [
        0,
+       380,
        388,
+       0,
+       0,
        0,
        0
       ]
@@ -5282,7 +5477,10 @@
       "startAverage": 379,
       "results": [
        381,
+       377,
        379,
+       0,
+       0,
        0,
        0
       ]
@@ -5295,6 +5493,9 @@
       "startAverage": 379,
       "results": [
        379,
+       0,
+       0,
+       0,
        0,
        0,
        0
@@ -5310,6 +5511,9 @@
        373,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5320,6 +5524,9 @@
       "status": "E",
       "startAverage": 373,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5336,6 +5543,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5346,6 +5556,9 @@
       "status": "E",
       "startAverage": 367.5,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5362,6 +5575,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5372,6 +5588,9 @@
       "status": "E",
       "startAverage": 0,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5404,6 +5623,9 @@
       "results": [
        384,
        387,
+       387,
+       0,
+       0,
        0,
        0
       ]
@@ -5417,6 +5639,9 @@
       "results": [
        0,
        383,
+       384,
+       0,
+       0,
        0,
        0
       ]
@@ -5428,6 +5653,9 @@
       "status": "S",
       "startAverage": 381.5,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5443,6 +5671,9 @@
       "results": [
        0,
        380,
+       383,
+       0,
+       0,
        0,
        0
       ]
@@ -5456,6 +5687,9 @@
       "results": [
        379,
        377,
+       385,
+       0,
+       0,
        0,
        0
       ]
@@ -5469,6 +5703,9 @@
       "results": [
        380,
        378,
+       374,
+       0,
+       0,
        0,
        0
       ]
@@ -5480,6 +5717,9 @@
       "status": "E",
       "startAverage": 374.5,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5496,6 +5736,9 @@
        361,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5509,6 +5752,9 @@
        0,
        0,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5519,6 +5765,9 @@
       "status": "E",
       "startAverage": 0,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5551,6 +5800,9 @@
       "results": [
        384,
        384,
+       389,
+       0,
+       0,
        0,
        0
       ]
@@ -5559,11 +5811,14 @@
       "rank": 2,
       "name": "Gerlich, Eva",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 385.5,
       "results": [
        0,
        384,
+       387,
+       0,
+       0,
        0,
        0
       ]
@@ -5577,6 +5832,9 @@
       "results": [
        379,
        383,
+       382,
+       0,
+       0,
        0,
        0
       ]
@@ -5585,9 +5843,12 @@
       "rank": 4,
       "name": "Trischberger, Anna Maria",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 381,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5602,7 +5863,10 @@
       "startAverage": 377,
       "results": [
        382,
+       0,
        372,
+       0,
+       0,
        0,
        0
       ]
@@ -5611,11 +5875,14 @@
       "rank": 6,
       "name": "Klahre, Liara",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 375,
       "results": [
        0,
+       0,
        375,
+       0,
+       0,
        0,
        0
       ]
@@ -5624,9 +5891,12 @@
       "rank": 7,
       "name": "Baumann, Manuela",
       "foreign": null,
-      "status": "",
+      "status": "E",
       "startAverage": 373.75,
       "results": [
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -5643,6 +5913,9 @@
        369,
        372,
        0,
+       0,
+       0,
+       0,
        0
       ]
      },
@@ -5655,6 +5928,9 @@
       "results": [
        358,
        372,
+       0,
+       0,
+       0,
        0,
        0
       ]
