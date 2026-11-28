@@ -16,8 +16,8 @@
   {
    "rank": 2,
    "team": "ESV Weil am Rhein",
-   "singlePoints": "21:4",
-   "teamPoints": "10:0"
+   "singlePoints": "23:7",
+   "teamPoints": "10:2"
   },
   {
    "rank": 3,
@@ -34,8 +34,8 @@
   {
    "rank": 5,
    "team": "KKS Hambrücken",
-   "singlePoints": "15:10",
-   "teamPoints": "6:4"
+   "singlePoints": "18:12",
+   "teamPoints": "8:4"
   },
   {
    "rank": 6,
@@ -4964,19 +4964,19 @@
        "time": "18:00",
        "home": "KKS Hambrücken",
        "away": "ESV Weil am Rhein",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 474,
+       "awayRings": 381,
+       "homePoints": 3,
+       "awayPoints": 2,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Walter, Robin",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -4985,9 +4985,9 @@
          },
          "away": {
           "name": "Sauter, Aaron",
-          "total": 0,
+          "total": 97,
           "series": [
-           0,
+           97,
            0,
            0,
            0
@@ -4995,15 +4995,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
           "name": "Baumeister, Eduard",
-          "total": 0,
+          "total": 97,
           "series": [
-           0,
+           97,
            0,
            0,
            0
@@ -5012,25 +5012,25 @@
          },
          "away": {
           "name": "Schwald, Michael",
-          "total": 0,
+          "total": 95,
           "series": [
-           0,
+           95,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Becker, Celina Maria Paula",
-          "total": 0,
+          "total": 89,
           "series": [
-           0,
+           89,
            0,
            0,
            0
@@ -5039,9 +5039,9 @@
          },
          "away": {
           "name": "Meyer, Patrick",
-          "total": 0,
+          "total": 97,
           "series": [
-           0,
+           97,
            0,
            0,
            0
@@ -5049,15 +5049,15 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Fries, Hugo",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -5075,16 +5075,16 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Wußler, Marco",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -5093,16 +5093,16 @@
          },
          "away": {
           "name": "Schaich, Enrico",
-          "total": 0,
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10431,7 +10431,7 @@
        382,
        378,
        382,
-       0,
+       97,
        0,
        0,
        0,
@@ -10451,7 +10451,7 @@
        382,
        381,
        380,
-       0,
+       95,
        0,
        0,
        0,
@@ -10511,7 +10511,7 @@
        382,
        380,
        377,
-       0,
+       97,
        0,
        0,
        0,
@@ -10551,7 +10551,7 @@
        0,
        381,
        377,
-       0,
+       92,
        0,
        0,
        0,
@@ -11162,7 +11162,7 @@
        0,
        0,
        383,
-       0,
+       96,
        0,
        0,
        0,
@@ -11182,7 +11182,7 @@
        382,
        384,
        381,
-       0,
+       97,
        0,
        0,
        0,
@@ -11202,7 +11202,7 @@
        0,
        0,
        379,
-       0,
+       89,
        0,
        0,
        0,
@@ -11222,7 +11222,7 @@
        0,
        0,
        371,
-       0,
+       96,
        0,
        0,
        0,
@@ -11322,7 +11322,7 @@
        373,
        370,
        0,
-       0,
+       96,
        0,
        0,
        0,
