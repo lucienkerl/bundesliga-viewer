@@ -22,7 +22,7 @@
   {
    "rank": 3,
    "team": "Sgi Waldenburg",
-   "singlePoints": "20:9",
+   "singlePoints": "20:10",
    "teamPoints": "10:2"
   },
   {
@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "SGi Ludwigsburg",
-   "singlePoints": "16:13",
+   "singlePoints": "17:13",
    "teamPoints": "6:6"
   },
   {
@@ -4668,10 +4668,10 @@
        "time": "15:00",
        "home": "Sgi Waldenburg",
        "away": "SGi Ludwigsburg",
-       "homeRings": 379,
-       "awayRings": 191,
+       "homeRings": 766,
+       "awayRings": 659,
        "homePoints": 3,
-       "awayPoints": 1,
+       "awayPoints": 2,
        "played": true,
        "pairs": [
         {
@@ -4689,10 +4689,10 @@
          },
          "away": {
           "name": "Zechmeister, Richard",
-          "total": 97,
+          "total": 187,
           "series": [
            97,
-           0,
+           90,
            0,
            0
           ],
@@ -4705,10 +4705,10 @@
          "position": 2,
          "home": {
           "name": "Tarhan, Sevval Ilayda",
-          "total": 0,
+          "total": 194,
           "series": [
-           0,
-           0,
+           97,
+           97,
            0,
            0
           ],
@@ -4716,26 +4716,26 @@
          },
          "away": {
           "name": "Hlousek, Julia",
-          "total": 0,
+          "total": 95,
           "series": [
-           0,
+           95,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
           "name": "Peter, Florian",
-          "total": 94,
+          "total": 189,
           "series": [
            94,
-           0,
+           95,
            0,
            0
           ],
@@ -4743,9 +4743,9 @@
          },
          "away": {
           "name": "Reitz, Florian",
-          "total": 0,
+          "total": 92,
           "series": [
-           0,
+           92,
            0,
            0,
            0
@@ -4770,26 +4770,26 @@
          },
          "away": {
           "name": "Kerl, Lucien",
-          "total": 94,
+          "total": 187,
           "series": [
            94,
-           0,
+           93,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
           "name": "Köppl, Andreas",
-          "total": 95,
+          "total": 193,
           "series": [
            95,
-           0,
+           98,
            0,
            0
           ],
@@ -4797,9 +4797,9 @@
          },
          "away": {
           "name": "Miklis, André",
-          "total": 0,
+          "total": 98,
           "series": [
-           0,
+           98,
            0,
            0,
            0
@@ -10708,7 +10708,7 @@
        374,
        384,
        379,
-       94,
+       190,
        0,
        0,
        0,
@@ -10728,7 +10728,7 @@
        0,
        0,
        0,
-       0,
+       194,
        0,
        0,
        0,
@@ -10748,7 +10748,7 @@
        378,
        380,
        374,
-       94,
+       189,
        0,
        0,
        0,
@@ -10768,7 +10768,7 @@
        0,
        369,
        384,
-       96,
+       190,
        0,
        0,
        0,
@@ -10788,7 +10788,7 @@
        379,
        0,
        0,
-       95,
+       193,
        0,
        0,
        0,
@@ -11419,7 +11419,7 @@
        0,
        0,
        0,
-       97,
+       187,
        0,
        0,
        0,
@@ -11439,7 +11439,7 @@
        0,
        0,
        377,
-       0,
+       95,
        0,
        0,
        0,
@@ -11499,7 +11499,7 @@
        369,
        368,
        377,
-       0,
+       92,
        0,
        0,
        0,
@@ -11519,7 +11519,7 @@
        369,
        370,
        0,
-       94,
+       187,
        0,
        0,
        0,
@@ -11539,7 +11539,7 @@
        375,
        374,
        0,
-       0,
+       98,
        0,
        0,
        0,
