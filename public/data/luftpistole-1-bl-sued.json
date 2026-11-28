@@ -22,8 +22,8 @@
   {
    "rank": 3,
    "team": "Sgi Waldenburg",
-   "singlePoints": "17:8",
-   "teamPoints": "8:2"
+   "singlePoints": "20:9",
+   "teamPoints": "10:2"
   },
   {
    "rank": 4,
@@ -33,15 +33,15 @@
   },
   {
    "rank": 5,
-   "team": "SGi Ludwigsburg",
+   "team": "KKS Hambrücken",
    "singlePoints": "15:10",
    "teamPoints": "6:4"
   },
   {
    "rank": 6,
-   "team": "KKS Hambrücken",
-   "singlePoints": "15:10",
-   "teamPoints": "6:4"
+   "team": "SGi Ludwigsburg",
+   "singlePoints": "16:13",
+   "teamPoints": "6:6"
   },
   {
    "rank": 7,
@@ -4668,19 +4668,19 @@
        "time": "15:00",
        "home": "Sgi Waldenburg",
        "away": "SGi Ludwigsburg",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 379,
+       "awayRings": 191,
+       "homePoints": 3,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Vennekamp, Doreen",
-          "total": 0,
+          "total": 94,
           "series": [
-           0,
+           94,
            0,
            0,
            0
@@ -4689,9 +4689,9 @@
          },
          "away": {
           "name": "Zechmeister, Richard",
-          "total": 0,
+          "total": 97,
           "series": [
-           0,
+           97,
            0,
            0,
            0
@@ -4699,7 +4699,7 @@
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
@@ -4732,9 +4732,9 @@
          "position": 3,
          "home": {
           "name": "Peter, Florian",
-          "total": 0,
+          "total": 94,
           "series": [
-           0,
+           94,
            0,
            0,
            0
@@ -4752,16 +4752,16 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 4,
          "home": {
           "name": "Backes, Tobias",
-          "total": 0,
+          "total": 96,
           "series": [
-           0,
+           96,
            0,
            0,
            0
@@ -4770,25 +4770,25 @@
          },
          "away": {
           "name": "Kerl, Lucien",
-          "total": 0,
+          "total": 94,
           "series": [
-           0,
+           94,
            0,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
           "name": "Köppl, Andreas",
-          "total": 0,
+          "total": 95,
           "series": [
-           0,
+           95,
            0,
            0,
            0
@@ -4806,7 +4806,7 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10700,7 +10700,7 @@
       "rank": 5,
       "name": "Vennekamp, Doreen",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 379,
       "results": [
        0,
@@ -10708,7 +10708,7 @@
        374,
        384,
        379,
-       0,
+       94,
        0,
        0,
        0,
@@ -10740,7 +10740,7 @@
       "rank": 7,
       "name": "Peter, Florian",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 377.33,
       "results": [
        0,
@@ -10748,7 +10748,7 @@
        378,
        380,
        374,
-       0,
+       94,
        0,
        0,
        0,
@@ -10768,7 +10768,7 @@
        0,
        369,
        384,
-       0,
+       96,
        0,
        0,
        0,
@@ -10788,7 +10788,7 @@
        379,
        0,
        0,
-       0,
+       95,
        0,
        0,
        0,
@@ -11146,263 +11146,6 @@
    }
   },
   {
-   "name": "SGi Ludwigsburg",
-   "setlist": {
-    "updatedAt": "2026-11-15T08:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Voutilainen, Sampo",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 385.5,
-      "results": [
-       0,
-       0,
-       383,
-       388,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Goberville, Celine",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 385.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Zechmeister, Richard",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 378.88,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Hlousek, Julia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 377,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Spinella, Massimo",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 377,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Schmidt, Florian Daniel",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373.6,
-      "results": [
-       380,
-       375,
-       381,
-       364,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Reitz, Florian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 372.6,
-      "results": [
-       376,
-       373,
-       369,
-       368,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Kerl, Lucien",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 372.25,
-      "results": [
-       376,
-       374,
-       369,
-       370,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Miklis, André",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371.5,
-      "results": [
-       379,
-       358,
-       375,
-       374,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Goberville, Sandrine",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 371,
-      "results": [
-       373,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Müller, Emanuel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 367,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Potteck, René",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 361,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       361,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8AC99A6C-1544-436B-BA8D-54AB8EF27BBE/3038",
-   "club": {
-    "name": "SGi Ludwigsburg",
-    "federation": "Württembergischer Schützenverband",
-    "street": "Kugelberg 28A",
-    "city": "71642 Ludwigsburg",
-    "website": "https://www.sgi-lb.de",
-    "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
-   }
-  },
-  {
    "name": "KKS Hambrücken",
    "setlist": {
     "updatedAt": "2026-11-15T08:04",
@@ -11617,6 +11360,263 @@
     "city": "76707 Hambrücken",
     "website": "https://www.kks-hambruecken.de",
     "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
+   }
+  },
+  {
+   "name": "SGi Ludwigsburg",
+   "setlist": {
+    "updatedAt": "2026-11-15T08:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Voutilainen, Sampo",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 385.5,
+      "results": [
+       0,
+       0,
+       383,
+       388,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Goberville, Celine",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 385.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Zechmeister, Richard",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 378.88,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       97,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Hlousek, Julia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Spinella, Massimo",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 377,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Schmidt, Florian Daniel",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373.6,
+      "results": [
+       380,
+       375,
+       381,
+       364,
+       368,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Reitz, Florian",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 372.6,
+      "results": [
+       376,
+       373,
+       369,
+       368,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Kerl, Lucien",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 372.25,
+      "results": [
+       376,
+       374,
+       369,
+       370,
+       0,
+       94,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Miklis, André",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371.5,
+      "results": [
+       379,
+       358,
+       375,
+       374,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Goberville, Sandrine",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 371,
+      "results": [
+       373,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Müller, Emanuel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 367,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Potteck, René",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       361,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/8AC99A6C-1544-436B-BA8D-54AB8EF27BBE/3038",
+   "club": {
+    "name": "SGi Ludwigsburg",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Kugelberg 28A",
+    "city": "71642 Ludwigsburg",
+    "website": "https://www.sgi-lb.de",
+    "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
    }
   },
   {
