@@ -4668,8 +4668,8 @@
        "time": "15:00",
        "home": "Sgi Waldenburg",
        "away": "SGi Ludwigsburg",
-       "homeRings": 1810,
-       "awayRings": 1597,
+       "homeRings": 1907,
+       "awayRings": 1872,
        "homePoints": 4,
        "awayPoints": 1,
        "played": true,
@@ -4678,12 +4678,12 @@
          "position": 1,
          "home": {
           "name": "Vennekamp, Doreen",
-          "total": 286,
+          "total": 383,
           "series": [
            94,
            96,
            96,
-           0
+           97
           ],
           "shootOff": null
          },
@@ -4698,8 +4698,8 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 2,
@@ -4716,12 +4716,12 @@
          },
          "away": {
           "name": "Hlousek, Julia",
-          "total": 281,
+          "total": 370,
           "series": [
            95,
            92,
            94,
-           0
+           89
           ],
           "shootOff": null
          },
@@ -4743,12 +4743,12 @@
          },
          "away": {
           "name": "Reitz, Florian",
-          "total": 278,
+          "total": 371,
           "series": [
            92,
            95,
            91,
-           0
+           93
           ],
           "shootOff": null
          },
@@ -4793,21 +4793,21 @@
            91,
            97
           ],
-          "shootOff": null
+          "shootOff": 8
          },
          "away": {
           "name": "Miklis, André",
-          "total": 288,
+          "total": 381,
           "series": [
            98,
            94,
            96,
-           0
+           93
           ],
-          "shootOff": null
+          "shootOff": 9
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       },
@@ -11439,7 +11439,7 @@
        0,
        0,
        377,
-       281,
+       370,
        0,
        0,
        0,
@@ -11499,7 +11499,7 @@
        369,
        368,
        377,
-       278,
+       371,
        0,
        0,
        0,
@@ -11539,7 +11539,7 @@
        375,
        374,
        0,
-       288,
+       381,
        0,
        0,
        0,
