@@ -9,15 +9,15 @@
  "table": [
   {
    "rank": 1,
-   "team": "SV Kelheim-Gmünd",
-   "singlePoints": "22:8",
+   "team": "ESV Weil am Rhein",
+   "singlePoints": "25:5",
    "teamPoints": "12:0"
   },
   {
    "rank": 2,
-   "team": "ESV Weil am Rhein",
-   "singlePoints": "23:7",
-   "teamPoints": "10:2"
+   "team": "SV Kelheim-Gmünd",
+   "singlePoints": "22:8",
+   "teamPoints": "12:0"
   },
   {
    "rank": 3,
@@ -33,13 +33,13 @@
   },
   {
    "rank": 5,
-   "team": "KKS Hambrücken",
-   "singlePoints": "18:12",
-   "teamPoints": "8:4"
+   "team": "SGi Ludwigsburg",
+   "singlePoints": "16:14",
+   "teamPoints": "6:6"
   },
   {
    "rank": 6,
-   "team": "SGi Ludwigsburg",
+   "team": "KKS Hambrücken",
    "singlePoints": "16:14",
    "teamPoints": "6:6"
   },
@@ -4964,20 +4964,20 @@
        "time": "18:00",
        "home": "KKS Hambrücken",
        "away": "ESV Weil am Rhein",
-       "homeRings": 474,
-       "awayRings": 381,
-       "homePoints": 3,
-       "awayPoints": 2,
+       "homeRings": 1039,
+       "awayRings": 1146,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Walter, Robin",
-          "total": 96,
+          "total": 191,
           "series": [
            96,
-           0,
+           95,
            0,
            0
           ],
@@ -4985,10 +4985,10 @@
          },
          "away": {
           "name": "Sauter, Aaron",
-          "total": 97,
+          "total": 194,
           "series": [
            97,
-           0,
+           97,
            0,
            0
           ],
@@ -5001,37 +5001,37 @@
          "position": 2,
          "home": {
           "name": "Baumeister, Eduard",
-          "total": 97,
+          "total": 287,
           "series": [
            97,
-           0,
-           0,
+           94,
+           96,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schwald, Michael",
-          "total": 95,
+          "total": 288,
           "series": [
            95,
-           0,
-           0,
+           98,
+           95,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
           "name": "Becker, Celina Maria Paula",
-          "total": 89,
+          "total": 183,
           "series": [
            89,
-           0,
+           94,
            0,
            0
           ],
@@ -5039,10 +5039,10 @@
          },
          "away": {
           "name": "Meyer, Patrick",
-          "total": 97,
+          "total": 192,
           "series": [
            97,
-           0,
+           95,
            0,
            0
           ],
@@ -5055,10 +5055,10 @@
          "position": 4,
          "home": {
           "name": "Fries, Hugo",
-          "total": 96,
+          "total": 191,
           "series": [
            96,
-           0,
+           95,
            0,
            0
           ],
@@ -5066,10 +5066,10 @@
          },
          "away": {
           "name": "Grisoni, Cédric",
-          "total": 0,
+          "total": 188,
           "series": [
-           0,
-           0,
+           95,
+           93,
            0,
            0
           ],
@@ -5082,10 +5082,10 @@
          "position": 5,
          "home": {
           "name": "Wußler, Marco",
-          "total": 96,
+          "total": 187,
           "series": [
            96,
-           0,
+           91,
            0,
            0
           ],
@@ -5093,17 +5093,17 @@
          },
          "away": {
           "name": "Schaich, Enrico",
-          "total": 92,
+          "total": 284,
           "series": [
            92,
-           0,
-           0,
+           96,
+           96,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         }
        ]
       }
@@ -10138,6 +10138,223 @@
  ],
  "teams": [
   {
+   "name": "ESV Weil am Rhein",
+   "setlist": {
+    "updatedAt": "2026-11-15T08:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Bankin, Viktor",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 386,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Sauter, Aaron",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 384,
+      "results": [
+       389,
+       389,
+       382,
+       378,
+       382,
+       285,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Schwald, Michael",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383.2,
+      "results": [
+       380,
+       393,
+       382,
+       381,
+       380,
+       288,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Omelchuk, Oleg",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Svetlik, Pavel",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 381,
+      "results": [
+       381,
+       381,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Meyer, Patrick",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 379.2,
+      "results": [
+       377,
+       380,
+       382,
+       380,
+       377,
+       192,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Grisoni, Cédric",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 377.33,
+      "results": [
+       0,
+       0,
+       375,
+       382,
+       375,
+       188,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Schaich, Enrico",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 377,
+      "results": [
+       378,
+       372,
+       0,
+       381,
+       377,
+       284,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Garconnot, Sylvain",
+      "foreign": "EU",
+      "status": "E",
+      "startAverage": 372,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Schelken, Nathalie",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 372,
+      "results": [
+       0,
+       0,
+       372,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1C87AC6D-81CE-4E72-90EA-13A2EBB4DC9B/3038",
+   "club": {
+    "name": "ESV Weil am Rhein 1926 e.V.",
+    "federation": "Südbadischer Sportschützenverband",
+    "street": "Weiherweg 10",
+    "city": "79576 Weil am Rhein",
+    "website": "https://www.esv-sportschuetzen.de",
+    "logo": "logos/5BFDEADE-ECEB-4C9F-906B-E34D65DD0174.webp"
+   }
+  },
+  {
    "name": "SV Kelheim-Gmünd",
    "setlist": {
     "updatedAt": "2026-11-15T08:04",
@@ -10392,223 +10609,6 @@
     "city": "93309 Kelheim",
     "website": "http://www.kelheim-gmuend.de/",
     "logo": "logos/ECA67E93-E27B-4AF8-8CC2-F7BEF493CA57.webp"
-   }
-  },
-  {
-   "name": "ESV Weil am Rhein",
-   "setlist": {
-    "updatedAt": "2026-11-15T08:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Bankin, Viktor",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 386,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Sauter, Aaron",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 384,
-      "results": [
-       389,
-       389,
-       382,
-       378,
-       382,
-       97,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Schwald, Michael",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 383.2,
-      "results": [
-       380,
-       393,
-       382,
-       381,
-       380,
-       95,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Omelchuk, Oleg",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 383,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Svetlik, Pavel",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 381,
-      "results": [
-       381,
-       381,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Meyer, Patrick",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379.2,
-      "results": [
-       377,
-       380,
-       382,
-       380,
-       377,
-       97,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Grisoni, Cédric",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 377.33,
-      "results": [
-       0,
-       0,
-       375,
-       382,
-       375,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Schaich, Enrico",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 377,
-      "results": [
-       378,
-       372,
-       0,
-       381,
-       377,
-       92,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Garconnot, Sylvain",
-      "foreign": "EU",
-      "status": "E",
-      "startAverage": 372,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Schelken, Nathalie",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 372,
-      "results": [
-       0,
-       0,
-       372,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/1C87AC6D-81CE-4E72-90EA-13A2EBB4DC9B/3038",
-   "club": {
-    "name": "ESV Weil am Rhein 1926 e.V.",
-    "federation": "Südbadischer Sportschützenverband",
-    "street": "Weiherweg 10",
-    "city": "79576 Weil am Rhein",
-    "website": "https://www.esv-sportschuetzen.de",
-    "logo": "logos/5BFDEADE-ECEB-4C9F-906B-E34D65DD0174.webp"
    }
   },
   {
@@ -11146,223 +11146,6 @@
    }
   },
   {
-   "name": "KKS Hambrücken",
-   "setlist": {
-    "updatedAt": "2026-11-15T08:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Walter, Robin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 383,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       383,
-       96,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Baumeister, Eduard",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 381.25,
-      "results": [
-       378,
-       0,
-       382,
-       384,
-       381,
-       97,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Becker, Celina Maria Paula",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 376.33,
-      "results": [
-       375,
-       375,
-       0,
-       0,
-       379,
-       89,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Fries, Hugo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 374.67,
-      "results": [
-       374,
-       379,
-       0,
-       0,
-       371,
-       96,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kudrya, Serhiy",
-      "foreign": "A",
-      "status": "F",
-      "startAverage": 373.6,
-      "results": [
-       373,
-       366,
-       383,
-       373,
-       373,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Walther, Teresa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 373.5,
-      "results": [
-       0,
-       0,
-       370,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Köhler, Axel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 371,
-      "results": [
-       0,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Fuchs, Mia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 368.5,
-      "results": [
-       0,
-       0,
-       368,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Wußler, Marco",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364.75,
-      "results": [
-       366,
-       350,
-       373,
-       370,
-       0,
-       96,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Keck, Denise",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 360.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FE2729CA-84D0-43A8-8A5E-68D4CCD40145/3038",
-   "club": {
-    "name": "KK-Schützenverein Hambrücken",
-    "federation": "Badischer Sportschützenverband",
-    "street": "Industriestr. 20",
-    "city": "76707 Hambrücken",
-    "website": "https://www.kks-hambruecken.de",
-    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
-   }
-  },
-  {
    "name": "SGi Ludwigsburg",
    "setlist": {
     "updatedAt": "2026-11-15T08:04",
@@ -11617,6 +11400,223 @@
     "city": "71642 Ludwigsburg",
     "website": "https://www.sgi-lb.de",
     "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
+   }
+  },
+  {
+   "name": "KKS Hambrücken",
+   "setlist": {
+    "updatedAt": "2026-11-15T08:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Walter, Robin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       383,
+       191,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Baumeister, Eduard",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 381.25,
+      "results": [
+       378,
+       0,
+       382,
+       384,
+       381,
+       287,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Becker, Celina Maria Paula",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.33,
+      "results": [
+       375,
+       375,
+       0,
+       0,
+       379,
+       183,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Fries, Hugo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 374.67,
+      "results": [
+       374,
+       379,
+       0,
+       0,
+       371,
+       191,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kudrya, Serhiy",
+      "foreign": "A",
+      "status": "F",
+      "startAverage": 373.6,
+      "results": [
+       373,
+       366,
+       383,
+       373,
+       373,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Walther, Teresa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 373.5,
+      "results": [
+       0,
+       0,
+       370,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Köhler, Axel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 371,
+      "results": [
+       0,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Fuchs, Mia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 368.5,
+      "results": [
+       0,
+       0,
+       368,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Wußler, Marco",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.75,
+      "results": [
+       366,
+       350,
+       373,
+       370,
+       0,
+       187,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Keck, Denise",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FE2729CA-84D0-43A8-8A5E-68D4CCD40145/3038",
+   "club": {
+    "name": "KK-Schützenverein Hambrücken",
+    "federation": "Badischer Sportschützenverband",
+    "street": "Industriestr. 20",
+    "city": "76707 Hambrücken",
+    "website": "https://www.kks-hambruecken.de",
+    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
    }
   },
   {
