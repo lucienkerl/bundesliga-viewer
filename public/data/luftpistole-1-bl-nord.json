@@ -10,14 +10,14 @@
   {
    "rank": 1,
    "team": "Sp.Sch.St.Seb.Pier2000",
-   "singlePoints": "23:2",
-   "teamPoints": "10:0"
+   "singlePoints": "27:3",
+   "teamPoints": "12:0"
   },
   {
    "rank": 2,
    "team": "SV 1935 Kriftel",
-   "singlePoints": "21:4",
-   "teamPoints": "10:0"
+   "singlePoints": "25:5",
+   "teamPoints": "12:0"
   },
   {
    "rank": 3,
@@ -33,20 +33,20 @@
   },
   {
    "rank": 5,
-   "team": "SV Niedererbach",
-   "singlePoints": "12:13",
-   "teamPoints": "6:4"
-  },
-  {
-   "rank": 6,
    "team": "SV Falke Dasbach",
    "singlePoints": "15:15",
    "teamPoints": "6:6"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "team": "Freischütz Wathlingen",
    "singlePoints": "14:16",
+   "teamPoints": "6:6"
+  },
+  {
+   "rank": 7,
+   "team": "SV Niedererbach",
+   "singlePoints": "13:17",
    "teamPoints": "6:6"
   },
   {
@@ -76,8 +76,8 @@
   {
    "rank": 12,
    "team": "SV Lindwedel",
-   "singlePoints": "6:19",
-   "teamPoints": "0:10"
+   "singlePoints": "7:23",
+   "teamPoints": "0:12"
   }
  ],
  "matchDays": [
@@ -5270,146 +5270,146 @@
        "time": "16:30",
        "home": "SV Lindwedel",
        "away": "SV 1935 Kriftel",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1843,
+       "awayRings": 1638,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schulz, Jascha",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           95,
+           95,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Reitz, Christian",
+          "total": 391,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           98,
+           98,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Bittner, Michael",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           93,
+           91,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Otto, Fabian",
+          "total": 381,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           95,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Scheidler, Fabian",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           88,
+           91,
+           94,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Sänger, Dominik",
+          "total": 381,
           "series": [
-           0,
-           0,
-           0,
-           0
+           99,
+           92,
+           95,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Horstmann, Tim",
+          "total": 363,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           90,
+           91,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Schenk, Maximilian",
+          "total": 114,
           "series": [
-           0,
-           0,
+           77,
+           37,
            0,
            0
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Knaack, Thomas",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           89,
+           92,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Fix, Andreas",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           89,
+           94,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -5418,145 +5418,145 @@
        "time": "18:00",
        "home": "SV Niedererbach",
        "away": "Sp.Sch.St.Seb.Pier2000",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1869,
+       "awayRings": 1893,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Günther, Sarah",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           92,
+           92,
+           93
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Miller, James",
+          "total": 386,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           96,
+           97,
+           98
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Kozlowski, Krzysztof",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           96,
+           92,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kremser, Markus",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           95,
+           96,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Wollnitza, Pascal",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           94,
+           94,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Januszek, Robin",
+          "total": 383,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           97,
+           94
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Röller, Dirk",
+          "total": 370,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           92,
+           94,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Kaulen, Tobias",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           91,
+           97,
+           96
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Abram, Enrico",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           94,
+           95,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Verbist, Shane",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           94,
+           89
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10166,7 +10166,7 @@
       "rank": 2,
       "name": "Miller, James",
       "foreign": "A",
-      "status": "E",
+      "status": "F",
       "startAverage": 385.5,
       "results": [
        0,
@@ -10174,7 +10174,7 @@
        385,
        386,
        0,
-       0,
+       386,
        0,
        0,
        0,
@@ -10214,7 +10214,7 @@
        378,
        376,
        376,
-       0,
+       379,
        0,
        0,
        0,
@@ -10234,7 +10234,7 @@
        377,
        369,
        377,
-       0,
+       383,
        0,
        0,
        0,
@@ -10274,7 +10274,7 @@
        0,
        370,
        0,
-       0,
+       376,
        0,
        0,
        0,
@@ -10294,7 +10294,7 @@
        367,
        0,
        370,
-       0,
+       369,
        0,
        0,
        0,
@@ -11066,263 +11066,6 @@
    }
   },
   {
-   "name": "SV Niedererbach",
-   "setlist": {
-    "updatedAt": "2026-11-15T08:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Günther, Sarah",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373.6,
-      "results": [
-       371,
-       382,
-       376,
-       371,
-       368,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Rehnig, Marcel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 372.67,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Kozlowski, Krzysztof",
-      "foreign": "A",
-      "status": "S",
-      "startAverage": 372.4,
-      "results": [
-       373,
-       371,
-       374,
-       372,
-       372,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Wollnitza, Pascal",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 371.2,
-      "results": [
-       377,
-       366,
-       376,
-       365,
-       372,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Röller, Dirk",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367.33,
-      "results": [
-       0,
-       0,
-       367,
-       364,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Wagner, Friedhold",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 361,
-      "results": [
-       0,
-       0,
-       360,
-       362,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Pfeifer, Torsten",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 358,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Abram, Enrico",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 356,
-      "results": [
-       354,
-       354,
-       0,
-       0,
-       360,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Betzing, Thomas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 355.33,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Setzer, Lars",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 352.5,
-      "results": [
-       358,
-       347,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Costantino, Sara",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Klinger, Finn",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/AA99CF3C-D17F-4917-B065-3ED86C7B0803/3036",
-   "club": {
-    "name": "SV Niedererbach 1978 e.V.",
-    "federation": "Rheinischer Schützenbund",
-    "street": "Auf der Kaiserwiese 15",
-    "city": "56412 Niedererbach",
-    "website": "https://www.schuetzenvereinniedererbach.de",
-    "logo": "logos/0D497BEF-7428-47F4-A549-8FB319284CA3.webp"
-   }
-  },
-  {
    "name": "SV Falke Dasbach",
    "setlist": {
     "updatedAt": "2026-11-15T08:04",
@@ -11834,6 +11577,263 @@
     "city": "29339 Wathlingen",
     "website": null,
     "logo": "logos/3B2D6EB7-670F-44BC-BE47-08890BF98B4D.webp"
+   }
+  },
+  {
+   "name": "SV Niedererbach",
+   "setlist": {
+    "updatedAt": "2026-11-15T08:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Günther, Sarah",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373.6,
+      "results": [
+       371,
+       382,
+       376,
+       371,
+       368,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Rehnig, Marcel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 372.67,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Kozlowski, Krzysztof",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 372.4,
+      "results": [
+       373,
+       371,
+       374,
+       372,
+       372,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Wollnitza, Pascal",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 371.2,
+      "results": [
+       377,
+       366,
+       376,
+       365,
+       372,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Röller, Dirk",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367.33,
+      "results": [
+       0,
+       0,
+       367,
+       364,
+       371,
+       370,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Wagner, Friedhold",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361,
+      "results": [
+       0,
+       0,
+       360,
+       362,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Pfeifer, Torsten",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 358,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Abram, Enrico",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 356,
+      "results": [
+       354,
+       354,
+       0,
+       0,
+       360,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Betzing, Thomas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355.33,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Setzer, Lars",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 352.5,
+      "results": [
+       358,
+       347,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Costantino, Sara",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Klinger, Finn",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/AA99CF3C-D17F-4917-B065-3ED86C7B0803/3036",
+   "club": {
+    "name": "SV Niedererbach 1978 e.V.",
+    "federation": "Rheinischer Schützenbund",
+    "street": "Auf der Kaiserwiese 15",
+    "city": "56412 Niedererbach",
+    "website": "https://www.schuetzenvereinniedererbach.de",
+    "logo": "logos/0D497BEF-7428-47F4-A549-8FB319284CA3.webp"
    }
   },
   {
