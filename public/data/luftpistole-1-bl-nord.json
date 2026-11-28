@@ -21,33 +21,33 @@
   },
   {
    "rank": 3,
-   "team": "1. BSGi zu Oelsnitz/Vogtland",
-   "singlePoints": "15:10",
-   "teamPoints": "8:2"
-  },
-  {
-   "rank": 4,
    "team": "PSV Olympia Berlin",
    "singlePoints": "18:12",
    "teamPoints": "8:4"
   },
   {
-   "rank": 5,
-   "team": "SV Falke Dasbach",
-   "singlePoints": "13:12",
-   "teamPoints": "6:4"
+   "rank": 4,
+   "team": "1. BSGi zu Oelsnitz/Vogtland",
+   "singlePoints": "16:14",
+   "teamPoints": "8:4"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "team": "SV Niedererbach",
    "singlePoints": "12:13",
    "teamPoints": "6:4"
   },
   {
+   "rank": 6,
+   "team": "SV Falke Dasbach",
+   "singlePoints": "15:15",
+   "teamPoints": "6:6"
+  },
+  {
    "rank": 7,
    "team": "Freischütz Wathlingen",
-   "singlePoints": "11:14",
-   "teamPoints": "4:6"
+   "singlePoints": "14:16",
+   "teamPoints": "6:6"
   },
   {
    "rank": 8,
@@ -64,8 +64,8 @@
   {
    "rank": 10,
    "team": "SSV Fahrdorf",
-   "singlePoints": "7:18",
-   "teamPoints": "2:8"
+   "singlePoints": "11:19",
+   "teamPoints": "4:8"
   },
   {
    "rank": 11,
@@ -4816,146 +4816,146 @@
        "time": "16:30",
        "home": "1. BSGi zu Oelsnitz/Vogtland",
        "away": "SSV Fahrdorf",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1823,
+       "awayRings": 1842,
+       "homePoints": 1,
+       "awayPoints": 4,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Grießbach, Yannic",
+          "total": 376,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           95,
+           96,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Hansen, Jonas Kofoed",
+          "total": 371,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           91,
+           96,
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Eichel, Enrico",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           91,
+           94,
+           91
           ],
-          "shootOff": null
+          "shootOff": 7
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Buchwald, Tjark Wolfgang",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           95,
+           88
           ],
-          "shootOff": null
+          "shootOff": 9
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hirte, Henry",
+          "total": 365,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           92,
+           92,
+           90
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Wehage Strandgaard, Emil Mark",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           93,
+           92,
+           91
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Borschke, Kristian",
+          "total": 358,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           90,
+           85,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Sahakian, Gagik",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           91,
+           90,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Fläschendräger, Aron",
+          "total": 355,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           89,
+           85,
+           89
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Vollertsen, Stefan",
+          "total": 366,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           94,
+           89,
+           93
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         }
        ]
       },
@@ -4964,145 +4964,145 @@
        "time": "18:00",
        "home": "SV Falke Dasbach",
        "away": "Freischütz Wathlingen",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1860,
+       "awayRings": 1869,
+       "homePoints": 2,
+       "awayPoints": 3,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Hembre, Mattis",
+          "total": 378,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           93,
+           94,
+           97
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Callaghan, Kristian",
+          "total": 381,
           "series": [
-           0,
-           0,
-           0,
-           0
+           97,
+           95,
+           94,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Bahrmann, Ann-Kathrin",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           91,
+           92,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Aranowski, Philip",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           91,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Löhr, Sven",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           89,
+           93,
+           93,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Rohbani, Cedric",
+          "total": 372,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           95,
+           90,
+           91
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Haas, Philipp",
+          "total": 374,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           93,
+           95
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Tauermann, Sarah",
+          "total": 380,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           96,
+           96,
+           95
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Schwender, Matthias",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           89,
+           91,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Oehns, Christian",
+          "total": 368,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           94,
+           92,
+           91
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10391,7 +10391,7 @@
        0,
        0,
        381,
-       0,
+       391,
        0,
        0,
        0,
@@ -10411,7 +10411,7 @@
        384,
        381,
        372,
-       0,
+       381,
        0,
        0,
        0,
@@ -10431,7 +10431,7 @@
        381,
        379,
        0,
-       0,
+       381,
        0,
        0,
        0,
@@ -10451,7 +10451,7 @@
        380,
        373,
        376,
-       0,
+       114,
        0,
        0,
        0,
@@ -10531,7 +10531,7 @@
        0,
        0,
        0,
-       0,
+       371,
        0,
        0,
        0,
@@ -10589,263 +10589,6 @@
     "city": "65830 Kriftel",
     "website": null,
     "logo": "logos/0AFA2624-D17B-4A88-844E-5BA4F3E3C436.webp"
-   }
-  },
-  {
-   "name": "1. BSGi zu Oelsnitz/Vogtland",
-   "setlist": {
-    "updatedAt": "2026-11-15T08:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Grießbach, Yannic",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 379.6,
-      "results": [
-       378,
-       379,
-       384,
-       377,
-       380,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Eichel, Enrico",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 373.2,
-      "results": [
-       373,
-       381,
-       373,
-       366,
-       373,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Naujoks, Lukas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 369,
-      "results": [
-       375,
-       375,
-       362,
-       374,
-       359,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Krieger, Norman",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 366.33,
-      "results": [
-       0,
-       0,
-       369,
-       371,
-       359,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Hirte, Henry",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 366.33,
-      "results": [
-       363,
-       370,
-       0,
-       0,
-       366,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Borschke, Kristian",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365.5,
-      "results": [
-       364,
-       367,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Fläschendräger, Aron",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 365,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Löffler, Dirk",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 365,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Falkenberg, Anneliese",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 361,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Stephan, Ronny",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 357.5,
-      "results": [
-       0,
-       0,
-       351,
-       364,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Lieb, Leonard",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 356.25,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Clauß, Daniel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F6486147-103D-4EDA-AC63-F43764D56BF6/3036",
-   "club": {
-    "name": "1. Bürgerl. Schützengilde zu Oelsnitz/Vogtland e.V.",
-    "federation": "Sächsischer Schützenbund",
-    "street": "Heppeplatz 9",
-    "city": "08606 Oelsnitz",
-    "website": "https://www.schuetzengilde-oelsnitz.de",
-    "logo": "logos/0DE9C21D-FF7E-48C0-9FF8-DEB4BA82562D.webp"
    }
   },
   {
@@ -11066,23 +10809,23 @@
    }
   },
   {
-   "name": "SV Falke Dasbach",
+   "name": "1. BSGi zu Oelsnitz/Vogtland",
    "setlist": {
     "updatedAt": "2026-11-15T08:04",
     "entries": [
      {
       "rank": 1,
-      "name": "Nelavalli, Mukesh",
-      "foreign": "A",
+      "name": "Grießbach, Yannic",
+      "foreign": null,
       "status": "S",
-      "startAverage": 382.5,
+      "startAverage": 379.6,
       "results": [
-       385,
+       378,
+       379,
+       384,
+       377,
        380,
-       0,
-       0,
-       0,
-       0,
+       376,
        0,
        0,
        0,
@@ -11092,17 +10835,17 @@
      },
      {
       "rank": 2,
-      "name": "Hembre, Mattis",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 381.5,
+      "name": "Eichel, Enrico",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 373.2,
       "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
+       373,
+       381,
+       373,
+       366,
+       373,
+       369,
        0,
        0,
        0,
@@ -11112,16 +10855,16 @@
      },
      {
       "rank": 3,
-      "name": "Polgár, János",
-      "foreign": "A",
-      "status": "F",
-      "startAverage": 376,
+      "name": "Naujoks, Lukas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 369,
       "results": [
-       0,
-       0,
-       377,
+       375,
+       375,
+       362,
        374,
-       377,
+       359,
        0,
        0,
        0,
@@ -11132,16 +10875,16 @@
      },
      {
       "rank": 4,
-      "name": "Metten, Christian",
+      "name": "Krieger, Norman",
       "foreign": null,
-      "status": "E",
-      "startAverage": 375,
+      "status": "F",
+      "startAverage": 366.33,
       "results": [
        0,
        0,
-       0,
-       0,
-       375,
+       369,
+       371,
+       359,
        0,
        0,
        0,
@@ -11152,17 +10895,17 @@
      },
      {
       "rank": 5,
-      "name": "Braun, Lars",
+      "name": "Hirte, Henry",
       "foreign": null,
-      "status": "E",
-      "startAverage": 369,
+      "status": "S",
+      "startAverage": 366.33,
       "results": [
+       363,
+       370,
        0,
        0,
-       369,
-       369,
-       0,
-       0,
+       366,
+       365,
        0,
        0,
        0,
@@ -11172,17 +10915,17 @@
      },
      {
       "rank": 6,
-      "name": "Bahrmann, Ann-Kathrin",
+      "name": "Borschke, Kristian",
       "foreign": null,
       "status": "S",
-      "startAverage": 368.6,
+      "startAverage": 365.5,
       "results": [
-       368,
-       373,
+       364,
        367,
-       367,
-       368,
        0,
+       0,
+       0,
+       358,
        0,
        0,
        0,
@@ -11192,17 +10935,17 @@
      },
      {
       "rank": 7,
-      "name": "Löhr, Sven",
+      "name": "Fläschendräger, Aron",
       "foreign": null,
-      "status": "S",
-      "startAverage": 368.33,
+      "status": "E",
+      "startAverage": 365,
       "results": [
-       375,
-       364,
        0,
        0,
-       366,
        0,
+       0,
+       0,
+       355,
        0,
        0,
        0,
@@ -11212,16 +10955,16 @@
      },
      {
       "rank": 8,
-      "name": "Remmert, Stefan",
+      "name": "Löffler, Dirk",
       "foreign": null,
       "status": "E",
-      "startAverage": 367,
+      "startAverage": 365,
       "results": [
        0,
        0,
        0,
-       365,
-       369,
+       0,
+       0,
        0,
        0,
        0,
@@ -11232,14 +10975,14 @@
      },
      {
       "rank": 9,
-      "name": "Haas, Philipp",
+      "name": "Falkenberg, Anneliese",
       "foreign": null,
-      "status": "S",
-      "startAverage": 366.67,
+      "status": "E",
+      "startAverage": 361,
       "results": [
-       372,
-       364,
-       364,
+       0,
+       0,
+       0,
        0,
        0,
        0,
@@ -11252,15 +10995,15 @@
      },
      {
       "rank": 10,
-      "name": "Schwender, Matthias",
+      "name": "Stephan, Ronny",
       "foreign": null,
-      "status": "S",
-      "startAverage": 365,
+      "status": "E",
+      "startAverage": 357.5,
       "results": [
-       369,
-       369,
+       0,
+       0,
+       351,
        364,
-       358,
        0,
        0,
        0,
@@ -11272,10 +11015,10 @@
      },
      {
       "rank": 11,
-      "name": "Gather, Markus",
+      "name": "Lieb, Leonard",
       "foreign": null,
       "status": "E",
-      "startAverage": 363,
+      "startAverage": 356.25,
       "results": [
        0,
        0,
@@ -11292,27 +11035,7 @@
      },
      {
       "rank": 12,
-      "name": "Block, Jens",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 353,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 13,
-      "name": "Buckler, Tinus",
+      "name": "Clauß, Daniel",
       "foreign": null,
       "status": "E",
       "startAverage": 0,
@@ -11332,14 +11055,14 @@
      }
     ]
    },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E5C45F92-8CEA-47F2-B0E1-A7F771DDC52F/3036",
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/F6486147-103D-4EDA-AC63-F43764D56BF6/3036",
    "club": {
-    "name": "SV Falke Dasbach",
-    "federation": "Hessischer Schützenverband",
-    "street": "Leipziger Straße 14",
-    "city": "65510 Idstein",
-    "website": "https://www.svfalkedasbach1962ev.de/",
-    "logo": "logos/D22D71D2-D718-4C90-B91E-A156885CD38C.webp"
+    "name": "1. Bürgerl. Schützengilde zu Oelsnitz/Vogtland e.V.",
+    "federation": "Sächsischer Schützenbund",
+    "street": "Heppeplatz 9",
+    "city": "08606 Oelsnitz",
+    "website": "https://www.schuetzengilde-oelsnitz.de",
+    "logo": "logos/0DE9C21D-FF7E-48C0-9FF8-DEB4BA82562D.webp"
    }
   },
   {
@@ -11600,6 +11323,283 @@
    }
   },
   {
+   "name": "SV Falke Dasbach",
+   "setlist": {
+    "updatedAt": "2026-11-15T08:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Nelavalli, Mukesh",
+      "foreign": "A",
+      "status": "S",
+      "startAverage": 382.5,
+      "results": [
+       385,
+       380,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Hembre, Mattis",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 381.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       378,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Polgár, János",
+      "foreign": "A",
+      "status": "F",
+      "startAverage": 376,
+      "results": [
+       0,
+       0,
+       377,
+       374,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Metten, Christian",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 375,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       375,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Braun, Lars",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 369,
+      "results": [
+       0,
+       0,
+       369,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Bahrmann, Ann-Kathrin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.6,
+      "results": [
+       368,
+       373,
+       367,
+       367,
+       368,
+       372,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Löhr, Sven",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 368.33,
+      "results": [
+       375,
+       364,
+       0,
+       0,
+       366,
+       367,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Remmert, Stefan",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 367,
+      "results": [
+       0,
+       0,
+       0,
+       365,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Haas, Philipp",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 366.67,
+      "results": [
+       372,
+       364,
+       364,
+       0,
+       0,
+       374,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Schwender, Matthias",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365,
+      "results": [
+       369,
+       369,
+       364,
+       358,
+       0,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Gather, Markus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 363,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Block, Jens",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 353,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 13,
+      "name": "Buckler, Tinus",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/E5C45F92-8CEA-47F2-B0E1-A7F771DDC52F/3036",
+   "club": {
+    "name": "SV Falke Dasbach",
+    "federation": "Hessischer Schützenverband",
+    "street": "Leipziger Straße 14",
+    "city": "65510 Idstein",
+    "website": "https://www.svfalkedasbach1962ev.de/",
+    "logo": "logos/D22D71D2-D718-4C90-B91E-A156885CD38C.webp"
+   }
+  },
+  {
    "name": "Freischütz Wathlingen",
    "setlist": {
     "updatedAt": "2026-11-15T08:04",
@@ -11616,7 +11616,7 @@
        0,
        0,
        0,
-       0,
+       381,
        0,
        0,
        0,
@@ -11656,7 +11656,7 @@
        365,
        375,
        372,
-       0,
+       368,
        0,
        0,
        0,
@@ -11676,7 +11676,7 @@
        357,
        377,
        379,
-       0,
+       372,
        0,
        0,
        0,
@@ -11736,7 +11736,7 @@
        0,
        0,
        377,
-       0,
+       380,
        0,
        0,
        0,
@@ -11756,7 +11756,7 @@
        370,
        365,
        367,
-       0,
+       368,
        0,
        0,
        0,
@@ -12347,7 +12347,7 @@
        380,
        379,
        370,
-       0,
+       371,
        0,
        0,
        0,
@@ -12367,7 +12367,7 @@
        378,
        366,
        362,
-       0,
+       369,
        0,
        0,
        0,
@@ -12379,7 +12379,7 @@
       "rank": 3,
       "name": "Wehage Strandgaard, Emil Mark",
       "foreign": "A",
-      "status": "E",
+      "status": "F",
       "startAverage": 371,
       "results": [
        0,
@@ -12387,7 +12387,7 @@
        372,
        0,
        370,
-       0,
+       368,
        0,
        0,
        0,
@@ -12427,7 +12427,7 @@
        0,
        0,
        364,
-       0,
+       368,
        0,
        0,
        0,
@@ -12447,7 +12447,7 @@
        364,
        354,
        364,
-       0,
+       366,
        0,
        0,
        0,
@@ -12801,7 +12801,7 @@
        369,
        367,
        366,
-       0,
+       377,
        0,
        0,
        0,
@@ -12821,7 +12821,7 @@
        364,
        361,
        372,
-       0,
+       371,
        0,
        0,
        0,
@@ -12841,7 +12841,7 @@
        0,
        0,
        0,
-       0,
+       366,
        0,
        0,
        0,
@@ -12853,7 +12853,7 @@
       "rank": 5,
       "name": "Horstmann, Tim",
       "foreign": null,
-      "status": "E",
+      "status": "F",
       "startAverage": 363.5,
       "results": [
        0,
@@ -12861,7 +12861,7 @@
        0,
        0,
        360,
-       0,
+       363,
        0,
        0,
        0,
@@ -12881,7 +12881,7 @@
        357,
        0,
        360,
-       0,
+       366,
        0,
        0,
        0,
