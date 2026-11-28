@@ -22,7 +22,7 @@
   {
    "rank": 3,
    "team": "Sgi Waldenburg",
-   "singlePoints": "20:10",
+   "singlePoints": "21:9",
    "teamPoints": "10:2"
   },
   {
@@ -40,7 +40,7 @@
   {
    "rank": 6,
    "team": "SGi Ludwigsburg",
-   "singlePoints": "17:13",
+   "singlePoints": "16:14",
    "teamPoints": "6:6"
   },
   {
@@ -4668,20 +4668,20 @@
        "time": "15:00",
        "home": "Sgi Waldenburg",
        "away": "SGi Ludwigsburg",
-       "homeRings": 766,
-       "awayRings": 659,
-       "homePoints": 3,
-       "awayPoints": 2,
+       "homeRings": 956,
+       "awayRings": 1037,
+       "homePoints": 4,
+       "awayPoints": 1,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Vennekamp, Doreen",
-          "total": 94,
+          "total": 190,
           "series": [
            94,
-           0,
+           96,
            0,
            0
           ],
@@ -4689,11 +4689,11 @@
          },
          "away": {
           "name": "Zechmeister, Richard",
-          "total": 187,
+          "total": 284,
           "series": [
            97,
            90,
-           0,
+           97,
            0
           ],
           "shootOff": null
@@ -4716,10 +4716,10 @@
          },
          "away": {
           "name": "Hlousek, Julia",
-          "total": 95,
+          "total": 187,
           "series": [
            95,
-           0,
+           92,
            0,
            0
           ],
@@ -4743,10 +4743,10 @@
          },
          "away": {
           "name": "Reitz, Florian",
-          "total": 92,
+          "total": 187,
           "series": [
            92,
-           0,
+           95,
            0,
            0
           ],
@@ -4759,10 +4759,10 @@
          "position": 4,
          "home": {
           "name": "Backes, Tobias",
-          "total": 96,
+          "total": 190,
           "series": [
            96,
-           0,
+           94,
            0,
            0
           ],
@@ -4779,8 +4779,8 @@
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 5,
@@ -4797,10 +4797,10 @@
          },
          "away": {
           "name": "Miklis, André",
-          "total": 98,
+          "total": 192,
           "series": [
            98,
-           0,
+           94,
            0,
            0
           ],
@@ -10728,7 +10728,7 @@
        0,
        0,
        0,
-       194,
+       289,
        0,
        0,
        0,
@@ -10748,7 +10748,7 @@
        378,
        380,
        374,
-       189,
+       286,
        0,
        0,
        0,
@@ -11419,7 +11419,7 @@
        0,
        0,
        0,
-       187,
+       284,
        0,
        0,
        0,
@@ -11439,7 +11439,7 @@
        0,
        0,
        377,
-       95,
+       187,
        0,
        0,
        0,
@@ -11499,7 +11499,7 @@
        369,
        368,
        377,
-       92,
+       187,
        0,
        0,
        0,
@@ -11539,7 +11539,7 @@
        375,
        374,
        0,
-       98,
+       192,
        0,
        0,
        0,
