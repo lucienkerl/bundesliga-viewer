@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "ESV Weil am Rhein",
-   "singlePoints": "25:5",
+   "singlePoints": "24:6",
    "teamPoints": "12:0"
   },
   {
@@ -33,13 +33,13 @@
   },
   {
    "rank": 5,
-   "team": "SGi Ludwigsburg",
-   "singlePoints": "16:14",
+   "team": "KKS Hambrücken",
+   "singlePoints": "17:13",
    "teamPoints": "6:6"
   },
   {
    "rank": 6,
-   "team": "KKS Hambrücken",
+   "team": "SGi Ludwigsburg",
    "singlePoints": "16:14",
    "teamPoints": "6:6"
   },
@@ -4964,60 +4964,60 @@
        "time": "18:00",
        "home": "KKS Hambrücken",
        "away": "ESV Weil am Rhein",
-       "homeRings": 1039,
-       "awayRings": 1146,
-       "homePoints": 1,
-       "awayPoints": 4,
+       "homeRings": 1697,
+       "awayRings": 1720,
+       "homePoints": 2,
+       "awayPoints": 3,
        "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
           "name": "Walter, Robin",
-          "total": 191,
+          "total": 384,
           "series": [
            96,
            95,
-           0,
-           0
+           97,
+           96
           ],
           "shootOff": null
          },
          "away": {
           "name": "Sauter, Aaron",
-          "total": 194,
+          "total": 382,
           "series": [
            97,
            97,
-           0,
-           0
+           91,
+           97
           ],
           "shootOff": null
          },
-         "homePoint": 0,
-         "awayPoint": 1
+         "homePoint": 1,
+         "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
           "name": "Baumeister, Eduard",
-          "total": 287,
+          "total": 382,
           "series": [
            97,
            94,
            96,
-           0
+           95
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schwald, Michael",
-          "total": 288,
+          "total": 385,
           "series": [
            95,
            98,
            95,
-           0
+           97
           ],
           "shootOff": null
          },
@@ -5028,49 +5028,22 @@
          "position": 3,
          "home": {
           "name": "Becker, Celina Maria Paula",
-          "total": 183,
+          "total": 366,
           "series": [
            89,
            94,
-           0,
-           0
+           88,
+           95
           ],
           "shootOff": null
          },
          "away": {
           "name": "Meyer, Patrick",
-          "total": 192,
+          "total": 288,
           "series": [
            97,
            95,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "homePoint": 0,
-         "awayPoint": 1
-        },
-        {
-         "position": 4,
-         "home": {
-          "name": "Fries, Hugo",
-          "total": 191,
-          "series": [
            96,
-           95,
-           0,
-           0
-          ],
-          "shootOff": null
-         },
-         "away": {
-          "name": "Grisoni, Cédric",
-          "total": 188,
-          "series": [
-           95,
-           93,
-           0,
            0
           ],
           "shootOff": null
@@ -5079,26 +5052,53 @@
          "awayPoint": 0
         },
         {
+         "position": 4,
+         "home": {
+          "name": "Fries, Hugo",
+          "total": 283,
+          "series": [
+           96,
+           95,
+           92,
+           0
+          ],
+          "shootOff": null
+         },
+         "away": {
+          "name": "Grisoni, Cédric",
+          "total": 285,
+          "series": [
+           95,
+           93,
+           97,
+           0
+          ],
+          "shootOff": null
+         },
+         "homePoint": 0,
+         "awayPoint": 1
+        },
+        {
          "position": 5,
          "home": {
           "name": "Wußler, Marco",
-          "total": 187,
+          "total": 282,
           "series": [
            96,
            91,
-           0,
+           95,
            0
           ],
           "shootOff": null
          },
          "away": {
           "name": "Schaich, Enrico",
-          "total": 284,
+          "total": 380,
           "series": [
            92,
            96,
            96,
-           0
+           96
           ],
           "shootOff": null
          },
@@ -10174,7 +10174,7 @@
        382,
        378,
        382,
-       285,
+       382,
        0,
        0,
        0,
@@ -10254,7 +10254,7 @@
        382,
        380,
        377,
-       192,
+       288,
        0,
        0,
        0,
@@ -10274,7 +10274,7 @@
        375,
        382,
        375,
-       188,
+       285,
        0,
        0,
        0,
@@ -10294,7 +10294,7 @@
        0,
        381,
        377,
-       284,
+       380,
        0,
        0,
        0,
@@ -11146,6 +11146,223 @@
    }
   },
   {
+   "name": "KKS Hambrücken",
+   "setlist": {
+    "updatedAt": "2026-11-15T08:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Walter, Robin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       383,
+       288,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Baumeister, Eduard",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 381.25,
+      "results": [
+       378,
+       0,
+       382,
+       384,
+       381,
+       382,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Becker, Celina Maria Paula",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.33,
+      "results": [
+       375,
+       375,
+       0,
+       0,
+       379,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Fries, Hugo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 374.67,
+      "results": [
+       374,
+       379,
+       0,
+       0,
+       371,
+       283,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kudrya, Serhiy",
+      "foreign": "A",
+      "status": "F",
+      "startAverage": 373.6,
+      "results": [
+       373,
+       366,
+       383,
+       373,
+       373,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Walther, Teresa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 373.5,
+      "results": [
+       0,
+       0,
+       370,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Köhler, Axel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 371,
+      "results": [
+       0,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Fuchs, Mia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 368.5,
+      "results": [
+       0,
+       0,
+       368,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Wußler, Marco",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.75,
+      "results": [
+       366,
+       350,
+       373,
+       370,
+       0,
+       282,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Keck, Denise",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FE2729CA-84D0-43A8-8A5E-68D4CCD40145/3038",
+   "club": {
+    "name": "KK-Schützenverein Hambrücken",
+    "federation": "Badischer Sportschützenverband",
+    "street": "Industriestr. 20",
+    "city": "76707 Hambrücken",
+    "website": "https://www.kks-hambruecken.de",
+    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
+   }
+  },
+  {
    "name": "SGi Ludwigsburg",
    "setlist": {
     "updatedAt": "2026-11-15T08:04",
@@ -11400,223 +11617,6 @@
     "city": "71642 Ludwigsburg",
     "website": "https://www.sgi-lb.de",
     "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
-   }
-  },
-  {
-   "name": "KKS Hambrücken",
-   "setlist": {
-    "updatedAt": "2026-11-15T08:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Walter, Robin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 383,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       383,
-       191,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Baumeister, Eduard",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 381.25,
-      "results": [
-       378,
-       0,
-       382,
-       384,
-       381,
-       287,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Becker, Celina Maria Paula",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 376.33,
-      "results": [
-       375,
-       375,
-       0,
-       0,
-       379,
-       183,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Fries, Hugo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 374.67,
-      "results": [
-       374,
-       379,
-       0,
-       0,
-       371,
-       191,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kudrya, Serhiy",
-      "foreign": "A",
-      "status": "F",
-      "startAverage": 373.6,
-      "results": [
-       373,
-       366,
-       383,
-       373,
-       373,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Walther, Teresa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 373.5,
-      "results": [
-       0,
-       0,
-       370,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Köhler, Axel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 371,
-      "results": [
-       0,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Fuchs, Mia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 368.5,
-      "results": [
-       0,
-       0,
-       368,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Wußler, Marco",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364.75,
-      "results": [
-       366,
-       350,
-       373,
-       370,
-       0,
-       187,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Keck, Denise",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 360.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FE2729CA-84D0-43A8-8A5E-68D4CCD40145/3038",
-   "club": {
-    "name": "KK-Schützenverein Hambrücken",
-    "federation": "Badischer Sportschützenverband",
-    "street": "Industriestr. 20",
-    "city": "76707 Hambrücken",
-    "website": "https://www.kks-hambruecken.de",
-    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
    }
   },
   {
