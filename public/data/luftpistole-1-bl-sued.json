@@ -10,7 +10,7 @@
   {
    "rank": 1,
    "team": "ESV Weil am Rhein",
-   "singlePoints": "24:6",
+   "singlePoints": "25:5",
    "teamPoints": "12:0"
   },
   {
@@ -28,18 +28,18 @@
   {
    "rank": 4,
    "team": "FSG Kempten 1",
-   "singlePoints": "15:10",
-   "teamPoints": "8:2"
+   "singlePoints": "19:11",
+   "teamPoints": "10:2"
   },
   {
    "rank": 5,
-   "team": "KKS Hambrücken",
-   "singlePoints": "17:13",
+   "team": "SGi Ludwigsburg",
+   "singlePoints": "16:14",
    "teamPoints": "6:6"
   },
   {
    "rank": 6,
-   "team": "SGi Ludwigsburg",
+   "team": "KKS Hambrücken",
    "singlePoints": "16:14",
    "teamPoints": "6:6"
   },
@@ -69,14 +69,14 @@
   },
   {
    "rank": 11,
-   "team": "SV Willmandingen",
-   "singlePoints": "2:23",
-   "teamPoints": "0:10"
+   "team": "SV Hubertus Hitzhofen-Oberzell",
+   "singlePoints": "10:20",
+   "teamPoints": "0:12"
   },
   {
    "rank": 12,
-   "team": "SV Hubertus Hitzhofen-Oberzell",
-   "singlePoints": "10:20",
+   "team": "SV Willmandingen",
+   "singlePoints": "3:27",
    "teamPoints": "0:12"
   }
  ],
@@ -4964,10 +4964,10 @@
        "time": "18:00",
        "home": "KKS Hambrücken",
        "away": "ESV Weil am Rhein",
-       "homeRings": 1697,
-       "awayRings": 1720,
-       "homePoints": 2,
-       "awayPoints": 3,
+       "homeRings": 1885,
+       "awayRings": 1910,
+       "homePoints": 1,
+       "awayPoints": 4,
        "played": true,
        "pairs": [
         {
@@ -5039,39 +5039,39 @@
          },
          "away": {
           "name": "Meyer, Patrick",
-          "total": 288,
+          "total": 383,
           "series": [
            97,
            95,
            96,
-           0
+           95
           ],
           "shootOff": null
          },
-         "homePoint": 1,
-         "awayPoint": 0
+         "homePoint": 0,
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
           "name": "Fries, Hugo",
-          "total": 283,
+          "total": 377,
           "series": [
            96,
            95,
            92,
-           0
+           94
           ],
           "shootOff": null
          },
          "away": {
           "name": "Grisoni, Cédric",
-          "total": 285,
+          "total": 380,
           "series": [
            95,
            93,
            97,
-           0
+           95
           ],
           "shootOff": null
          },
@@ -5082,12 +5082,12 @@
          "position": 5,
          "home": {
           "name": "Wußler, Marco",
-          "total": 282,
+          "total": 376,
           "series": [
            96,
            91,
            95,
-           0
+           94
           ],
           "shootOff": null
          },
@@ -5418,145 +5418,145 @@
        "time": "18:00",
        "home": "FSG Kempten 1",
        "away": "SV Willmandingen",
-       "homeRings": 0,
-       "awayRings": 0,
-       "homePoints": 0,
-       "awayPoints": 0,
-       "played": false,
+       "homeRings": 1871,
+       "awayRings": 1839,
+       "homePoints": 4,
+       "awayPoints": 1,
+       "played": true,
        "pairs": [
         {
          "position": 1,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Heise, Michael",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           95,
+           96,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Singvogel, Thomas",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           90,
+           92,
+           93,
+           92
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 2,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Fait, Alessandra",
+          "total": 377,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           95,
+           92,
+           96
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Baur, Dirk",
+          "total": 362,
           "series": [
-           0,
-           0,
-           0,
-           0
+           91,
+           84,
+           93,
+           94
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 3,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Rinn, Marcel",
+          "total": 375,
           "series": [
-           0,
-           0,
-           0,
-           0
+           96,
+           92,
+           95,
+           92
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Nicolussi, Peter",
+          "total": 379,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           93,
+           93,
+           99
           ],
           "shootOff": null
          },
          "homePoint": 0,
-         "awayPoint": 0
+         "awayPoint": 1
         },
         {
          "position": 4,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Heise, Andreas",
+          "total": 373,
           "series": [
-           0,
-           0,
-           0,
-           0
+           92,
+           91,
+           96,
+           94
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Lakner, Thomas",
+          "total": 367,
           "series": [
-           0,
-           0,
-           0,
-           0
+           95,
+           90,
+           89,
+           93
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         },
         {
          "position": 5,
          "home": {
-          "name": null,
-          "total": 0,
+          "name": "Veser, Adrian",
+          "total": 369,
           "series": [
-           0,
-           0,
-           0,
-           0
+           93,
+           93,
+           92,
+           91
           ],
           "shootOff": null
          },
          "away": {
-          "name": null,
-          "total": 0,
+          "name": "Zipperer, Robert",
+          "total": 364,
           "series": [
-           0,
-           0,
-           0,
-           0
+           94,
+           93,
+           91,
+           86
           ],
           "shootOff": null
          },
-         "homePoint": 0,
+         "homePoint": 1,
          "awayPoint": 0
         }
        ]
@@ -10194,7 +10194,7 @@
        382,
        381,
        380,
-       288,
+       385,
        0,
        0,
        0,
@@ -10254,7 +10254,7 @@
        382,
        380,
        377,
-       288,
+       383,
        0,
        0,
        0,
@@ -10274,7 +10274,7 @@
        375,
        382,
        375,
-       285,
+       380,
        0,
        0,
        0,
@@ -10965,7 +10965,7 @@
        374,
        375,
        383,
-       0,
+       377,
        0,
        0,
        0,
@@ -10985,7 +10985,7 @@
        0,
        0,
        0,
-       0,
+       377,
        0,
        0,
        0,
@@ -11005,7 +11005,7 @@
        378,
        375,
        380,
-       0,
+       375,
        0,
        0,
        0,
@@ -11025,7 +11025,7 @@
        376,
        374,
        371,
-       0,
+       373,
        0,
        0,
        0,
@@ -11065,7 +11065,7 @@
        0,
        371,
        378,
-       0,
+       369,
        0,
        0,
        0,
@@ -11143,223 +11143,6 @@
     "city": "87435 Kempten",
     "website": null,
     "logo": "logos/DB03E928-102F-42F3-8D9B-7C5439E4E659.webp"
-   }
-  },
-  {
-   "name": "KKS Hambrücken",
-   "setlist": {
-    "updatedAt": "2026-11-15T08:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Walter, Robin",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 383,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       383,
-       288,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Baumeister, Eduard",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 381.25,
-      "results": [
-       378,
-       0,
-       382,
-       384,
-       381,
-       382,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Becker, Celina Maria Paula",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 376.33,
-      "results": [
-       375,
-       375,
-       0,
-       0,
-       379,
-       366,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Fries, Hugo",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 374.67,
-      "results": [
-       374,
-       379,
-       0,
-       0,
-       371,
-       283,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Kudrya, Serhiy",
-      "foreign": "A",
-      "status": "F",
-      "startAverage": 373.6,
-      "results": [
-       373,
-       366,
-       383,
-       373,
-       373,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Walther, Teresa",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 373.5,
-      "results": [
-       0,
-       0,
-       370,
-       377,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Köhler, Axel",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 371,
-      "results": [
-       0,
-       371,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Fuchs, Mia",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 368.5,
-      "results": [
-       0,
-       0,
-       368,
-       369,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Wußler, Marco",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 364.75,
-      "results": [
-       366,
-       350,
-       373,
-       370,
-       0,
-       282,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Keck, Denise",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 360.71,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FE2729CA-84D0-43A8-8A5E-68D4CCD40145/3038",
-   "club": {
-    "name": "KK-Schützenverein Hambrücken",
-    "federation": "Badischer Sportschützenverband",
-    "street": "Industriestr. 20",
-    "city": "76707 Hambrücken",
-    "website": "https://www.kks-hambruecken.de",
-    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
    }
   },
   {
@@ -11617,6 +11400,223 @@
     "city": "71642 Ludwigsburg",
     "website": "https://www.sgi-lb.de",
     "logo": "logos/51B1A46C-6297-4F4B-A854-C4D2E21E8C0C.webp"
+   }
+  },
+  {
+   "name": "KKS Hambrücken",
+   "setlist": {
+    "updatedAt": "2026-11-15T08:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Walter, Robin",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 383,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       383,
+       384,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Baumeister, Eduard",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 381.25,
+      "results": [
+       378,
+       0,
+       382,
+       384,
+       381,
+       382,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Becker, Celina Maria Paula",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 376.33,
+      "results": [
+       375,
+       375,
+       0,
+       0,
+       379,
+       366,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Fries, Hugo",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 374.67,
+      "results": [
+       374,
+       379,
+       0,
+       0,
+       371,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Kudrya, Serhiy",
+      "foreign": "A",
+      "status": "F",
+      "startAverage": 373.6,
+      "results": [
+       373,
+       366,
+       383,
+       373,
+       373,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Walther, Teresa",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 373.5,
+      "results": [
+       0,
+       0,
+       370,
+       377,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Köhler, Axel",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 371,
+      "results": [
+       0,
+       371,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Fuchs, Mia",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 368.5,
+      "results": [
+       0,
+       0,
+       368,
+       369,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Wußler, Marco",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 364.75,
+      "results": [
+       366,
+       350,
+       373,
+       370,
+       0,
+       376,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Keck, Denise",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 360.71,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/FE2729CA-84D0-43A8-8A5E-68D4CCD40145/3038",
+   "club": {
+    "name": "KK-Schützenverein Hambrücken",
+    "federation": "Badischer Sportschützenverband",
+    "street": "Industriestr. 20",
+    "city": "76707 Hambrücken",
+    "website": "https://www.kks-hambruecken.de",
+    "logo": "logos/E725D3A4-66BE-4803-95E8-9D745AF3215C.webp"
    }
   },
   {
@@ -12548,215 +12548,6 @@
    }
   },
   {
-   "name": "SV Willmandingen",
-   "setlist": {
-    "updatedAt": "2026-11-15T08:04",
-    "entries": [
-     {
-      "rank": 1,
-      "name": "Kacavenda, Uros",
-      "foreign": "A",
-      "status": "E",
-      "startAverage": 372.5,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 2,
-      "name": "Singvogel, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 367.5,
-      "results": [
-       361,
-       0,
-       371,
-       369,
-       369,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 3,
-      "name": "Baur, Dirk",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 365.5,
-      "results": [
-       364,
-       367,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 4,
-      "name": "Nicolussi, Peter",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365.5,
-      "results": [
-       363,
-       361,
-       0,
-       0,
-       368,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 5,
-      "name": "Lakner, Thomas",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 365,
-      "results": [
-       365,
-       365,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 6,
-      "name": "Erking, Tobias",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 364,
-      "results": [
-       0,
-       0,
-       366,
-       367,
-       359,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 7,
-      "name": "Christner, Leonie",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 361.5,
-      "results": [
-       366,
-       357,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 8,
-      "name": "Flad, Jürgen",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 361,
-      "results": [
-       0,
-       0,
-       361,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 9,
-      "name": "Zipperer, Robert",
-      "foreign": null,
-      "status": "F",
-      "startAverage": 360.67,
-      "results": [
-       0,
-       0,
-       354,
-       362,
-       366,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 10,
-      "name": "Haas, Gabriele",
-      "foreign": null,
-      "status": "S",
-      "startAverage": 359,
-      "results": [
-       0,
-       371,
-       348,
-       360,
-       357,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 11,
-      "name": "Deh, Marco",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 355,
-      "results": [
-       0,
-       0,
-       0,
-       355,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "rank": 12,
-      "name": "Heinz, Andreas",
-      "foreign": null,
-      "status": "E",
-      "startAverage": 0,
-      "results": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/42AD6A48-ABD9-4F3E-9891-E54C47C5781B/3038",
-   "club": {
-    "name": "SV Willmandingen",
-    "federation": "Württembergischer Schützenverband",
-    "street": "Degentalstr.",
-    "city": "72820 Sonnenbühl",
-    "website": "https://www.schuetzenverein-willmandingen.de",
-    "logo": "logos/46CCFFCE-9027-4045-941E-0683585B454E.webp"
-   }
-  },
-  {
    "name": "SV Hubertus Hitzhofen-Oberzell",
    "setlist": {
     "updatedAt": "2026-11-15T08:04",
@@ -12991,6 +12782,215 @@
     "city": "85122 Hitzhofen",
     "website": "https://hubertus-hitzhofen-oberzell.de",
     "logo": "logos/324A6FE2-A275-4C76-9142-078703E1AA3F.webp"
+   }
+  },
+  {
+   "name": "SV Willmandingen",
+   "setlist": {
+    "updatedAt": "2026-11-15T08:04",
+    "entries": [
+     {
+      "rank": 1,
+      "name": "Kacavenda, Uros",
+      "foreign": "A",
+      "status": "E",
+      "startAverage": 372.5,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 2,
+      "name": "Singvogel, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 367.5,
+      "results": [
+       361,
+       0,
+       371,
+       369,
+       369,
+       367,
+       0
+      ]
+     },
+     {
+      "rank": 3,
+      "name": "Baur, Dirk",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 365.5,
+      "results": [
+       364,
+       367,
+       0,
+       0,
+       0,
+       362,
+       0
+      ]
+     },
+     {
+      "rank": 4,
+      "name": "Nicolussi, Peter",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365.5,
+      "results": [
+       363,
+       361,
+       0,
+       0,
+       368,
+       379,
+       0
+      ]
+     },
+     {
+      "rank": 5,
+      "name": "Lakner, Thomas",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 365,
+      "results": [
+       365,
+       365,
+       0,
+       0,
+       0,
+       367,
+       0
+      ]
+     },
+     {
+      "rank": 6,
+      "name": "Erking, Tobias",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 364,
+      "results": [
+       0,
+       0,
+       366,
+       367,
+       359,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 7,
+      "name": "Christner, Leonie",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 361.5,
+      "results": [
+       366,
+       357,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 8,
+      "name": "Flad, Jürgen",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 361,
+      "results": [
+       0,
+       0,
+       361,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 9,
+      "name": "Zipperer, Robert",
+      "foreign": null,
+      "status": "F",
+      "startAverage": 360.67,
+      "results": [
+       0,
+       0,
+       354,
+       362,
+       366,
+       364,
+       0
+      ]
+     },
+     {
+      "rank": 10,
+      "name": "Haas, Gabriele",
+      "foreign": null,
+      "status": "S",
+      "startAverage": 359,
+      "results": [
+       0,
+       371,
+       348,
+       360,
+       357,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 11,
+      "name": "Deh, Marco",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 355,
+      "results": [
+       0,
+       0,
+       0,
+       355,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "rank": 12,
+      "name": "Heinz, Andreas",
+      "foreign": null,
+      "status": "E",
+      "startAverage": 0,
+      "results": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "clubUrl": "https://bundesliga.dsb.de/verein/show/club/42AD6A48-ABD9-4F3E-9891-E54C47C5781B/3038",
+   "club": {
+    "name": "SV Willmandingen",
+    "federation": "Württembergischer Schützenverband",
+    "street": "Degentalstr.",
+    "city": "72820 Sonnenbühl",
+    "website": "https://www.schuetzenverein-willmandingen.de",
+    "logo": "logos/46CCFFCE-9027-4045-941E-0683585B454E.webp"
    }
   }
  ]
